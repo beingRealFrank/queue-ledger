@@ -1,0 +1,18 @@
+{
+ "title": "US Power Plant Pipeline (EIA-860M) - Point in Time",
+ "id": "beingrealfrank/us-power-plant-pipeline-eia-860m",
+ "subtitle": "Every planned, operating, retired and canceled US generator, monthly snapshots",
+ "licenses": [
+  {
+   "name": "CC0-1.0"
+  }
+ ],
+ "keywords": [
+  "energy",
+  "electricity",
+  "renewable energy",
+  "united states",
+  "government"
+ ],
+ "description": "Every US electric generator of 1 MW or more from the U.S. Energy Information Administration's Preliminary Monthly Electric Generator Inventory (Form EIA-860M): planned (new-build pipeline with status and planned operation month), operating, retired, and canceled or postponed. Includes owner (entity), plant, state, county, balancing authority, technology, energy source, nameplate MW and coordinates.\n\nThis dataset is a point-in-time mirror of [Queue Ledger](https://beingrealfrank.github.io/queue-ledger/) ([GitHub](https://github.com/beingRealFrank/queue-ledger)), which keeps every EIA release with its SHA-256 and logs what changed between releases (new planned plants, operating-date slips, cancellations). The full history and daily change log live there.\n\n**Files**\n- `eia860m_generators_latest.csv`: one row per generator from the latest release. `plant_generator_id` = `<EIA plant id>-<generator id>`. `inventory` is the EIA sheet (planned, operating, retired, canceled_or_postponed). `operation_date` is YYYY-MM (planned or actual).\n\n**Source and licence**\nSource: U.S. Energy Information Administration, Preliminary Monthly Electric Generator Inventory (Form EIA-860M), September 2026 data (released October 23, 2026). U.S. government data in the public domain; EIA asks for an acknowledgment with the publication date. Data is preliminary as EIA states. Not affiliated with or endorsed by EIA."
+}

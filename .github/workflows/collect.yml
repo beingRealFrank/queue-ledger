@@ -6,6 +6,8 @@ on:
 permissions:
   contents: write
 concurrency: collect
+env:
+  KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -17,6 +19,16 @@ jobs:
         run: uv run -q --with openpyxl --with pandas --with certifi python collector/collect.py --root .
       - name: Build site
         run: uv run -q python collector/site.py .
+      - name: Publish new EIA-860M release to Kaggle
+        if: env.KAGGLE_API_TOKEN != ''
+        env:
+          KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+        run: |
+          if python3 -c "import json,sys; sys.exit(0 if json.load(open('data/status.json'))['sources'].get('eia860m',{}).get('new_content') else 1)"; then
+            uv run -q --with pandas python collector/kaggle_export.py .
+            uv run -q --with 'kaggle>=1.8' --with six kaggle datasets version -p kaggle -m "EIA-860M release captured $(date -u +%F)"
+            rm kaggle/eia860m_generators_latest.csv
+          fi
       - name: Commit snapshot
         run: |
           git config user.name "queue-ledger-bot"
