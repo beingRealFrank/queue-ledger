@@ -3,8 +3,8 @@
  "sources": {
   "caiso": {
    "events": 0,
-   "fetched_at": "2026-11-13T16:15:47+00:00",
-   "new_content": true,
+   "fetched_at": "2026-11-13T16:17:28+00:00",
+   "new_content": false,
    "ok": true,
    "records": 2278,
    "sha256": "5ba984daf11ca6750240160ee73c25465df0ac2568163d9c623fa9cfcf8db875",
@@ -12,8 +12,8 @@
   },
   "eia860m": {
    "events": 0,
-   "fetched_at": "2026-11-13T16:15:51+00:00",
-   "new_content": true,
+   "fetched_at": "2026-11-13T16:17:29+00:00",
+   "new_content": false,
    "ok": true,
    "records": 39908,
    "sha256": "bcef74e1af991680731aeecfda967f5950db4ce739bb584edd8b8774c7e6da17",
@@ -21,8 +21,8 @@
   },
   "spp": {
    "events": 0,
-   "fetched_at": "2026-11-13T16:15:45+00:00",
-   "new_content": true,
+   "fetched_at": "2026-11-13T16:17:27+00:00",
+   "new_content": false,
    "ok": true,
    "records": 1019,
    "sha256": "950f2f207dd6ed6bd873fb817cf05caf165d04a189ac097650bc2e6513e567f4",
