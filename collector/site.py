@@ -171,4 +171,7 @@ feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 """
 open(os.path.join(docs, "feed.xml"), "w").write(feed)
 open(os.path.join(docs, ".nojekyll"), "w").write("")
+open(os.path.join(docs, "sitemap.xml"), "w").write(
+    '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+    f'<url><loc>{SITE}</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq></url></urlset>')
 print("site built:", len(latest), "entries,", len(recent), "recent changes")
