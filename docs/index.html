@@ -16,8 +16,8 @@ td.n,th.n{text-align:right} code{font-size:12px} .tiles{display:flex;gap:12px;fl
 <p class=sub>A point-in-time archive of US power-project pipelines — the EIA-860M inventory of every planned, operating,
 retired and canceled US generator, plus the CAISO and SPP interconnection queues — with every status change and slipped
 in-service date logged, and the original source file and its SHA-256 kept for each snapshot.</p>
-<div class=tiles><div class=tile>CAISO · generation<b>2,278</b></div><div class=tile>EIA-860M · canceled or postponed<b>1,745</b></div><div class=tile>EIA-860M · operating<b>28,484</b></div><div class=tile>EIA-860M · planned<b>2,358</b></div><div class=tile>EIA-860M · retired<b>7,321</b></div><div class=tile>SPP · generation<b>1,019</b></div></div>
-<p class=muted>Snapshot 2026-11-13 · 43,205 records · <a href="feed.xml">RSS</a></p>
+<div class=tiles><div class=tile>CAISO · generation<b>2,278</b></div><div class=tile>EIA-860M · canceled or postponed<b>1,745</b></div><div class=tile>EIA-860M · operating<b>28,484</b></div><div class=tile>EIA-860M · planned<b>2,358</b></div><div class=tile>EIA-860M · retired<b>7,321</b></div><div class=tile>SPP · generation<b>1,018</b></div></div>
+<p class=muted>Snapshot 2026-11-14 · 43,204 records · <a href="feed.xml">RSS</a></p>
 
 <h2>Why</h2>
 <p>These sources are published as a single current file that is replaced each day or month. The history — when a
@@ -26,9 +26,9 @@ version. Queue Ledger does that, so you can answer "what did the source say on d
 published, and see the change log in between. It is a leading indicator of generation and storage buildout.</p>
 
 <h2>Last 30 days of changes</h2>
-<p class=muted>No changes recorded yet: the archive started on 2026-11-13, so the first daily diffs appear from the next run.</p>
+<p class=muted>SPP removed from report: 1</p>
 <table><tr><th>Date</th><th>ISO</th><th>Queue ID</th><th>Project / POI</th><th>Fuel</th><th class=n>MW</th><th>Location</th><th>Change</th></tr>
-</table>
+<tr><td>2026-11-14</td><td>SPP</td><td><code>GEN-2012-032</code></td><td>Rose Hill-(Ranch Road) Sooner (Open Sky) 345kV</td><td>Wind</td><td class=n>299</td><td>Kay, OK</td><td>Dropped from the published report</td></tr></table>
 
 <h2>Download (free)</h2>
 <ul>
@@ -42,7 +42,7 @@ published, and see the change log in between. It is a leading indicator of gener
 </ul>
 
 <h2>Sources (today's run)</h2>
-<table><tr><th>Source</th><th>Status</th><th>Fetched (UTC)</th><th>SHA-256</th><th>Content</th><th></th></tr><tr><td>CAISO</td><td>ok</td><td>2026-11-13T18:14:51+00:00</td><td><code>5ba984daf11ca675</code></td><td>unchanged</td><td><a href="http://www.caiso.com/PublishedDocuments/PublicQueueReport.xlsx">source</a></td></tr><tr><td>EIA860M</td><td>ok</td><td>2026-11-13T18:14:52+00:00</td><td><code>bcef74e1af991680</code></td><td>unchanged</td><td><a href="https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx">source</a></td></tr><tr><td>SPP</td><td>ok</td><td>2026-11-13T18:14:50+00:00</td><td><code>950f2f207dd6ed6b</code></td><td>unchanged</td><td><a href="https://opsportal.spp.org/Studies/GenerateActiveCSV">source</a></td></tr></table>
+<table><tr><th>Source</th><th>Status</th><th>Fetched (UTC)</th><th>SHA-256</th><th>Content</th><th></th></tr><tr><td>CAISO</td><td>ok</td><td>2026-11-14T02:08:24+00:00</td><td><code>5ba984daf11ca675</code></td><td>unchanged</td><td><a href="http://www.caiso.com/PublishedDocuments/PublicQueueReport.xlsx">source</a></td></tr><tr><td>EIA860M</td><td>ok</td><td>2026-11-14T02:08:25+00:00</td><td><code>bcef74e1af991680</code></td><td>unchanged</td><td><a href="https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx">source</a></td></tr><tr><td>SPP</td><td>ok</td><td>2026-11-14T02:08:23+00:00</td><td><code>515591b732ead12e</code></td><td>new file</td><td><a href="https://opsportal.spp.org/Studies/GenerateActiveCSV">source</a></td></tr></table>
 <p class=muted>Every source is a public file fetched without logging in, only from paths its site's robots.txt allows,
 and only where the publisher's terms allow automated access.</p>
 

@@ -1,0 +1,2 @@
+date,event,iso,queue_id,record_type,project_name,developer,status,fuel,technology,mw,state,county,poi,utility,queue_date,proposed_cod,withdrawn_date,end_use,source_sheet,latitude,longitude,field,old,new
+2026-11-14,removed_from_report,SPP,GEN-2012-032,generation,,,IA FULLY EXECUTED/COMMERCIAL OPERATION,,Wind,299,OK,Kay,Rose Hill-(Ranch Road) Sooner (Open Sky) 345kV,OGE,2012-09-28,2015-06-30,,,GenerateActiveCSV,,,,,

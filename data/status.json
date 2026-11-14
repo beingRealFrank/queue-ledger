@@ -1,9 +1,9 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "sources": {
   "caiso": {
    "events": 0,
-   "fetched_at": "2026-11-13T18:14:51+00:00",
+   "fetched_at": "2026-11-14T02:08:24+00:00",
    "new_content": false,
    "ok": true,
    "records": 2278,
@@ -12,7 +12,7 @@
   },
   "eia860m": {
    "events": 0,
-   "fetched_at": "2026-11-13T18:14:52+00:00",
+   "fetched_at": "2026-11-14T02:08:25+00:00",
    "new_content": false,
    "ok": true,
    "records": 39908,
@@ -20,12 +20,12 @@
    "url": "https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx"
   },
   "spp": {
-   "events": 0,
-   "fetched_at": "2026-11-13T18:14:50+00:00",
-   "new_content": false,
+   "events": 1,
+   "fetched_at": "2026-11-14T02:08:23+00:00",
+   "new_content": true,
    "ok": true,
-   "records": 1019,
-   "sha256": "950f2f207dd6ed6bd873fb817cf05caf165d04a189ac097650bc2e6513e567f4",
+   "records": 1018,
+   "sha256": "515591b732ead12e5fd8719e1dabd386621a36cd7c97d80a17b14a62839481d8",
    "url": "https://opsportal.spp.org/Studies/GenerateActiveCSV"
   }
  }
