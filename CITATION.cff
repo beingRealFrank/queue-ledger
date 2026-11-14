@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Queue Ledger: point-in-time archive of US power-project pipelines (EIA-860M, CAISO, SPP)"
+type: dataset
+authors:
+  - family-names: Gilroy
+    given-names: Frank
+repository-code: "https://github.com/beingRealFrank/queue-ledger"
+url: "https://beingrealfrank.github.io/queue-ledger/"
+abstract: "Daily snapshots and change history of the EIA-860M generator inventory and the CAISO and SPP interconnection queues, with the original source file and its SHA-256 kept for every capture."
+keywords:
+  - EIA-860M
+  - interconnection queue
+  - power plants
+  - energy data
+license: MIT
