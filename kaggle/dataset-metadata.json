@@ -11,8 +11,7 @@
   "energy",
   "electricity",
   "renewable energy",
-  "united states",
-  "time series"
+  "united states"
  ],
  "expectedUpdateFrequency": "monthly",
  "description": "Every US electric generator of 1 MW or more from the U.S. Energy Information Administration's Preliminary Monthly Electric Generator Inventory (Form EIA-860M): planned (the new-build pipeline, with status and planned operating month), operating, retired, and canceled or postponed. One row per generator, with owner, plant, state, county, balancing authority, technology, energy source, nameplate MW and coordinates.\n\n**Why a point-in-time copy:** EIA replaces this file every month. This dataset is the latest release, and the full history (every release with its SHA-256, plus a change log of new projects, status changes and operating-date slips) lives in the [Queue Ledger](https://beingrealfrank.github.io/queue-ledger/) archive ([GitHub](https://github.com/beingRealFrank/queue-ledger)). A new version is published here after each EIA release (monthly).\n\n**Files**\n- `eia860m_generators_latest.csv`: 39,908 rows, 16 columns (described below). `plant_generator_id` is unique. Filter `inventory == \"planned\"` for the pipeline (about 2,400 generators).\n\n**Ideas**\n- Planned MW by state and technology, and by planned operating month.\n- Share of planned capacity that is batteries or solar, by balancing authority.\n- Operating-date slips between releases, using the change log in the archive.\n- Map planned projects from latitude and longitude.\n\n**Source and licence**\nSource: U.S. Energy Information Administration, Preliminary Monthly Electric Generator Inventory (Form EIA-860M), September 2026 data (released October 23, 2026). U.S. government data in the public domain; EIA asks for an acknowledgment with the publication date. Data is preliminary, as EIA states. Owner names that look like private individuals are left blank. Not affiliated with or endorsed by EIA.",
