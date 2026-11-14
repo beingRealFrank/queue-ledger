@@ -30,6 +30,9 @@ queue_date, proposed_cod, withdrawn_date, end_use, source_sheet, latitude, longi
 the inventory sheet (planned, operating, retired, canceled_or_postponed) and a move between sheets is logged as a
 `record_type` change. Fields a source does not publish are blank. Status values are the source's own.
 
+[![DOI](https://zenodo.org/badge/1456775885.svg)](https://zenodo.org/badge/latestdoi/1456775885)
+
+Cite the archive with its DOI (each GitHub release is archived on Zenodo).
 ## Code licence
 
 MIT. No warranty: verify against the raw source file before relying on a row. Not affiliated with or endorsed by EIA,
