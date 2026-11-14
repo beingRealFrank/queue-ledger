@@ -1,0 +1,31 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69808-CT1,Princeton Road Station,Nebraska Public Power District,Natural Gas Fired Combustion Turbine,NG,265.4,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,40.570394,-96.78647
+69808-CT2,Princeton Road Station,Nebraska Public Power District,Natural Gas Fired Combustion Turbine,NG,265.4,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,40.570394,-96.78647
+64547-3,Turtle Creek,Omaha Public Power District,Natural Gas Fired Combustion Turbine,NG,264,NE,Sarpy,(T) Regulatory approvals received. Not under construction,2028-08,41.092238,-96.16831
+55972-CT-3,Cass County,Omaha Public Power District,Natural Gas Fired Combustion Turbine,NG,264,NE,Cass,(T) Regulatory approvals received. Not under construction,2029-02,40.947913,-95.96403
+55972-CT-4,Cass County,Omaha Public Power District,Natural Gas Fired Combustion Turbine,NG,264,NE,Cass,(T) Regulatory approvals received. Not under construction,2029-02,40.947913,-95.96403
+55972-CT-5,Cass County,Omaha Public Power District,Natural Gas Fired Combustion Turbine,NG,264,NE,Cass,(T) Regulatory approvals received. Not under construction,2029-02,40.947913,-95.96403
+70515-PV1,Burt County Solar (Sandhills Energy),"Burt County Solar, LLC",Solar Photovoltaic,SUN,250,NE,Burt,"(U) Under construction, less than or equal to 50 percent complete",2028-10,41.712811,-96.15962
+66113-NEBE1,Big Elk Solar,"Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,100,NE,Washington,(L) Regulatory approvals pending. Not under construction,2027-12,41.475678,-96.29309
+61511-BCNE,Burt County Wind,"RWE Americas, LLC",Onshore Wind Turbine,WND,75,NE,Burt,(L) Regulatory approvals pending. Not under construction,2029-09,41.886,-96.345
+7887-5,Terry Bundy Generating Station,Lincoln Electric System,Natural Gas Fired Combustion Turbine,NG,52,NE,Lancaster,(L) Regulatory approvals pending. Not under construction,2029-06,40.909653,-96.61309
+7887-6,Terry Bundy Generating Station,Lincoln Electric System,Natural Gas Fired Combustion Turbine,NG,52,NE,Lancaster,(L) Regulatory approvals pending. Not under construction,2029-06,40.909653,-96.61309
+70345-SFES,Steele Flats Energy Storage,"Steele Flats Energy Storage, LLC",Batteries,MWH,50,NE,Jefferson,"(V) Under construction, more than 50 percent complete",2026-12,40.051306,-96.95178
+69808-R01,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R02,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R03,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R04,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R05,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R06,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R07,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R08,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R09,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R10,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R11,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+69808-R12,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
+55027-1600B,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
+55027-1600C,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
+55027-1600D,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
+2308-6,Tecumseh,City of Tecumseh - (NE),Petroleum Liquids,DFO,2.1,NE,Johnson,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.3664,-96.19
+2308-7,Tecumseh,City of Tecumseh - (NE),Petroleum Liquids,DFO,2.1,NE,Johnson,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.3664,-96.19
+2316-6,Wisner,City of Wisner (NE),Petroleum Liquids,DFO,1.5,NE,Cuming,"(TS) Construction complete, but not yet in commercial operation",2026-12,41.988069,-96.91599

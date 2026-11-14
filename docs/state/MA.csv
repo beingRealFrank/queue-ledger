@@ -1,0 +1,34 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69721-BESS1,Energizar BESS,Energizar Storage LLC,Batteries,MWH,250,MA,Suffolk,(L) Regulatory approvals pending. Not under construction,2027-12,42.39556,-71.02218
+69723-BESS1,Taft BESS,FE Taft LLC,Batteries,MWH,200,MA,Worcester,"(V) Under construction, more than 50 percent complete",2027-04,42.03383,-71.60374
+69722-BESS1,Salt Cod BESS,"Somerset Energy Storage, LLC",Batteries,MWH,168,MA,Bristol,(L) Regulatory approvals pending. Not under construction,2028-12,41.73722,-71.1489
+68543-3850B,Town of Sharon Portfolio -Mt St Landfill,"Mountain Street Solar Project 2019, LLC",Batteries,MWH,5.7,MA,Norfolk,"(V) Under construction, more than 50 percent complete",2027-01,42.102685,-71.15906
+63677-STURB,Sturbridge Road Solar,Madison Energy Investments LLC,Solar Photovoltaic,SUN,5,MA,Worcester,"(TS) Construction complete, but not yet in commercial operation",2026-10,42.174611,-72.01786
+69551-90915,Holyoke MA BESS 1,Holyoke MA BESS 1 LLC,Batteries,MWH,5,MA,Hampden,"(U) Under construction, less than or equal to 50 percent complete",2026-10,42.16774,-72.64898
+70386-BESS1,Chicopee BESS,Uriel Renovables S.A,Batteries,MWH,5,MA,Hampden,"(U) Under construction, less than or equal to 50 percent complete",2026-10,42.173653,-72.6119
+70387-BESS1,Framingham BESS,Uriel Renovables S.A,Batteries,MWH,5,MA,Middlesex,"(U) Under construction, less than or equal to 50 percent complete",2026-10,42.313107,-71.38953
+67279-6572,Borrego - Highland Ave,"Highland Ave Solar 1, LLC",Solar Photovoltaic,SUN,5,MA,Bristol,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.661525,-71.05998
+67279-6572B,Borrego - Highland Ave,"Highland Ave Solar 1, LLC",Batteries,MWH,5,MA,Bristol,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.661525,-71.05998
+69603-90917,Ipswich MA BESS 1,Ipswich MA BESS 1 LLC,Batteries,MWH,5,MA,Essex,"(U) Under construction, less than or equal to 50 percent complete",2026-11,42.716353,-70.84202
+68543-3850G,Town of Sharon Portfolio -Mt St Landfill,"Mountain Street Solar Project 2019, LLC",Solar Photovoltaic,SUN,5,MA,Norfolk,"(V) Under construction, more than 50 percent complete",2027-01,42.102685,-71.15906
+68215-BRAES,Braley Hill North Solar,"Agilitas Energy, Inc.",Batteries,MWH,5,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.776,-70.904
+68215-BRAPV,Braley Hill North Solar,"Agilitas Energy, Inc.",Solar Photovoltaic,SUN,5,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.776,-70.904
+68218-RANES,Randall Lane Solar,"Agilitas Energy, Inc.",Batteries,MWH,5,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.663,-70.844
+68218-RANPV,Randall Lane Solar,"Agilitas Energy, Inc.",Solar Photovoltaic,SUN,5,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.663,-70.844
+70401-CLEM,Clems Way Solar,CleanCapital Holdings,Solar Photovoltaic,SUN,5,MA,Bristol,(T) Regulatory approvals received. Not under construction,2027-07,41.732,-70.894
+70402-LOGN,Logging Swamp North,CleanCapital Holdings,Solar Photovoltaic,SUN,5,MA,Plymouth,(T) Regulatory approvals received. Not under construction,2027-08,41.775,-70.881
+70404-LOGS,Logging Swamp South,CleanCapital Holdings,Solar Photovoltaic,SUN,5,MA,Plymouth,(T) Regulatory approvals received. Not under construction,2027-08,41.774,-70.88
+68219-SNIES,Snipatuit Road Solar,"Agilitas Energy, Inc.",Batteries,MWH,4,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.768,-70.882
+68219-SNIPV,Snipatuit Road Solar,"Agilitas Energy, Inc.",Solar Photovoltaic,SUN,4,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.768,-70.882
+66513-18229,MA Acushnet 540R Main St,"TJA 540R Main St. Acushnet, LLC",Solar Photovoltaic,SUN,4,MA,Bristol,(L) Regulatory approvals pending. Not under construction,2027-06,41.702987,-70.8888
+68216-CUSES,Cushman Road Solar,"ReWild Renewables, LLC",Batteries,MWH,3,MA,Plymouth,(L) Regulatory approvals pending. Not under construction,2027-05,41.732,-70.875
+68216-CUSPV,Cushman Road Solar,"ReWild Renewables, LLC",Solar Photovoltaic,SUN,3,MA,Plymouth,(L) Regulatory approvals pending. Not under construction,2027-05,41.732,-70.875
+70538-BRH,Belchertown Solar PV + Battery Project,"Agilitas Energy, Inc.",Solar Photovoltaic,SUN,2.8,MA,Hampshire,"(U) Under construction, less than or equal to 50 percent complete",2026-12,42.3,-72.37
+70538-BRHBA,Belchertown Solar PV + Battery Project,"Agilitas Energy, Inc.",Batteries,MWH,2.8,MA,Hampshire,"(U) Under construction, less than or equal to 50 percent complete",2026-12,42.3,-72.37
+63541-BCRV1,Solar Carver 1 Hybrid,"Solar Carver 1, LLC",Batteries,MWH,2,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2026-10,41.824474,-70.75292
+63541-SCRV1,Solar Carver 1 Hybrid,"Solar Carver 1, LLC",Solar Photovoltaic,SUN,2,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2026-10,41.824474,-70.75292
+66513-B8229,MA Acushnet 540R Main St,"TJA 540R Main St. Acushnet, LLC",Batteries,MWH,2,MA,Bristol,(L) Regulatory approvals pending. Not under construction,2027-06,41.702987,-70.8888
+63506-BCRV3,Solar Carver 3 Hybrid,"Solar Carver 3, LLC",Batteries,MWH,1,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2026-10,41.84206,-70.7699
+63506-SCRV3,Solar Carver 3 Hybrid,"Solar Carver 3, LLC",Solar Photovoltaic,SUN,1,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2026-10,41.84206,-70.7699
+68217-FEAES,Featherbed Lane South Solar,"Agilitas Energy, Inc.",Batteries,MWH,1,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.761,-70.896
+68217-FEAPV,Featherbed Lane South Solar,"Agilitas Energy, Inc.",Solar Photovoltaic,SUN,1,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.761,-70.896

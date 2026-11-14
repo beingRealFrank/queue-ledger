@@ -1,0 +1,10 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+64835-,Silver Queen Wind Farm,"Silver Queen Wind Farm, LLC",Onshore Wind Turbine,WND,252,IA,Crawford,(L) Regulatory approvals pending. Not under construction,2028-10,42.002397,-95.1316
+70258-H2SLR,"Hawkeye Solar II, LLC","Hawkeye Solar II, LLC",Solar Photovoltaic,SUN,250,IA,Clinton,(L) Regulatory approvals pending. Not under construction,2028-03,41.835204,-90.69966
+70257-H1SLR,"Hawkeye Solar, LLC","Hawkeye Solar, LLC",Solar Photovoltaic,SUN,200,IA,Clinton,(L) Regulatory approvals pending. Not under construction,2028-03,41.835204,-90.69966
+69540-RCS01,Rock Creek Solar,Rock Creek Solar LLC,Solar Photovoltaic,SUN,150,IA,Clinton,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.771603,-90.35751
+68939-COGPV,Coggon Solar LLC,Clenera DevCo LLC,Solar Photovoltaic,SUN,100,IA,Linn,"(U) Under construction, less than or equal to 50 percent complete",2027-12,42.290594,-91.57266
+70107-MSP,Mills Solar Project,MidAmerican Energy Co,Solar Photovoltaic,SUN,50,IA,Mills,"(U) Under construction, less than or equal to 50 percent complete",2026-12,41.033333,-95.45192
+1167-10,Muscatine Plant #1,Board of Water Electric & Communications,Natural Gas Fired Combustion Turbine,NG,35,IA,Muscatine,(T) Regulatory approvals received. Not under construction,2027-11,41.3917,-91.0569
+66978-MS1,MPW Solar 1,"MPW Solar 1, LLC",Solar Photovoltaic,SUN,24,IA,Muscatine,(T) Regulatory approvals received. Not under construction,2028-01,41.3849,-91.0964
+69940-TEEPL,Teeple Creek,"OneEnergy, Inc.",Solar Photovoltaic,SUN,2.5,IA,Allamakee,"(V) Under construction, more than 50 percent complete",2026-11,43.234672,-91.50468

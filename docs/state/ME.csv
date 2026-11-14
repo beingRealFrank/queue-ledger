@@ -1,0 +1,15 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+68491-FPS,Freedom Pine Solar,"Freedom Pine Solar, LLC",Solar Photovoltaic,SUN,250,ME,York,"(P) Planned for installation, but regulatory approvals not initiated",2029-01,43.34779,-70.8974
+63386-3RIVS,"Three Rivers Solar Power, LLC","Three Rivers Solar Power, LLC",Solar Photovoltaic,SUN,100,ME,Hancock,"(V) Under construction, more than 50 percent complete",2026-12,44.711644,-68.11
+65708-WMSS,Warren Meadow Solar Station,"Warren Meadow Solar Station, LLC",Solar Photovoltaic,SUN,74.5,ME,Knox,(T) Regulatory approvals received. Not under construction,2028-03,44.16061,-69.22341
+68416-CTS1,Crooked Trail Solar,"VCP Realty, LLC",Solar Photovoltaic,SUN,68,ME,Penobscot,"(P) Planned for installation, but regulatory approvals not initiated",2029-10,45.144194,-68.58603
+65709-TRNR,Turner Meadow Solar Station,"Turner Meadow Solar Station, LLC",Solar Photovoltaic,SUN,19.8,ME,Androscoggin,(T) Regulatory approvals received. Not under construction,2028-12,44.229478,-70.28027
+65369-TMSS,Topsham Meadow Solar Station,Topsham Meadow Solar Station LLC,Solar Photovoltaic,SUN,17.2,ME,Sagadahoc,(L) Regulatory approvals pending. Not under construction,2028-10,43.975183,-70.0113
+65371-WBSS,West Baldwin Solar Station,West Baldwin Solar Station LLC,Solar Photovoltaic,SUN,17.1,ME,Cumberland,(T) Regulatory approvals received. Not under construction,2028-12,43.867403,-70.7866
+65366-EMSS,Emery Meadow Solar Station,"Emery Meadow Solar Station, LLC",Solar Photovoltaic,SUN,16.4,ME,York,(T) Regulatory approvals received. Not under construction,2027-12,43.643433,-70.55837
+64616-1,"South Portland ESS, LLC","South Portland ESS, LLC",Batteries,MWH,10,ME,Cumberland,(T) Regulatory approvals received. Not under construction,2027-12,43.622939,-70.33098
+64615-1,"Sanford ESS, LLC","Sanford ESS, LLC",Batteries,MWH,5,ME,York,(T) Regulatory approvals received. Not under construction,2027-12,43.407648,-70.71209
+64067-AUBPV,Auburn PV - BD Solar Auburn LLC,BD Solar Auburn LLC,Solar Photovoltaic,SUN,5,ME,Androscoggin,(L) Regulatory approvals pending. Not under construction,2028-03,44.05,-70.3
+64071-LJNPV,Lewiston Jn PV - BD Solar Lewiston Jn LL,BD Solar Lewiston Junction LLC,Solar Photovoltaic,SUN,5,ME,Androscoggin,(L) Regulatory approvals pending. Not under construction,2028-03,44.05,-70.3
+66768-694,Hogs Bay,Greenbacker Renewable Energy Corporation,Solar Photovoltaic,SUN,2,ME,Hancock,"(V) Under construction, more than 50 percent complete",2026-11,44.57579,-68.19965
+65045-VCP14,Emery Shute Solar One,"VCP Realty, LLC",Solar Photovoltaic,SUN,1,ME,Waldo,"(V) Under construction, more than 50 percent complete",2026-09,44.535591,-68.86433

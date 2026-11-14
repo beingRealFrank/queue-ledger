@@ -1,0 +1,28 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+68396-PGB45,Sunstone Solar,"Sunstone Solar, LLC",Batteries,MWH,1200,OR,Morrow,(L) Regulatory approvals pending. Not under construction,2027-12,45.605916,-119.563
+68396-PGR45,Sunstone Solar,"Sunstone Solar, LLC",Solar Photovoltaic,SUN,1200,OR,Morrow,(L) Regulatory approvals pending. Not under construction,2027-12,45.605916,-119.563
+68763-DECH1,Deschutes Solar and BESS,"DECH bn, LLC",Solar Photovoltaic,SUN,1000,OR,Wasco,(L) Regulatory approvals pending. Not under construction,2029-11,45.157,-121.136
+68763-DECH2,Deschutes Solar and BESS,"DECH bn, LLC",Batteries,MWH,1000,OR,Wasco,(L) Regulatory approvals pending. Not under construction,2029-11,45.157,-121.136
+66011-PV1,Cedar Island Solar LLC,Cedar Island Solar LLC,Solar Photovoltaic,SUN,800,OR,Sherman,(L) Regulatory approvals pending. Not under construction,2031-12,45.233717,-120.8985
+63488-OBSLR,Obsidian Solar Center,Obsidian Solar Center LLC,Solar Photovoltaic,SUN,400,OR,Lake,(L) Regulatory approvals pending. Not under construction,2028-12,43.312167,-120.8218
+60070-GEN,Nolin Hills,"Nolin Hills Wind, LLC",Onshore Wind Turbine,WND,300,OR,Umatilla,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,45.55455,-119.1143
+60070-GEN2,Nolin Hills,"Nolin Hills Wind, LLC",Solar Photovoltaic,SUN,300,OR,Umatilla,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,45.55455,-119.1143
+68370-SALM,Salmonfly Solar and Storage,BrightNight Power,Solar Photovoltaic,SUN,247,OR,Jefferson,(L) Regulatory approvals pending. Not under construction,2029-02,44.6157,-121.3436
+68370-SALM2,Salmonfly Solar and Storage,BrightNight Power,Batteries,MWH,247,OR,Jefferson,(L) Regulatory approvals pending. Not under construction,2029-02,44.6157,-121.3436
+68299-TUAL,Tualatin Battery Energy Storage System,"TUAL bn, LLC",Batteries,MWH,200,OR,Washington,(L) Regulatory approvals pending. Not under construction,2027-12,45,-122
+70450-PV1,Wheatridge Optimization II,"Wheatridge Optimization II, LLC",Solar Photovoltaic,SUN,130,OR,Morrow,"(U) Under construction, less than or equal to 50 percent complete",2027-12,45.559975,-119.6292
+68316-BIGL1,Biglow Solar Generation and BESS,"BIGL bn, LLC",Solar Photovoltaic,SUN,125,OR,Sherman,(L) Regulatory approvals pending. Not under construction,2027-12,45.606,-120.625
+68316-BIGL2,Biglow Solar Generation and BESS,"BIGL bn, LLC",Batteries,MWH,125,OR,Sherman,(L) Regulatory approvals pending. Not under construction,2027-12,45.606,-120.625
+70420-PV1,Wheatridge Optimization I,"Wheatridge Optimization I, LLC",Solar Photovoltaic,SUN,110,OR,Morrow,"(U) Under construction, less than or equal to 50 percent complete",2027-12,45.560054,-119.6224
+65326-SS1,Sunset Solar,Avangrid Power LLC,Solar Photovoltaic,SUN,103,OR,Wasco,(T) Regulatory approvals received. Not under construction,2028-12,45.165062,-120.8804
+70420-BA1,Wheatridge Optimization I,"Wheatridge Optimization I, LLC",Batteries,MWH,65,OR,Morrow,"(U) Under construction, less than or equal to 50 percent complete",2027-12,45.560054,-119.6224
+70450-BA1,Wheatridge Optimization II,"Wheatridge Optimization II, LLC",Batteries,MWH,60,OR,Morrow,"(U) Under construction, less than or equal to 50 percent complete",2027-12,45.559975,-119.6292
+67157-PV1,Powell Solar,Invenergy Services LLC,Solar Photovoltaic,SUN,55.9,OR,Crook,(T) Regulatory approvals received. Not under construction,2027-12,44.258414,-120.8895
+69294-OTS,Oregon Trail Solar,Avangrid Power LLC,Solar Photovoltaic,SUN,41,OR,Gilliam,"(V) Under construction, more than 50 percent complete",2027-03,45.553436,-120.1861
+70225-SES,Shutler Energy Storage,Avangrid Power LLC,Batteries,MWH,41,OR,Gilliam,"(U) Under construction, less than or equal to 50 percent complete",2028-03,45.54,-120.18
+69782-CW216,Cartwright Solar II,Cartwright Solar II LLC,Solar Photovoltaic,SUN,17.6,OR,Crook,"(TS) Construction complete, but not yet in commercial operation",2026-11,44.244,-120.938
+70516-PV1,Fry Ontario Solar Project,"Fry Foods, Inc.",Solar Photovoltaic,SUN,4.2,OR,Malheur,"(TS) Construction complete, but not yet in commercial operation",2027-03,44.0926,-117.0344
+66340-PV1,Canyonville Solar LLC (CSG),SolRiver Capital LLC,Solar Photovoltaic,SUN,2.5,OR,Douglas,(L) Regulatory approvals pending. Not under construction,2027-12,42.956886,-123.2618
+70452-OCS62,Buckaroo Solar 1,"Buckaroo Solar 1, LLC",Solar Photovoltaic,SUN,2.4,OR,Umatilla,"(V) Under construction, more than 50 percent complete",2027-05,45.660992,-118.7721
+67741-I,OIT BESS,PacifiCorp,Batteries,MWH,2,OR,Klamath,"(U) Under construction, less than or equal to 50 percent complete",2027-12,42.259366,-121.7864
+70451-OCS24,Tutuilla Solar,"Tutuilla Solar, LLC",Solar Photovoltaic,SUN,1.6,OR,Umatilla,"(V) Under construction, more than 50 percent complete",2026-11,45.63153,-119.685

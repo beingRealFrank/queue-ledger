@@ -1,0 +1,5 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+59027-GEN 1,Mahoney Lake Hydroelectric,Ketchikan Electric Company,Conventional Hydroelectric,WAT,9.6,AK,Ketchikan Gateway,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,55.419444,-131.5378
+60588-JHI01,Sweetheart Lake Hydroelectric Facility,"Juneau Hydropower, Inc",Conventional Hydroelectric,WAT,6.6,AK,Juneau,(L) Regulatory approvals pending. Not under construction,2028-01,57.9449,-133.6867
+60588-JHI02,Sweetheart Lake Hydroelectric Facility,"Juneau Hydropower, Inc",Conventional Hydroelectric,WAT,6.6,AK,Juneau,(L) Regulatory approvals pending. Not under construction,2028-01,57.9449,-133.6867
+60588-JHI03,Sweetheart Lake Hydroelectric Facility,"Juneau Hydropower, Inc",Conventional Hydroelectric,WAT,6.6,AK,Juneau,(L) Regulatory approvals pending. Not under construction,2028-01,57.9449,-133.6867

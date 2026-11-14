@@ -1,0 +1,68 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+68982-SGG01,Singing Grass Wind,Public Service Co of Colorado,Onshore Wind Turbine,WND,603,CO,Kit Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-09,39.201143,-102.8576
+69873-CRW02,Cheyenne Ridge II,Public Service Co of Colorado,Onshore Wind Turbine,WND,438,CO,Cheyenne,"(U) Under construction, less than or equal to 50 percent complete",2027-07,38.997719,-102.3593
+70331-MRASL,"Mirasol Energy Center, LLC.","Mirasol Energy Center, LLC",Solar Photovoltaic,SUN,400,CO,Pueblo,(T) Regulatory approvals received. Not under construction,2028-12,38.11439,-104.2017
+69040-ARY1,Arroyo Solar,Public Service Co of Colorado,Solar Photovoltaic,SUN,335,CO,Pueblo,"(U) Under construction, less than or equal to 50 percent complete",2026-10,38.161657,-104.5488
+70583-HLS01,"Highland Solar I, LLC - (CO)","Highland Solar I, LLC",Solar Photovoltaic,SUN,300,CO,Pueblo,(L) Regulatory approvals pending. Not under construction,2027-12,38.41955,-104.2277
+69643-60215,Deep Space Solar,Deep Space Solar LLC,Solar Photovoltaic,SUN,300,CO,Kiowa,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,38.402141,-103.286
+70137-DL250,Dry Land Prairie Energy Storage,"Dry Land Prairie Energy Storage, LLC",Batteries,MWH,250,CO,Cheyenne,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.99974,-102.4943
+70053-SP250,South Platte Storage,"South Platte Storage, LLC",Batteries,MWH,250,CO,Morgan,"(U) Under construction, less than or equal to 50 percent complete",2027-06,40.12,-103.42
+70462-PAWS,Pawnee Solar & BESS,Public Service Co of Colorado,Solar Photovoltaic,SUN,250,CO,Morgan,"(U) Under construction, less than or equal to 50 percent complete",2027-12,40.127571,-103.7249
+6112-7,Fort St Vrain,Public Service Co of Colorado,Natural Gas Fired Combustion Turbine,NG,239,CO,Weld,"(U) Under construction, less than or equal to 50 percent complete",2027-12,40.2461,-104.8742
+6112-8,Fort St Vrain,Public Service Co of Colorado,Natural Gas Fired Combustion Turbine,NG,239,CO,Weld,"(U) Under construction, less than or equal to 50 percent complete",2027-12,40.2461,-104.8742
+68079-STAS1,Stagecoach LRE,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,230,CO,Pueblo,(T) Regulatory approvals received. Not under construction,2029-12,38.17739,-104.5012
+64744-TC001,Turkey Creek Solar Project,174 Power Global Corp.,Solar Photovoltaic,SUN,200,CO,Pueblo,"(U) Under construction, less than or equal to 50 percent complete",2027-02,38.382137,-104.9141
+70341-TW200,"Thunder Wolf II, LLC","Thunder Wolf II, LLC",Solar Photovoltaic,SUN,200,CO,Pueblo,(T) Regulatory approvals received. Not under construction,2027-12,38.94808,-104.2357
+70462-PAWB,Pawnee Solar & BESS,Public Service Co of Colorado,Batteries,MWH,200,CO,Morgan,"(U) Under construction, less than or equal to 50 percent complete",2027-12,40.127571,-103.7249
+67655-ELKRN,Elk Run,Cypress Creek Renewables,Solar Photovoltaic,SUN,200,CO,Las Animas,(L) Regulatory approvals pending. Not under construction,2029-06,37.454588,-104.4887
+70136-MORL1,Morel Energy Storage,Morel Energy Storage LLC,Batteries,MWH,200,CO,Moffat,(T) Regulatory approvals received. Not under construction,2030-12,40.469217,-107.6032
+69946-SBA,Spindle BESS,Spindle Battery LLC,Batteries,MWH,199,CO,Weld,"(TS) Construction complete, but not yet in commercial operation",2026-12,40.092401,-104.9012
+69278-1,Fortress 1,Fortress Solar 1 LLC,Solar Photovoltaic,SUN,199,CO,Morgan,(L) Regulatory approvals pending. Not under construction,2028-03,40.26,-103.57
+69972-SP150,South Platte Solar,South Platte Solar,Solar Photovoltaic,SUN,150,CO,Morgan,"(U) Under construction, less than or equal to 50 percent complete",2027-12,40.194947,-103.7088
+69278-2,Fortress 1,Fortress Solar 1 LLC,Batteries,MWH,150,CO,Morgan,(L) Regulatory approvals pending. Not under construction,2028-03,40.26,-103.57
+70340-CAR15,"Carousel Energy Storage, LLC","Carousel Energy Storage, LLC",Batteries,MWH,149.6,CO,Kit Carson,(T) Regulatory approvals received. Not under construction,2027-12,39.213298,-102.1036
+64857-C0513,Canyonland Solar,Canyonland Solar LLC,Solar Photovoltaic,SUN,140,CO,Montezuma,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.431,-108.724
+70188-WES01,Weld Energy Storage,"Weld Energy Storage, LLC",Batteries,MWH,100,CO,Weld,"(V) Under construction, more than 50 percent complete",2026-12,40.613467,-104.8467
+70583-HES01,"Highland Solar I, LLC - (CO)","Highland Solar I, LLC",Batteries,MWH,100,CO,Pueblo,(L) Regulatory approvals pending. Not under construction,2027-12,38.41955,-104.2277
+70050-DRENN,Drennan Energy Storage,Drennan Energy Storage LLC,Batteries,MWH,100,CO,El Paso,(L) Regulatory approvals pending. Not under construction,2028-03,38.772896,-104.6671
+68343-GRVA1,Grand Valley Solar Generation and BESS,"GRVA bn, LLC",Solar Photovoltaic,SUN,100,CO,Mesa,(L) Regulatory approvals pending. Not under construction,2029-10,39.1987,-108.782
+68343-GRVA2,Grand Valley Solar Generation and BESS,"GRVA bn, LLC",Batteries,MWH,100,CO,Mesa,(L) Regulatory approvals pending. Not under construction,2029-10,39.1987,-108.782
+67666-SUNDN,Sundance (CO),Cypress Creek Renewables,Solar Photovoltaic,SUN,74.9,CO,Elbert,"(U) Under construction, less than or equal to 50 percent complete",2026-10,39.414779,-104.4481
+67666-SUNBA,Sundance (CO),Cypress Creek Renewables,Batteries,MWH,50,CO,Elbert,"(U) Under construction, less than or equal to 50 percent complete",2026-10,39.414779,-104.4481
+56998-BA7,Pueblo Airport Generating Station,Black Hills Service Company LLC,Batteries,MWH,50,CO,Pueblo,(L) Regulatory approvals pending. Not under construction,2027-12,38.320833,-104.5264
+69278-3,Fortress 1,Fortress Solar 1 LLC,Batteries,MWH,49.9,CO,Morgan,(L) Regulatory approvals pending. Not under construction,2028-03,40.26,-103.57
+68705-H01,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H02,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H03,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H04,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H05,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H06,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H07,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H08,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H09,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+68705-H10,Horizon,City of Colorado Springs - (CO),Natural Gas Fired Combustion Turbine,NG,48,CO,El Paso,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,38.775,-104.6668
+6761-G,Rawhide,Platte River Power Authority,Natural Gas Fired Combustion Turbine,NG,44.6,CO,Larimer,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,40.860905,-105.0212
+6761-H,Rawhide,Platte River Power Authority,Natural Gas Fired Combustion Turbine,NG,44.6,CO,Larimer,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,40.860905,-105.0212
+6761-LM3,Rawhide,Platte River Power Authority,Natural Gas Fired Combustion Turbine,NG,44.6,CO,Larimer,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,40.860905,-105.0212
+6761-LM4,Rawhide,Platte River Power Authority,Natural Gas Fired Combustion Turbine,NG,44.6,CO,Larimer,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,40.860905,-105.0212
+6761-LM5,Rawhide,Platte River Power Authority,Natural Gas Fired Combustion Turbine,NG,44.6,CO,Larimer,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,40.860905,-105.0212
+70333-KBPV1,Keenesburg,ENGIE Distributed Renewables Development LLC,Solar Photovoltaic,SUN,7.2,CO,Weld,"(U) Under construction, less than or equal to 50 percent complete",2026-11,40.187364,-104.5061
+70119-GEN1,Raceway Solar - (CO),"Raceway Solar, LLC",Solar Photovoltaic,SUN,7,CO,Morgan,(L) Regulatory approvals pending. Not under construction,2027-04,40.262222,-103.8292
+69035-PI36,Pivot Solar 36,Pivot Energy,Solar Photovoltaic,SUN,5,CO,Weld,"(V) Under construction, more than 50 percent complete",2027-01,40.346119,-104.7314
+70102-PS33,Pivot Solar 33 LLC,Pivot Energy,Solar Photovoltaic,SUN,5,CO,Weld,"(V) Under construction, more than 50 percent complete",2027-01,40.32508,-104.731
+70116-GEN1,La Junta Solar,"Clay Creek Energy, LLC",Solar Photovoltaic,SUN,4.8,CO,Otero,(L) Regulatory approvals pending. Not under construction,2027-04,38.038,-103.5237
+70117-GEN1,Lamar Solar,"Clay Creek Energy, LLC",Solar Photovoltaic,SUN,4.8,CO,Prowers,(L) Regulatory approvals pending. Not under construction,2027-04,38.043192,-102.5922
+70357-PS58,Pivot Solar 58 LLC,Pivot Energy,Solar Photovoltaic,SUN,4.5,CO,Weld,"(V) Under construction, more than 50 percent complete",2026-11,40.474398,-104.623
+70201-PS50,Pivot Solar 50 LLC,Pivot Energy,Solar Photovoltaic,SUN,4,CO,Weld,"(V) Under construction, more than 50 percent complete",2026-10,40.3657,-104.6336
+69620-WTS2,Waterton Solar II,Public Service Co of Colorado,Solar Photovoltaic,SUN,4,CO,Douglas,"(U) Under construction, less than or equal to 50 percent complete",2026-12,39.5,-105.07
+70104-PS53,Pivot Solar 53 LLC,Pivot Energy,Solar Photovoltaic,SUN,4,CO,Adams,"(V) Under construction, more than 50 percent complete",2027-02,39.748549,-104.6673
+69293-WTS1,Waterton Solar I,Public Service Co of Colorado,Solar Photovoltaic,SUN,4,CO,Douglas,"(U) Under construction, less than or equal to 50 percent complete",2027-03,39.5,-105.07
+70202-PS56,Pivot Solar 56 LLC,Pivot Energy,Solar Photovoltaic,SUN,3.6,CO,Weld,"(V) Under construction, more than 50 percent complete",2027-01,40.350547,-104.7226
+70103-PS43,Pivot Solar 43 LLC,Pivot Energy,Solar Photovoltaic,SUN,3.5,CO,Adams,"(V) Under construction, more than 50 percent complete",2026-10,39.748549,-104.6673
+69427-WAXWI,Waxwing Solar CSG,Waxwing Solar,Solar Photovoltaic,SUN,3,CO,Pueblo,"(U) Under construction, less than or equal to 50 percent complete",2027-01,38.2963,-104.5525
+70206-PS57,Pivot Solar 57 LLC,Pivot Energy,Solar Photovoltaic,SUN,2,CO,Mesa,"(V) Under construction, more than 50 percent complete",2026-10,39.051557,-108.4522
+70335-PS42,Pivot Solar 42 LLC,Pivot Energy,Solar Photovoltaic,SUN,1.9,CO,Larimer,"(V) Under construction, more than 50 percent complete",2026-11,40.692398,-104.9833
+70337-PS71,Pivot Solar 71 LLC,Pivot Energy,Solar Photovoltaic,SUN,1.8,CO,Morgan,"(V) Under construction, more than 50 percent complete",2026-11,40.267178,-103.6512
+70115-GEN1,Fort Lyon Solar,"Clay Creek Energy, LLC",Solar Photovoltaic,SUN,1.8,CO,Bent,(L) Regulatory approvals pending. Not under construction,2027-04,38.081,-103.133
+70118-GEN1,Trinidad Solar,"Clay Creek Energy, LLC",Solar Photovoltaic,SUN,1.8,CO,Las Animas,(L) Regulatory approvals pending. Not under construction,2027-04,37.185879,-104.4924
+70207-PS60,Pivot Solar 60 LLC,Pivot Energy,Solar Photovoltaic,SUN,1.1,CO,Weld,"(V) Under construction, more than 50 percent complete",2026-10,40.474398,-104.623

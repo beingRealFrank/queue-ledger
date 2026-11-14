@@ -1,0 +1,540 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69798-PMN1,Project Matador Nuclear,Fermi Nuclear,Nuclear,NUC,1117,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2031-12,35.283762,-101.569
+69798-PMN3,Project Matador Nuclear,Fermi Nuclear,Nuclear,NUC,1117,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2031-12,35.283762,-101.569
+69798-PMN2,Project Matador Nuclear,Fermi Nuclear,Nuclear,NUC,1117,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2032-12,35.283762,-101.569
+69798-PMN4,Project Matador Nuclear,Fermi Nuclear,Nuclear,NUC,1117,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2032-12,35.283762,-101.569
+68053-LEG,Legend Power Station,Entergy Texas Inc.,Natural Gas Fired Combined Cycle,NG,754,TX,Jefferson,(L) Regulatory approvals pending. Not under construction,2028-07,29.880219,-93.99573
+69566-GEN1,CPV Basin Ranch Energy Center,CPV Basin Ranch,Natural Gas Fired Combined Cycle,NG,722.5,TX,Ward,"(U) Under construction, less than or equal to 50 percent complete",2029-02,31.506094,-103.4875
+69566-GEN2,CPV Basin Ranch Energy Center,CPV Basin Ranch,Natural Gas Fired Combined Cycle,NG,722.5,TX,Ward,"(U) Under construction, less than or equal to 50 percent complete",2029-02,31.506094,-103.4875
+68606-5,Cedar Bayou 5,Cedar Bayou 5 LLC,Natural Gas Fired Combined Cycle,NG,721,TX,Chambers,"(U) Under construction, less than or equal to 50 percent complete",2028-08,29.751132,-94.92114
+68202-ROMW,IP Roman Wind,"Intersect USA, LLC",Onshore Wind Turbine,WND,670.5,TX,Deaf Smith,(L) Regulatory approvals pending. Not under construction,2028-09,34.990891,-102.6076
+68504-SLES1,Sandow Lakes Energy Station,"SL Energy Power Plant I, LLC",Natural Gas Fired Combined Cycle,NG,645,TX,Lee,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,30.419441,-97.19124
+68504-SLES2,Sandow Lakes Energy Station,"SL Energy Power Plant I, LLC",Natural Gas Fired Combined Cycle,NG,645,TX,Lee,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,30.419441,-97.19124
+65855-TE1PV,Tehuacana Creek Solar,Parliament Energy Holdings LLC,Solar Photovoltaic,SUN,644.8,TX,Navarro,"(V) Under construction, more than 50 percent complete",2027-05,31.914062,-96.41347
+68479-SHRT,Short Creek Solar,"Wichita Solar I, LLC",Solar Photovoltaic,SUN,606.4,TX,Wichita,(L) Regulatory approvals pending. Not under construction,2028-03,34.017622,-98.8013
+66914-DAN,"Danish Fields Solar, LLC","Danish Fields Solar, LLC",Solar Photovoltaic,SUN,600,TX,Wharton,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.013637,-96.22054
+70135-SWNSN,Swenson Solar,Swenson Solar LLC,Solar Photovoltaic,SUN,600,TX,Stonewall,"(U) Under construction, less than or equal to 50 percent complete",2026-11,32.985403,-100.0292
+65842-CFCBS,Clear Fork Creek Solar and BESS SLF,Clear Fork,Batteries,MWH,600,TX,Wilson,"(U) Under construction, less than or equal to 50 percent complete",2027-03,29.263568,-97.78055
+65842-CFCPV,Clear Fork Creek Solar and BESS SLF,Clear Fork,Solar Photovoltaic,SUN,600,TX,Wilson,"(U) Under construction, less than or equal to 50 percent complete",2027-03,29.263568,-97.78055
+65310-DAWN1,Renegade Solar Project (Dawn),"Renegade Renewables, LLC",Solar Photovoltaic,SUN,515,TX,Deaf Smith,(T) Regulatory approvals received. Not under construction,2027-12,34.913,-102.2706
+64234-19936,Hecate Energy Harley Hand Solar LLC,Hecate Energy Harley Hand Solar LLC,Solar Photovoltaic,SUN,514,TX,Nolan,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,32.468537,-100.2164
+65028-ROSES,"Roseland Solar Project, LLC","Enel Green Power Roseland Solar, LLC",Solar Photovoltaic,SUN,500,TX,Falls,"(TS) Construction complete, but not yet in commercial operation",2026-10,31.461242,-96.82493
+66414-RMSY,Hecate Energy Ramsey Storage,"Hecate Energy Ramsey Storage, LLC",Batteries,MWH,500,TX,Wharton,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,29.02939,-96.2362
+68204-MEITW,IP Meitner Wind,"Intersect USA, LLC",Onshore Wind Turbine,WND,500,TX,Roberts,(L) Regulatory approvals pending. Not under construction,2028-02,35.696972,-100.8213
+68203-MEITS,IP Meitner Solar,"Intersect USA, LLC",Solar Photovoltaic,SUN,500,TX,Gray,(L) Regulatory approvals pending. Not under construction,2028-04,35.562222,-100.6941
+68201-ROMS,IP Roman Solar,"Intersect USA, LLC",Solar Photovoltaic,SUN,500,TX,Deaf Smith,(L) Regulatory approvals pending. Not under construction,2028-06,34.990891,-102.6076
+68354-LSPV1,La Salle Solar,La Salle Solar LLC,Solar Photovoltaic,SUN,500,TX,LaSalle,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,28.092519,-99.05701
+68034-SNSCB,Sunscape Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,500,TX,Nueces,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,27.819197,-97.79994
+68034-SNSCP,Sunscape Renewable Energy,Vesper Energy Development LLC,Solar Photovoltaic,SUN,500,TX,Nueces,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,27.819197,-97.79994
+69584-3572,Rising Star Solar,"Rising Star Solar, LLC",Solar Photovoltaic,SUN,500,TX,Starr,(T) Regulatory approvals received. Not under construction,2028-12,26.382105,-98.61544
+68353-LSBS1,La Salle ESS,La Salle ESS LLC,Batteries,MWH,500,TX,LaSalle,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,28.094701,-99.05554
+69077-1A,Lone Star Power Station,Entergy Texas Inc.,Natural Gas Fired Combustion Turbine,NG,467.3,TX,San Jacinto,(L) Regulatory approvals pending. Not under construction,2028-07,30.414158,-95.01671
+65851-HB2PV,Hollow Branch Creek,Parliament Energy Holdings LLC,Solar Photovoltaic,SUN,460,TX,Madison,(L) Regulatory approvals pending. Not under construction,2027-08,31.061726,-96.05606
+65854-RDYPV,Rowdy Creek Solar and BESS,Parliament Energy Holdings LLC,Solar Photovoltaic,SUN,455,TX,Lamar,"(U) Under construction, less than or equal to 50 percent complete",2028-06,33.75694,-95.6458
+66621-1A,Orange County Advanced Power Station,Entergy Texas Inc.,Natural Gas Fired Combined Cycle,NG,453,TX,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,30.025251,-93.87134
+66621-1B,Orange County Advanced Power Station,Entergy Texas Inc.,Natural Gas Fired Combined Cycle,NG,453,TX,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,30.025251,-93.87134
+66871-SOLAR,"GulfStar Power, LLC","GulfStar Power, LLC",Solar Photovoltaic,SUN,451.6,TX,Wharton,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.191296,-95.96752
+70175-ZSPV,ZSS Solar,NextEra Energy Resources - ERCOT,Solar Photovoltaic,SUN,450,TX,Knox,(T) Regulatory approvals received. Not under construction,2027-12,33.479935,-99.67475
+67664-SOLEI,Soleil,Cypress Creek Renewables,Solar Photovoltaic,SUN,450,TX,Clay,(L) Regulatory approvals pending. Not under construction,2028-12,33.799253,-98.04552
+68273-1,Naples Power Plant,Arkansas Electric Coop Corp,Natural Gas Fired Combustion Turbine,NG,450,TX,Morris,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.21964,-94.70564
+68273-2,Naples Power Plant,Arkansas Electric Coop Corp,Natural Gas Fired Combustion Turbine,NG,450,TX,Morris,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.21964,-94.70564
+69691-06,Greens Bayou 6,NRG Greens Bayou 6 LLC,Natural Gas Fired Combustion Turbine,NG,447,TX,Harris,"(U) Under construction, less than or equal to 50 percent complete",2028-05,29.821222,-95.21786
+69689-CT11,Vast Sands Power,Permian Power I LLC,Natural Gas Fired Combustion Turbine,NG,440,TX,Ward,"(U) Under construction, less than or equal to 50 percent complete",2027-05,31.584096,-102.958
+69689-CT12,Vast Sands Power,Permian Power I LLC,Natural Gas Fired Combustion Turbine,NG,440,TX,Ward,"(U) Under construction, less than or equal to 50 percent complete",2027-05,31.584096,-102.958
+68305-GWT1,Gigawatt Solar,Gigawatt Solar LLC,Solar Photovoltaic,SUN,429,TX,Parker,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,32.547389,-97.59792
+68759-IPQ1B,Quantum BESS,"Intersect USA, LLC",Batteries,MWH,422.4,TX,Haskell,"(TS) Construction complete, but not yet in commercial operation",2026-11,33.0121,-99.5604
+68761-IPQ2B,Quantum II BESS,"Intersect USA, LLC",Batteries,MWH,422.4,TX,Haskell,"(TS) Construction complete, but not yet in commercial operation",2026-12,33.135,-99.5719
+65855-TE1BS,Tehuacana Creek Solar,Parliament Energy Holdings LLC,Batteries,MWH,418,TX,Navarro,"(V) Under construction, more than 50 percent complete",2026-12,31.914062,-96.41347
+69272-SEQII,Enbridge Solar (Sequoia II),"Enbridge Solar (Sequoia II), LLC",Solar Photovoltaic,SUN,415,TX,Callahan,"(V) Under construction, more than 50 percent complete",2026-12,32.341078,-99.17308
+66912-HS1,Hill Solar 1,"Hill Solar 1, LLC",Solar Photovoltaic,SUN,405,TX,Hill,"(TS) Construction complete, but not yet in commercial operation",2026-10,32.139,-97.06
+66621-1C,Orange County Advanced Power Station,Entergy Texas Inc.,Natural Gas Fired Combined Cycle,NG,400,TX,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,30.025251,-93.87134
+68422-CALII,Callisto II Energy Center,Callisto II Energy Center LLC,Batteries,MWH,400,TX,Harris,"(V) Under construction, more than 50 percent complete",2026-11,29.645345,-95.45025
+67059-1,Iron Belt,"Iron Belt Energy Storage Project, LLC",Batteries,MWH,400,TX,Borden,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,32.5557,-101.6601
+67657-HANSO,Hanson,Cypress Creek Renewables,Solar Photovoltaic,SUN,396,TX,Coleman,(L) Regulatory approvals pending. Not under construction,2027-07,31.690367,-99.51389
+69877-CHPV1,Charger Solar,AP Solar 4 LLC,Solar Photovoltaic,SUN,394.4,TX,Refugio,"(TS) Construction complete, but not yet in commercial operation",2026-10,28.416661,-97.03519
+65853-MIDPV,Banita Creek- Spindlepop Solar,Parliament Energy Holdings LLC,Solar Photovoltaic,SUN,371,TX,Nacogdoches,"(U) Under construction, less than or equal to 50 percent complete",2028-06,31.5552,-94.7919
+68760-IPQ1S,Quantum Solar,"Intersect USA, LLC",Solar Photovoltaic,SUN,362.8,TX,Haskell,"(TS) Construction complete, but not yet in commercial operation",2026-12,33.0129,-99.5604
+68762-IPQ2S,Quantum II Solar,"Intersect USA, LLC",Solar Photovoltaic,SUN,362.8,TX,Haskell,"(TS) Construction complete, but not yet in commercial operation",2026-12,33.1377,-99.57
+70200-64205,Lucy Solar,Concho County Solar 1 LLC,Solar Photovoltaic,SUN,351.3,TX,Concho,"(V) Under construction, more than 50 percent complete",2027-06,31.472348,-99.99328
+66915-CTW,Cottonwood Bayou Solar,"Cottonwood Bayou Solar, LLC",Solar Photovoltaic,SUN,350,TX,Brazoria,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.263123,-95.258
+67359-4666,Funston Solar,"Funston Solar, LLC",Solar Photovoltaic,SUN,350,TX,Jones,"(V) Under construction, more than 50 percent complete",2026-12,32.783669,-99.72019
+68065-CHILS,Chillingham Solar,Chillingham Solar LLC,Solar Photovoltaic,SUN,350,TX,Bell,"(TS) Construction complete, but not yet in commercial operation",2026-12,31.006,-97.262
+65854-RDYBS,Rowdy Creek Solar and BESS,Parliament Energy Holdings LLC,Batteries,MWH,350,TX,Lamar,(L) Regulatory approvals pending. Not under construction,2027-05,33.75694,-95.6458
+68305-GWT2,Gigawatt Solar,Gigawatt Solar LLC,Solar Photovoltaic,SUN,344,TX,Parker,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,32.547389,-97.59792
+64999-CPNS1,Pecan Prairie North Solar,Repsol Renewables NA,Solar Photovoltaic,SUN,324.1,TX,Leon,"(U) Under construction, less than or equal to 50 percent complete",2027-05,31.13718,-96.26925
+66910-MYR,"Myrtle Solar, LLC","Myrtle Solar, LLC",Solar Photovoltaic,SUN,313,TX,Brazoria,"(TS) Construction complete, but not yet in commercial operation",2026-12,29.228486,-95.42744
+67776-GRS2B,Cuchillas PV and BESS,Gransolar Texas Two LLC,Batteries,MWH,306.9,TX,Webb,(L) Regulatory approvals pending. Not under construction,2028-12,27.644178,-99.18445
+66391-BESS,Ash Creek BESS,ACTX BESS Project LLC,Batteries,MWH,306,TX,Hill,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,31.900218,-97.01642
+67776-GRS2P,Cuchillas PV and BESS,Gransolar Texas Two LLC,Solar Photovoltaic,SUN,305.6,TX,Webb,(L) Regulatory approvals pending. Not under construction,2028-12,27.644178,-99.18445
+66691-BRIGG,"Briggs Solar, LLC","Intersect USA, LLC",Solar Photovoltaic,SUN,305,TX,Haskell,(L) Regulatory approvals pending. Not under construction,2027-12,33.144326,-99.55977
+65853-MIDBS,Banita Creek- Spindlepop Solar,Parliament Energy Holdings LLC,Batteries,MWH,302.9,TX,Nacogdoches,(L) Regulatory approvals pending. Not under construction,2027-04,31.5552,-94.7919
+68739-UVAPV,Uva Creek Solar,Red River Clean Energy,Solar Photovoltaic,SUN,301,TX,Borden,(T) Regulatory approvals received. Not under construction,2028-08,32.679762,-101.5044
+68030-RDHLW,Red Hollow Renewable Energy,Vesper Energy Development LLC,Solar Photovoltaic,SUN,300,TX,Archer,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,33.564936,-98.612
+68030-RHLWB,Red Hollow Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,300,TX,Archer,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,33.564936,-98.612
+69364-REDEG,Red Egret,"Red Egret, LLC",Batteries,MWH,300,TX,Galveston,"(U) Under construction, less than or equal to 50 percent complete",2027-10,29.4229,-95.0049
+65850-ELIBS,Elio Energy LLC,Elio Energy LLC,Batteries,MWH,300,TX,Brazoria,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,29.247678,-95.68546
+66309-UVPV2,Uvalde Solar 2,"RWE Americas, LLC",Solar Photovoltaic,SUN,300,TX,Uvalde,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,29.225768,-99.69913
+68033-SNRSE,Sunrose Renewable Energy,Vesper Energy Development LLC,Solar Photovoltaic,SUN,300,TX,Austin,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,29.674226,-96.12137
+68033-SRSEB,Sunrose Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,300,TX,Austin,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,29.674226,-96.12137
+70204-CANPV,Cantaloupe Solar,Cantaloupe Solar - ERCOT,Solar Photovoltaic,SUN,300,TX,Reeves,"(U) Under construction, less than or equal to 50 percent complete",2027-12,31.05668,-103.6634
+70330-BRSPV,Bighorn Ridge Solar,NextEra Energy Resources - ERCOT,Solar Photovoltaic,SUN,300,TX,Pecos,(T) Regulatory approvals received. Not under construction,2027-12,30.956251,-103.028
+70367-OBAES,O'Bannion Energy Storage,"O'Bannion Energy Storage, LLC",Batteries,MWH,300,TX,Jack,(T) Regulatory approvals received. Not under construction,2028-12,33.041,-98.339
+67649-AMERA,Amerada,Cypress Creek Renewables,Solar Photovoltaic,SUN,300,TX,Freestone,(L) Regulatory approvals pending. Not under construction,2029-07,31.861926,-96.11463
+69640-73509,Cazadores Solar,Cazadores Solar LLC,Solar Photovoltaic,SUN,300,TX,Duval,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,27.392246,-98.50107
+69644-58441,Pease River Solar,Pease River Solar LLC,Solar Photovoltaic,SUN,300,TX,Foard,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,33.991957,-99.69277
+69150-SYPRT,Sypert Branch Solar,Sypert Branch Solar LLC,Solar Photovoltaic,SUN,293.9,TX,Milam,"(U) Under construction, less than or equal to 50 percent complete",2026-12,30.877895,-97.1944
+59243-CHAN1,Changing Winds,Invenergy Services LLC,Onshore Wind Turbine,WND,288,TX,Castro,(L) Regulatory approvals pending. Not under construction,2028-03,34.511944,-102.0519
+69606-7496,"Monarch Creek Wind, LLC","Monarch Creek Wind, LLC",Onshore Wind Turbine,WND,287.6,TX,Throckmorton,"(V) Under construction, more than 50 percent complete",2027-02,33.183899,-99.42239
+69496-PDRA,Piedra Solar,"Piedra Solar, LLC",Solar Photovoltaic,SUN,280,TX,Freestone,"(TS) Construction complete, but not yet in commercial operation",2026-12,31.648989,-96.34517
+67542-BHWP,Blue Hills Wind Project,"Greenalia Wind Power Blue Hills, LLC",Onshore Wind Turbine,WND,276,TX,Val Verde,(L) Regulatory approvals pending. Not under construction,2029-12,30.233597,-101.3636
+69588-YCWT,"Yellow Cat Wind, LLC","RWE Americas, LLC",Onshore Wind Turbine,WND,270,TX,Navarro,"(V) Under construction, more than 50 percent complete",2026-12,32.07,-96.83
+69403-GOOD2,Goodnight Wind II,"FGE Goodnight II, LLC",Onshore Wind Turbine,WND,265.5,TX,Armstrong,"(U) Under construction, less than or equal to 50 percent complete",2027-05,34.937162,-101.4339
+68873-BIGS,Big Sampson Wind,"Big Sampson Wind Project, LLC",Onshore Wind Turbine,WND,265,TX,Crockett,"(TS) Construction complete, but not yet in commercial operation",2026-12,30.981883,-101.8505
+65893-OCIRO,OCI SunRoper,OCI Energy LLC,Solar Photovoltaic,SUN,260,TX,Wharton,(L) Regulatory approvals pending. Not under construction,2027-12,29.240399,-96.01154
+69799-F1G01,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,260,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,35.283762,-101.569
+69799-F1G02,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,260,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,35.283762,-101.569
+69799-F1G03,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,260,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,35.283762,-101.569
+69799-F2G01,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,260,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,35.283762,-101.569
+69799-F2G02,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,260,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,35.283762,-101.569
+69799-F2G03,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,260,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,35.283762,-101.569
+67837-RAYRS,Ray Ranch Solar,Ray Ranch Solar LLC,Solar Photovoltaic,SUN,255.2,TX,Goliad,"(TS) Construction complete, but not yet in commercial operation",2026-12,28.628,-97.724
+66411-RMSY,Hecate Grid East Valley Storage,"Hecate Grid East Valley Storage, LLC",Batteries,MWH,255,TX,Cameron,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,25.94113,-97.53276
+69892-OAK,Oak Valley Solar,Oak Valley Solar LLC,Solar Photovoltaic,SUN,251.3,TX,Ellis,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,32.012951,-96.49974
+69681-DRAKE,Mallard Energy Storage,"Mallard Energy Storage, LLC",Batteries,MWH,250,TX,Collin,"(U) Under construction, less than or equal to 50 percent complete",2026-10,33.064274,-96.45051
+65880-ZEYA,Zeya,Engie North America,Batteries,MWH,250,TX,Galveston,"(U) Under construction, less than or equal to 50 percent complete",2026-12,29.388758,-94.94793
+67357-4666,Tiger Solar,"Vaca Del Sol, LLC",Solar Photovoltaic,SUN,250,TX,Jones,"(V) Under construction, more than 50 percent complete",2026-12,32.796921,-99.88089
+70300-USADC,Adams Creek Solar Project,"Adams Creek Solar Project, LLC",Solar Photovoltaic,SUN,250,TX,Wilbarger,(T) Regulatory approvals received. Not under construction,2027-06,34.15382,-98.96333
+67552-ELMBA,Elm Flats Solar,"Headwater Energy, LLC",Batteries,MWH,250,TX,Navarro,"(U) Under construction, less than or equal to 50 percent complete",2027-09,32.113579,-96.30476
+68583-RRB,Rock N' Roll,Lydian Energy,Batteries,MWH,250,TX,Brazoria,(L) Regulatory approvals pending. Not under construction,2027-10,29.299371,-95.42218
+63202-701,TREX US Red Holly,TREX US Red Holly LLC,Solar Photovoltaic,SUN,250,TX,Lynn,(L) Regulatory approvals pending. Not under construction,2027-12,32.952,-101.737
+70047-SSPV,Selenite Springs Solar,NextEra Energy Resources - ERCOT,Solar Photovoltaic,SUN,250,TX,Pecos,(L) Regulatory approvals pending. Not under construction,2027-12,30.992503,-103.0571
+70034-ES,"Evlou Solar, LLC","Evlou Solar, LLC",Solar Photovoltaic,SUN,250,TX,El Paso,"(U) Under construction, less than or equal to 50 percent complete",2028-01,31.507744,-106.0534
+70034-ESS,"Evlou Solar, LLC","Evlou Solar, LLC",Batteries,MWH,250,TX,El Paso,"(U) Under construction, less than or equal to 50 percent complete",2028-01,31.507744,-106.0534
+67987-MYSPB,Mystic Springs Renewable Energy (Hybrid),Vesper Energy Development LLC,Batteries,MWH,250,TX,Kaufman,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,32.821255,-96.19042
+67987-MYSPS,Mystic Springs Renewable Energy (Hybrid),Vesper Energy Development LLC,Solar Photovoltaic,SUN,250,TX,Kaufman,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,32.821255,-96.19042
+68351-CLAPV,Clairemont Solar,Clairemont Solar LLC,Solar Photovoltaic,SUN,250,TX,Kent,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,33.371565,-100.9758
+68356-LUBA2,Lazy U ESS 2,Lazy U ESS 2 LLC,Batteries,MWH,250,TX,Hardeman,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,34.265496,-99.87214
+68357-LUPV1,Lazy U Solar 1,Lazy U Solar 1 LLC,Solar Photovoltaic,SUN,250,TX,Hardeman,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,34.265496,-99.87214
+68358-LUPV2,Lazy U Solar 2,Lazy U Solar 2 LLC,Solar Photovoltaic,SUN,250,TX,Hardeman,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,34.265496,-99.87214
+68355-LUBA1,Lazy U ESS 1,Lazy U ESS 1 LLC,Batteries,MWH,250,TX,Hardeman,"(P) Planned for installation, but regulatory approvals not initiated",2030-07,34.265496,-99.87214
+69506-GAIPV,Gail Mountain Solar,Red River Clean Energy,Solar Photovoltaic,SUN,244.4,TX,Borden,(T) Regulatory approvals received. Not under construction,2028-08,32.714612,-101.5274
+66896-LP2PV,"Lupinus Solar 2, LLC",Sunraycer Assets I LLC,Solar Photovoltaic,SUN,244,TX,Franklin,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,30.303385,-95.25692
+66168-GEN01,Cattlemen Solar Park,Cattlemen Solar Park LLC,Solar Photovoltaic,SUN,240,TX,Milam,"(TS) Construction complete, but not yet in commercial operation",2026-10,31.045676,-96.85863
+66421-GRS13,Despain Solar,"Gransolar Texas Thirteen, LLC",Solar Photovoltaic,SUN,236.2,TX,Kinney,(L) Regulatory approvals pending. Not under construction,2027-12,29.282259,-100.2098
+69295-DFBSS,Duffy BESS,Duffy Energy Storage LLC,Batteries,MWH,235.9,TX,Matagorda,"(V) Under construction, more than 50 percent complete",2026-12,28.854592,-96.08606
+69004-ADELI,Adelite Storage Project LLC,"Acciona Energy USA Global, LLC",Batteries,MWH,230,TX,Milam,(T) Regulatory approvals received. Not under construction,2028-03,30.622383,-97.2105
+67783-GRS12,Ventures BESS,Gransolar Texas Twelve LLC,Batteries,MWH,226.8,TX,Matagorda,(L) Regulatory approvals pending. Not under construction,2028-09,28.974482,-95.99381
+67356-6794,Throckmorton Wind,"Throckmorton Wind, LLC",Onshore Wind Turbine,WND,225.6,TX,Haskell,"(V) Under construction, more than 50 percent complete",2026-12,33.213466,-99.47612
+67767-BECBA,Bramble Energy Center,Mission Clean Energy Devco LLC,Batteries,MWH,225.1,TX,Zavala,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,28.955627,-99.72318
+68417-1,Hallsville,Southwestern Electric Power Co,Natural Gas Fired Combustion Turbine,NG,225,TX,Harrison,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,32.4607,-94.4852
+68417-2,Hallsville,Southwestern Electric Power Co,Natural Gas Fired Combustion Turbine,NG,225,TX,Harrison,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,32.4607,-94.4852
+63193-UNIT1,Alira,Luminant Generation Company LLC,Solar Photovoltaic,SUN,222.8,TX,Andrews,(L) Regulatory approvals pending. Not under construction,2030-01,32.347392,-102.9677
+69520-AMDRB,Amador BESS,BT Amador Storage LLC,Batteries,MWH,220,TX,Van Zandt,"(V) Under construction, more than 50 percent complete",2027-04,32.479347,-96.0321
+68668-RIC90,Coke BESS,"RIC Development, LLC",Batteries,MWH,220,TX,Coke,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,31.862499,-100.7638
+69149-ANSN2,Anson 2 Solar,"Anson Solar Center 2, LLC",Solar Photovoltaic,SUN,218.5,TX,Jones,"(V) Under construction, more than 50 percent complete",2026-12,32.805609,-99.91901
+67996-SEPAS,Leuven Solar LLC,Belgian Renewable Energy Group (BREG),Solar Photovoltaic,SUN,217,TX,Nolan,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,32.49301,-100.2463
+66559-TXJC1,Jones City 1 Solar,"Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,215,TX,Jones,"(TS) Construction complete, but not yet in commercial operation",2026-10,32.781168,-100.0065
+64672-BLUJS,"Blue Jay Solar I, LLC","Blue Jay Solar I, LLC",Solar Photovoltaic,SUN,210,TX,Grimes,"(TS) Construction complete, but not yet in commercial operation",2026-10,30.705329,-96.06983
+70237-MULE1,Mule Shoe Energy Storage,Mule Shoe Energy Storage LLC,Batteries,MWH,207,TX,Yoakum,(T) Regulatory approvals received. Not under construction,2028-08,33.125909,-102.76
+70514-GEN1,Hoyte Solar,Milano Solar LLC,Solar Photovoltaic,SUN,206.8,TX,Milam,"(V) Under construction, more than 50 percent complete",2027-07,30.722496,-96.77352
+69507-NHKRY,New Hickory Solar,New Hickory Solar LLC,Solar Photovoltaic,SUN,206,TX,Jackson,"(TS) Construction complete, but not yet in commercial operation",2026-11,29.069747,-96.8782
+67543-DOGSP,Donegal Solar Project,"HE-Cottonwood Solar, LLC",Solar Photovoltaic,SUN,204.2,TX,Dickens,(T) Regulatory approvals received. Not under construction,2028-10,33.796247,-100.8728
+67341-NOSPV,SGT Hoskins Solar Project Hybrid,"SGT Hoskins Solar Project, LLC",Solar Photovoltaic,SUN,204.1,TX,Lamar,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,33.63124,-95.33785
+68853-LMWOD,Limewood Bell Renewables Solar,Modal Power LLC,Solar Photovoltaic,SUN,204,TX,Bell,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.129365,-97.26139
+67353-4666,Erath County Solar,Erath County Solar LLC,Solar Photovoltaic,SUN,204,TX,Erath,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,32.089488,-98.17853
+67917-CHMPN,"Champaign BESS, LLC","Samsung C&T Renewables, LLC",Batteries,MWH,202.7,TX,Glasscock,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,31.871567,-101.7384
+68275-1,Erin,Erin Solar LLC,Solar Photovoltaic,SUN,202,TX,Wharton,"(P) Planned for installation, but regulatory approvals not initiated",2029-10,29.163,-96.013
+67918-DIOS,"Dios BESS, LLC","Samsung C&T Renewables, LLC",Batteries,MWH,201.6,TX,Jackson,"(P) Planned for installation, but regulatory approvals not initiated",2027-08,29.012998,-96.5051
+67575-NZRTH,TX Nazareth Solar,Vesper Energy Development LLC,Solar Photovoltaic,SUN,201,TX,Swisher,(T) Regulatory approvals received. Not under construction,2027-08,34.49,-101.97
+68902-ECHPV,Echols Grove Solar,Echols Grove LLC,Solar Photovoltaic,SUN,201,TX,Lamar,(L) Regulatory approvals pending. Not under construction,2027-12,33.616471,-95.45837
+67535-ASHU1,Bell Creek BESS LLC,Nexus Renewables U.S. Inc.,Batteries,MWH,200.9,TX,Brazoria,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,29.137519,-95.66797
+68168-KAHBA,Kahla Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,200.9,TX,Leon,(L) Regulatory approvals pending. Not under construction,2028-12,31.325705,-96.26071
+69120-RESBS,Resaca Oasis Storage,Red River Clean Energy,Batteries,MWH,200.7,TX,Cameron,(T) Regulatory approvals received. Not under construction,2028-09,25.978783,-97.37263
+67558-RIC96,Blackcat BESS,"RIC Development, LLC",Batteries,MWH,200.6,TX,Matagorda,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,28.974879,-95.99499
+70021-STACB,Staccato BESS,Sunraycer Assets I LLC,Batteries,MWH,200.5,TX,Fayette,"(U) Under construction, less than or equal to 50 percent complete",2027-04,30.053062,-96.92122
+67976-GEN01,Cattlemen Solar II,Cattlemen Solar Park II LLC,Solar Photovoltaic,SUN,200,TX,Milam,"(TS) Construction complete, but not yet in commercial operation",2026-10,31.083559,-96.85732
+68481-HS2,Hill Solar II,"Hill Solar II, LLC",Solar Photovoltaic,SUN,200,TX,Hill,"(TS) Construction complete, but not yet in commercial operation",2026-10,32.115203,-97.06783
+68914-12343,Padua 3,Padua 3,Batteries,MWH,200,TX,Bexar,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.325064,-98.32562
+68425-TWPII,Tidwell Prairie II,Tidwell Prairie IIA LLC,Batteries,MWH,200,TX,Robertson,"(V) Under construction, more than 50 percent complete",2026-11,31.103064,-96.66494
+69155-AHBA1,Apache Hill Energy Center,Apache Hill Energy Center,Batteries,MWH,200,TX,Hood,"(V) Under construction, more than 50 percent complete",2026-11,32.380005,-97.72782
+65870-CASTR,Castor,Engie North America,Batteries,MWH,200,TX,Brazoria,"(U) Under construction, less than or equal to 50 percent complete",2026-12,29.150279,-95.65118
+69392-BBIA,Barton Branch IA,Barton Branch IA LLC,Batteries,MWH,200,TX,Robertson,"(U) Under construction, less than or equal to 50 percent complete",2027-01,31.103064,-96.66494
+66893-TXJS2,Jones City 2 Solar,"Lightsource Renewable Energy Asset Management, LLC",Batteries,MWH,200,TX,Jones,"(U) Under construction, less than or equal to 50 percent complete",2027-03,32.794928,-99.99293
+67249-RRES,Rock Rose Energy Storage,Rock Rose Energy Storage LLC,Batteries,MWH,200,TX,Fort Bend,"(U) Under construction, less than or equal to 50 percent complete",2027-03,29.395241,-95.73535
+70400-BEE1A,Bee Branch IA,"Bee Branch IA, LLC",Batteries,MWH,200,TX,Robertson,"(U) Under construction, less than or equal to 50 percent complete",2027-06,31.104838,-96.66477
+68348-ACESS,Alamo City ESS,Alamo City ESS LLC,Batteries,MWH,200,TX,Bexar,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,29.345305,-98.31948
+68906-PFBA2,Pine Forest Solar I,"Pine Forest Solar I, LLC",Batteries,MWH,200,TX,Hopkins,"(U) Under construction, less than or equal to 50 percent complete",2027-08,33.100779,-95.39229
+67768-CECBA,Cumbia Energy Center,Mission Clean Energy Devco LLC,Batteries,MWH,200,TX,Nueces,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,27.739083,-97.44955
+66401-OHLPV,OCI Hillsboro,HEC Renewable Energy America LLC,Solar Photovoltaic,SUN,200,TX,Hill,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,31.941,-97.021
+66401-OHLBS,OCI Hillsboro,HEC Renewable Energy America LLC,Batteries,MWH,200,TX,Hill,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.941,-97.021
+66904-LBTN,"Lumberton PV I, LLC","Lumberton PV I, LLC",Solar Photovoltaic,SUN,200,TX,Hardin,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,30.298323,-94.27631
+67354-5698,Waco Solar II,"Waco Solar II, LLC",Solar Photovoltaic,SUN,200,TX,Limestone,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.71062,-96.7914
+67652-BHALU,Bhalu,Cypress Creek Renewables,Batteries,MWH,200,TX,Howard,(L) Regulatory approvals pending. Not under construction,2027-12,32.31219,-101.3378
+69982-3569,Diamondback Solar,"Diamondback Solar, LLC",Solar Photovoltaic,SUN,200,TX,Starr,(T) Regulatory approvals received. Not under construction,2027-12,26.426684,-98.70102
+67985-HRNT2,Hornet Solar II (TX) (Hybrid),Vesper Energy Development LLC,Solar Photovoltaic,SUN,200,TX,Swisher,(L) Regulatory approvals pending. Not under construction,2028-03,34.483406,-101.9699
+67985-HRT2B,Hornet Solar II (TX) (Hybrid),Vesper Energy Development LLC,Batteries,MWH,200,TX,Swisher,(L) Regulatory approvals pending. Not under construction,2028-03,34.483406,-101.9699
+67250-ALIBS,Alina Energy LLC,Alina Energy LLC,Batteries,MWH,200,TX,Wilson,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,29.161128,-98.08988
+67250-ALIPV,Alina Energy LLC,Alina Energy LLC,Solar Photovoltaic,SUN,200,TX,Wilson,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,29.161128,-98.08988
+68604-DALPV,Dahlia Energy,Dahlia Energy LLC,Solar Photovoltaic,SUN,200,TX,La Salle,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,28.369598,-98.96762
+65847-ELDBS,Eldora Energy LLC,Eldora Energy LLC,Batteries,MWH,200,TX,Matagorda,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,28.865989,-96.12169
+65847-ELDPV,Eldora Energy LLC,Eldora Energy LLC,Solar Photovoltaic,SUN,200,TX,Matagorda,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,28.865989,-96.12169
+68347-ABPV1,Abeja Solar Farm,Abeja Solar Farm LLC,Solar Photovoltaic,SUN,200,TX,Bee,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,28.288244,-97.84019
+68362-SABS1,Sun Angel ESS,Sun Angel ESS LLC,Batteries,MWH,200,TX,Angelina,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,31.345947,-94.66785
+68090-WILLO,Willow Beach Wind,AES Clean Energy,Onshore Wind Turbine,WND,200,TX,Brazoria,(L) Regulatory approvals pending. Not under construction,2029-02,29.249522,-95.13416
+68349-AVBS1,Avant Prairie ESS,Avant Prairie ESS LLC,Batteries,MWH,200,TX,Freestone,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,31.625891,-96.12222
+68350-BESS1,Bravo ESS,Bravo ESS LLC,Batteries,MWH,200,TX,Zapata,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,27.285037,-99.41187
+68360-PRESS,Prost ESS,Prost ESS LLC,Batteries,MWH,200,TX,Austin,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,29.957853,-96.53331
+68363-SSESS,SunShiner ESS,SunShiner ESS LLC,Batteries,MWH,200,TX,Zavala,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,28.937123,-99.83407
+68364-TBESS,Tex-Bar ESS,Tex-Bar ESS LLC,Batteries,MWH,200,TX,Madison,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,30.930573,-96.03037
+68084-MLB,Morrow Lake BESS,"Leeward Asset Management, LLC",Batteries,MWH,200,TX,Frio,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,28.936239,-99.08318
+69637-28152,Oakley BESS,Oakley BESS LLC,Batteries,MWH,200,TX,Denton,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,33.41854,-97.18809
+69641-49453,Metro BESS,Metro BESS LLC,Batteries,MWH,200,TX,Caldwell,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,30.003245,-97.67794
+68361-RUESS,Rush ESS,Rush ESS LLC,Batteries,MWH,200,TX,Bexar,"(P) Planned for installation, but regulatory approvals not initiated",2031-12,29.307639,-98.29673
+58835-ELK4,Elk Station,"Golden Spread Electric Cooperative, Inc",Natural Gas Fired Combustion Turbine,NG,199.8,TX,Hale,"(U) Under construction, less than or equal to 50 percent complete",2027-03,33.865,-101.8433
+68767-BRGSP,Greenalia Solar Power Blackwelder Ranch,"Greenalia Solar Power Blackwelder Ranch, LLC",Solar Photovoltaic,SUN,199.7,TX,Pecos,"(P) Planned for installation, but regulatory approvals not initiated",2030-06,30.81256,-102.1865
+69780-OCPV1,Oystercatcher Solar,"Cardinal Investment Company, Inc.",Solar Photovoltaic,SUN,197,TX,Ellis,"(V) Under construction, more than 50 percent complete",2027-03,32.192556,-96.91867
+67798-GRS7,Steelhead Energy Storage,"GRS BESS Texas Seven, LLC",Batteries,MWH,193.7,TX,Fannin,(L) Regulatory approvals pending. Not under construction,2027-09,33.633102,-96.15789
+66673-66666,"Accalia Point Solar, LLC","Accalia Point Solar, LLC",Solar Photovoltaic,SUN,190.5,TX,Cameron,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,26.098075,-97.83752
+67777-GRS4B,Harryoung PV and BESS,Gransolar Texas Four LLC,Batteries,MWH,190,TX,Cameron,(L) Regulatory approvals pending. Not under construction,2028-05,26.276027,-97.63249
+67777-GRS4P,Harryoung PV and BESS,Gransolar Texas Four LLC,Solar Photovoltaic,SUN,190,TX,Cameron,(L) Regulatory approvals pending. Not under construction,2028-05,26.276027,-97.63249
+68411-NORPV,Noor Solar,"Industrial Kilo Project, LLC",Solar Photovoltaic,SUN,188.2,TX,Chambers,(L) Regulatory approvals pending. Not under construction,2028-03,29.909115,-94.96756
+67555-RIC98,Zephyr Storage,"RIC Development, LLC",Batteries,MWH,185.6,TX,Brown,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,31.707049,-98.85746
+67556-RIC97,Serrano BESS,"RIC Development, LLC",Batteries,MWH,185.6,TX,Maverick,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,28.837905,-100.5487
+66893-TXJC2,Jones City 2 Solar,"Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,185,TX,Jones,"(TS) Construction complete, but not yet in commercial operation",2026-10,32.794928,-99.99293
+69579-HMWT,"Honey Mesquite Wind, LLC","RWE Americas, LLC",Onshore Wind Turbine,WND,180.5,TX,Sterling,"(TS) Construction complete, but not yet in commercial operation",2026-12,32.030383,-101.1672
+67559-RIC95,Dunlay Solar,"RIC Development, LLC",Solar Photovoltaic,SUN,180.4,TX,Medina,"(P) Planned for installation, but regulatory approvals not initiated",2030-05,29.314674,-99.09725
+69151-ARY_B,Arroyo Storage,"BT Cantwell Solar, LLC",Batteries,MWH,180,TX,Cameron,"(TS) Construction complete, but not yet in commercial operation",2026-11,26.264311,-97.61156
+69245-NTFL,Nightfall Solar,Sol Systems,Solar Photovoltaic,SUN,180,TX,Uvalde,"(U) Under construction, less than or equal to 50 percent complete",2026-12,29.259299,-99.72513
+66891-245BS,Indigo Solar & Storage,Innovative Solar 245 LLC,Batteries,MWH,180,TX,Fisher,"(P) Planned for installation, but regulatory approvals not initiated",2027-05,32.628061,-100.236
+70183-FSPV,Flatland Solar,"Flatland Solar Energy, LLC",Solar Photovoltaic,SUN,180,TX,Scurry,(L) Regulatory approvals pending. Not under construction,2027-11,32.618367,-100.9789
+62846-WWE1,Water Valley Wind Energy,"Tri Global Energy, LLC",Onshore Wind Turbine,WND,180,TX,Tom Green,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.611223,-100.8133
+68814-ASHU2,Brazos River BESS LLC,Nexus Renewables U.S. Inc.,Batteries,MWH,180,TX,Brazoria,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,29.150409,-95.62124
+65975-TXSD2,Starr Solar Ranch,"Lightsource Renewable Energy Asset Management, LLC",Batteries,MWH,180,TX,Starr,(L) Regulatory approvals pending. Not under construction,2031-12,26.523359,-99.01711
+68176-WILBA,Willis Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,176.1,TX,Rains,(L) Regulatory approvals pending. Not under construction,2027-09,32.870406,-95.74785
+68165-BROBA,Brotherton Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,176.1,TX,Anderson,(L) Regulatory approvals pending. Not under construction,2027-12,31.687913,-95.73988
+68171-MCMBA,Mcmurtre Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,176.1,TX,Hunt,(L) Regulatory approvals pending. Not under construction,2027-12,33.179664,-95.80922
+68178-YOOBA,Yooperlite Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,175.7,TX,Wise,(L) Regulatory approvals pending. Not under construction,2027-12,33.033186,-97.88031
+64349-6666,Armadillo Solar Center,AES Clean Energy,Solar Photovoltaic,SUN,175,TX,Navarro,"(U) Under construction, less than or equal to 50 percent complete",2027-04,32.00014,-96.2027
+69984-6059,Hackberry Creek Solar,"Hackberry Creek Solar, LLC",Solar Photovoltaic,SUN,175,TX,Mitchell,(T) Regulatory approvals received. Not under construction,2028-03,32.393074,-100.8702
+68459-5961,"Bob Creek Wind, LLC","Bob Creek Wind, LLC",Onshore Wind Turbine,WND,175,TX,Sterling,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,31.868813,-101.2275
+67956-CONPV,Concho Pearl Solar and Storage,Red River Clean Energy,Solar Photovoltaic,SUN,171.9,TX,Concho,(T) Regulatory approvals received. Not under construction,2027-10,31.465492,-99.93435
+69110-CONEF,Coneflower Storage Project LLC,"Acciona Energy USA Global, LLC",Batteries,MWH,170.9,TX,Chambers,(L) Regulatory approvals pending. Not under construction,2028-07,29.8547,-94.9254
+66390-GDYPV,MRG Goody Solar Project Hybrid,"Nexus Renewable Power, LLC",Solar Photovoltaic,SUN,170.8,TX,Lamar,"(V) Under construction, more than 50 percent complete",2026-10,33.639193,-95.62905
+66397-TOKIO,Tokio Solar,"Gransolar Texas Eight, LLC",Solar Photovoltaic,SUN,170.4,TX,McLennan,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,31.427419,-97.31086
+67222-1,Yellow Viking Solar,Lydian Energy,Solar Photovoltaic,SUN,170,TX,Somervell,(L) Regulatory approvals pending. Not under construction,2027-10,32.31664,-97.62889
+68082-BBP,Bluebonnet Prairie Wind,"Leeward Asset Management, LLC",Onshore Wind Turbine,WND,170,TX,Navarro,"(U) Under construction, less than or equal to 50 percent complete",2027-12,32.143863,-96.30097
+69991-SN1,Segno Solar Station,Entergy Louisiana LLC,Solar Photovoltaic,SUN,170,TX,Polk,"(P) Planned for installation, but regulatory approvals not initiated",2029-03,30.577,-94.686
+68769-M3GSP,Greenalia Solar Power Misae III,"Greenlia Solar Power Misae III, LLC",Solar Photovoltaic,SUN,169.6,TX,Childress,(T) Regulatory approvals received. Not under construction,2027-09,34.343755,-100.0668
+66976-WAPPA,"Carol Wind, LLC","Carol Wind, LLC",Onshore Wind Turbine,WND,167.8,TX,Potter,(T) Regulatory approvals received. Not under construction,2027-12,35.259819,-102.0643
+70441-PALO2,Palo Duro Energy Storage II,"Palo Duro Energy Center, LLC",Batteries,MWH,165.7,TX,Ochiltree,"(P) Planned for installation, but regulatory approvals not initiated",2029-05,36.410697,-101.0149
+66895-LP1PV,"Lupinus Solar 1, LLC",Sunraycer Assets I LLC,Solar Photovoltaic,SUN,165,TX,Franklin,"(U) Under construction, less than or equal to 50 percent complete",2027-09,30.303385,-95.25692
+67956-CONBS,Concho Pearl Solar and Storage,Red River Clean Energy,Batteries,MWH,162.4,TX,Concho,(T) Regulatory approvals received. Not under construction,2027-10,31.465492,-99.93435
+63342-BKII,McCrae Wind Energy II,"McCrae Wind Energy II, LLC",Onshore Wind Turbine,WND,162.1,TX,Glasscock,"(TS) Construction complete, but not yet in commercial operation",2026-12,31.754037,-101.6752
+67774-GRS3,Pecan BESS,"Gransolar Texas Three, LLC",Batteries,MWH,157.1,TX,Leon,(L) Regulatory approvals pending. Not under construction,2028-12,31.078667,-96.22328
+68667-RIC89,Chimney Rock BESS,"RIC Development, LLC",Batteries,MWH,156,TX,Taylor,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,32.387494,-99.84846
+70584-SOSBA,SOSA Energy Center,"SOSA Energy Center, LLC",Batteries,MWH,155.8,TX,Madison,"(U) Under construction, less than or equal to 50 percent complete",2027-07,30.927401,-96.0738
+67078-GRS3,Quarter Ranch Solar,"Gransolar Texas Three, LLC",Solar Photovoltaic,SUN,154.1,TX,Webb,(L) Regulatory approvals pending. Not under construction,2028-10,27.301064,-99.43041
+67581-CIRSA,Cairos Solar and Storage,"Samsung C&T Renewables, LLC",Solar Photovoltaic,SUN,153.3,TX,Kinney,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,29.269974,-100.1975
+59971-ESTR1,Easter,"Enbridge Wind (Easter), LLC",Onshore Wind Turbine,WND,152,TX,Castro,"(V) Under construction, more than 50 percent complete",2027-03,34.668882,-102.3517
+66905-SOLAR,Ables Springs Solar & Storage,"Ables Springs Solar, LLC",Solar Photovoltaic,SUN,151,TX,Kaufman,"(TS) Construction complete, but not yet in commercial operation",2026-10,32.819566,-96.18484
+68478-DRK,Darkwood Solar,"Mustang Creek Solar I, LLC",Solar Photovoltaic,SUN,150.7,TX,Comanche,(L) Regulatory approvals pending. Not under construction,2027-10,31.928528,-98.4241
+69277-GR001,Gunnar Reliability Project,Gunnar Reliability Project LLC,Batteries,MWH,150,TX,Hidalgo,"(U) Under construction, less than or equal to 50 percent complete",2026-12,26.315571,-98.14851
+69605-TENN,Tennyson Solar,BNB Tennyson Solar LLC,Solar Photovoltaic,SUN,150,TX,Coke,"(U) Under construction, less than or equal to 50 percent complete",2026-12,31.726229,-100.2771
+67995-PWS,Piney Woods Solar,"Piney Woods Solar, LLC",Solar Photovoltaic,SUN,150,TX,Walker,"(V) Under construction, more than 50 percent complete",2027-02,30.718683,-95.66965
+66891-IS245,Indigo Solar & Storage,Innovative Solar 245 LLC,Solar Photovoltaic,SUN,150,TX,Fisher,"(P) Planned for installation, but regulatory approvals not initiated",2027-05,32.628061,-100.236
+70377-BES,Boxcar Energy Storage,"Boxcar Energy Storage, LLC",Batteries,MWH,150,TX,Collin,"(V) Under construction, more than 50 percent complete",2027-05,33.018516,-96.52003
+68901-PVCLA,Cedar Range Solar,Cedar Range LLC,Solar Photovoltaic,SUN,150,TX,Hopkins,(L) Regulatory approvals pending. Not under construction,2027-09,33.057483,-95.82701
+69660-HS,El Patrimonio,Heritage Solar LLC,Solar Photovoltaic,SUN,150,TX,Bexar,(L) Regulatory approvals pending. Not under construction,2027-09,29.240499,-98.51006
+60272-WT1,"Cone Renewable Energy Project, LLC","Cone Renewable Energy Project, LLC",Onshore Wind Turbine,WND,150,TX,Crosby,(L) Regulatory approvals pending. Not under construction,2027-11,33.8093,-101.3424
+70199-PALO1,Palo Duro Energy Storage,"Palo Duro Energy Storage, LLC",Batteries,MWH,150,TX,Ochiltree,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,36.4106,-101.0102
+67358-4670,Lake Whitney Solar,"Lake Whitney Solar, LLC",Solar Photovoltaic,SUN,150,TX,Bosque,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.837644,-97.39844
+66132-TXTR1,Trinity River Solar 1,"Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,150,TX,Liberty,(L) Regulatory approvals pending. Not under construction,2028-07,30.010255,-94.48631
+68738-CANPV,Cannibal Draw Solar and Storage,Red River Clean Energy,Solar Photovoltaic,SUN,149.5,TX,Glasscock,(T) Regulatory approvals received. Not under construction,2028-04,32.023861,-101.284
+67773-GRS20,Cosper Solar,Gransolar Texas Twenty LLC,Solar Photovoltaic,SUN,148.2,TX,Bell,(L) Regulatory approvals pending. Not under construction,2027-11,30.994225,-97.79588
+68078-CHIPV,Chisme Solar and Storage,Red River Clean Energy,Solar Photovoltaic,SUN,147,TX,Brown,"(U) Under construction, less than or equal to 50 percent complete",2027-07,31.568929,-98.82195
+68078-CHIBS,Chisme Solar and Storage,Red River Clean Energy,Batteries,MWH,146,TX,Brown,"(U) Under construction, less than or equal to 50 percent complete",2027-07,31.568929,-98.82195
+67567-WEGSP,Wensowitch Solar Park,"Greenalia Solar Power Wensowitch, LLC",Solar Photovoltaic,SUN,145.6,TX,Navarro,(T) Regulatory approvals received. Not under construction,2028-11,32.300261,-96.37123
+65344-66148,Noria Hondo Solar (Hybrid),"Nexus Renewable Power, LLC",Solar Photovoltaic,SUN,145,TX,Kleberg,(L) Regulatory approvals pending. Not under construction,2027-12,27.553355,-97.67528
+68665-RIC87,Summerhill BESS,"RIC Development, LLC",Batteries,MWH,143,TX,Taylor,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,32.51289,-99.79563
+67784-GRS11,Vial BESS,Gransolar Texas Eleven LLC,Batteries,MWH,141.4,TX,Hill,(L) Regulatory approvals pending. Not under construction,2027-09,31.953772,-97.06248
+69993-VT1,Votaw Solar Station,Entergy Louisiana LLC,Solar Photovoltaic,SUN,141,TX,Hardin,"(P) Planned for installation, but regulatory approvals not initiated",2029-05,30.4355,-94.673
+70455-BES,City Breeze Energy Storage,"City Breeze Energy Storage, LLC",Batteries,MWH,140,TX,Matagorda,"(V) Under construction, more than 50 percent complete",2027-06,29.011,-95.97
+68766-PFGWP,Pioneer Field Wind Power,"Greenalia Wind Power Pioneer Field, LLC",Onshore Wind Turbine,WND,136.2,TX,Tom Green,"(P) Planned for installation, but regulatory approvals not initiated",2030-11,31.19494,-100.2118
+68666-RIC88,Stonewall BESS,"RIC Development, LLC",Batteries,MWH,135,TX,Stonewall,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,33.2466,-100.3982
+64981-CPSS1,Pecan Prairie South Solar,Repsol Renewables NA,Solar Photovoltaic,SUN,132.9,TX,Leon,"(U) Under construction, less than or equal to 50 percent complete",2027-05,31.05001,-96.221
+69101-MLB03,Millers Branch Solar,Southern Power Co,Solar Photovoltaic,SUN,132,TX,Haskell,"(U) Under construction, less than or equal to 50 percent complete",2026-12,33.22132,-99.58652
+68173-SANPV,Sandford Solar and Storage,"Belltown Power Texas 2, LLC",Solar Photovoltaic,SUN,126.2,TX,Wise,(L) Regulatory approvals pending. Not under construction,2028-12,33.30726,-97.52777
+68166-DOLBA,Dolomite Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,125.7,TX,Ellis,(L) Regulatory approvals pending. Not under construction,2028-07,32.456144,-96.73774
+68410-BRAZ,Brazoria Solar I,"Brazoria Solar i, LLC",Solar Photovoltaic,SUN,125,TX,Brazoria,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.138777,-95.37108
+68410-BRAZ2,Brazoria Solar I,"Brazoria Solar i, LLC",Solar Photovoltaic,SUN,125,TX,Brazoria,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.138777,-95.37108
+67552-ELMFL,Elm Flats Solar,"Headwater Energy, LLC",Solar Photovoltaic,SUN,125,TX,Navarro,"(U) Under construction, less than or equal to 50 percent complete",2027-09,32.113579,-96.30476
+65590-OCTNS,Octans,Engie North America,Batteries,MWH,125,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2028-12,31.000575,-102.6799
+68671-RIC91,Houston County BESS,"RIC Development, LLC",Batteries,MWH,125,TX,Houston,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,31.239009,-95.57699
+68765-HUGSP,Hutcherson Solar,"Greenalia Solar Power Hutcherson, LLC",Solar Photovoltaic,SUN,123.3,TX,Wilbarger,"(P) Planned for installation, but regulatory approvals not initiated",2030-01,34.02533,-99.26568
+68155-RIOLA,Rio Lago Solar,Modal Power LLC,Solar Photovoltaic,SUN,123,TX,Bandera,"(TS) Construction complete, but not yet in commercial operation",2026-11,29.756134,-99.09524
+66896-LP2BA,"Lupinus Solar 2, LLC",Sunraycer Assets I LLC,Batteries,MWH,122.9,TX,Franklin,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,30.303385,-95.25692
+69167-BCKBN,Backbone Creek BESS,Backbone BESS LLC,Batteries,MWH,121,TX,Burnet,"(V) Under construction, more than 50 percent complete",2026-12,30.550207,-98.25687
+68359-OCPSF,Pepper Solar Farm,"Pepper Solar Farm, LLC",Solar Photovoltaic,SUN,120,TX,McLennan,"(P) Planned for installation, but regulatory approvals not initiated",2027-08,31.678359,-97.04595
+68877-WLDC1,Wildcat Ranch Energy Storage,"Wildcat Ranch Energy Storage, LLC",Batteries,MWH,120,TX,Cochran,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,33.524176,-102.8773
+68080-GRS8B,Marcos PV and BESS,GRS BESS Texas Eight LLC,Batteries,MWH,115.9,TX,Victoria,(L) Regulatory approvals pending. Not under construction,2029-08,28.904979,-97.71017
+68080-GRS8P,Marcos PV and BESS,GRS BESS Texas Eight LLC,Solar Photovoltaic,SUN,115.9,TX,Victoria,(L) Regulatory approvals pending. Not under construction,2029-08,28.904979,-97.71017
+67779-GRS5,Hayrick BESS,Gransolar Texas Five LLC,Batteries,MWH,113.9,TX,Coke,(L) Regulatory approvals pending. Not under construction,2028-03,32.022914,-100.2926
+68768-BRGWP,Blackwelder Ranch Wind,"Greenalia Wind Power Blackwelder Ranch, LLC",Onshore Wind Turbine,WND,110.4,TX,Pecos,"(P) Planned for installation, but regulatory approvals not initiated",2030-06,30.81256,-102.1865
+66341-EGSS,Eagle Springs Hybrid,Sunraycer Assets I LLC,Solar Photovoltaic,SUN,110.1,TX,Delta,"(V) Under construction, more than 50 percent complete",2026-12,33.433264,-95.57444
+67564-REGSP,Reis Solar Park,"Greenalia Solar Power Reis, LLC",Solar Photovoltaic,SUN,105.5,TX,Atascosa,(T) Regulatory approvals received. Not under construction,2029-05,28.652762,-98.45369
+69799-F1S01,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.283762,-101.569
+69799-F1S02,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.283762,-101.569
+69799-F1S03,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.283762,-101.569
+69799-F2S01,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.283762,-101.569
+69799-F2S02,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.283762,-101.569
+69799-F2S03,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.283762,-101.569
+69799-FBS01,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.283762,-101.569
+69799-ES001,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES002,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES003,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES004,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES005,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES006,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES007,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES008,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES009,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES010,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES011,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES012,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES013,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES014,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES015,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-ES016,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS001,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS002,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS003,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS004,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS005,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS006,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS007,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS008,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS009,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS010,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS011,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS012,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS013,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS014,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS015,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MS016,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,105,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+68428-GTSBY,Gatsby Energy Storage Project,Gatsby Energy Storage LLC,Batteries,MWH,103.4,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-03,30.664176,-101.7801
+68334-EVCRK,Evans Creek Energy Storage Project,Evans Creek Energy Storage LLC,Batteries,MWH,103,TX,Val Verde,"(V) Under construction, more than 50 percent complete",2026-09,29.746007,-101.1406
+66396-NDUAH,Naduah Solar,"Gransolar Texas Fifteen, LLC",Solar Photovoltaic,SUN,102.3,TX,Limestone,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,31.521467,-96.67385
+70531-PV100,Newman Buffer,El Paso Electric Co,Solar Photovoltaic,SUN,102.2,TX,El Paso,(L) Regulatory approvals pending. Not under construction,2027-02,31.98,-106.44
+67341-NOSES,SGT Hoskins Solar Project Hybrid,"SGT Hoskins Solar Project, LLC",Batteries,MWH,102.1,TX,Lamar,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,33.63124,-95.33785
+67919-DOLCE,"Dolce BESS, LLC","Samsung C&T Renewables, LLC",Batteries,MWH,101.4,TX,Mitchell,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,32.484063,-100.9018
+66894-ALBPV,"Albatross Solar, LLC",Sunraycer Assets I LLC,Solar Photovoltaic,SUN,101,TX,McLennan,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.484342,-97.42239
+68172-MYEPV,Myers Solar and Storage,"Belltown Power Texas 2, LLC",Solar Photovoltaic,SUN,100.9,TX,Goliad,(L) Regulatory approvals pending. Not under construction,2028-08,28.420043,-97.70934
+68173-SANBT,Sandford Solar and Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,100.9,TX,Wise,(L) Regulatory approvals pending. Not under construction,2028-12,33.30726,-97.52777
+68851-HSPV1,Hermes Solar PV,"Bell 1 Solar, LLC",Solar Photovoltaic,SUN,100.4,TX,Bell,"(V) Under construction, more than 50 percent complete",2026-10,30.989842,-97.14982
+68852-HSBE1,Hermes Storage BESS,"Bell 1 Storage, LLC",Batteries,MWH,100.4,TX,Bell,"(V) Under construction, more than 50 percent complete",2026-10,30.981595,-97.1429
+68149-RAVEB,Raven Storage,"Raven Storage, LLC",Batteries,MWH,100,TX,Wharton,"(V) Under construction, more than 50 percent complete",2026-10,29.575617,-96.08872
+69027-SSBA,"Stoneridge Solar, LLC","RWE Americas, LLC",Batteries,MWH,100,TX,Milam,"(TS) Construction complete, but not yet in commercial operation",2026-12,30.569447,-97.11043
+69393-PHIEC,Pamela Heights I Energy Center,Pamela Heights I Energy Center LLC,Batteries,MWH,100,TX,Harris,"(U) Under construction, less than or equal to 50 percent complete",2027-01,29.645345,-95.45021
+69687-L7SF,Lucky 7 Solar Farm LLC,Lucky 7 Solar Farm LLC,Solar Photovoltaic,SUN,100,TX,Hopkins,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.082,-95.721
+67667-3COAS,"Third Coast BESS, LLC",Cypress Creek Renewables,Batteries,MWH,100,TX,Jackson,(T) Regulatory approvals received. Not under construction,2027-11,28.852327,-96.55642
+66216-BESS,Yaupon Solar Project (Hybrid),"Yaupon Solar, LLC",Batteries,MWH,100,TX,Milam,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.0444,-96.8514
+68903-MUSPV,Solex Ridge Solar,"Solex Ridge, LLC",Solar Photovoltaic,SUN,100,TX,Henderson,(L) Regulatory approvals pending. Not under construction,2027-12,32.169946,-95.5803
+66922-59957,Timber Cove Solar,Freestone Solar LLC,Solar Photovoltaic,SUN,100,TX,Freestone,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,31.870589,-96.15247
+68604-DALBS,Dahlia Energy,Dahlia Energy LLC,Batteries,MWH,100,TX,La Salle,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,28.369598,-98.96762
+67896-229HD,Holstein 2 Battery Storage,"229HD 8me, LLC",Batteries,MWH,100,TX,Nolan,"(P) Planned for installation, but regulatory approvals not initiated",2029-05,32.081901,-100.159
+69636-69363,Main Horn Solar,Main Horn Solar LLC,Solar Photovoltaic,SUN,100,TX,Navarro,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,31.984498,-96.36558
+69639-16777,Triune Solar,Triune Solar LLC,Solar Photovoltaic,SUN,100,TX,Trinity,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,30.996927,-95.12384
+68738-CANBS,Cannibal Draw Solar and Storage,Red River Clean Energy,Batteries,MWH,98.6,TX,Glasscock,(T) Regulatory approvals received. Not under construction,2028-04,32.023861,-101.284
+67568-WIGSP,Wittig Solar Park,"Greenalia Solar Power Wittig, LLC",Solar Photovoltaic,SUN,96,TX,Wharton,(T) Regulatory approvals received. Not under construction,2029-12,29.245055,-95.87477
+67544-LEGSP,Leitrim Solar Park,"Greenalia Solar Power Leitrim, LLC",Solar Photovoltaic,SUN,91.2,TX,Hill,(T) Regulatory approvals received. Not under construction,2030-10,31.79623,-97.20278
+67561-RIC93,Callan Solar,"RIC Development, LLC",Solar Photovoltaic,SUN,90,TX,McCulloch,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,30.990928,-99.60118
+67782-GS22B,RedSun PV and BESS,Gransolar Texas Twenty Two LLC,Batteries,MWH,84,TX,Burnet,(L) Regulatory approvals pending. Not under construction,2028-07,30.784886,-98.20217
+67782-GS22P,RedSun PV and BESS,Gransolar Texas Twenty Two LLC,Solar Photovoltaic,SUN,84,TX,Burnet,(L) Regulatory approvals pending. Not under construction,2028-07,30.784886,-98.20217
+66895-LP1BA,"Lupinus Solar 1, LLC",Sunraycer Assets I LLC,Batteries,MWH,83,TX,Franklin,"(U) Under construction, less than or equal to 50 percent complete",2027-09,30.303385,-95.25692
+67566-ROGSP,Roscommon Solar Park,"Greenalia Solar Power Roscommon, LLC",Solar Photovoltaic,SUN,82.8,TX,Lamar,(T) Regulatory approvals received. Not under construction,2029-10,33.631719,-95.69587
+67563-RAGSP,Ratcliff Solar Park,"Greenalia Solar Power Ratcliff, LLC",Solar Photovoltaic,SUN,78.8,TX,Freestone,(T) Regulatory approvals received. Not under construction,2029-08,30.217058,-95.81602
+67581-CIRSB,Cairos Solar and Storage,"Samsung C&T Renewables, LLC",Batteries,MWH,77.3,TX,Kinney,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,29.269974,-100.1975
+69351-HNYBS,Honeycomb Solar and Storage,"Honeycomb Solar Holdco, LLC",Batteries,MWH,76.5,TX,Bee,"(V) Under construction, more than 50 percent complete",2026-11,28.184344,-97.77169
+66398-EYTCH,Eytcheson Solar,"Gransolar Texas Fourteen, LLC",Solar Photovoltaic,SUN,76.4,TX,Navarro,"(P) Planned for installation, but regulatory approvals not initiated",2028-01,31.872617,-96.7
+68172-MYEBT,Myers Solar and Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,75.7,TX,Goliad,(L) Regulatory approvals pending. Not under construction,2028-08,28.420043,-97.70934
+65344-66149,Noria Hondo Solar (Hybrid),"Nexus Renewable Power, LLC",Batteries,MWH,75,TX,Kleberg,(L) Regulatory approvals pending. Not under construction,2027-12,27.553355,-97.67528
+70365-BODES,Bodkin BESS,Bodkin BESS LLC,Batteries,MWH,75,TX,Brazoria,(T) Regulatory approvals received. Not under construction,2028-12,29.292,-95.301
+69351-HNYPV,Honeycomb Solar and Storage,"Honeycomb Solar Holdco, LLC",Solar Photovoltaic,SUN,74.8,TX,Bee,"(V) Under construction, more than 50 percent complete",2026-11,28.184344,-97.77169
+66691-BRUGG,"Briggs Solar, LLC","Intersect USA, LLC",Batteries,MWH,70.5,TX,Haskell,(L) Regulatory approvals pending. Not under construction,2027-12,33.144326,-99.55977
+67560-RIC94,Edens Solar,"RIC Development, LLC",Solar Photovoltaic,SUN,70,TX,Hill,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,32.063132,-97.11104
+68175-SYMPV,Symank Solar,"Belltown Power Texas 2, LLC",Solar Photovoltaic,SUN,66.6,TX,Bosque,(L) Regulatory approvals pending. Not under construction,2027-12,31.626039,-97.64211
+67781-GRS7,Lampe Solar,Gransolar Texas Seven LLC,Solar Photovoltaic,SUN,60.2,TX,Washington,(L) Regulatory approvals pending. Not under construction,2027-12,30.310524,-96.47887
+67562-RIC92,Stonewall Solar,"RIC Development, LLC",Solar Photovoltaic,SUN,60.2,TX,Stonewall,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,33.174177,-100.2308
+68495-BDOG1,Bird Dog Energy Storage,VESI 37 LLC,Batteries,MWH,60,TX,San Patricio,"(V) Under construction, more than 50 percent complete",2026-12,28.158672,-97.86231
+69799-EG001,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG002,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG003,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG004,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG005,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG006,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG007,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG008,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG009,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG010,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG011,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG012,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG013,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG014,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG015,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG016,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG017,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG018,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG019,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG020,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG021,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG022,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG023,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG024,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG025,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG026,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG027,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG028,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG029,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG030,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG031,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG032,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG033,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG034,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG035,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG036,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG037,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG038,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG039,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG040,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG041,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG042,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG043,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG044,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG045,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG046,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG047,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-EG048,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG001,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG002,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG003,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG004,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG005,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG006,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG007,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG008,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG009,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG010,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG011,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG012,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG013,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG014,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG015,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG016,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG017,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG018,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG019,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG020,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG021,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG022,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG023,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG024,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG025,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG026,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG027,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG028,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG029,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG030,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG031,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG032,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG033,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG034,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG035,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG036,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG037,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG038,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG039,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG040,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG041,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG042,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG043,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG044,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG045,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG046,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG047,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+69799-MG048,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,57,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,35.283762,-101.569
+67785-GRS19,Whistle Solar,Gransolar Texas Nineteen LLC,Solar Photovoltaic,SUN,56.3,TX,Navarro,(L) Regulatory approvals pending. Not under construction,2028-05,31.985,-96.43658
+66341-EGSB,Eagle Springs Hybrid,Sunraycer Assets I LLC,Batteries,MWH,55.1,TX,Delta,"(V) Under construction, more than 50 percent complete",2026-12,33.433264,-95.57444
+68380-ISCPV,Isaac Solar,"Industrial Bravo Project, LLC",Solar Photovoltaic,SUN,51.4,TX,Matagorda,"(U) Under construction, less than or equal to 50 percent complete",2026-12,28.797223,-95.93717
+66390-GDYES,MRG Goody Solar Project Hybrid,"Nexus Renewable Power, LLC",Batteries,MWH,50.4,TX,Lamar,"(V) Under construction, more than 50 percent complete",2026-10,33.639193,-95.62905
+66894-ALBBA,"Albatross Solar, LLC",Sunraycer Assets I LLC,Batteries,MWH,50.4,TX,McLennan,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.484342,-97.42239
+67778-GR16B,Findley PV and BESS,"Gransolar Texas Sixteen, LLC",Batteries,MWH,50.3,TX,Limestone,(L) Regulatory approvals pending. Not under construction,2028-01,31.643389,-96.77961
+67778-GR16P,Findley PV and BESS,"Gransolar Texas Sixteen, LLC",Solar Photovoltaic,SUN,50.3,TX,Limestone,(L) Regulatory approvals pending. Not under construction,2028-01,31.643389,-96.77961
+69770-BRS,Ryan Storage,Ryan Storage LLC,Batteries,MWH,50,TX,Coryell,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.53576,-97.79874
+70197-LORE1,Lorenzo Energy Storage,"Lorenzo Energy Storage, LLC",Batteries,MWH,50,TX,Crosby,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,33.749367,-101.4829
+63202-701-S,TREX US Red Holly,TREX US Red Holly LLC,Batteries,MWH,50,TX,Lynn,(L) Regulatory approvals pending. Not under construction,2027-12,32.952,-101.737
+69799-FBG01,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
+69799-FBG02,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
+69799-FBG03,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
+69799-FBG04,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
+69799-FBG05,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
+69799-FBG06,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
+67772-GRS9,Braswell Solar,Gransolar Texas Nine LLC,Solar Photovoltaic,SUN,44.2,TX,McLennan,(L) Regulatory approvals pending. Not under construction,2028-03,31.34904,-97.21786
+70343-WAGT1,GPI WACO Power,Graphic Packaging International - WACO,Natural Gas Fired Combustion Turbine,NG,43.4,TX,McLennan,"(U) Under construction, less than or equal to 50 percent complete",2027-01,31.47682,-97.18766
+69799-G6B01,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,40,TX,Carson,(T) Regulatory approvals received. Not under construction,2027-06,35.283762,-101.569
+69799-G6B02,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,40,TX,Carson,(T) Regulatory approvals received. Not under construction,2027-06,35.283762,-101.569
+69799-G6B03,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,40,TX,Carson,(T) Regulatory approvals received. Not under construction,2027-06,35.283762,-101.569
+70093-WSPV1,Wallace Solar - (TX),"Delaware Ranch Solar, LLC",Solar Photovoltaic,SUN,36,TX,Culberson,"(TS) Construction complete, but not yet in commercial operation",2027-03,31.917641,-104.3148
+65981-TXSD2,Second Division Solar,"Lightsource Renewable Energy Asset Management, LLC",Batteries,MWH,30,TX,Brazoria,(L) Regulatory approvals pending. Not under construction,2031-12,29.170545,-95.74157
+69628-GBPV1,GBG SOLAR,"Greater Bryant G Solar, LLC",Solar Photovoltaic,SUN,22.2,TX,Midland,"(TS) Construction complete, but not yet in commercial operation",2026-10,31.92835,-102.1617
+69760-RIG1,Rock Island Generation Project,Kerrville Public Utility Board Public Facility Corp,Natural Gas Internal Combustion Engine,NG,20.3,TX,Colorado,(L) Regulatory approvals pending. Not under construction,2027-09,29.55068,-96.53675
+69760-RIG2,Rock Island Generation Project,Kerrville Public Utility Board Public Facility Corp,Natural Gas Internal Combustion Engine,NG,20.3,TX,Colorado,(L) Regulatory approvals pending. Not under construction,2027-09,29.55068,-96.53675
+69760-RIG3,Rock Island Generation Project,Kerrville Public Utility Board Public Facility Corp,Natural Gas Internal Combustion Engine,NG,20.3,TX,Colorado,(L) Regulatory approvals pending. Not under construction,2027-09,29.55068,-96.53675
+69760-RIG4,Rock Island Generation Project,Kerrville Public Utility Board Public Facility Corp,Natural Gas Internal Combustion Engine,NG,20.3,TX,Colorado,(L) Regulatory approvals pending. Not under construction,2027-09,29.55068,-96.53675
+69760-RIG5,Rock Island Generation Project,Kerrville Public Utility Board Public Facility Corp,Natural Gas Internal Combustion Engine,NG,20.3,TX,Colorado,(L) Regulatory approvals pending. Not under construction,2027-09,29.55068,-96.53675
+69760-RIG6,Rock Island Generation Project,Kerrville Public Utility Board Public Facility Corp,Natural Gas Internal Combustion Engine,NG,20.3,TX,Colorado,(L) Regulatory approvals pending. Not under construction,2027-09,29.55068,-96.53675
+69799-TM001,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
+69799-TM002,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
+69799-TM003,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
+69799-TM004,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
+69799-TM005,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
+69799-TM006,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
+69799-TM007,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
+60642-1,M&G Resins USA,CC Polymers LLC,All Other,WH,14.3,TX,Nueces,"(U) Under construction, less than or equal to 50 percent complete",2028-12,27.833756,-97.49652
+60642-2,M&G Resins USA,CC Polymers LLC,All Other,WH,14.3,TX,Nueces,"(U) Under construction, less than or equal to 50 percent complete",2028-12,27.833756,-97.49652
+70542-WHI1,Mount Whitney BESS,Mount Whitney BESS LLC,Batteries,MWH,11,TX,Waller,"(V) Under construction, more than 50 percent complete",2027-02,30.159658,-95.92763
+70543-DEN1,Denali Energy Storage,Denali Energy Storage LLC,Batteries,MWH,11,TX,Austin,"(V) Under construction, more than 50 percent complete",2027-02,29.632317,-96.07565
+69864-COBA1,Colorado Clean Energy Center (BESS),On Energy Storage,Batteries,MWH,10.1,TX,Colorado,"(TS) Construction complete, but not yet in commercial operation",2026-12,29.649,-96.51519
+69865-CLBA1,Columbus Clean Energy Center (BESS),On Energy Storage,Batteries,MWH,10.1,TX,Colorado,"(TS) Construction complete, but not yet in commercial operation",2026-12,29.6789,-96.53042
+69866-MGBA1,Matagorda Clean Energy Center (BESS),On Energy Storage,Batteries,MWH,10.1,TX,Matagorda,"(TS) Construction complete, but not yet in commercial operation",2026-12,28.99489,-96.12536
+69226-KNBA1,Knapp BESS,GoldenMax Energy Inc,Batteries,MWH,10,TX,Scurry,"(V) Under construction, more than 50 percent complete",2026-10,32.6913,-101.0515
+69252-HABA1,Harlingen #1 BESS 1,Harlingen ESS Assets LLC,Batteries,MWH,10,TX,Cameron,"(V) Under construction, more than 50 percent complete",2026-11,26.206111,-97.70842
+69253-NEBA1,North Edinburg BESS 1,Edinburg ESS Assets LLC,Batteries,MWH,10,TX,Hidalgo,"(V) Under construction, more than 50 percent complete",2026-11,26.347194,-98.18844
+69665-ORCH,Orchard BESS,"IEP Tejas Verde, LLC",Batteries,MWH,10,TX,Fort Bend,"(TS) Construction complete, but not yet in commercial operation",2026-11,29.539579,-95.95732
+66410-596,Grizzly Ridge Solar,Grizzly Ridge Solar LLC,Batteries,MWH,10,TX,Hamilton,"(TS) Construction complete, but not yet in commercial operation",2026-12,31.738177,-98.21374
+70560-GWF-1,Grey Wolf,ET Genco LLC,Natural Gas Fired Combustion Turbine,NG,10,TX,Winkler,"(TS) Construction complete, but not yet in commercial operation",2027-03,31.769814,-103.2694
+70561-WT2-1,WT2,ET Genco LLC,Natural Gas Fired Combustion Turbine,NG,10,TX,Winkler,"(TS) Construction complete, but not yet in commercial operation",2027-05,31.83611,-103.305
+70533-NASH,Nash Solar,Ellomay USA Inc,Solar Photovoltaic,SUN,10,TX,Brazoria,"(U) Under construction, less than or equal to 50 percent complete",2027-06,29.253813,-95.59608
+67570-3004,Cedar Hill ESS,"Cedar Hill ESS Assets, LLC",Batteries,MWH,10,TX,Dallas,(L) Regulatory approvals pending. Not under construction,2030-06,32.612139,-96.92511
+69318-APPLE,Apple BESS,"Apple Infra, LLC",Batteries,MWH,9.9,TX,Ector,"(TS) Construction complete, but not yet in commercial operation",2026-10,31.675697,-102.3638
+69338-LEAKY,Regis Leakey,Regis Leakey LLC,Batteries,MWH,9.9,TX,Real,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.681012,-99.76172
+65834-SDBTD,Saddleback BESS2,"HEN Infrastructure, L.L.C.",All Other,OTH,9.9,TX,Reeves,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.332883,-103.4984
+69340-MEDIN,Regis Medina,Regis Medina LLC,Batteries,MWH,9.9,TX,Bandera,"(V) Under construction, more than 50 percent complete",2026-11,29.807877,-99.25467
+69534-TOR_B,Torrecillas Energy Storage,"Torrecillas Energy Storage, LLC",Batteries,MWH,9.9,TX,Webb,"(V) Under construction, more than 50 percent complete",2026-12,27.618936,-98.83924
+69246-BSOU1,BESS TX Camarine - BSHOU001,Prologis Logistics Services Incorporated BESS,Batteries,MWH,9.9,TX,Harris,"(U) Under construction, less than or equal to 50 percent complete",2027-01,29.86648,-95.43066
+70549-DARST,CF BESS NINE,"CF BESS Nine, LLC",Batteries,MWH,9.9,TX,Guadalupe,(L) Regulatory approvals pending. Not under construction,2027-01,29.586397,-97.77525
+65811-CYSTD,Coyote Springs (TX),"HEN Infrastructure, L.L.C.",Petroleum Liquids,DFO,9.9,TX,Reeves,(T) Regulatory approvals received. Not under construction,2027-02,31.39471,-103.6303
+69902-HOCKL,Hockley,Hockley LLC,Batteries,MWH,9.9,TX,Harris,"(V) Under construction, more than 50 percent complete",2027-02,30.021964,-95.84826
+69903-EBERN,East Bernard,East Bernard LLC,Batteries,MWH,9.5,TX,Wharton,"(V) Under construction, more than 50 percent complete",2026-11,29.52854,-96.07052
+69904-PLEDG,Pledger,Pledger LLC,Batteries,MWH,9.5,TX,Wharton,"(V) Under construction, more than 50 percent complete",2026-11,29.187719,-95.91223
+69262-HILL1,Hillsboro Solar Project,Ellomay USA Inc,Solar Photovoltaic,SUN,5,TX,Hill,"(V) Under construction, more than 50 percent complete",2027-01,32.029636,-97.14555
+69262-HILL2,Hillsboro Solar Project,Ellomay USA Inc,Solar Photovoltaic,SUN,5,TX,Hill,"(V) Under construction, more than 50 percent complete",2027-01,32.029636,-97.14555
+58151-STG03,Central Utility Plant - Texas A&M,"Texas A&M, Utilities & Energy Services",Natural Gas Fired Combined Cycle,NG,5,TX,Brazos,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,30.617778,-96.34333
+69271-STAG1,Staghorn Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,3.3,TX,Ward,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.457838,-103.0847
+69271-STAG2,Staghorn Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,3.3,TX,Ward,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.457838,-103.0847
+69271-STAG3,Staghorn Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,3.3,TX,Ward,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.457838,-103.0847
+69268-COYA1,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.275177,-103.1126
+69268-COYA2,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.275177,-103.1126
+69268-COYA3,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.275177,-103.1126
+69268-COYA4,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.275177,-103.1126
+65070-A04,Austin TX GigaFactory,Tesla Inc.,Solar Photovoltaic,SUN,2.3,TX,Travis,"(TS) Construction complete, but not yet in commercial operation",2026-12,30.22021,-97.61968
+66516-19500,TX Dallas 7750 Dynasty Drive,"Catalyze Dallas 7750 Dynasty Drive Microgrid, LLC",Solar Photovoltaic,SUN,2.3,TX,Dallas,"(TS) Construction complete, but not yet in commercial operation",2026-12,32.652269,-96.75577

@@ -1,0 +1,6 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+68213-1,Panton,Viridis Solar,Solar Photovoltaic,SUN,50,VT,Addison,(L) Regulatory approvals pending. Not under construction,2028-12,44.1328,-73.31151
+69667-FHS1,Fair Haven Solar,Freepoint Commodities LLC,Solar Photovoltaic,SUN,20,VT,Rutland,(T) Regulatory approvals received. Not under construction,2028-03,43.636,-73.279
+64064-SHAFT,Shaftsbury Solar,Freepoint Commodities LLC,Solar Photovoltaic,SUN,20,VT,Bennington,(L) Regulatory approvals pending. Not under construction,2028-12,42.96463,-73.16841
+69602-90918,Essex VT BESS 1,Essex VT BESS 1 LLC,Batteries,MWH,16,VT,Chittenden,"(U) Under construction, less than or equal to 50 percent complete",2026-12,44.483701,-73.10717
+61037-APPL,Apple Hill Solar,Ecos Energy LLC,Solar Photovoltaic,SUN,2,VT,Bennington,"(U) Under construction, less than or equal to 50 percent complete",2027-06,42.9077,-73.2041

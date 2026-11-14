@@ -1,0 +1,26 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69795-KEABE,Keamuku,AES Clean Energy,Batteries,MWH,86,HI,Hawaii,(L) Regulatory approvals pending. Not under construction,2030-05,19.8799,-155.7373
+69795-KEAMU,Keamuku,AES Clean Energy,Solar Photovoltaic,SUN,86,HI,Hawaii,(L) Regulatory approvals pending. Not under construction,2030-05,19.8799,-155.7373
+69743-KUIHE,Kuihelani Phase 2,AES Clean Energy,Solar Photovoltaic,SUN,40,HI,Maui,(L) Regulatory approvals pending. Not under construction,2028-11,20.8026,-156.4984
+61364-HHB,Hu Honua Bioenergy Facility,"Hu Honua Bioenergy, LLC",Other Waste Biomass,OBS,36,HI,Hawaii,"(V) Under construction, more than 50 percent complete",2027-12,19.843504,-155.0871
+66066-WAIBA,AES Waiawa Phase 2 Solar,AES Distributed Energy,Batteries,MWH,30,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-10,21.43026,-157.9779
+66066-WAIPV,AES Waiawa Phase 2 Solar,AES Distributed Energy,Solar Photovoltaic,SUN,30,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-10,21.43026,-157.9779
+58639-BESS8,KRS I Anahola Solar Hybrid,Kauai Island Utility Cooperative,Batteries,MWH,12,HI,Kauai,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,22.131667,-159.3031
+58640-BESS7,KRS II Koloa Solar,Kauai Island Utility Cooperative,Batteries,MWH,12,HI,Kauai,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,21.900833,-159.45
+68284-PE-1,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-10,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-11,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-2,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-3,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-4,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-5,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-6,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-7,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-8,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+68284-PE-9,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
+55369-BESS1,Hamakua Energy Plant,Hamakua Energy LP,Batteries,MWH,7.5,HI,Hawaii,"(P) Planned for installation, but regulatory approvals not initiated",2030-11,20.0939,-155.4711
+66002-MVSBA,AES Mountain View Solar,AES Distributed Energy,Batteries,MWH,7,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-11,21.45799,-158.1767
+66002-MVSPV,AES Mountain View Solar,AES Distributed Energy,Solar Photovoltaic,SUN,7,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-11,21.45799,-158.1767
+68285-PS-1,Puuloa Solar,Puuloa Solar LLC,Solar Photovoltaic,SUN,6.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,21.351522,-157.9269
+68285-PS-2,Puuloa Solar,Puuloa Solar LLC,Batteries,MWH,6,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,21.351522,-157.9269
+69766-KHLS,Kalaeloa Home Lands Solar,Pivot Energy,Solar Photovoltaic,SUN,1.7,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2027-01,21.310594,-158.0863

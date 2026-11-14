@@ -1,0 +1,34 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+3407-CTG1,Kingston,Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,454.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3399-CTG2,Cumberland (TN),Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,454.8,TN,Stewart,"(P) Planned for installation, but regulatory approvals not initiated",2029-01,36.3903,-87.6539
+3399-CTG1,Cumberland (TN),Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,454.8,TN,Stewart,"(U) Under construction, less than or equal to 50 percent complete",2034-12,36.3903,-87.6539
+3407-STG1,Kingston,Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,323,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3399-STG2,Cumberland (TN),Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,323,TN,Stewart,"(P) Planned for installation, but regulatory approvals not initiated",2029-01,36.3903,-87.6539
+3399-STG1,Cumberland (TN),Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,323,TN,Stewart,"(U) Under construction, less than or equal to 50 percent complete",2034-12,36.3903,-87.6539
+68568-TULLA,SR Tullahoma,"SR Tullahoma, LLC",Solar Photovoltaic,SUN,200,TN,Moore,"(V) Under construction, more than 50 percent complete",2027-04,35.360002,-86.27532
+68099-COPE,SR Copeland,"SR Copeland, LLC",Solar Photovoltaic,SUN,110,TN,Cumberland,(T) Regulatory approvals received. Not under construction,2027-12,36.035453,-85.10991
+68556-DURHM,SR Durhamville,"SR Durhamville, LLC",Solar Photovoltaic,SUN,66,TN,Haywood,(T) Regulatory approvals received. Not under construction,2027-12,35.626611,-89.46162
+3407-G1,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G10,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G11,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G12,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G13,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G14,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G15,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G16,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G2,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G3,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G4,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G5,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G6,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G7,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G8,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+3407-G9,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
+68561-MIDDN,SR Middleton,"SR Middleton, LLC",Solar Photovoltaic,SUN,55,TN,Hardeman,"(V) Under construction, more than 50 percent complete",2027-07,35.176939,-88.87867
+68564-PURYR,SR Puryear,"SR Puryear, LLC",Solar Photovoltaic,SUN,50,TN,Henry,"(V) Under construction, more than 50 percent complete",2027-08,36.449856,-88.30107
+65445-RBESS,Ridgely Energy Farm,"Leeward Asset Management, LLC",Batteries,MWH,50,TN,Lake,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,36.306319,-89.46202
+68229-DEMRK,SR Denmark,"SR Denmark, LLC",Solar Photovoltaic,SUN,42,TN,Madison,"(V) Under construction, more than 50 percent complete",2026-12,35.563633,-88.93254
+64255-VBESS,Vonore Battery Energy Storage System,Tennessee Valley Authority,Batteries,MWH,20,TN,Monroe,"(U) Under construction, less than or equal to 50 percent complete",2026-12,35.61543,-84.27489
+68255-SHELB,SR Shelby,"SR Shelby, LLC",Solar Photovoltaic,SUN,9.8,TN,Shelby,(T) Regulatory approvals received. Not under construction,2027-12,35.353292,-89.81498
+69867-SHEII,"SR Shelby II, LLC","SR Shelby II, LLC",Solar Photovoltaic,SUN,6,TN,Shelby,(T) Regulatory approvals received. Not under construction,2028-02,35.353646,-89.8109
+68110-MILAN,SR Milan,"SR Milan, LLC",Solar Photovoltaic,SUN,2.8,TN,Gibson,(T) Regulatory approvals received. Not under construction,2028-07,35.945285,-88.75989

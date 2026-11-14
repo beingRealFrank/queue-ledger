@@ -1,0 +1,32 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69857-LBRBS,Libra Solar,Libra Solar LLC,Batteries,MWH,700,NV,Lyon,"(U) Under construction, less than or equal to 50 percent complete",2027-12,38.902103,-118.9614
+69857-LBRPV,Libra Solar,Libra Solar LLC,Solar Photovoltaic,SUN,700,NV,Lyon,"(U) Under construction, less than or equal to 50 percent complete",2027-12,38.902103,-118.9614
+67978-SSPV1,Sierra Solar Hybrid,Sierra Pacific Power Co,Solar Photovoltaic,SUN,400,NV,Churchill,"(TS) Construction complete, but not yet in commercial operation",2026-12,39.8536,-119.0394
+63782-RH1,Rough Hat,"Candela Renewables, LLC",Solar Photovoltaic,SUN,400,NV,Clark,(L) Regulatory approvals pending. Not under construction,2027-12,36.09907,-115.8337
+68209-PSGBS,Purple Sage Energy Center,Noble Solar LLC,Batteries,MWH,400,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,36.029139,-115.8062
+68209-PSGPV,Purple Sage Energy Center,Noble Solar LLC,Solar Photovoltaic,SUN,400,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,36.029139,-115.8062
+63841-ARIDA,Arida Solar (Hybrid),326FW 8me LLC,Solar Photovoltaic,SUN,370,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,35.092036,-114.6888
+63841-BESS,Arida Solar (Hybrid),326FW 8me LLC,Batteries,MWH,370,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,35.092036,-114.6888
+66908-BZPV,Bonanza Solar and Storage Project,"EDF Renewables Development, Inc.",Solar Photovoltaic,SUN,300,NV,Clark,(L) Regulatory approvals pending. Not under construction,2027-12,36.558,-115.799
+68813-VITEX,Vitex Storage,Cypress Creek Renewables,Batteries,MWH,300,NV,Clark,(L) Regulatory approvals pending. Not under construction,2028-06,36.382286,-114.9102
+63113-BESS,Southern Bighorn Solar Hybrid,300MS 8me LLC,Batteries,MWH,300,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,36.304793,-114.4728
+63113-SBS,Southern Bighorn Solar Hybrid,300MS 8me LLC,Solar Photovoltaic,SUN,300,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,36.304793,-114.4728
+67819-CRSB1,Robinson Solar,Repsol Renewables NA,Batteries,MWH,300,NV,White Pine,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,39.298603,-115.2192
+67819-CRSS1,Robinson Solar,Repsol Renewables NA,Solar Photovoltaic,SUN,300,NV,White Pine,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,39.298603,-115.2192
+8224-CT3,North Valmy,Sierra Pacific Power Co,Natural Gas Fired Combustion Turbine,NG,208,NV,Humboldt,"(U) Under construction, less than or equal to 50 percent complete",2028-05,40.881317,-117.1516
+8224-CT4,North Valmy,Sierra Pacific Power Co,Natural Gas Fired Combustion Turbine,NG,208,NV,Humboldt,"(U) Under construction, less than or equal to 50 percent complete",2028-05,40.881317,-117.1516
+69549-DLE1,Dry Lake East Energy Center,Dry Lake East Energy Center,Solar Photovoltaic,SUN,200,NV,Clark,"(V) Under construction, more than 50 percent complete",2026-12,36.401094,-114.8652
+66908-BZES,Bonanza Solar and Storage Project,"EDF Renewables Development, Inc.",Batteries,MWH,195,NV,Clark,(L) Regulatory approvals pending. Not under construction,2027-12,36.558,-115.799
+65141-BS301,Boulder Solar III LLC,174 Power Global Corp.,Solar Photovoltaic,SUN,128,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,35.838769,-114.9642
+65141-BS3ES,Boulder Solar III LLC,174 Power Global Corp.,Batteries,MWH,128,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,35.838769,-114.9642
+69965-RS,Roccasecca BESS LLC,Roccasecca BESS LLC,Batteries,MWH,126.5,NV,Clark,"(TS) Construction complete, but not yet in commercial operation",2027-02,35.83,-115.0128
+65977-BF1PV,Boulder Flats Solar,"Boulder Flats Solar, LLC",Solar Photovoltaic,SUN,113,NV,Clark,"(V) Under construction, more than 50 percent complete",2028-12,35.878865,-114.9833
+69762-425LM,Southern Bighorn Solar 2,425LM 8ME LLC,Solar Photovoltaic,SUN,100,NV,Clark,(L) Regulatory approvals pending. Not under construction,2028-07,36.56117,-114.7413
+69762-BESS2,Southern Bighorn Solar 2,425LM 8ME LLC,Batteries,MWH,100,NV,Clark,(L) Regulatory approvals pending. Not under construction,2028-07,36.56117,-114.7413
+61912-MHSOL,McGinness Hills 3,Ormat Nevada Inc,Solar Photovoltaic,SUN,14,NV,Lander,"(U) Under construction, less than or equal to 50 percent complete",2027-05,39.5963,-116.8942
+66618-FL5,Fish Lake Geothermal,Fish Lake Geothermal LLC,Geothermal,GEO,9,NV,Esmeralda,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.860925,-118.0341
+66618-FL4,Fish Lake Geothermal,Fish Lake Geothermal LLC,Geothermal,GEO,6.2,NV,Esmeralda,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.860925,-118.0341
+66618-FL3,Fish Lake Geothermal,Fish Lake Geothermal LLC,Geothermal,GEO,4.7,NV,Esmeralda,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.860925,-118.0341
+66618-FL1,Fish Lake Geothermal,Fish Lake Geothermal LLC,Geothermal,GEO,3.3,NV,Esmeralda,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.860925,-118.0341
+66618-FL2,Fish Lake Geothermal,Fish Lake Geothermal LLC,Geothermal,GEO,3.3,NV,Esmeralda,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.860925,-118.0341
+64098-3,Tesla Reno GigaFactory,Tesla Inc.,Solar Photovoltaic,SUN,1,NV,Storey,"(TS) Construction complete, but not yet in commercial operation",2026-12,39.539511,-119.4392

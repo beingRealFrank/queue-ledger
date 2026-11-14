@@ -1,0 +1,8 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+63878-HAY,Haymaker Hybrid,Haymaker Energy Project LLC,Onshore Wind Turbine,WND,630,MT,Wheatland,"(P) Planned for installation, but regulatory approvals not initiated",2031-10,46.357442,-110.3958
+68315-ARFL1,Anthelope Hills Solar Generation BESS,"ARFL bn, LLC",Solar Photovoltaic,SUN,200,MT,Beaverhead,(L) Regulatory approvals pending. Not under construction,2027-12,45.05029,-113.0588
+68315-ARFL2,Anthelope Hills Solar Generation BESS,"ARFL bn, LLC",Batteries,MWH,200,MT,Beaverhead,(L) Regulatory approvals pending. Not under construction,2027-12,45.05029,-113.0588
+58175-JWPI,Jawbone Wind Project,Triple Oak Power LLC,Onshore Wind Turbine,WND,80,MT,Wheatland,"(U) Under construction, less than or equal to 50 percent complete",2029-12,46.508056,-109.7278
+65407-BEAR1,Beartooth Energy Storage LLC,"Beartooth Energy Storage, LLC",Batteries,MWH,50,MT,Yellowstone,(L) Regulatory approvals pending. Not under construction,2027-12,45.7843,-108.7178
+2185-HAU9,Hauser,NorthWestern Energy (MT Hydro),Conventional Hydroelectric,WAT,3.5,MT,Lewis and Clark,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,46.765941,-111.8873
+2185-HAU12,Hauser,NorthWestern Energy (MT Hydro),Conventional Hydroelectric,WAT,3.5,MT,Lewis and Clark,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,46.765941,-111.8873

@@ -1,0 +1,33 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+70097-SWB,Sherco BESS,Northern States Power Co - Minnesota,Batteries,MWH,300,MN,Sherburne,"(U) Under construction, less than or equal to 50 percent complete",2027-11,45.372125,-93.89978
+70097-SSB,Sherco BESS,Northern States Power Co - Minnesota,Batteries,MWH,300,MN,Sherburne,"(U) Under construction, less than or equal to 50 percent complete",2027-12,45.372125,-93.89978
+62437-WT,Dodge County Wind,"Dodge County Wind, LLC",Onshore Wind Turbine,WND,228,MN,Dodge,(T) Regulatory approvals received. Not under construction,2027-12,44.005633,-92.95039
+69537-1,Lyon County Generating Station,Northern States Power Co - Minnesota,Natural Gas Fired Combustion Turbine,NG,210,MN,Lyon,(L) Regulatory approvals pending. Not under construction,2028-12,44.226167,-95.75362
+69537-2,Lyon County Generating Station,Northern States Power Co - Minnesota,Natural Gas Fired Combustion Turbine,NG,210,MN,Lyon,(L) Regulatory approvals pending. Not under construction,2028-12,44.226167,-95.75362
+61687-PLMCK,Plum Creek,Geronimo Power,Onshore Wind Turbine,WND,200,MN,Cottonwood,(L) Regulatory approvals pending. Not under construction,2028-12,44.14504,-95.38272
+70098-BEB,Blue Lake BESS,Northern States Power Co - Minnesota,Batteries,MWH,135.5,MN,Scott,"(U) Under construction, less than or equal to 50 percent complete",2027-05,44.786793,-93.4269
+70035-NSES,"North Star Energy Storage, LLC","North Star Energy Storage, LLC",Batteries,MWH,80,MN,Chisago,"(U) Under construction, less than or equal to 50 percent complete",2027-04,45.480911,-92.90814
+68340-1,Solway Solar,Otter Tail Power Co,Solar Photovoltaic,SUN,50,MN,Beltrami,"(U) Under construction, less than or equal to 50 percent complete",2026-12,47.546501,-95.13
+68988-SHB01,Sherco LDES,Northern States Power Co - Minnesota,Batteries,MWH,10,MN,Sherburne,(T) Regulatory approvals received. Not under construction,2028-05,45.374997,-93.89719
+54224-CTG1,Franklin Heating Station,Franklin Heating Station,Natural Gas Fired Combined Cycle,NG,7.5,MN,Olmsted,"(V) Under construction, more than 50 percent complete",2027-05,44.020576,-92.4656
+70382-GEN3,Mazaska Garden,Bullrock-NxtGenREA,Solar Photovoltaic,SUN,5,MN,Rice,"(U) Under construction, less than or equal to 50 percent complete",2026-12,44.48723,-93.13416
+70378-GEN5,Crane Creek Garden,Bullrock-NxtGenREA,Solar Photovoltaic,SUN,5,MN,Waseca,"(U) Under construction, less than or equal to 50 percent complete",2027-03,44.09501,-93.65467
+70554-PV1,EESolar29,EESolar29 LLC,Solar Photovoltaic,SUN,5,MN,Stearns,"(V) Under construction, more than 50 percent complete",2027-03,45.684973,-94.21776
+70380-GEN4,Kraemer Garden,Bullrock-NxtGenREA,Solar Photovoltaic,SUN,4,MN,Stearns,"(U) Under construction, less than or equal to 50 percent complete",2026-10,45.53123,-94.24932
+70504-PV1,EESolar33,EESolar33 LLC,Solar Photovoltaic,SUN,4,MN,Steele,"(V) Under construction, more than 50 percent complete",2026-12,44.122066,-93.27361
+54224-EG11,Franklin Heating Station,Franklin Heating Station,Petroleum Liquids,DFO,3.4,MN,Olmsted,"(V) Under construction, more than 50 percent complete",2027-05,44.020576,-92.4656
+54224-EG12,Franklin Heating Station,Franklin Heating Station,Petroleum Liquids,DFO,3.4,MN,Olmsted,"(V) Under construction, more than 50 percent complete",2027-05,44.020576,-92.4656
+54224-EG13,Franklin Heating Station,Franklin Heating Station,Petroleum Liquids,DFO,3.4,MN,Olmsted,"(V) Under construction, more than 50 percent complete",2027-05,44.020576,-92.4656
+54224-EG14,Franklin Heating Station,Franklin Heating Station,Petroleum Liquids,DFO,3.4,MN,Olmsted,"(V) Under construction, more than 50 percent complete",2027-05,44.020576,-92.4656
+54224-EG15,Franklin Heating Station,Franklin Heating Station,Petroleum Liquids,DFO,3.4,MN,Olmsted,"(V) Under construction, more than 50 percent complete",2027-05,44.020576,-92.4656
+54224-DG9,Franklin Heating Station,Franklin Heating Station,Petroleum Liquids,DFO,3.1,MN,Olmsted,(T) Regulatory approvals received. Not under construction,2028-01,44.020576,-92.4656
+70503-PV1,EESolar22,EESolar22 LLC,Solar Photovoltaic,SUN,2.6,MN,Le Sueur,"(V) Under construction, more than 50 percent complete",2026-11,44.248616,-93.96164
+69936-KALMR,Kalmar,"OneEnergy, Inc.",Solar Photovoltaic,SUN,2.5,MN,Olmsted,"(V) Under construction, more than 50 percent complete",2026-11,44.024642,-92.578
+69983-GRTKN,Novel Gertken Solar LLC,Novel Gertken Solar LLC,Solar Photovoltaic,SUN,1,MN,Stearns,"(V) Under construction, more than 50 percent complete",2026-09,45.618191,-94.4891
+69305-FITZH,Enterprise MN - Fitzthum,Standard Solar,Solar Photovoltaic,SUN,1,MN,Stearns,"(V) Under construction, more than 50 percent complete",2026-10,45.644581,-94.22744
+64865-BLILE,Novel Blilie Solar LLC,"Novel Blilie Solar, LLC",Solar Photovoltaic,SUN,1,MN,Wilkin,"(U) Under construction, less than or equal to 50 percent complete",2027-02,46.630077,-96.75811
+70381-GEN1,Carver Garden,Bullrock-NxtGenREA,Solar Photovoltaic,SUN,1,MN,Rice,"(U) Under construction, less than or equal to 50 percent complete",2027-02,44.29848,-93.2408
+70301-BOHRE,MN CSG 2019-57,MN CSG 2019-57 LLC,Solar Photovoltaic,SUN,1,MN,Blue Earth,(T) Regulatory approvals received. Not under construction,2027-03,44.224001,-93.9787
+70379-GEN2,Fuller Garden,Bullrock-NxtGenREA,Solar Photovoltaic,SUN,1,MN,Sherburne,"(U) Under construction, less than or equal to 50 percent complete",2027-03,45.45357,-94.00707
+69034-PMI2,Pivot Energy Minnesota Solar 2,Pivot Energy,Solar Photovoltaic,SUN,1,MN,Kandiyohi,"(V) Under construction, more than 50 percent complete",2027-04,44.935059,-95.19906
+2038-BA1,Cambridge CT Hybrid,Great River Energy,Batteries,MWH,1,MN,Isanti,"(U) Under construction, less than or equal to 50 percent complete",2027-12,45.601,-93.2081

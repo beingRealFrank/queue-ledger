@@ -1,0 +1,22 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+67262-RP1,Ripley Energy Center,"Associated Electric Coop, Inc",Natural Gas Fired Combustion Turbine,NG,419,OK,Payne,"(V) Under construction, more than 50 percent complete",2027-04,36.116,-96.902
+8059-2G1,Comanche (OK),Public Service Co of Oklahoma,Natural Gas Fired Combined Cycle,NG,408.8,OK,Comanche,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,34.5431,-98.3244
+8059-3G1,Comanche (OK),Public Service Co of Oklahoma,Natural Gas Fired Combined Cycle,NG,408.8,OK,Comanche,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,34.5431,-98.3244
+69239-HSS,High Spring Solar Energy,High Spring Solar Energy,Solar Photovoltaic,SUN,400,OK,Muskogee,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.576674,-95.65816
+8059-2S1,Comanche (OK),Public Service Co of Oklahoma,Natural Gas Fired Combined Cycle,NG,277.6,OK,Comanche,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,34.5431,-98.3244
+8059-3S1,Comanche (OK),Public Service Co of Oklahoma,Natural Gas Fired Combined Cycle,NG,277.6,OK,Comanche,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,34.5431,-98.3244
+70407-RSS,Roy Solar,"Roy Solar, LLC",Solar Photovoltaic,SUN,258,OK,Stephens,"(U) Under construction, less than or equal to 50 percent complete",2027-12,34.309919,-96.77935
+69968-RUS,Rumble Solar,"Rumble Solar, LLC",Solar Photovoltaic,SUN,250,OK,Grady,"(U) Under construction, less than or equal to 50 percent complete",2026-10,35.338721,-97.98901
+2951-11,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,"(TS) Construction complete, but not yet in commercial operation",2026-10,35.50866,-97.17969
+2951-12,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,"(TS) Construction complete, but not yet in commercial operation",2026-10,35.50866,-97.17969
+2951-13,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,(T) Regulatory approvals received. Not under construction,2029-02,35.50866,-97.17969
+2951-14,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,(T) Regulatory approvals received. Not under construction,2029-02,35.50866,-97.17969
+70344-RSPV,Rush Springs Solar,"Rush Springs Solar, LLC",Solar Photovoltaic,SUN,200,OK,Stephens,"(V) Under construction, more than 50 percent complete",2026-10,34.469189,-97.89441
+68089-TS03,Twelvemile Solar 3,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,200,OK,Mayes,"(V) Under construction, more than 50 percent complete",2026-12,36.331569,-95.22931
+70408-WCB,Willow Creek Energy Storage,"Willow Creek Energy Storage, LLC",Batteries,MWH,200,OK,Pawnee,"(U) Under construction, less than or equal to 50 percent complete",2026-12,36.389624,-97.02781
+70186-SOLBS,Solstice Solar LLC,Clenera DevCo LLC,Batteries,MWH,200,OK,Le Flore,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,35.291043,-94.77891
+70186-SOLPV,Solstice Solar LLC,Clenera DevCo LLC,Solar Photovoltaic,SUN,200,OK,Le Flore,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,35.291043,-94.77891
+70195-MAMM1,Mammoth Plains Energy Storage,"Mammoth Plains Energy Storage, LLC",Batteries,MWH,150,OK,Dewey,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,35.981842,-98.70672
+69969-PAS,Panhandle Solar,"Panhandle Solar, LLC",Solar Photovoltaic,SUN,102,OK,Texas,"(U) Under construction, less than or equal to 50 percent complete",2026-12,36.609029,-101.4743
+70443-MAMM2,Mammoth Plains Energy Storage II,"Mammoth Plains Energy Center, LLC",Batteries,MWH,101.2,OK,Dewey,"(P) Planned for installation, but regulatory approvals not initiated",2029-05,35.97972,-98.70606
+70271-OKFL1,"Fiddle Leaf Solar, LLC","Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,80,OK,Delaware,(T) Regulatory approvals received. Not under construction,2027-10,36.256047,-94.58653

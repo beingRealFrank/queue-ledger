@@ -1,0 +1,218 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+64209-26SBA,Bellefield 2 Solar & Energy Storage Farm,26SB 8me LLC,Solar Photovoltaic,SUN,500,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-12,35.017779,-118.0687
+64209-26SBB,Bellefield 2 Solar & Energy Storage Farm,26SB 8me LLC,Batteries,MWH,500,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-12,35.017779,-118.0687
+69820-GRA1,Grace Energy Center,"Grace Orchard Interconnection, LLC",Solar Photovoltaic,SUN,500,CA,Riverside,(L) Regulatory approvals pending. Not under construction,2027-08,33.653564,-114.696
+69820-GRA2,Grace Energy Center,"Grace Orchard Interconnection, LLC",Batteries,MWH,500,CA,Riverside,(L) Regulatory approvals pending. Not under construction,2027-10,33.653564,-114.696
+68607-PLJW1,Pelicans Jaw Hybrid Solar,Pelicans Jaw Solar LLC,Solar Photovoltaic,SUN,440,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2027-04,35.765183,-119.7436
+69509-1,Gabriel,San Gabriel Project LLC,Batteries,MWH,400,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-04,34.11,-117.97
+69508-1,Marici,Marici Project LLC,Batteries,MWH,400,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-06,34.007751,-117.9462
+66805-LYCAN,Lycan Solar Project,"EDF Renewables Development, Inc.",Solar Photovoltaic,SUN,400,CA,Riverside,(L) Regulatory approvals pending. Not under construction,2027-12,33.621326,-115.0959
+66805-LYCN2,Lycan Solar Project,"EDF Renewables Development, Inc.",Batteries,MWH,400,CA,Riverside,"(P) Planned for installation, but regulatory approvals not initiated",2030-04,33.621326,-115.0959
+68940-CAPV,Country Acres Clean Power LLC,Clenera DevCo LLC,Solar Photovoltaic,SUN,344,CA,Placer,"(U) Under construction, less than or equal to 50 percent complete",2027-02,38.751744,-121.4221
+69661-IPD1S,Darden I Solar,"IPX Power USA, LLC",Solar Photovoltaic,SUN,342.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.504106,-120.2167
+69662-IPD2S,Darden II Solar,"IPX Power USA, LLC",Solar Photovoltaic,SUN,342.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.457086,-120.2248
+69663-IPD3S,Darden III Solar,"IPX Power USA, LLC",Solar Photovoltaic,SUN,342.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.499703,-120.1912
+69664-IPD4S,Darden IV Solar,"IPX Power USA, LLC",Solar Photovoltaic,SUN,342.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.464339,-120.1862
+69661-IPD1B,Darden I Solar,"IPX Power USA, LLC",Batteries,MWH,303.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.504106,-120.2167
+69662-IPD2B,Darden II Solar,"IPX Power USA, LLC",Batteries,MWH,303.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.457086,-120.2248
+69663-IPD3B,Darden III Solar,"IPX Power USA, LLC",Batteries,MWH,303.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.499703,-120.1912
+69664-IPD4B,Darden IV Solar,"IPX Power USA, LLC",Batteries,MWH,303.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.464339,-120.1862
+70238-RDHS,Roadhouse Energy Center,Roadhouse Energy Storage,Batteries,MWH,300,CA,San Bernardino,(L) Regulatory approvals pending. Not under construction,2027-12,34.0065,-117.5696
+68758-IPEA3,Easley Solar,"IPX Power USA, LLC",Batteries,MWH,300,CA,Riverside,(T) Regulatory approvals received. Not under construction,2028-03,33.722655,-115.326
+65703-HEHUM,Humidor Storage I,Hecate Grid Humidor Storage 1 LLC,Batteries,MWH,300,CA,Los Angeles,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,34.29116,-118.7518
+68758-IPEA1,Easley Solar,"IPX Power USA, LLC",Solar Photovoltaic,SUN,290,CA,Riverside,"(TS) Construction complete, but not yet in commercial operation",2026-10,33.722655,-115.326
+70178-CBLT,Cobalt,RE Cobalt LLC,Solar Photovoltaic,SUN,250,CA,Riverside,"(U) Under construction, less than or equal to 50 percent complete",2027-08,33.571,-118.1789
+67982-ATHS1,Athens Solar I (Hybrid),Vesper Energy Development LLC,Solar Photovoltaic,SUN,250,CA,Placer,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,35.754889,-121.4071
+67982-ATHSB,Athens Solar I (Hybrid),Vesper Energy Development LLC,Batteries,MWH,250,CA,Placer,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,35.754889,-121.4071
+66686-HL001,Haiwee Pumped Storage Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,250,CA,Inyo,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,36.233105,-117.9625
+66686-HL002,Haiwee Pumped Storage Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,250,CA,Inyo,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,36.233105,-117.9625
+66686-HL003,Haiwee Pumped Storage Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,250,CA,Inyo,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,36.233105,-117.9625
+66686-HL004,Haiwee Pumped Storage Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,250,CA,Inyo,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,36.233105,-117.9625
+63850-CHERY,Cherry,"Westlands Cherry, LLC",Solar Photovoltaic,SUN,249.7,CA,Kings,(T) Regulatory approvals received. Not under construction,2027-07,36.122457,-119.9232
+63851-GRAPE,Grape,"Westlands Grape, LLC",Solar Photovoltaic,SUN,246.4,CA,Kings,"(V) Under construction, more than 50 percent complete",2027-03,36.145687,-119.9051
+68607-PJBS1,Pelicans Jaw Hybrid Solar,Pelicans Jaw Solar LLC,Batteries,MWH,238.5,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2027-04,35.765183,-119.7436
+64634-90FI8,Kingsley Solar Farm,"90FI 8me, LLC",Solar Photovoltaic,SUN,225,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,32.742036,-115.7354
+69654-ZEUB,Zeus BESS,Zeus BESS LLC,Batteries,MWH,213.6,CA,San Joaquin,"(P) Planned for installation, but regulatory approvals not initiated",2031-09,37.711754,-121.4884
+69956-S10BS,Sanborn Hybrid 3,Terra-Gen Operating Co-Hybrid,Batteries,MWH,210,CA,Kern,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.996,-118.114
+69956-S10PV,Sanborn Hybrid 3,Terra-Gen Operating Co-Hybrid,Solar Photovoltaic,SUN,210,CA,Kern,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.996,-118.114
+62892-SONRI,EDPR CA Solar Park VI LLC (CA) Hybrid,EDPR CA Solar Park VI LLC,Solar Photovoltaic,SUN,201,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2026-10,36.62543,-120.3789
+64290-ATHB2,"SE Athos II, LLC","SE Athos II, LLC",Batteries,MWH,200,CA,Riverside,"(U) Under construction, less than or equal to 50 percent complete",2027-01,33.751283,-115.355
+66685-WH001,Whale Rock Pumped Storage Hydro Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,200,CA,San Luis Obispo,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,35.454196,-120.8671
+66685-WH002,Whale Rock Pumped Storage Hydro Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,200,CA,San Luis Obispo,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,35.454196,-120.8671
+66685-WH003,Whale Rock Pumped Storage Hydro Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,200,CA,San Luis Obispo,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,35.454196,-120.8671
+67945-JCSIB,Juniper Creek Storage,Vesper Energy Development LLC,Batteries,MWH,200,CA,Sacramento,(T) Regulatory approvals received. Not under construction,2028-03,38.554073,-121.2066
+64632-99MT8,Sienna Solar Farm,"99MT 8me, LLC",Solar Photovoltaic,SUN,200,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.493659,-116.915
+64632-99MTB,Sienna Solar Farm,"99MT 8me, LLC",Batteries,MWH,200,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.493659,-116.915
+68485-22SVA,Rexford 2 Solar Farm,22SV 8ME LLC,Solar Photovoltaic,SUN,200,CA,Tulare,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,35.893525,-119.0805
+68485-22SVB,Rexford 2 Solar Farm,22SV 8ME LLC,Batteries,MWH,200,CA,Tulare,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,35.893525,-119.0805
+65808-SVEC,"Sacramento Valley Energy Center, LLC","Sacramento Valley Energy Center, LLC",Solar Photovoltaic,SUN,200,CA,Sacramento,"(U) Under construction, less than or equal to 50 percent complete",2029-12,38.57147,-121.1845
+68461-KEYBB,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,190,CA,Fresno,(T) Regulatory approvals received. Not under construction,2027-04,36.13681,-120.1312
+68940-CABS,Country Acres Clean Power LLC,Clenera DevCo LLC,Batteries,MWH,172,CA,Placer,"(V) Under construction, more than 50 percent complete",2027-02,38.751744,-121.4221
+68907-1,Vidal Energy Center,CDH Vidal LLC,Batteries,MWH,160,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2026-12,34.084796,-114.4707
+68907-2,Vidal Energy Center,CDH Vidal LLC,Solar Photovoltaic,SUN,160,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2026-12,34.084796,-114.4707
+70256-DCES,"Dry Creek Energy Storage, LLC","Dry Creek Energy Storage, LLC",Batteries,MWH,160,CA,Sacramento,(T) Regulatory approvals received. Not under construction,2027-11,38.347139,-121.1209
+64215-45MGA,Aratina Solar Center 2,45MG 8me LLC,Solar Photovoltaic,SUN,150,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2026-12,35.062965,-118.0878
+68932-OSBA,Overnight Solar,Overnight Solar LLC,Batteries,MWH,150,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2027-01,35.016197,-117.357
+68932-OSPV,Overnight Solar,Overnight Solar LLC,Solar Photovoltaic,SUN,150,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2027-01,35.016197,-117.357
+67894-51LVA,Bellefield 3 Solar and Battery Storage,"51LV 8me, LLC",Solar Photovoltaic,SUN,150,CA,Kern,"(P) Planned for installation, but regulatory approvals not initiated",2030-05,35.029153,-117.9926
+67894-51LVB,Bellefield 3 Solar and Battery Storage,"51LV 8me, LLC",Batteries,MWH,150,CA,Kern,"(P) Planned for installation, but regulatory approvals not initiated",2030-05,35.029153,-117.9926
+66409-GWNT,Hecate Grid Gwent Storage 1,"Hecate Grid Gwent Storage 1, LLC",Batteries,MWH,135,CA,Ventura,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.28093,-118.903
+68673-OESLW,Sand Luis West,"Origis Energy USA, Inc",Solar Photovoltaic,SUN,125,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-11,36.1676,-120.054
+70492-WRES1,Willow Rock Energy Storage Center,GEM A-CAES LLC,,MWH,125,CA,Kern,"(P) Planned for installation, but regulatory approvals not initiated",2030-07,34.912528,-118.1576
+70492-WRES2,Willow Rock Energy Storage Center,GEM A-CAES LLC,,MWH,125,CA,Kern,"(P) Planned for installation, but regulatory approvals not initiated",2030-07,34.912528,-118.1576
+70492-WRES3,Willow Rock Energy Storage Center,GEM A-CAES LLC,,MWH,125,CA,Kern,"(P) Planned for installation, but regulatory approvals not initiated",2030-07,34.912528,-118.1576
+70492-WRES4,Willow Rock Energy Storage Center,GEM A-CAES LLC,,MWH,125,CA,Kern,"(P) Planned for installation, but regulatory approvals not initiated",2030-07,34.912528,-118.1576
+68925-MIDB,Midway BESS,Midway BESS LLC,Batteries,MWH,124.6,CA,Fresno,"(V) Under construction, more than 50 percent complete",2027-06,36.652653,-120.5783
+64215-45MGB,Aratina Solar Center 2,45MG 8me LLC,Batteries,MWH,113,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2026-12,35.062965,-118.0878
+65458-ANOD1,Anode (Springville) BESS,Southern California Edison Co,Batteries,MWH,112.5,CA,Tulare,"(TS) Construction complete, but not yet in commercial operation",2027-03,36.107903,-118.9409
+65458-ANOD2,Anode (Springville) BESS,Southern California Edison Co,Batteries,MWH,112.5,CA,Tulare,"(TS) Construction complete, but not yet in commercial operation",2027-03,36.107903,-118.9409
+70463-WSTBA,"Westminster Reliability Project, LLC","RWE Americas, LLC",Batteries,MWH,110,CA,Orange,"(V) Under construction, more than 50 percent complete",2026-12,33.773169,-118.0116
+63850-BESS2,Cherry,"Westlands Cherry, LLC",Batteries,MWH,110,CA,Kings,(T) Regulatory approvals received. Not under construction,2027-07,36.122457,-119.9232
+69956-S9,Sanborn Hybrid 3,Terra-Gen Operating Co-Hybrid,Solar Photovoltaic,SUN,103,CA,Kern,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.996,-118.114
+64290-ATH1S,"SE Athos II, LLC","SE Athos II, LLC",Batteries,MWH,102.3,CA,Riverside,"(U) Under construction, less than or equal to 50 percent complete",2027-01,33.751283,-115.355
+64290-ATH1N,"SE Athos II, LLC","SE Athos II, LLC",Batteries,MWH,100,CA,Riverside,"(U) Under construction, less than or equal to 50 percent complete",2027-01,33.751283,-115.355
+68909-ISSBA,Imperial Sun Solar,Imperial Sun Solar LLC,Batteries,MWH,100,CA,Imperial,(L) Regulatory approvals pending. Not under construction,2027-07,32.6851,-115.2977
+68909-ISSPV,Imperial Sun Solar,Imperial Sun Solar LLC,Solar Photovoltaic,SUN,100,CA,Imperial,(L) Regulatory approvals pending. Not under construction,2027-07,32.6851,-115.2977
+68032-SKLRE,Skylight Renewable Energy,Vesper Energy Development LLC,Solar Photovoltaic,SUN,100,CA,Sutter,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,38.947494,-121.4792
+68032-SKREB,Skylight Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,100,CA,Sutter,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,38.947494,-121.4792
+65808-BSVEC,"Sacramento Valley Energy Center, LLC","Sacramento Valley Energy Center, LLC",Batteries,MWH,100,CA,Sacramento,"(U) Under construction, less than or equal to 50 percent complete",2029-12,38.57147,-121.1845
+64531-KOV4A,Noosa Energy Storage LLC,Engie North America,Batteries,MWH,99,CA,San Joaquin,"(U) Under construction, less than or equal to 50 percent complete",2026-12,37.756292,-121.1481
+69648-RSBA,Rosamond South II,"Golden Fields Solar VI, LLC",Batteries,MWH,92,CA,Kern,"(V) Under construction, more than 50 percent complete",2027-03,34.852326,-118.4312
+64428-JVR1A,JVR Energy Park LLC,JVR Energy Park LLC,Solar Photovoltaic,SUN,90,CA,San Diego,"(V) Under construction, more than 50 percent complete",2027-03,32.625903,-116.1749
+69925-SWBA1,Stellar Wright BESS,Stellar Renewable Power,Batteries,MWH,84.8,CA,Merced,"(V) Under construction, more than 50 percent complete",2026-11,37.007998,-120.9637
+70235-68372,Mulqueeney Wind Energy,Mulqueeney Wind Energy LLC,Onshore Wind Turbine,WND,80,CA,Alameda,"(V) Under construction, more than 50 percent complete",2026-10,37.69742,-121.5891
+63653-SNDHC,Sand Hill C,Viracocha Wind LLC,Onshore Wind Turbine,WND,80,CA,Alameda,(L) Regulatory approvals pending. Not under construction,2027-12,37.769695,-121.5961
+68461-KEYBA,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,75,CA,Fresno,"(U) Under construction, less than or equal to 50 percent complete",2026-12,36.13681,-120.1312
+67676-GEN01,Zeta Solar & Storage,"Zeta Solar, LLC",Solar Photovoltaic,SUN,75,CA,Merced,"(U) Under construction, less than or equal to 50 percent complete",2027-06,36.911894,-120.8101
+67676-GEN02,Zeta Solar & Storage,"Zeta Solar, LLC",Batteries,MWH,75,CA,Merced,"(U) Under construction, less than or equal to 50 percent complete",2027-06,36.911894,-120.8101
+64634-90FIB,Kingsley Solar Farm,"90FI 8me, LLC",Batteries,MWH,74,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,32.742036,-115.7354
+66787-ELVPS,Elevate Pier S,"Lighthouse Pier S, LLC",Batteries,MWH,70,CA,Los Angeles,(L) Regulatory approvals pending. Not under construction,2026-12,33.764993,-118.2237
+69947-GEN05,EDPR Scarlet III,EDPR Scarlet III LLC,Batteries,MWH,70,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2026-12,36.608742,-120.3511
+64428-JVR1B,JVR Energy Park LLC,JVR Energy Park LLC,Batteries,MWH,70,CA,San Diego,"(V) Under construction, more than 50 percent complete",2027-03,32.625903,-116.1749
+70109-JASMI,Jasmine,AES Clean Energy,Solar Photovoltaic,SUN,70,CA,Kern,"(V) Under construction, more than 50 percent complete",2027-12,35.1006,-119.1187
+68672-OECHA,Chalan,"Origis Energy USA, Inc",Solar Photovoltaic,SUN,64.9,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-12,35.7803,-119.911
+70109-JASBE,Jasmine,AES Clean Energy,Batteries,MWH,64.4,CA,Kern,"(V) Under construction, more than 50 percent complete",2027-12,35.1006,-119.1187
+68924-IROB,Iron BESS,Panoche BESS LLC,Batteries,MWH,59.5,CA,Fresno,"(V) Under construction, more than 50 percent complete",2027-04,36.652653,-120.5783
+69541-VACB,Vaca BESS,Vaca Dixon BESS LLC,Batteries,MWH,59.5,CA,Solano,(L) Regulatory approvals pending. Not under construction,2027-07,38.398379,-121.924
+69956-S8,Sanborn Hybrid 3,Terra-Gen Operating Co-Hybrid,Solar Photovoltaic,SUN,55,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-10,34.996,-118.114
+68486-44STA,Sienna 2 Solar and Storage Project,44ST 8ME LLC,Solar Photovoltaic,SUN,55,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2029-03,34.506711,-116.8901
+68486-44STB,Sienna 2 Solar and Storage Project,44ST 8ME LLC,Batteries,MWH,55,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2029-03,34.506711,-116.8901
+68923-ENTB,Enterprise BESS,Enterprise BESS LLC,Batteries,MWH,54.1,CA,San Diego,(T) Regulatory approvals received. Not under construction,2027-12,33.12181,-117.1174
+68953-KB1,Kifer BESS 1,"Kifer Energy Storage, LLC",Batteries,MWH,50,CA,Santa Clara,"(U) Under construction, less than or equal to 50 percent complete",2026-12,37.376214,-121.952
+69964-BALBE,Baldy Mesa Storage,AES Clean Energy,Batteries,MWH,50,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2027-02,34.6029,-117.449
+67983-AURRB,Aurora Renewable Energy (Hybrid),Vesper Energy Development LLC,Batteries,MWH,50,CA,Stanislaus,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,37.628805,-121.0714
+67983-AURRE,Aurora Renewable Energy (Hybrid),Vesper Energy Development LLC,Solar Photovoltaic,SUN,50,CA,Stanislaus,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,37.628805,-121.0714
+60670-1,CE&P Imperial Valley 1,"California Ethanol Power, LLC",All Other,OTH,50,CA,Imperial,(T) Regulatory approvals received. Not under construction,2029-06,32.912778,-115.5183
+69648-BSBA2,Rosamond South II,"Golden Fields Solar VI, LLC",Batteries,MWH,48,CA,Kern,"(V) Under construction, more than 50 percent complete",2027-03,34.852326,-118.4312
+6211-GEN4,Dynegy Oakland Power Plant,"Dynegy Oakland, LLC",Batteries,MWH,43.3,CA,Alameda,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,37.79675,-122.2819
+62892-SONR2,EDPR CA Solar Park VI LLC (CA) Hybrid,EDPR CA Solar Park VI LLC,Batteries,MWH,40,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2026-10,36.62543,-120.3789
+69539-TRAB,Tracy BESS,Middle River Power,Batteries,MWH,40,CA,San Joaquin,"(U) Under construction, less than or equal to 50 percent complete",2027-05,37.711459,-121.4895
+68035-SYTOB,Syracuse and Tours Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,40,CA,Kern,(T) Regulatory approvals received. Not under construction,2027-11,34.951078,-118.3083
+68035-SYTOR,Syracuse and Tours Renewable Energy,Vesper Energy Development LLC,Solar Photovoltaic,SUN,40,CA,Kern,(T) Regulatory approvals received. Not under construction,2027-11,34.951078,-118.3083
+68461-KEYBC,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,35,CA,Fresno,(T) Regulatory approvals received. Not under construction,2027-04,36.13681,-120.1312
+68673-SLW_S,Sand Luis West,"Origis Energy USA, Inc",Batteries,MWH,31.3,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-11,36.1676,-120.054
+59969-GEN01,"Windhub Solar B, LLC","Windhub Solar B, LLC",Solar Photovoltaic,SUN,26.4,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-10,35.0133,-118.2698
+68672-CHA_B,Chalan,"Origis Energy USA, Inc",Batteries,MWH,25,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-12,35.7803,-119.911
+69024-GLNB1,Glenarm BESS Plant,Glenarm BESS LLC,Batteries,MWH,25,CA,Los Angeles,(L) Regulatory approvals pending. Not under construction,2027-06,34.12739,-118.1477
+68528-77,Dynamo Solar LLC,Laketricity USA Inc.,Solar Photovoltaic,SUN,24.5,CA,Napa,(L) Regulatory approvals pending. Not under construction,2027-12,38.229106,-122.2937
+68240-SS3PV,Solar Star 3,"Solar Star 3, LLC",Solar Photovoltaic,SUN,24,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-10,34.84166,-118.4551
+68241-SS4PV,Solar Star 4,"Solar Star 4, LLC",Solar Photovoltaic,SUN,24,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-10,34.84166,-118.4551
+68240-SS3BT,Solar Star 3,"Solar Star 3, LLC",Batteries,MWH,23,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-11,34.84166,-118.4551
+68241-SS4BT,Solar Star 4,"Solar Star 4, LLC",Batteries,MWH,23,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-11,34.84166,-118.4551
+69806-GWBS1,"Gaskell West Storage 1, LLC",Matrix Renewables,Batteries,MWH,21.6,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2026-11,34.833541,-118.5469
+63088-ROONR,Rooney Ranch,Viracocha Wind LLC,Onshore Wind Turbine,WND,21,CA,Alameda,(L) Regulatory approvals pending. Not under construction,2027-12,37.737366,-121.6521
+389-RICE1,El Centro Hybrid,Imperial Irrigation District,Natural Gas Internal Combustion Engine,NG,18.8,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,32.802222,-115.54
+389-RICE2,El Centro Hybrid,Imperial Irrigation District,Natural Gas Internal Combustion Engine,NG,18.8,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,32.802222,-115.54
+389-RICE3,El Centro Hybrid,Imperial Irrigation District,Natural Gas Internal Combustion Engine,NG,18.8,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,32.802222,-115.54
+389-RICE4,El Centro Hybrid,Imperial Irrigation District,Natural Gas Internal Combustion Engine,NG,18.8,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,32.802222,-115.54
+389-RICE5,El Centro Hybrid,Imperial Irrigation District,Natural Gas Internal Combustion Engine,NG,18.8,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,32.802222,-115.54
+389-RICE6,El Centro Hybrid,Imperial Irrigation District,Natural Gas Internal Combustion Engine,NG,18.8,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,32.802222,-115.54
+63652-SNDHB,Sand Hill B,Viracocha Wind LLC,Onshore Wind Turbine,WND,17,CA,Alameda,(L) Regulatory approvals pending. Not under construction,2027-12,37.755007,-121.5968
+63126-SNDHA,Sand Hill A,Viracocha Wind LLC,Onshore Wind Turbine,WND,13.5,CA,Alameda,(L) Regulatory approvals pending. Not under construction,2027-12,37.743809,-121.6078
+67836-GSP1,Gibson Solar Project - Hybrid,"Emeren US, LLC",Solar Photovoltaic,SUN,13,CA,Yolo,(T) Regulatory approvals received. Not under construction,2027-12,38.678386,-121.9876
+67836-GSP2,Gibson Solar Project - Hybrid,"Emeren US, LLC",Batteries,MWH,13,CA,Yolo,(T) Regulatory approvals received. Not under construction,2027-12,38.678386,-121.9876
+67283-6569,Six Flags Magic Mountain,"Magic Mountain Parkway Solar Project 2023, LLC",Solar Photovoltaic,SUN,10,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-09,34.428209,-118.5993
+68439-17184,NorCal FPV 1,Madison Energy Investments LLC,Solar Photovoltaic,SUN,10,CA,Alameda,"(TS) Construction complete, but not yet in commercial operation",2026-12,37.6778,-121.8275
+65897-INPKY,Industrial Parkway Storage,"RPCA Storage 1, LLC",Batteries,MWH,9.8,CA,Santa Barbara,"(TS) Construction complete, but not yet in commercial operation",2026-11,34.907345,-120.4465
+68855-TRP01,Tracy Renewable Power Plant,"Tracy Renewable Energy, LLC",Other Waste Biomass,AB,5,CA,San Joaquin,"(U) Under construction, less than or equal to 50 percent complete",2027-02,37.77158,-121.4251
+67257-BVEB1,Bear Valley Battery Plant,Bear Valley Electric Service,Batteries,MWH,5,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2027-04,34.25,-116.86
+68520-MNDA4,Madena 4,ZGlobal Inc,Batteries,MWH,5,CA,Placer,(L) Regulatory approvals pending. Not under construction,2027-04,38.977582,-121.3765
+67749-TWISS,Pistachio Road 1726-WD,Russell Pacific LLC,Solar Photovoltaic,SUN,4.8,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-10,35.70789,-119.8917
+56615-G200,Rancho Penasquitos,San Diego County Water Auth,Conventional Hydroelectric,WAT,4.3,CA,San Diego,"(U) Under construction, less than or equal to 50 percent complete",2026-10,32.93695,-117.1137
+68519-MDNA3,Madena 3,ZGlobal Inc,Batteries,MWH,3.9,CA,Yuba,"(TS) Construction complete, but not yet in commercial operation",2026-12,39.026009,-121.5441
+69137-ALP2,Althea Avenue Solar,"RPCA Solar 8, LLC",Solar Photovoltaic,SUN,3.9,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2026-12,36.893121,-120.6569
+7907-4,Pine Flat,Kings River Conservation Dist,Conventional Hydroelectric,WAT,3.8,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.8326,-119.327
+66552-MH162,EnerSmart Mesa Heights Sub Station,EnerSmart Storage,Batteries,MWH,3,CA,San Diego,"(U) Under construction, less than or equal to 50 percent complete",2026-11,32.82412,-117.1513
+68018-MRCDB,Merced BESS,ZGlobal Inc,Batteries,MWH,3,CA,Merced,"(TS) Construction complete, but not yet in commercial operation",2026-11,36.989396,-120.8775
+69562-MINNE,Minneola Solar,Minneola Solar,Solar Photovoltaic,SUN,3,CA,San Bernardino,"(U) Under construction, less than or equal to 50 percent complete",2026-11,34.846914,-116.7698
+69749-U1,Scholl Canyon,City of Glendale - (CA),Landfill Gas,LFG,3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-02,34.15638,-118.1927
+69749-U2,Scholl Canyon,City of Glendale - (CA),Landfill Gas,LFG,3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-02,34.15638,-118.1927
+69749-U3,Scholl Canyon,City of Glendale - (CA),Landfill Gas,LFG,3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-02,34.15638,-118.1927
+69749-U4,Scholl Canyon,City of Glendale - (CA),Landfill Gas,LFG,3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-02,34.15638,-118.1927
+70105-GDNAB,Gardenia 1,ZGlobal Inc,Batteries,MWH,3,CA,Kings,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,35.790785,-119.8777
+70105-GDNAS,Gardenia 1,ZGlobal Inc,Solar Photovoltaic,SUN,3,CA,Kings,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,35.790785,-119.8777
+56895-7,Ameresco Ox Mountain,AMERESCO Ox Mountain Energy LLC,Landfill Gas,LFG,3,CA,San Mateo,(L) Regulatory approvals pending. Not under construction,2027-09,37.5,-122.4
+67770-30200,Pittsburg RV Solar,"Pittsburg RV & Boat Storage, LLC",Solar Photovoltaic,SUN,2.8,CA,Contra Costa,"(TS) Construction complete, but not yet in commercial operation",2026-12,38.01155,-121.8453
+70012-IN609,Redlands DC 9 - sline609,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,2.6,CA,San Bernardino,"(U) Under construction, less than or equal to 50 percent complete",2026-11,34.083141,-117.2035
+70372-LERMI,Lerdo Middle,"Wonderful Renewable Energy, LLC.",Solar Photovoltaic,SUN,2.4,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-09,35.50622,-119.162
+70012-BA609,Redlands DC 9 - sline609,Prologis Logistics Services Incorporated,Batteries,MWH,2.4,CA,San Bernardino,"(U) Under construction, less than or equal to 50 percent complete",2026-11,34.083141,-117.2035
+70370-R4701,Ranch 4701,"Wonderful Renewable Energy, LLC.",Solar Photovoltaic,SUN,2.3,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-10,35.742656,-119.0809
+70101-PPA29,Pivot Energy PPA 29 LLC,Pivot Energy,Solar Photovoltaic,SUN,2.2,CA,Placer,"(V) Under construction, more than 50 percent complete",2027-01,38.828466,-121.3049
+67283-6569B,Six Flags Magic Mountain,"Magic Mountain Parkway Solar Project 2023, LLC",Batteries,MWH,2,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-09,34.428209,-118.5993
+66511-18262,CA Riverside 2356 Fleetwood Dr.,Catalyze Riverside 2356 Fleetwood Drive Microgrid LLC,Solar Photovoltaic,SUN,2,CA,Riverside,"(V) Under construction, more than 50 percent complete",2026-11,34.012142,-117.3811
+66511-B8262,CA Riverside 2356 Fleetwood Dr.,Catalyze Riverside 2356 Fleetwood Drive Microgrid LLC,Batteries,MWH,2,CA,Riverside,"(V) Under construction, more than 50 percent complete",2026-11,34.012142,-117.3811
+68465-22324,Imperator Solar,"Imperator Solar, LLC",Solar Photovoltaic,SUN,2,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2026-12,35.4932,-119.1659
+69591-20525,20525 Nordhoff PV (North),"Amiscope Nordhoff, LP",Solar Photovoltaic,SUN,1.9,CA,Los Angeles,"(TS) Construction complete, but not yet in commercial operation",2026-12,34.235572,-118.5811
+69222-5381,American Canyon RV Boat Storage,Napa Junction RV Storage LLC,Solar Photovoltaic,SUN,1.9,CA,Napa,"(V) Under construction, more than 50 percent complete",2027-04,38.198033,-122.257
+68787-23889,NorCal FPV 1 (Pond 2),"NorCal FPV 1, LLC",Solar Photovoltaic,SUN,1.8,CA,Alameda,"(V) Under construction, more than 50 percent complete",2026-12,37.6779,-121.8276
+70428-DRIVS,Bakersfield Driver,Pacifico Bakersfield Driver LLC,Solar Photovoltaic,SUN,1.7,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-09,35.562181,-119.202
+68541-7169,Palmdale Water District HQ,"East Avenue Q Solar Project 2022, LLC",Solar Photovoltaic,SUN,1.7,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-11,34.587916,-118.0931
+69711-6672,L3 Harris San Diego,"Balboa Avenue I Solar Project 2023, LLC",Solar Photovoltaic,SUN,1.6,CA,San Diego,"(V) Under construction, more than 50 percent complete",2026-11,32.822588,-117.1352
+10748-FUTR1,Marina Landfill Gas,Monterey Regional Waste Mgmt,Landfill Gas,LFG,1.6,CA,Monterey,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,36.7131,-121.7686
+10748-FUTR2,Marina Landfill Gas,Monterey Regional Waste Mgmt,Landfill Gas,LFG,1.6,CA,Monterey,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,36.7131,-121.7686
+10748-FUTR3,Marina Landfill Gas,Monterey Regional Waste Mgmt,Landfill Gas,LFG,1.6,CA,Monterey,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,36.7131,-121.7686
+10748-FUTR4,Marina Landfill Gas,Monterey Regional Waste Mgmt,Landfill Gas,LFG,1.6,CA,Monterey,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,36.7131,-121.7686
+69242-PV1,AB Van Nuys,"Roscoe Boulevard Operating, LLC",Solar Photovoltaic,SUN,1.6,CA,Los Angeles,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,34.220959,-118.4768
+66475-18263,CA Bloomington 2551 S Lilac Avenue Micro,Catalyze Bloomington 2551 S Lilac Avenue Microgrid LLC,Solar Photovoltaic,SUN,1.5,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2026-11,34.05523,-117.3778
+66475-B8263,CA Bloomington 2551 S Lilac Avenue Micro,Catalyze Bloomington 2551 S Lilac Avenue Microgrid LLC,Batteries,MWH,1.5,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2026-11,34.05523,-117.3778
+65072-GA3,Fremont CA AutoFactory,Tesla Inc.,Solar Photovoltaic,SUN,1.5,CA,Alameda,"(U) Under construction, less than or equal to 50 percent complete",2026-12,37.49254,-121.9446
+70106-JADEB,Jade Solar 3,ZGlobal Inc,Batteries,MWH,1.5,CA,Madera,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,37.056528,-119.9805
+70106-JADES,Jade Solar 3,ZGlobal Inc,Solar Photovoltaic,SUN,1.5,CA,Madera,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,37.056528,-119.9805
+69891-LA100,Torrance Dis Ctr 2 - SLLAX100,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.4,CA,Los Angeles,"(TS) Construction complete, but not yet in commercial operation",2026-10,33.84516,-118.3164
+65072-STAMP,Fremont CA AutoFactory,Tesla Inc.,Solar Photovoltaic,SUN,1.4,CA,Alameda,"(TS) Construction complete, but not yet in commercial operation",2026-12,37.49254,-121.9446
+63622-OES01,OES Biogas Power,"Organic Energy Solutions, Inc.",Other Waste Biomass,OBG,1.3,CA,San Bernardino,"(TS) Construction complete, but not yet in commercial operation",2026-11,34.17325,-117.3464
+63622-OES02,OES Biogas Power,"Organic Energy Solutions, Inc.",Other Waste Biomass,OBG,1.3,CA,San Bernardino,"(TS) Construction complete, but not yet in commercial operation",2026-11,34.17325,-117.3464
+68793-LA710,Bandini - SLLAX710,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.3,CA,Los Angeles,"(TS) Construction complete, but not yet in commercial operation",2026-11,33.983566,-118.1348
+68236-LA680,South Bay Dis Ctr 6-SLLAX680,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.3,CA,Los Angeles,"(U) Under construction, less than or equal to 50 percent complete",2027-05,33.8439,-118.2242
+68792-LA680,Fordyce - SLLAX680,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.3,CA,Los Angeles,"(U) Under construction, less than or equal to 50 percent complete",2027-06,33.8439,-118.2242
+68789-LA104,South Bay Dis Ctr 12 - SLLAX104,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.2,CA,Los Angeles,"(TS) Construction complete, but not yet in commercial operation",2026-11,33.842873,-118.2245
+69211-PV1,San Pedro Public Market (SPPM),"SPPM Operating, LLC",Solar Photovoltaic,SUN,1.2,CA,Los Angeles,"(U) Under construction, less than or equal to 50 percent complete",2027-06,33.731297,-118.2795
+69533-21938,CA National City Terminal Ave,"Catalyze National City Terminal Avenue Microgrid, LLC",Solar Photovoltaic,SUN,1.1,CA,San Diego,"(V) Under construction, more than 50 percent complete",2026-11,32.654,-117.119
+69895-Gy1a2,Gateway#1&2 (Newark CA),"Coast Energy Holdings, LLC",Solar Photovoltaic,SUN,1.1,CA,Alameda,"(P) Planned for installation, but regulatory approvals not initiated",2027-04,37.540903,-122.0617
+69706-4149C,Bishop Ranch - BR 3-GG,"Camino Ramon BR 3-GG Solar Project 2020, LLC",Solar Photovoltaic,SUN,1.1,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.767242,-121.9582
+68542-7170G,Palmdale Water District 6MG Tank,"East Avenue South Solar Project 2022, LLC",Solar Photovoltaic,SUN,1,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-11,34.558047,-118.1187
+70505-1055,"VS HR Warner NEM, LLC",Valta Energy,Solar Photovoltaic,SUN,1,CA,Orange,"(V) Under construction, more than 50 percent complete",2026-12,33.7162,-117.9345
+69786-CV209,Stockton 9 - slcva209,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1,CA,San Joaquin,"(U) Under construction, less than or equal to 50 percent complete",2027-04,37.89233,-121.2667
+69609-EB702,San Leandro 10 - sleba702,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1,CA,Alameda,"(U) Under construction, less than or equal to 50 percent complete",2027-05,37.71422,-122.182
+67565-CEC01,East Road Storage Project,Form Energy Inc.,Batteries,MWH,1,CA,Mendocino,(T) Regulatory approvals received. Not under construction,2027-06,39.25,-123.196
+69785-CV801,Stockton 1 - slcva801,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1,CA,San Joaquin,"(U) Under construction, less than or equal to 50 percent complete",2027-07,37.93997,-121.2265
+68600-7236G,Las Virgenes MWD - Composting Plant,"Las Virgenes Road Solar Project 2022, LLC",Solar Photovoltaic,SUN,0.9,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-11,34.126481,-118.6981
+69713-9985C,Sanger USD - Sanger West HS,"South Fowler Avenue Solar Project 2023, LLC",Solar Photovoltaic,SUN,0.9,CA,Fresno,"(V) Under construction, more than 50 percent complete",2026-11,36.709291,-119.6814
+69706-4149B,Bishop Ranch - BR 3-GG,"Camino Ramon BR 3-GG Solar Project 2020, LLC",Batteries,MWH,0.6,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.767242,-121.9582
+69708-4150B,Bishop Ranch - BR 3-HH,"Camino Ramon BR 3-HH Solar Project 2020, LLC",Batteries,MWH,0.6,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.766297,-121.9582
+69708-4150C,Bishop Ranch - BR 3-HH,"Camino Ramon BR 3-HH Solar Project 2020, LLC",Solar Photovoltaic,SUN,0.6,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.766297,-121.9582
+69710-4148B,Bishop Ranch - BR 3-FF,"Camino Ramon BR 3-FF Solar Project 2020, LLC",Batteries,MWH,0.6,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.768388,-121.959
+69710-4148C,Bishop Ranch - BR 3-FF,"Camino Ramon BR 3-FF Solar Project 2020, LLC",Solar Photovoltaic,SUN,0.6,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.768388,-121.959
+68600-7236B,Las Virgenes MWD - Composting Plant,"Las Virgenes Road Solar Project 2022, LLC",Batteries,MWH,0.5,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-11,34.126481,-118.6981
+69713-9985B,Sanger USD - Sanger West HS,"South Fowler Avenue Solar Project 2023, LLC",Batteries,MWH,0.5,CA,Fresno,"(V) Under construction, more than 50 percent complete",2026-11,36.709291,-119.6814
+65072-GVSRS,Fremont CA AutoFactory,Tesla Inc.,Solar Photovoltaic,SUN,0.5,CA,Alameda,"(V) Under construction, more than 50 percent complete",2026-12,37.49254,-121.9446
+65072-VSRS,Fremont CA AutoFactory,Tesla Inc.,Solar Photovoltaic,SUN,0.4,CA,Alameda,"(TS) Construction complete, but not yet in commercial operation",2026-12,37.49254,-121.9446
+70428-DRIVB,Bakersfield Driver,Pacifico Bakersfield Driver LLC,Batteries,MWH,0.3,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-09,35.562181,-119.202
+68542-7170B,Palmdale Water District 6MG Tank,"East Avenue South Solar Project 2022, LLC",Batteries,MWH,0.3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-11,34.558047,-118.1187
+58168-TURB4,Energy Center,University of Redlands,Natural Gas Fired Combustion Turbine,NG,0.3,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,34.063056,-117.1639
+58168-TURB5,Energy Center,University of Redlands,Natural Gas Fired Combustion Turbine,NG,0.3,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,34.063056,-117.1639
+58168-TURB6,Energy Center,University of Redlands,Natural Gas Fired Combustion Turbine,NG,0.3,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,34.063056,-117.1639
+69706-4149R,Bishop Ranch - BR 3-GG,"Camino Ramon BR 3-GG Solar Project 2020, LLC",Solar Photovoltaic,SUN,0.2,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.767242,-121.9582
+69708-4150R,Bishop Ranch - BR 3-HH,"Camino Ramon BR 3-HH Solar Project 2020, LLC",Solar Photovoltaic,SUN,0.2,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.766297,-121.9582
+69710-4148R,Bishop Ranch - BR 3-FF,"Camino Ramon BR 3-FF Solar Project 2020, LLC",Solar Photovoltaic,SUN,0.2,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.768388,-121.959
+70101-PA29B,Pivot Energy PPA 29 LLC,Pivot Energy,Batteries,MWH,0.1,CA,Placer,"(V) Under construction, more than 50 percent complete",2027-01,38.828466,-121.3049

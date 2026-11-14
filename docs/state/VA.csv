@@ -1,0 +1,63 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+64550-CVOWC,Coastal Virginia Offshore Wind (CVOW) Commercial Project,Dominion Energy Inc.,Offshore Wind Turbine,WND,2640,VA,,"(U) Under construction, less than or equal to 50 percent complete",2027-01,36.907956,-75.34907
+68071-BELLF,Bellflower Solar (VA),Dominion Renewable Energy,Solar Photovoltaic,SUN,600,VA,Brunswick,"(P) Planned for installation, but regulatory approvals not initiated",2030-01,37,-78
+68076-ROCKY,Rocky Run Solar,Dominion Renewable Energy,Solar Photovoltaic,SUN,300,VA,Brunswick,"(P) Planned for installation, but regulatory approvals not initiated",2028-01,37,-78
+3797-CERC1,Chesterfield,Virginia Electric & Power Co,Natural Gas Fired Combustion Turbine,NG,250,VA,Chesterfield,(L) Regulatory approvals pending. Not under construction,2029-06,37.3822,-77.3833
+3797-CERC2,Chesterfield,Virginia Electric & Power Co,Natural Gas Fired Combustion Turbine,NG,250,VA,Chesterfield,(L) Regulatory approvals pending. Not under construction,2029-06,37.3822,-77.3833
+3797-CERC3,Chesterfield,Virginia Electric & Power Co,Natural Gas Fired Combustion Turbine,NG,250,VA,Chesterfield,(L) Regulatory approvals pending. Not under construction,2029-06,37.3822,-77.3833
+3797-CERC4,Chesterfield,Virginia Electric & Power Co,Natural Gas Fired Combustion Turbine,NG,250,VA,Chesterfield,(L) Regulatory approvals pending. Not under construction,2029-06,37.3822,-77.3833
+68040-SYCAM,Sycamore Cross Solar,AES Clean Energy,Solar Photovoltaic,SUN,208.2,VA,Isle of Wight,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,37.017425,-76.74399
+65462-AXTON,Axton Solar,Vesper Energy Development LLC,Solar Photovoltaic,SUN,201.1,VA,Henry,(L) Regulatory approvals pending. Not under construction,2028-09,36.671684,-79.68606
+66312-CHSL,Courthouse Solar,Dominion Energy Inc.,Solar Photovoltaic,SUN,167,VA,Charlotte,"(U) Under construction, less than or equal to 50 percent complete",2030-10,37.04,-78.58
+69582-CSTP,"Chester Solar Technology Park, LLC","Chester Solar Technology Park, LLC",Solar Photovoltaic,SUN,160,VA,Chesterfield,(L) Regulatory approvals pending. Not under construction,2027-10,37.317,-77.466
+65665-HEPU1,Hecate Energy Pulaski 1,AES Clean Energy,Solar Photovoltaic,SUN,150,VA,Pulaski,(L) Regulatory approvals pending. Not under construction,2028-04,37.139595,-80.68741
+67352-CPVCL,"CPV County Line Solar, LLC","CPV County Line Solar, LLC",Solar Photovoltaic,SUN,150,VA,Charlotte,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,37.190161,-78.68228
+68194-RIVER,Riverstone Solar,"Riverstone Solar, LLC",Solar Photovoltaic,SUN,149.5,VA,Buckingham,(T) Regulatory approvals received. Not under construction,2027-10,37.72839,-78.45188
+67884-ENX27,Two Oaks Solar and Storage LLC,Two Oaks Solar and Storage,Solar Photovoltaic,SUN,118,VA,Louisa,"(P) Planned for installation, but regulatory approvals not initiated",2029-11,38.013053,-77.93117
+65043-DUSO,Dulles Solar and Storage,Dominion Energy Inc.,Solar Photovoltaic,SUN,100,VA,Loudoun,"(V) Under construction, more than 50 percent complete",2026-12,38.95,-77.5
+68205-GRNWD,Greenwood Solar I,"Greenwood Solar I, LLC",Solar Photovoltaic,SUN,100,VA,Culpeper,(T) Regulatory approvals received. Not under construction,2028-06,38.427261,-77.90787
+68073-BLUER,Blue Ridge Solar,Dominion Renewable Energy,Solar Photovoltaic,SUN,95,VA,Pittsylvania,"(U) Under construction, less than or equal to 50 percent complete",2027-05,36.790101,-79.42875
+66315-CCSO,Clover Creek Solar,Dominion Energy Inc.,Solar Photovoltaic,SUN,77.2,VA,Halifax,"(U) Under construction, less than or equal to 50 percent complete",2027-06,36.816641,-78.69262
+68075-PINES,Pineside Solar,Dominion Renewable Energy,Solar Photovoltaic,SUN,74.9,VA,Buckingham,"(P) Planned for installation, but regulatory approvals not initiated",2030-01,37.5,-78.5
+69474-SWTSU,Sweet Sue Solar,Dominion Renewable Energy,Solar Photovoltaic,SUN,74.8,VA,King William,"(V) Under construction, more than 50 percent complete",2028-03,37.762,-77.191
+66124-SSPV,"Switchgrass Solar, LLC","RWE Americas, LLC",Solar Photovoltaic,SUN,70,VA,Suffolk City,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,36.676484,-76.58588
+68074-CERUL,Cerulean Solar,Dominion Renewable Energy,Solar Photovoltaic,SUN,62,VA,Richmond,"(V) Under construction, more than 50 percent complete",2026-12,37.867194,-76.58987
+67871-ENX29,Gladys Solar LLC,Gladys Solar LLC,Solar Photovoltaic,SUN,60.4,VA,Campbell,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,37.143719,-79.14207
+66313-MOCO,Moon Corner Solar,Dominion Energy Inc.,Solar Photovoltaic,SUN,60,VA,Richmond,"(U) Under construction, less than or equal to 50 percent complete",2026-12,37.89,-76.54
+64767-TC001,Pigeon Run Solar Project,"Pigeon Run Solar, LLC",Solar Photovoltaic,SUN,60,VA,Campbell,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,37.158473,-79.05564
+64768-TC001,Zenith Solar,"Zenith Solar, LLC",Solar Photovoltaic,SUN,60,VA,Pittsylvania,"(P) Planned for installation, but regulatory approvals not initiated",2030-07,36.817763,-79.23328
+68970-HOFEL,Ho-Fel Solar,Ho-Fel Solar LLC,Solar Photovoltaic,SUN,50.2,VA,Isle of Wight,"(TS) Construction complete, but not yet in commercial operation",2026-11,36.673032,-76.88201
+67215-ENX25,Sun Ridge Solar,"Sun Ridge Solar, LLC",Solar Photovoltaic,SUN,50,VA,Rockingham,"(V) Under construction, more than 50 percent complete",2026-11,38.314898,-78.74463
+65043-DUST,Dulles Solar and Storage,Dominion Energy Inc.,Batteries,MWH,50,VA,Loudoun,"(V) Under construction, more than 50 percent complete",2026-12,38.95,-77.5
+67884-ENX28,Two Oaks Solar and Storage LLC,Two Oaks Solar and Storage,Batteries,MWH,50,VA,Louisa,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,38.013053,-77.93117
+65286-ENX18,Caden Energix Piney River LLC,Caden Energix Piney River LLC,Solar Photovoltaic,SUN,50,VA,Amherst,(L) Regulatory approvals pending. Not under construction,2028-12,37.696818,-79.02306
+65930-10,Redbud Run Solar,Dominion Renewable Energy,Solar Photovoltaic,SUN,30,VA,Frederick,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,39.21157,-78.08417
+66695-HRSPN,Horsepen Branch Solar,Horsepen Branch Solar,Solar Photovoltaic,SUN,25,VA,Louisa,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,37.961,-77.792
+70546-JAR-3,Jarratt Energy Facility,"Torch Operating Company, LLC",Solar Photovoltaic,SUN,22.4,VA,Greensville,(T) Regulatory approvals received. Not under construction,2027-11,36.822306,-77.51345
+70232-EVERG,"Evergreen Energy Center, LLC","East Point Energy, LLC",Batteries,MWH,20,VA,Loudoun,"(V) Under construction, more than 50 percent complete",2026-10,39.044885,-77.58191
+70231-BETHL,"Bethlehem Energy Center, LLC - (VA)","East Point Energy, LLC",Batteries,MWH,20,VA,Prince William,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.781889,-77.5426
+70233-RAILR,"Railroad Energy Center, LLC","East Point Energy, LLC",Batteries,MWH,20,VA,Prince William,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.781689,-77.54202
+70234-REID,"Reid Energy Center, LLC","East Point Energy, LLC",Batteries,MWH,20,VA,Prince William,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.729874,-77.59242
+68278-21066,Greater Wise Solar Project,BQ Energy Development,Solar Photovoltaic,SUN,20,VA,Wise,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,36.932469,-82.6769
+64036-ENX08,"Caden Energix New Kent, LLC","Caden Energix New Kent, LLC",Solar Photovoltaic,SUN,20,VA,New Kent,(L) Regulatory approvals pending. Not under construction,2028-08,37.49004,-77.0616
+68072-BRIDL,Bridleton Solar,Dominion Renewable Energy,Solar Photovoltaic,SUN,20,VA,Henrico,(L) Regulatory approvals pending. Not under construction,2028-10,37.46,-77.27
+65305-BESS,Powells Creek Solar - Hybrid,"Powells Creek Farm Solar, LLC",Batteries,MWH,17.5,VA,Halifax,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,36.55467,-79.0286
+70546-JAR-1,Jarratt Energy Facility,"Torch Operating Company, LLC",Solar Photovoltaic,SUN,16.3,VA,Greensville,(T) Regulatory approvals received. Not under construction,2027-11,36.822306,-77.51345
+70546-JAR-2,Jarratt Energy Facility,"Torch Operating Company, LLC",Solar Photovoltaic,SUN,14.9,VA,Greensville,(T) Regulatory approvals received. Not under construction,2027-11,36.822306,-77.51345
+70203-GEN1,Bealeton Solar,"TerraForm Power Operating, LLC",Solar Photovoltaic,SUN,14.2,VA,Fauquier,(L) Regulatory approvals pending. Not under construction,2028-11,38.555832,-77.77828
+70409-ENX41,Hera Solar,"Hera Solar, LLC",Solar Photovoltaic,SUN,13.3,VA,Tazewell,(L) Regulatory approvals pending. Not under construction,2028-06,36.167141,-81.50336
+65307-SUNB,Sunnybrook Solar Project - Hybrid,"Sunnybrook Farm Solar, LLC",Batteries,MWH,12.5,VA,Halifax,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,36.798717,-78.83961
+70410-ENX42,Willow Solar,"Willow Solar, LLC",Solar Photovoltaic,SUN,12,VA,Franklin,(L) Regulatory approvals pending. Not under construction,2027-06,36.968749,-79.93001
+69552-90916,Danville VA BESS 2,Danville VA BESS 2 LLC,Batteries,MWH,11,VA,Pittsylvania,"(U) Under construction, less than or equal to 50 percent complete",2026-10,36.6052,-79.4358
+70007-RICHR,Richmond Road Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,VA,James City,(T) Regulatory approvals received. Not under construction,2027-06,37.39976,-76.82053
+70130-141,Suffolk - VA 0141 (Johnson South),CVE US VA Suffolk 141 LLC,Solar Photovoltaic,SUN,5,VA,Suffolk City,"(U) Under construction, less than or equal to 50 percent complete",2027-11,36.70257,-76.79211
+70132-426,Waynesboro - VA 0426 (Patterson B),CVE US VA Patterson 426 LLC,Solar Photovoltaic,SUN,5,VA,Augusta,"(U) Under construction, less than or equal to 50 percent complete",2027-11,38.14701,-78.87457
+67647-KINGL,Kinglet,Cypress Creek Renewables,Solar Photovoltaic,SUN,5,VA,Stafford,(L) Regulatory approvals pending. Not under construction,2027-12,38.350511,-77.47619
+70550-9014,Meadow Creek VA BESS 1,Meadow Creek VA BESS 1 LLC,Batteries,MWH,4,VA,Craig,"(V) Under construction, more than 50 percent complete",2026-11,37.4897,-80.1189
+70551-90915,Piney River VA BESS 1,Piney River VA BESS 1 LLC,Batteries,MWH,4,VA,Nelson,"(V) Under construction, more than 50 percent complete",2026-11,37.7187,-79.0054
+70552-90913,Colleen VA BESS 1,Colleen VA BESS 1 LLC,Batteries,MWH,4,VA,Nelson,"(V) Under construction, more than 50 percent complete",2026-11,37.7103,-78.9463
+70553-90912,Salem VA BESS 1,Salem VA BESS 1 LLC,Batteries,MWH,4,VA,Salem City,"(V) Under construction, more than 50 percent complete",2026-11,37.2892,-80.03
+68070-ALBER,Alberta Solar,Dominion Renewable Energy,Solar Photovoltaic,SUN,3,VA,Brunswick,"(U) Under construction, less than or equal to 50 percent complete",2026-10,36.841728,-77.91051
+65313-ES,Elm Spring Solar 1,Antares Group Inc,Solar Photovoltaic,SUN,3,VA,Augusta,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,38.0945,-78.9595
+65312-SV,Shenvalee Solar,Antares Group Inc,Solar Photovoltaic,SUN,3,VA,Augusta,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,38.0249,-79.0335
+70123-224,Petersburg - VA 0224 (Murphy),CVE US VA Petersburg 224 LLC,Solar Photovoltaic,SUN,2.6,VA,Chesterfield,"(U) Under construction, less than or equal to 50 percent complete",2027-12,37.24348,-77.43647

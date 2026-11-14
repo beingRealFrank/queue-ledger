@@ -1,0 +1,18 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+58987-II-A,Chokecherry and Sierra Madre Wind,Power Company of Wyoming LLC,Onshore Wind Turbine,WND,1303.2,WY,Carbon,"(U) Under construction, less than or equal to 50 percent complete",2032-12,41.683056,-107.2
+58987-I-B,Chokecherry and Sierra Madre Wind,Power Company of Wyoming LLC,Onshore Wind Turbine,WND,849.6,WY,Carbon,"(U) Under construction, less than or equal to 50 percent complete",2031-12,41.683056,-107.2
+58987-I-A,Chokecherry and Sierra Madre Wind,Power Company of Wyoming LLC,Onshore Wind Turbine,WND,844.2,WY,Carbon,"(U) Under construction, less than or equal to 50 percent complete",2031-12,41.683056,-107.2
+58987-II-B,Chokecherry and Sierra Madre Wind,Power Company of Wyoming LLC,Onshore Wind Turbine,WND,553.5,WY,Carbon,"(U) Under construction, less than or equal to 50 percent complete",2033-12,41.683056,-107.2
+64847-CRTW1,Rail Tie Wind,Repsol Renewables NA,Onshore Wind Turbine,WND,504,WY,Albany,(L) Regulatory approvals pending. Not under construction,2029-06,41.055833,-105.4942
+68635-KU1,Kemmerer Unit 1,US SFR Owner LLC,Nuclear,NUC,500,WY,Lincoln,(L) Regulatory approvals pending. Not under construction,2030-12,41.705993,-110.5603
+68317-DUTC1,Dutchman Solar generation and BESS,"DUTC bn, LLC",Solar Photovoltaic,SUN,499,WY,Converse,(L) Regulatory approvals pending. Not under construction,2029-06,42.871644,-105.8176
+68317-DUTC2,Dutchman Solar generation and BESS,"DUTC bn, LLC",Batteries,MWH,499,WY,Converse,(L) Regulatory approvals pending. Not under construction,2029-06,42.871644,-105.8176
+68022-CLP20,Cowboy Solar I,Cowboy Solar I,Solar Photovoltaic,SUN,400,WY,Laramie,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,41.032968,-104.3816
+68022-CLPBS,Cowboy Solar I,Cowboy Solar I,Batteries,MWH,400,WY,Laramie,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,41.032968,-104.3816
+69189-C2PV,Cowboy Solar II,Cowboy Solar II,Solar Photovoltaic,SUN,365,WY,Laramie,(T) Regulatory approvals received. Not under construction,2027-12,41.032968,-104.3816
+69189-C2BS,Cowboy Solar II,Cowboy Solar II,Batteries,MWH,200,WY,Laramie,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,41.032968,-104.3816
+67936-GS1,Goshen Solar,"Goshen Solar, LLC",Solar Photovoltaic,SUN,163,WY,Goshen,(T) Regulatory approvals received. Not under construction,2030-12,41.853445,-104.5032
+57703-02B,Cheyenne Prairie Generating Station,Black Hills Service Company LLC,Natural Gas Fired Combustion Turbine,NG,40,WY,Laramie,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,41.123611,-104.72
+57703-03A,Cheyenne Prairie Generating Station,Black Hills Service Company LLC,Natural Gas Fired Combustion Turbine,NG,40,WY,Laramie,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,41.123611,-104.72
+57703-03B,Cheyenne Prairie Generating Station,Black Hills Service Company LLC,Natural Gas Fired Combustion Turbine,NG,40,WY,Laramie,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,41.123611,-104.72
+63972-TR1,Two Rivers Wind Facility,Two Rivers Wind LLC,Onshore Wind Turbine,WND,6.1,WY,Carbon,(L) Regulatory approvals pending. Not under construction,2028-10,41.97508,-106.1805

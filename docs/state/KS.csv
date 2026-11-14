@@ -1,0 +1,19 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+68294-VIO1,Viola Generating Station,"Evergy Kansas Central, Inc",Natural Gas Fired Combined Cycle,NG,765,KS,Sumner,(T) Regulatory approvals received. Not under construction,2029-01,37.331481,-97.67
+68295-MCN1,McNew Generating Station,"Evergy Kansas Central, Inc",Natural Gas Fired Combined Cycle,NG,765,KS,Reno,(T) Regulatory approvals received. Not under construction,2030-01,38.00595,-97.92166
+70299-814,"Pioneer Creek Wind, LLC","NextEra Energy Resources, LLC",Onshore Wind Turbine,WND,252,KS,Ford,"(V) Under construction, more than 50 percent complete",2027-03,37.735053,-99.80556
+69879-N3884,Ninnescah Flats Solar,Nextera Energy Resources,Solar Photovoltaic,SUN,201.6,KS,Pratt,"(TS) Construction complete, but not yet in commercial operation",2026-12,37.628817,-98.59311
+65948-PNW01,Plum Nellie Wind Farm LLC,Plum Nellie Wind Farm LLC,Onshore Wind Turbine,WND,201.6,KS,Cloud,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,39.376786,-97.55649
+70366-BHBES,Boot Hill Energy Storage,Boot Hill Energy Storage LLC,Batteries,MWH,75,KS,Ford,(T) Regulatory approvals received. Not under construction,2028-12,37.704,-99.977
+69631-SFS01,Sunflower Sky Energy Center,Evergy Missouri West,Solar Photovoltaic,SUN,65,KS,Wilson,"(V) Under construction, more than 50 percent complete",2027-05,37.502223,-95.64868
+1239-13,Riverton,Empire District Electric Co,Natural Gas Fired Combustion Turbine,NG,13.5,KS,Cherokee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.072616,-94.6987
+1239-14,Riverton,Empire District Electric Co,Natural Gas Fired Combustion Turbine,NG,13.5,KS,Cherokee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.072616,-94.6987
+1263-9,Belleville,City of Belleville - (KS),Petroleum Liquids,DFO,3,KS,Republic,"(V) Under construction, more than 50 percent complete",2027-03,39.832769,-97.63204
+1263-7A,Belleville,City of Belleville - (KS),Petroleum Liquids,DFO,3,KS,Republic,"(P) Planned for installation, but regulatory approvals not initiated",2028-01,39.832769,-97.63204
+1267-15,Chanute 1,City of Chanute (KS),Petroleum Liquids,DFO,2.2,KS,Neosho,"(V) Under construction, more than 50 percent complete",2026-11,37.683333,-95.45472
+1267-16,Chanute 1,City of Chanute (KS),Petroleum Liquids,DFO,2.2,KS,Neosho,"(V) Under construction, more than 50 percent complete",2026-11,37.683333,-95.45472
+1267-17,Chanute 1,City of Chanute (KS),Petroleum Liquids,DFO,2.2,KS,Neosho,"(V) Under construction, more than 50 percent complete",2026-11,37.683333,-95.45472
+1291-17,Iola,City of Iola - (KS),Petroleum Liquids,DFO,2,KS,Allen,"(U) Under construction, less than or equal to 50 percent complete",2026-10,37.923076,-95.42557
+1291-18,Iola,City of Iola - (KS),Petroleum Liquids,DFO,2,KS,Allen,"(U) Under construction, less than or equal to 50 percent complete",2026-10,37.923076,-95.42557
+1291-19,Iola,City of Iola - (KS),Petroleum Liquids,DFO,2,KS,Allen,"(U) Under construction, less than or equal to 50 percent complete",2026-10,37.923076,-95.42557
+1291-20,Iola,City of Iola - (KS),Petroleum Liquids,DFO,2,KS,Allen,"(U) Under construction, less than or equal to 50 percent complete",2026-10,37.923076,-95.42557

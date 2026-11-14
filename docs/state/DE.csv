@@ -1,0 +1,11 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+64543-1,Cedar Creek Solar,FPS Cedar Creek Solar LLC,Solar Photovoltaic,SUN,114,DE,New Castle,(L) Regulatory approvals pending. Not under construction,2028-07,39.37259,-75.56455
+63846-RACE,Raceway Solar,Freepoint Commodities LLC,Solar Photovoltaic,SUN,50,DE,Kent,"(U) Under construction, less than or equal to 50 percent complete",2027-07,38.909956,-75.58819
+65304-BESS,ENGIE Solidago Solar Project - Hybrid,ENGIE Solidago Solar LLC,Batteries,MWH,12.5,DE,New Castle,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,39.395187,-75.7535
+68195-DEAVE,Delaware Ave Solar,"Delaware Ave Solar, LLC",Solar Photovoltaic,SUN,4,DE,Kent,"(V) Under construction, more than 50 percent complete",2026-10,38.930578,-75.57075
+68196-RIFPV,Rifle Range Road Solar,"Rifle Range Road Solar, LLC",Solar Photovoltaic,SUN,4,DE,Sussex,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.725699,-75.57144
+70374-CSC52,Chaberton Solar Crestone,Pivot Energy,Solar Photovoltaic,SUN,4,DE,Kent,"(V) Under construction, more than 50 percent complete",2027-01,38.946876,-75.57677
+68211-GRER,Grears Corner Solar,"Grears Corner Solar, LLC",Solar Photovoltaic,SUN,4,DE,New Castle,(L) Regulatory approvals pending. Not under construction,2027-05,39.380083,-75.70611
+69560-MAGNO,Sunrise Magnolia DE,Standard Solar,Solar Photovoltaic,SUN,3,DE,Kent,"(V) Under construction, more than 50 percent complete",2027-05,39.071366,-75.49303
+68212-MDLN,Maryland Line Road Solar,"Maryland Line Road Solar, LLC",Solar Photovoltaic,SUN,2.5,DE,New Castle,(L) Regulatory approvals pending. Not under construction,2027-05,39.372,-75.763
+70196-DEL22,"DEL022-30423B Thorogoods Rd, LLC",Pivot Energy,Solar Photovoltaic,SUN,2,DE,Sussex,"(V) Under construction, more than 50 percent complete",2027-01,38.569503,-75.26468

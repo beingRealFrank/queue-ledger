@@ -1,0 +1,28 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69989-PB1,Arkansas Cypress Solar Station,Entergy Arkansas LLC,Solar Photovoltaic,SUN,600,AR,Jefferson,"(P) Planned for installation, but regulatory approvals not initiated",2029-01,34.42,-92.08
+70397-SRSP1,Steel River Solar Phase 1,Cypress Creek Renewables,Solar Photovoltaic,SUN,500,AR,Mississippi,"(U) Under construction, less than or equal to 50 percent complete",2028-08,35.578637,-90.09763
+70398-SRSP2,Steel River Solar Phase 2,Cypress Creek Renewables,Solar Photovoltaic,SUN,500,AR,Mississippi,"(U) Under construction, less than or equal to 50 percent complete",2029-07,35.578637,-90.09763
+70399-SRSP3,Steel River Solar Phase 3,Cypress Creek Renewables,Solar Photovoltaic,SUN,500,AR,Mississippi,"(U) Under construction, less than or equal to 50 percent complete",2030-07,35.578637,-90.09763
+69185-JPSCT,Jefferson Power Station,Entergy Arkansas LLC,Natural Gas Fired Combined Cycle,NG,478,AR,Jefferson,(L) Regulatory approvals pending. Not under construction,2029-11,34.427527,-92.13996
+69750-1A,Ironwood Power Station,Entergy Arkansas LLC,Natural Gas Fired Combustion Turbine,NG,467.3,AR,Hot Spring,(L) Regulatory approvals pending. Not under construction,2028-07,34.433826,-92.9042
+68772-CHALK,Chalk Bluff Solar,Chalk Bluff Solar Energy LLC,Solar Photovoltaic,SUN,450,AR,St Francis,"(U) Under construction, less than or equal to 50 percent complete",2027-06,35.051606,-90.43254
+64670-KOV4A,Big Creek Solar LLC,Big Creek Solar LLC,Solar Photovoltaic,SUN,400,AR,Lee,"(U) Under construction, less than or equal to 50 percent complete",2027-07,34.870404,-117.9656
+69989-PB2,Arkansas Cypress Solar Station,Entergy Arkansas LLC,Batteries,MWH,350,AR,Jefferson,"(P) Planned for installation, but regulatory approvals not initiated",2029-01,34.42,-92.08
+69185-JPS1,Jefferson Power Station,Entergy Arkansas LLC,Natural Gas Fired Combined Cycle,NG,342,AR,Jefferson,(L) Regulatory approvals pending. Not under construction,2029-11,34.427527,-92.13996
+70397-SRSB1,Steel River Solar Phase 1,Cypress Creek Renewables,Batteries,MWH,250,AR,Mississippi,"(U) Under construction, less than or equal to 50 percent complete",2028-08,35.578637,-90.09763
+70398-SRSB2,Steel River Solar Phase 2,Cypress Creek Renewables,Batteries,MWH,250,AR,Mississippi,"(U) Under construction, less than or equal to 50 percent complete",2029-07,35.578637,-90.09763
+70399-SRSB3,Steel River Solar Phase 3,Cypress Creek Renewables,Batteries,MWH,250,AR,Mississippi,"(U) Under construction, less than or equal to 50 percent complete",2030-07,35.578637,-90.09763
+69633-99757,Lion Solar,Lion Solar LLC,Solar Photovoltaic,SUN,200,AR,Jefferson,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,34.324581,-91.9253
+68319-NIM,Nimbus Wind Farm,Nimbus Wind Farm LLC,Onshore Wind Turbine,WND,183,AR,Carroll,"(TS) Construction complete, but not yet in commercial operation",2026-10,36.27118,-93.40682
+70022-DCYSO,Decoy Solar Energy LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,155,AR,Arkansas,"(U) Under construction, less than or equal to 50 percent complete",2027-12,34.463496,-91.52053
+69642-96513,Arkana Solar,Arkana Solar LLC,Solar Photovoltaic,SUN,100,AR,Columbia,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,33.04521,-93.44841
+66851-FAIR1,Fairview Solar (AR),Urban Grid Solar,Solar Photovoltaic,SUN,75,AR,Ashley,(L) Regulatory approvals pending. Not under construction,2027-12,33.342883,-91.89495
+201-4,Thomas Fitzhugh,Arkansas Electric Coop Corp,Natural Gas Fired Combustion Turbine,NG,69.3,AR,Franklin,"(TS) Construction complete, but not yet in commercial operation",2026-11,35.462382,-93.80493
+69695-CCM-1,Colonel Charles D. Maynard Project,Maynard Hydroelectric LLC,Conventional Hydroelectric,WAT,8.6,AR,Jefferson,(L) Regulatory approvals pending. Not under construction,2031-11,34.411873,-92.10319
+69695-CCM-2,Colonel Charles D. Maynard Project,Maynard Hydroelectric LLC,Conventional Hydroelectric,WAT,8.6,AR,Jefferson,(L) Regulatory approvals pending. Not under construction,2031-11,34.411873,-92.10319
+69695-CCM-3,Colonel Charles D. Maynard Project,Maynard Hydroelectric LLC,Conventional Hydroelectric,WAT,8.6,AR,Jefferson,(L) Regulatory approvals pending. Not under construction,2031-11,34.411873,-92.10319
+68208-LRZBR,City of Little Rock Solar Array,City of Little Rock - (AR),Solar Photovoltaic,SUN,4.9,AR,Pulaski,"(U) Under construction, less than or equal to 50 percent complete",2026-11,34.69761,-92.21437
+68230-DESAR,SR Des Arc,"SR Des Arc, LLC",Solar Photovoltaic,SUN,4.8,AR,Prairie,"(V) Under construction, more than 50 percent complete",2026-10,34.977439,-91.52516
+68557-FORRC,SR Forrest City,"SR Forrest City, LLC",Solar Photovoltaic,SUN,4.8,AR,St Francis,(T) Regulatory approvals received. Not under construction,2027-12,34.984256,-90.78602
+68569-ULM,SR Ulm,"SR Ulm, LLC",Solar Photovoltaic,SUN,4.8,AR,Prairie,(T) Regulatory approvals received. Not under construction,2027-12,34.577902,-91.45184
+68570-WHELN,SR West Helena,"SR West Helena, LLC",Solar Photovoltaic,SUN,4.8,AR,Phillips,(T) Regulatory approvals received. Not under construction,2027-12,34.552639,-90.68421

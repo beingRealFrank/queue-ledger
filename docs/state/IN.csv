@@ -1,0 +1,30 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+70359-SYRVS,"Sycamore Riverside Energy, LLC",Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,964,IN,Sullivan,"(P) Planned for installation, but regulatory approvals not initiated",2029-03,39.213906,-87.54727
+66545-MMTHS,Mammoth South Solar Project,Mammoth South LLC,Solar Photovoltaic,SUN,300,IN,Pulaski,"(V) Under construction, more than 50 percent complete",2026-10,41.095334,-86.69157
+66546-MMTHC,Mammoth Central Solar Project,Mammoth Central LLC,Solar Photovoltaic,SUN,300,IN,Pulaski,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.090899,-86.71283
+68514-MC201,Mammoth Central II Solar Facility,Mammoth Central II LLC,Solar Photovoltaic,SUN,300,IN,Pulaski,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.090053,-86.69398
+66706-11101,Patoka Solar,Strata Clean Energy,Solar Photovoltaic,SUN,250,IN,Posey,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,38.14033,-87.77567
+68302-LAKET,Lake Trout Solar,Lake Trout Solar,Solar Photovoltaic,SUN,245,IN,Blackford,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,40.524925,-85.30333
+6085-20,R M Schahfer,Northern Indiana Pub Serv Co,Natural Gas Fired Combustion Turbine,NG,233.8,IN,Jasper,(T) Regulatory approvals received. Not under construction,2027-12,41.2164,-87.0261
+66138-INMA1,Mayapple Solar 1,"Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,224,IN,Pulaski,(T) Regulatory approvals received. Not under construction,2029-03,41.055223,-86.71323
+68179-TEMPW,Templeton Wind,"Templeton Wind Energy Center, LLC",Onshore Wind Turbine,WND,200.2,IN,Benton,(T) Regulatory approvals received. Not under construction,2027-06,40.519676,-87.15039
+66968-BFW00,Blackford Wind,"Leeward Asset Management, LLC",Onshore Wind Turbine,WND,200,IN,Blackford,"(V) Under construction, more than 50 percent complete",2026-12,40.402078,-85.30058
+65821-HNYSR,Honey Creek Solar,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,200,IN,White,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,40.7971,-86.8572
+64904-1,Elliot Solar LLC,Elliot Solar LLC,Solar Photovoltaic,SUN,200,IN,Gibson,"(U) Under construction, less than or equal to 50 percent complete",2029-12,38.316297,-87.42793
+68288-MAHI,Flag Run Solar,"MAHI bn, LLC",Solar Photovoltaic,SUN,200,IN,Clark,(L) Regulatory approvals pending. Not under construction,2029-12,38.556,-85.201
+65935-14,Vermillion Rise Solar,"Vermillion Rise Solar, LLC",Solar Photovoltaic,SUN,185,IN,Vermillion,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,39.83182,-87.42895
+67173-HLW00,Hoosier Line Solar,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,180,IN,White,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,40.851153,-86.94475
+66238-1SPS,Sculpin Solar,"RWE Americas, LLC",Solar Photovoltaic,SUN,180,IN,DeKalb,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,41.364556,-84.84381
+66960-BLKSL,Blackford Solar,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,150,IN,Blackford,"(V) Under construction, more than 50 percent complete",2026-11,40.41608,-85.25979
+69156-GEN01,Duff Solar Park,Duff Solar Park LLC,Solar Photovoltaic,SUN,100,IN,Dubois,"(TS) Construction complete, but not yet in commercial operation",2026-10,38.31341,-87.02063
+66441-INCV1,Crossvine Solar,Crossvine Solar 1 LLC,Solar Photovoltaic,SUN,100,IN,Dubois,"(U) Under construction, less than or equal to 50 percent complete",2027-03,38.264271,-87.00189
+65471-RGS23,Rose Gold Solar,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,100,IN,Jay,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,40.404357,-85.19716
+69021-RH1PV,Rustic Hills Solar I,Clenera DevCo LLC,Solar Photovoltaic,SUN,100,IN,Warrick,(T) Regulatory approvals received. Not under construction,2028-10,37.96707,-87.30739
+69022-RH2PV,Rustic Hills Solar II LLC,Clenera DevCo LLC,Solar Photovoltaic,SUN,100,IN,Warrick,(T) Regulatory approvals received. Not under construction,2028-10,37.974259,-87.32197
+66114-INRD1,Merrillville Solar,"Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,100,IN,Lake,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,41.462794,-87.27285
+6085-19A,R M Schahfer,Northern Indiana Pub Serv Co,Natural Gas Fired Combustion Turbine,NG,71.5,IN,Jasper,(T) Regulatory approvals received. Not under construction,2027-12,41.2164,-87.0261
+6085-19B,R M Schahfer,Northern Indiana Pub Serv Co,Natural Gas Fired Combustion Turbine,NG,71.5,IN,Jasper,(T) Regulatory approvals received. Not under construction,2027-12,41.2164,-87.0261
+6085-19C,R M Schahfer,Northern Indiana Pub Serv Co,Natural Gas Fired Combustion Turbine,NG,71.5,IN,Jasper,(T) Regulatory approvals received. Not under construction,2027-12,41.2164,-87.0261
+67966-NEWJ1,New Jay PV & BESS,Hodson Greendefine Jay Desoto LLC,Solar Photovoltaic,SUN,39,IN,Jay,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,40.369376,-85.18392
+65821-HNYBA,Honey Creek Solar,"Leeward Asset Management, LLC",Batteries,MWH,20,IN,White,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,40.7971,-86.8572
+1024-8,Crawfordsville Power Plant,Crawfordsville Energy LLC,Natural Gas Fired Combined Cycle,NG,16.3,IN,Montgomery,(T) Regulatory approvals received. Not under construction,2027-03,40.048889,-86.8992

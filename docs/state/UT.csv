@@ -1,0 +1,23 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+64669-KOV4A,Notch Peak Solar LLC,Notch Peak Solar LLC,Solar Photovoltaic,SUN,324,UT,Millard,(T) Regulatory approvals received. Not under construction,2028-09,39.520131,-112.6602
+69930-MS2,Milford Solar Phase II,"Milford Solar Phase II, LLC",Solar Photovoltaic,SUN,310,UT,Beaver,"(U) Under construction, less than or equal to 50 percent complete",2027-09,38.522442,-113.0148
+66426-1EUS,Utah Solar 1,"ECG Utah Solar1, LLC",Solar Photovoltaic,SUN,300,UT,Millard,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,39.504761,-112.5077
+68371-REBU,Red Butte Solar and Storage,BrightNight Power,Solar Photovoltaic,SUN,300,UT,Iron,(L) Regulatory approvals pending. Not under construction,2029-04,37.6134,-113.644
+68371-REBU2,Red Butte Solar and Storage,BrightNight Power,Batteries,MWH,300,UT,Iron,(L) Regulatory approvals pending. Not under construction,2029-04,37.6134,-113.644
+61170-33UI8,Gale 1 Solar,33UI 8me LLC,Solar Photovoltaic,SUN,300,UT,Millard,"(P) Planned for installation, but regulatory approvals not initiated",2030-08,39.523,-112.546
+66684-HL001,Intermountain Pumped Storage Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,250,UT,Millard,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,39.414705,-112.4404
+66684-HL002,Intermountain Pumped Storage Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,250,UT,Millard,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,39.414705,-112.4404
+66684-HL003,Intermountain Pumped Storage Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,250,UT,Millard,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,39.414705,-112.4404
+66684-HL004,Intermountain Pumped Storage Project,Premium Energy Holdings,Hydroelectric Pumped Storage,WAT,250,UT,Millard,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,39.414705,-112.4404
+68153-BA1,Fremont Solar,"Fremont Solar, LLC",Batteries,MWH,198,UT,Iron,"(U) Under construction, less than or equal to 50 percent complete",2027-12,37.9789,-112.7761
+61170-33UI9,Gale 1 Solar,33UI 8me LLC,Batteries,MWH,150,UT,Millard,"(P) Planned for installation, but regulatory approvals not initiated",2030-08,39.523,-112.546
+68153-PV1,Fremont Solar,"Fremont Solar, LLC",Solar Photovoltaic,SUN,99,UT,Iron,"(U) Under construction, less than or equal to 50 percent complete",2027-12,37.9789,-112.7761
+66484-GCA,"Glen Canyon Solar A, LLC",AES Distributed Energy,Solar Photovoltaic,SUN,95,UT,Kane,"(U) Under construction, less than or equal to 50 percent complete",2028-12,37.091539,-111.7255
+65823-PARB,Parowan Solar,"Leeward Asset Management, LLC",Batteries,MWH,58,UT,Iron,"(P) Planned for installation, but regulatory approvals not initiated",2028-02,37.875795,-112.8885
+65823-PARS0,Parowan Solar,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,58,UT,Iron,"(P) Planned for installation, but regulatory approvals not initiated",2028-02,37.875795,-112.8885
+68068-CP1G2,Cape Generating Station,Cape HoldCo LLC,Geothermal,GEO,43,UT,Beaver,"(TS) Construction complete, but not yet in commercial operation",2027-01,38.506706,-112.9175
+68068-CP1G3,Cape Generating Station,Cape HoldCo LLC,Geothermal,GEO,43,UT,Beaver,"(V) Under construction, more than 50 percent complete",2027-01,38.506706,-112.9175
+69668-BCIC1,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027
+69668-BCIC2,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027
+69668-BCIC3,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027
+68044-RODA1,Rodatherm Milford 1,Rodatherm Energy Corporation,Geothermal,GEO,1.8,UT,Beaver,"(U) Under construction, less than or equal to 50 percent complete",2028-01,38.572873,-112.9786

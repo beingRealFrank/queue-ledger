@@ -1,0 +1,30 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+70020-1,Pinopolis BESS,Pinopolis BESS LLC,Batteries,MWH,300,SC,Berkeley,(L) Regulatory approvals pending. Not under construction,2027-09,33.246764,-79.98517
+67862-SOLAR,Kingstree East 230 Solar Project,Kingstree East 230 LLC,Solar Photovoltaic,SUN,249,SC,Georgetown,(T) Regulatory approvals received. Not under construction,2029-12,33.563633,-79.46326
+68555-CORDV,SR Cordova,"SR Cordova, LLC",Solar Photovoltaic,SUN,100,SC,Orangeburg,(T) Regulatory approvals received. Not under construction,2027-12,33.45963,-80.88897
+70220-RSP1,Robinson Solar Plant,"Duke Energy Carolinas, LLC",Solar Photovoltaic,SUN,76,SC,Chesterfield,(L) Regulatory approvals pending. Not under construction,2027-12,34.4168,-80.1918
+68337-LOTUS,Lotus Solar,Modal Power LLC,Solar Photovoltaic,SUN,75,SC,Darlington,(T) Regulatory approvals received. Not under construction,2027-10,34.447832,-80.10356
+67723-SOLAR,Kingstree West 115,Kingstree West 115 LLC,Solar Photovoltaic,SUN,74.9,SC,Williamsburg,"(TS) Construction complete, but not yet in commercial operation",2026-10,33.693976,-79.95404
+62181-23,B & K Solar,B & K Solar,Solar Photovoltaic,SUN,74.9,SC,Darlington,"(V) Under construction, more than 50 percent complete",2026-11,34.423425,-80.06213
+62184-27,Big Fork Solar,Big Fork Solar,Batteries,MWH,74.9,SC,Barnwell,(T) Regulatory approvals received. Not under construction,2027-04,33.135275,-81.23911
+62234-48,Juniper Solar,Juniper Solar,Solar Photovoltaic,SUN,74.9,SC,Chesterfield,(T) Regulatory approvals received. Not under construction,2027-04,34.638189,-79.86121
+62221-33,Culpepper Solar,Culpepper Solar,Solar Photovoltaic,SUN,74.9,SC,Darlington,(T) Regulatory approvals received. Not under construction,2027-11,34.465864,-79.96044
+62295-67,Rollins Solar,Rollins Solar,Solar Photovoltaic,SUN,74.9,SC,Darlington,(T) Regulatory approvals received. Not under construction,2027-11,34.353572,-80.01618
+62296-68,Ross Solar,Ross Solar,Solar Photovoltaic,SUN,74.9,SC,Darlington,(T) Regulatory approvals received. Not under construction,2027-11,34.444756,-79.85173
+62184-26,Big Fork Solar,Big Fork Solar,Solar Photovoltaic,SUN,74.9,SC,Barnwell,(T) Regulatory approvals received. Not under construction,2028-11,33.135275,-81.23911
+62188-30,Colleton Solar,Colleton Solar,Solar Photovoltaic,SUN,74.9,SC,Colleton,(T) Regulatory approvals received. Not under construction,2028-11,33.123794,-80.84248
+62229-43,Holliday Solar I,Holliday Solar I,Solar Photovoltaic,SUN,74,SC,Horry,(T) Regulatory approvals received. Not under construction,2028-11,34.054128,-79.20663
+62309-73,Shining Sun Solar,Shining Sun Solar,Solar Photovoltaic,SUN,74,SC,Orangeburg,(T) Regulatory approvals received. Not under construction,2028-11,33.5425,-80.57219
+70221-HPSP1,Hudson Place Solar Plant,"Duke Energy Carolinas, LLC",Solar Photovoltaic,SUN,70.7,SC,Newberry,(L) Regulatory approvals pending. Not under construction,2028-01,34.2391,-81.6922
+62280-58,Melsam Solar,Melsam Solar,Solar Photovoltaic,SUN,65,SC,Dillon,(T) Regulatory approvals received. Not under construction,2028-11,34.344878,-79.37456
+62310-74,Shorthorn Solar,Shorthorn Solar,Solar Photovoltaic,SUN,60,SC,Lee,(T) Regulatory approvals received. Not under construction,2027-11,34.246975,-80.15782
+6249-5,Winyah,South Carolina Public Service Authority,Petroleum Liquids,DFO,57,SC,Georgetown,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,33.33184,-79.35724
+6249-6,Winyah,South Carolina Public Service Authority,Petroleum Liquids,DFO,57,SC,Georgetown,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,33.33184,-79.35724
+68247-GRGTN,SR Georgetown,SR Georgetown. LLC,Solar Photovoltaic,SUN,50,SC,Georgetown,"(V) Under construction, more than 50 percent complete",2026-12,33.333354,-79.51325
+62190-32,Crossroads Solar,Crossroads Solar,Solar Photovoltaic,SUN,50,SC,Barnwell,(T) Regulatory approvals received. Not under construction,2028-11,33.368886,-81.36497
+62217-40,GEB Solar,GEB Solar,Solar Photovoltaic,SUN,50,SC,Darlington,(T) Regulatory approvals received. Not under construction,2028-11,34.412367,-80.04192
+62299-66,Quest Solar,Quest Solar,Solar Photovoltaic,SUN,50,SC,Allendale,(T) Regulatory approvals received. Not under construction,2028-11,32.976531,-81.22681
+69772-BRSP1,Bush River Solar Plant,"Duke Energy Carolinas, LLC",Solar Photovoltaic,SUN,45,SC,Laurens,(L) Regulatory approvals pending. Not under construction,2028-01,34.3861,-81.7944
+59572-PV1,Cotton Solar,"Cotton Solar, LLC",Solar Photovoltaic,SUN,16,SC,Dillon,(T) Regulatory approvals received. Not under construction,2027-06,34.455,-79.41028
+59596-PV1,Rhubarb One SC,SolRiver Capital LLC,Solar Photovoltaic,SUN,9.6,SC,Marion,(L) Regulatory approvals pending. Not under construction,2027-06,34.151111,-79.41
+69195-LONTB,Longtown Energy Storage,"Duke Energy Carolinas, LLC",Batteries,MWH,4.5,SC,Fairfield,"(V) Under construction, more than 50 percent complete",2026-10,34.416433,-80.86814

@@ -1,0 +1,29 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+63802-G001,Shady Hills Combined Cycle Facility,"Shady Hills Energy Center, LLC",Natural Gas Fired Combined Cycle,NG,612,FL,Pasco,"(TS) Construction complete, but not yet in commercial operation",2026-11,28.366667,-82.55833
+69356-PWLNB,Powerline Energy Storage,"Duke Energy Florida, LLC",Batteries,MWH,100,FL,Citrus,"(U) Under construction, less than or equal to 50 percent complete",2027-03,28.96684,-82.61751
+70454-BESS1,Big Bend III Battery Storage,Tampa Electric Co,Batteries,MWH,75,FL,Hillsborough,(T) Regulatory approvals received. Not under construction,2028-06,27.795,-82.403
+68331-CVSO,Caverns Solar,"CVSO, LLC",Solar Photovoltaic,SUN,75,FL,Jackson,(L) Regulatory approvals pending. Not under construction,2029-12,30.871983,-85.29425
+70223-TPSP1,Turnpike Solar Plant,"Duke Energy Florida, LLC",Solar Photovoltaic,SUN,74.9,FL,Osceola,"(V) Under construction, more than 50 percent complete",2027-02,28.063296,-81.22305
+70222-LCSP1,Lonesome Camp Solar Plant,"Duke Energy Florida, LLC",Solar Photovoltaic,SUN,74.9,FL,Osceola,"(V) Under construction, more than 50 percent complete",2027-04,28.079121,-81.24029
+64345-1112,Highland Solar North,"Placid Solar II, LLC",Solar Photovoltaic,SUN,74.9,FL,Highlands,(L) Regulatory approvals pending. Not under construction,2027-05,27.2821,-81.4256
+69461-1,Keene Branch Solar,Tampa Electric Co,Solar Photovoltaic,SUN,74.5,FL,Hillsborough,"(V) Under construction, more than 50 percent complete",2026-12,27.658706,-82.2657
+69626-SMF,FRP Miller Solar,FRP Miller Solar LLC,Solar Photovoltaic,SUN,74.5,FL,Duval,"(U) Under construction, less than or equal to 50 percent complete",2026-12,30.320634,-81.91274
+68828-1,Tangelo,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Okeechobee,"(U) Under construction, less than or equal to 50 percent complete",2027-01,27.507993,-80.73651
+68834-1,Hendry,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Hendry,"(U) Under construction, less than or equal to 50 percent complete",2027-01,26.410345,-81.03189
+68824-1,Middle Lake,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Madison,"(U) Under construction, less than or equal to 50 percent complete",2027-04,30.380511,-83.34074
+68829-1,Ambersweet,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Indian River,"(U) Under construction, less than or equal to 50 percent complete",2027-04,27.567468,-80.62782
+68832-1,County Line,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,DeSoto,"(U) Under construction, less than or equal to 50 percent complete",2027-04,27.110556,-81.80083
+68830-1,Catfish,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Okeechobee,"(U) Under construction, less than or equal to 50 percent complete",2027-07,27.277731,-80.78854
+68831-1,Cocoplum,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Hendry,"(U) Under construction, less than or equal to 50 percent complete",2027-07,26.762027,-81.1907
+68833-1,Hardwood Hammock,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Walton,"(U) Under construction, less than or equal to 50 percent complete",2027-07,27.282662,-81.77522
+68836-1,Maple Trail,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Baker,"(U) Under construction, less than or equal to 50 percent complete",2027-07,30.314392,-82.18501
+68825-1,Pinecone,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Calhoun,"(U) Under construction, less than or equal to 50 percent complete",2027-10,30.439415,-85.25499
+68826-1,Saddle,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,Calhoun,"(U) Under construction, less than or equal to 50 percent complete",2027-10,30.439415,-85.25499
+68827-1,Spanish Moss,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,St Lucie,"(U) Under construction, less than or equal to 50 percent complete",2027-10,27.509782,-80.56447
+68835-1,Joshua Creek,Florida Power & Light Co,Solar Photovoltaic,SUN,74.5,FL,DeSoto,"(U) Under construction, less than or equal to 50 percent complete",2027-10,27.282662,-81.77522
+69523-1,Mattaniah Solar,Tampa Electric Co,Solar Photovoltaic,SUN,52,FL,Polk,"(U) Under construction, less than or equal to 50 percent complete",2026-12,27.893214,-82.04614
+69548-SFE,FRP Forest Trail Solar,FRP Forest Trail Solar LLC,Solar Photovoltaic,SUN,50,FL,Duval,"(U) Under construction, less than or equal to 50 percent complete",2026-12,30.440764,-81.83423
+69626-BMF,FRP Miller Solar,FRP Miller Solar LLC,Batteries,MWH,50,FL,Duval,"(U) Under construction, less than or equal to 50 percent complete",2026-12,30.320634,-81.91274
+69522-1,Brewster Solar,Tampa Electric Co,Solar Photovoltaic,SUN,40,FL,Polk,"(V) Under construction, more than 50 percent complete",2026-12,27.74188,-81.96187
+70395-BESS1,Pace Road Battery Storage,Tampa Electric Co,Batteries,MWH,20,FL,Polk,(T) Regulatory approvals received. Not under construction,2027-10,28.136235,-81.82978
+50666-GEN2,Pasco Cnty Solid Waste Resource Recovery,Pasco County - (FL),Municipal Solid Waste,MSW,17,FL,Pasco,"(U) Under construction, less than or equal to 50 percent complete",2027-04,28.3681,-82.5583

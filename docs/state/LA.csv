@@ -1,0 +1,44 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69184-WF5CT,Waterford 5,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,478,LA,St Charles,(T) Regulatory approvals received. Not under construction,2029-06,29.988583,-90.48565
+69445-CT1,Waterford 6,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,478,LA,St Charles,"(P) Planned for installation, but regulatory approvals not initiated",2030-06,29.988583,-90.48565
+69426-CT1,Westlake Power Station,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,477.7,LA,Calcasieu,"(P) Planned for installation, but regulatory approvals not initiated",2030-10,30.281105,-93.30189
+68214-1A,Franklin Farms 1&2,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Richland,(L) Regulatory approvals pending. Not under construction,2028-12,32.53246,-91.62767
+68214-2A,Franklin Farms 1&2,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Richland,(L) Regulatory approvals pending. Not under construction,2028-12,32.53246,-91.62767
+69449-1A,Richland Parish Power Station 1&2,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Richland,"(P) Planned for installation, but regulatory approvals not initiated",2030-03,32.468339,-91.68038
+69449-2A,Richland Parish Power Station 1&2,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Richland,"(P) Planned for installation, but regulatory approvals not initiated",2030-03,32.468339,-91.68038
+69649-3A,Richland Parish Power Station 3,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Richland,"(P) Planned for installation, but regulatory approvals not initiated",2030-10,32.496716,-91.69867
+69650-4A,Richland Parish Power Station 4,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Richland,"(P) Planned for installation, but regulatory approvals not initiated",2030-10,32.497782,-91.6997
+69944-PC1A,Pointe Coupee Power Station,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Pointe Coupee,"(P) Planned for installation, but regulatory approvals not initiated",2031-10,30.739,-91.377
+69944-PC2A,Pointe Coupee Power Station,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Pointe Coupee,"(P) Planned for installation, but regulatory approvals not initiated",2031-11,30.739,-91.377
+69944-PC3A,Pointe Coupee Power Station,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,469.3,LA,Pointe Coupee,"(P) Planned for installation, but regulatory approvals not initiated",2031-12,30.739,-91.377
+69184-WF5ST,Waterford 5,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,342,LA,St Charles,(T) Regulatory approvals received. Not under construction,2029-06,29.988583,-90.48565
+69445-ST1,Waterford 6,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,342,LA,St Charles,"(P) Planned for installation, but regulatory approvals not initiated",2030-06,29.988583,-90.48565
+69426-CA1,Westlake Power Station,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,341.7,LA,Calcasieu,"(P) Planned for installation, but regulatory approvals not initiated",2030-10,30.281105,-93.30189
+68214-1B,Franklin Farms 1&2,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Richland,(L) Regulatory approvals pending. Not under construction,2028-12,32.53246,-91.62767
+68214-2B,Franklin Farms 1&2,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Richland,(L) Regulatory approvals pending. Not under construction,2028-12,32.53246,-91.62767
+69449-1B,Richland Parish Power Station 1&2,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Richland,"(P) Planned for installation, but regulatory approvals not initiated",2030-03,32.468339,-91.68038
+69449-2B,Richland Parish Power Station 1&2,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Richland,"(P) Planned for installation, but regulatory approvals not initiated",2030-03,32.468339,-91.68038
+69649-3B,Richland Parish Power Station 3,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Richland,"(P) Planned for installation, but regulatory approvals not initiated",2030-10,32.496716,-91.69867
+69650-4B,Richland Parish Power Station 4,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Richland,"(P) Planned for installation, but regulatory approvals not initiated",2030-10,32.497782,-91.6997
+69944-PC1B,Pointe Coupee Power Station,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Pointe Coupee,"(P) Planned for installation, but regulatory approvals not initiated",2031-10,30.739,-91.377
+69944-PC2B,Pointe Coupee Power Station,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Pointe Coupee,"(P) Planned for installation, but regulatory approvals not initiated",2031-11,30.739,-91.377
+69944-PC3B,Pointe Coupee Power Station,Entergy Louisiana LLC,Natural Gas Fired Combined Cycle,NG,311,LA,Pointe Coupee,"(P) Planned for installation, but regulatory approvals not initiated",2031-12,30.739,-91.377
+69299-4519,Singer Solar,"Singer Solar, LLC",Solar Photovoltaic,SUN,300,LA,Beauregard,"(U) Under construction, less than or equal to 50 percent complete",2027-03,30.694644,-93.33381
+68785-DHS1,Dolet Hills Solar,Dolet Hills Solar,Solar Photovoltaic,SUN,240,LA,DeSoto,"(V) Under construction, more than 50 percent complete",2026-12,31.95595,-93.62641
+69590-HC1,Hollis Creek Solar,"Hollis Creek PV I, LLC",Solar Photovoltaic,SUN,220,LA,Sabine,"(V) Under construction, more than 50 percent complete",2027-05,31.661627,-93.47361
+69589-BEEK1,Beekman Solar,"Beekman PV I, LLC",Solar Photovoltaic,SUN,206.8,LA,Morehouse,"(V) Under construction, more than 50 percent complete",2027-02,32.989386,-91.94288
+69952-CH1,Cypress Harvest Solar Station,Entergy Louisiana LLC,Solar Photovoltaic,SUN,200,LA,Iberville,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,30.237835,-91.26486
+69990-BW1,Bogalusa West Solar Station,Entergy Louisiana LLC,Solar Photovoltaic,SUN,200,LA,Washington,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,30.84,-89.86
+69952-CH2,Cypress Harvest Solar Station,Entergy Louisiana LLC,Batteries,MWH,200,LA,Iberville,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,30.237835,-91.26486
+66558-LAMO1,Mowata Solar,"Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,150,LA,Acadia,(L) Regulatory approvals pending. Not under construction,2027-12,30.3918,-92.4044
+68028-DSP,Delta Solar Plant,Entergy Mississippi LLC,Solar Photovoltaic,SUN,80,LA,Bolivar,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,33.794007,-90.71392
+62391-NA1,Overton Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,8.1,LA,Rapides,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,31.185978,-92.29309
+62391-NA2,Overton Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,8.1,LA,Rapides,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,31.185978,-92.29309
+62391-NA3,Overton Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,8.1,LA,Rapides,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,31.185978,-92.29309
+62391-NA4,Overton Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,8.1,LA,Rapides,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,31.185978,-92.29309
+62391-NA5,Overton Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,8.1,LA,Rapides,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,31.185978,-92.29309
+62391-NA6,Overton Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,8.1,LA,Rapides,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,31.185978,-92.29309
+69992-BA1,Sherwood Forest BESS,"Entergy New Orleans, LLC",Batteries,MWH,7.7,LA,Orleans,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,30.01266,-89.94403
+68256-SBAST,SR South Bastrop,"SR South Bastrop, LLC",Solar Photovoltaic,SUN,4.8,LA,Morehouse,"(U) Under construction, less than or equal to 50 percent complete",2026-12,32.747456,-91.91091
+68257-WINN,SR Winnsboro,"SR Winnsboro, LLC",Solar Photovoltaic,SUN,4.8,LA,Franklin,"(U) Under construction, less than or equal to 50 percent complete",2026-12,32.159745,-91.67586
+68567-SUNST,SR Sunset,"SR Sunset, LLC",Solar Photovoltaic,SUN,4.3,LA,St Landry,(T) Regulatory approvals received. Not under construction,2027-12,30.421588,-92.07507

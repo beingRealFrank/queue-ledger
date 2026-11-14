@@ -1,0 +1,29 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+68367-PEHA1,Pepper Hammock Solar and Storage,BrightNight Power,Solar Photovoltaic,SUN,1200,GA,Wayne,(L) Regulatory approvals pending. Not under construction,2029-09,31.331,-81.759
+68367-PEHA,Pepper Hammock Solar and Storage,BrightNight Power,Solar Photovoltaic,SUN,900,GA,Wayne,(L) Regulatory approvals pending. Not under construction,2029-09,31.331,-81.759
+728-8,Yates,Georgia Power Co,Natural Gas Fired Combustion Turbine,NG,482.8,GA,Coweta,"(V) Under construction, more than 50 percent complete",2027-02,33.4622,-84.8986
+728-10,Yates,Georgia Power Co,Natural Gas Fired Combustion Turbine,NG,482.8,GA,Coweta,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,33.4622,-84.8986
+728-9,Yates,Georgia Power Co,Natural Gas Fired Combustion Turbine,NG,482.8,GA,Coweta,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,33.4622,-84.8986
+68546-1,Smarr Combined Cycle Energy Facility,Oglethorpe Power Corporation,Natural Gas Fired Combined Cycle,NG,459,GA,Monroe,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,32.975936,-83.84369
+68367-PEHA2,Pepper Hammock Solar and Storage,BrightNight Power,Batteries,MWH,400,GA,Wayne,(L) Regulatory approvals pending. Not under construction,2029-09,31.331,-81.759
+68546-2,Smarr Combined Cycle Energy Facility,Oglethorpe Power Corporation,Natural Gas Fired Combined Cycle,NG,345,GA,Monroe,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,32.975936,-83.84369
+7916-7,Talbot County Energy,Oglethorpe Power Corporation,Natural Gas Fired Combustion Turbine,NG,262,GA,Talbot,"(P) Planned for installation, but regulatory approvals not initiated",2029-01,32.5892,-84.6917
+69635-74964,Peach Wood Solar,Peach WoodSolar LLC,Solar Photovoltaic,SUN,261,GA,Mitchell,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,31.343419,-84.21269
+67226-ROCKH,Rock House Solar,"EDF Renewables Development, Inc.",Solar Photovoltaic,SUN,250,GA,McDuffie,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,33.4481,-82.4039
+66671-CONEZ,"Conez Solar, LLC","Samsung C&T Renewables, LLC",Solar Photovoltaic,SUN,150,GA,Emanuel,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,32.458353,-82.39457
+68480-LS1,Laurens Solar,"Laurens Solar I, LLC",Solar Photovoltaic,SUN,150,GA,Laurens,(L) Regulatory approvals pending. Not under construction,2028-06,32.577504,-83.11216
+68333-CROS,Crossroads Solar - GA,"Crossroads bn, LLC",Solar Photovoltaic,SUN,150,GA,Liberty,(L) Regulatory approvals pending. Not under construction,2029-07,31.71,-81.66
+68553-BACN2,SR Bacon II,"SR Bacon II, LLC",Solar Photovoltaic,SUN,115,GA,Bacon,(T) Regulatory approvals received. Not under construction,2027-12,31.511392,-82.33683
+68563-NORWD,SR Norwood,"SR Norwood, LLC",Solar Photovoltaic,SUN,107,GA,Warren,(T) Regulatory approvals received. Not under construction,2027-12,33.435993,-82.76361
+68554-BACN3,SR Bacon III,"SR Bacon III, LLC",Solar Photovoltaic,SUN,100,GA,Bacon,(T) Regulatory approvals received. Not under construction,2027-12,31.511392,-82.33683
+68253-ROCH1,SR Rochelle I,"SR Rochelle I, LLC",Solar Photovoltaic,SUN,90,GA,Wilcox,"(V) Under construction, more than 50 percent complete",2026-12,31.923234,-83.45427
+68226-BACON,SR Bacon,"SR Bacon, LLC",Solar Photovoltaic,SUN,85,GA,Bacon,"(V) Under construction, more than 50 percent complete",2026-12,31.511392,-82.33683
+70084-AC,Alligator Creek Solar,"Alligator Creek Solar, LLC",Solar Photovoltaic,SUN,80,GA,Wheeler,"(V) Under construction, more than 50 percent complete",2026-12,32.104,-82.844
+67989-PGR28,Drawhorn Solar,"Drawhorn Solar, LLC",Solar Photovoltaic,SUN,80,GA,Hancock,(L) Regulatory approvals pending. Not under construction,2027-11,33.214449,-83.04206
+69823-CABOK,Cabokenze Energy Storage,"Cabokenze Energy Storage, LLC",Batteries,MWH,76,GA,Burke,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,33.037636,-82.11924
+708-5,Hammond,Georgia Power Co,Batteries,MWH,57.5,GA,Floyd,"(V) Under construction, more than 50 percent complete",2026-10,34.2528,-85.3456
+67988-PGR28,Sandersville Solar,"Sandersville Solar, LLC",Solar Photovoltaic,SUN,50,GA,Washington,(L) Regulatory approvals pending. Not under construction,2027-10,32.987105,-82.75254
+68565-ROCH2,SR Rochelle II,"SR Rochelle II, LLC",Solar Photovoltaic,SUN,50,GA,Wilcox,(T) Regulatory approvals received. Not under construction,2027-12,32.030665,-83.506
+63535-GEN02,Solar BESS Hybrid,Cobb Electric Membership Corporation,Natural Gas Fired Combustion Turbine,NG,2,GA,Cobb,"(V) Under construction, more than 50 percent complete",2027-05,33.979348,-84.55613
+63535-GEN03,Solar BESS Hybrid,Cobb Electric Membership Corporation,Natural Gas Fired Combustion Turbine,NG,2,GA,Cobb,"(V) Under construction, more than 50 percent complete",2027-05,33.979348,-84.55613
+63535-GEN04,Solar BESS Hybrid,Cobb Electric Membership Corporation,Natural Gas Fired Combustion Turbine,NG,2,GA,Cobb,"(V) Under construction, more than 50 percent complete",2027-05,33.979348,-84.55613

@@ -1,0 +1,37 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69223-GT1,Vicksburg Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,477.7,MS,Warren,"(U) Under construction, less than or equal to 50 percent complete",2028-08,32.28526,-90.92568
+70187-CT1,Traceview Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,477.7,MS,Madison,"(U) Under construction, less than or equal to 50 percent complete",2028-08,32.405646,-90.22114
+67914-1A,Delta Blues Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,477,MS,Washington,(L) Regulatory approvals pending. Not under construction,2028-05,33.330476,-91.13058
+67914-1C,Delta Blues Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,341.7,MS,Washington,(L) Regulatory approvals pending. Not under construction,2028-05,33.330476,-91.13058
+69223-ST1,Vicksburg Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,341.7,MS,Warren,"(U) Under construction, less than or equal to 50 percent complete",2028-08,32.28526,-90.92568
+70187-ST1,Traceview Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,341.7,MS,Madison,"(U) Under construction, less than or equal to 50 percent complete",2028-08,32.405646,-90.22114
+68515-GREER,Greer Solar Plant,"Greer Solar, LLC",Solar Photovoltaic,SUN,200,MS,Washington,"(U) Under construction, less than or equal to 50 percent complete",2026-12,33.115544,-90.83077
+68029-PSP,Penton Solar Plant,Entergy Mississippi LLC,Solar Photovoltaic,SUN,190,MS,DeSoto,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,34.861567,-90.263
+68559-MAGNA,SR Magnolia,"SR Magnolia, LLC",Solar Photovoltaic,SUN,160,MS,Monroe,"(V) Under construction, more than 50 percent complete",2027-06,33.856467,-88.67488
+69638-11767,Landshark Energy Generation Facility,Landshark Energy Generation Facility LLC,Solar Photovoltaic,SUN,160,MS,Calhoun,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,33.898797,-89.14577
+67231-HS,"Hinds Solar, LLC","Hinds Solar, LLC",Solar Photovoltaic,SUN,150,MS,Hinds,"(U) Under construction, less than or equal to 50 percent complete",2027-07,32.416186,-90.38886
+70544-GBESS,Greer Energy Storage,"Greer Energy Storage, LLC",Batteries,MWH,150,MS,Washington,(L) Regulatory approvals pending. Not under construction,2027-12,33.113983,-90.83066
+68105-JASP,SR Jasper,"SR Jasper, LLC",Solar Photovoltaic,SUN,150,MS,Jasper,(T) Regulatory approvals received. Not under construction,2029-12,32.048427,-88.94419
+68876-6339,Okolona Solar,"Okolona Solar, LLC",Solar Photovoltaic,SUN,145,MS,Henderson,(L) Regulatory approvals pending. Not under construction,2027-12,37.693,-87.549
+68876-6340,Okolona Solar,"Okolona Solar, LLC",Batteries,MWH,145,MS,Henderson,(T) Regulatory approvals received. Not under construction,2028-08,37.693,-87.549
+68352-GIPV1,Girasol Solar Farm,Girasol Solar Farm LLC,Solar Photovoltaic,SUN,100,MS,Sunflower,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.676092,-90.64287
+65293-OEMS4,Covington (MS),"Origis Energy USA, Inc",Solar Photovoltaic,SUN,96,MS,Covington,(T) Regulatory approvals received. Not under construction,2028-03,31.4395,-89.4846
+69147-G1,New Caledonia,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,84,MS,Lowndes,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.649272,-88.3146
+69147-G2,New Caledonia,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,84,MS,Lowndes,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.649272,-88.3146
+69147-G3,New Caledonia,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,84,MS,Lowndes,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.649272,-88.3146
+69147-G4,New Caledonia,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,84,MS,Lowndes,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.649272,-88.3146
+69147-G5,New Caledonia,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,84,MS,Lowndes,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.649272,-88.3146
+69147-G6,New Caledonia,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,84,MS,Lowndes,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,33.649272,-88.3146
+70545-WBESS,Wildwood Energy Storage,"Wildwood Energy Storage, LLC",Batteries,MWH,75,MS,Tallahatchie,(L) Regulatory approvals pending. Not under construction,2027-12,33.93316,-90.33908
+68562-MTPLT,SR Mount Pleasant,"SR Mount Pleasant, LLC",Solar Photovoltaic,SUN,50,MS,Marshall,(T) Regulatory approvals received. Not under construction,2027-12,34.951675,-89.58282
+54918-TM02,Ergon Refining Vicksburg,Ergon Refining Inc,Natural Gas Fired Combustion Turbine,NG,7.9,MS,Warren,"(U) Under construction, less than or equal to 50 percent complete",2027-09,32.388271,-90.90834
+54918-TM03,Ergon Refining Vicksburg,Ergon Refining Inc,Natural Gas Fired Combustion Turbine,NG,7.9,MS,Warren,"(U) Under construction, less than or equal to 50 percent complete",2027-09,32.388271,-90.90834
+62425-NA1,Sardis Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,7.5,MS,Panola,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,34.399125,-89.77246
+62425-NA2,Sardis Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,7.5,MS,Panola,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,34.399125,-89.77246
+62430-NA1,Grenada Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,5,MS,Grenada,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,33.808842,-89.77246
+62430-NA2,Grenada Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,5,MS,Grenada,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,33.808842,-89.77246
+67134-MARSH,"SR Marshall, LLC","SR Marshall, LLC",Solar Photovoltaic,SUN,4.8,MS,Marshall,"(TS) Construction complete, but not yet in commercial operation",2026-12,34.959526,-89.58856
+62402-NA1,Arkabutla Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,MS,DeSoto,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,34.757926,-90.12569
+62402-NA2,Arkabutla Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,MS,DeSoto,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,34.757926,-90.12569
+62432-NA1,Enid Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,MS,Panola,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,34.158065,-89.90553
+62432-NA2,Enid Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,MS,Panola,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,34.158065,-89.90553

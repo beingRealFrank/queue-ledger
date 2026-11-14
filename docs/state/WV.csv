@@ -1,0 +1,26 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+60206-HCCT1,Wolf Summit Energy,Wolf Summit Energy LLC,Natural Gas Fired Combined Cycle,NG,371.5,WV,Harrison,(L) Regulatory approvals pending. Not under construction,2028-12,39.287039,-80.32287
+60206-HCCA1,Wolf Summit Energy,Wolf Summit Energy LLC,Natural Gas Fired Combined Cycle,NG,207.4,WV,Harrison,(L) Regulatory approvals pending. Not under construction,2028-12,39.287039,-80.32287
+67874-ENX32,Parks Valley Energy LLC,Parks Valley Energy LLC,Batteries,MWH,150,WV,Hampshire,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,39.288816,-78.47481
+70547-PV-1,Rippon Energy Facility,"Torch Operating Company, LLC",Solar Photovoltaic,SUN,117.1,WV,Jefferson,(T) Regulatory approvals received. Not under construction,2028-03,39.198017,-77.86053
+64848-BEF1,"Bedington Energy Facility, LLC","Bedington Energy Facility, LLC",Solar Photovoltaic,SUN,100,WV,Berkeley,(L) Regulatory approvals pending. Not under construction,2028-10,39.531839,-77.88709
+70559-GEN1,Mammoth,MN8 Energy LLC,Solar Photovoltaic,SUN,86,WV,Kanawha,(L) Regulatory approvals pending. Not under construction,2028-12,38.20845,-81.30893
+70559-BESS1,Mammoth,MN8 Energy LLC,Batteries,MWH,70,WV,Kanawha,(L) Regulatory approvals pending. Not under construction,2029-06,38.20845,-81.30893
+66870-DAVS,Davis Solar (WV),Monongahela Power Co,Solar Photovoltaic,SUN,11.5,WV,Tucker,(L) Regulatory approvals pending. Not under construction,2028-12,39.155005,-79.44334
+64171-1,Tygart Hydropower,"Agilitas Energy, Inc.",Conventional Hydroelectric,WAT,10,WV,Taylor,(L) Regulatory approvals pending. Not under construction,2029-01,39.279354,-80.00891
+64171-2,Tygart Hydropower,"Agilitas Energy, Inc.",Conventional Hydroelectric,WAT,10,WV,Taylor,(L) Regulatory approvals pending. Not under construction,2029-01,39.279354,-80.00891
+64171-3,Tygart Hydropower,"Agilitas Energy, Inc.",Conventional Hydroelectric,WAT,10,WV,Taylor,(L) Regulatory approvals pending. Not under construction,2029-01,39.279354,-80.00891
+69701-NC-1,New Cumberland Hydroelectric Project,"Current Hydro Project 19, LLC",Conventional Hydroelectric,WAT,10,WV,Hancock,(L) Regulatory approvals pending. Not under construction,2029-04,40.52821,-80.62574
+69701-NC-2,New Cumberland Hydroelectric Project,"Current Hydro Project 19, LLC",Conventional Hydroelectric,WAT,10,WV,Hancock,(L) Regulatory approvals pending. Not under construction,2029-04,40.52821,-80.62574
+70559-BESS2,Mammoth,MN8 Energy LLC,Batteries,MWH,10,WV,Kanawha,(L) Regulatory approvals pending. Not under construction,2029-06,38.20845,-81.30893
+66901-WRS,Wylie Ridge Solar,Monongahela Power Co,Solar Photovoltaic,SUN,8.4,WV,Hancock,(L) Regulatory approvals pending. Not under construction,2027-12,40.452683,-80.57255
+69704-RC-1,R.C. Byrd L&D Hydroelectric Project,Ohio Power and Light LLC,Conventional Hydroelectric,WAT,4.8,WV,Mason,(L) Regulatory approvals pending. Not under construction,2029-02,38.68,-82.179
+69704-RC-2,R.C. Byrd L&D Hydroelectric Project,Ohio Power and Light LLC,Conventional Hydroelectric,WAT,4.8,WV,Mason,(L) Regulatory approvals pending. Not under construction,2029-02,38.68,-82.179
+69704-RC-3,R.C. Byrd L&D Hydroelectric Project,Ohio Power and Light LLC,Conventional Hydroelectric,WAT,4.8,WV,Mason,(L) Regulatory approvals pending. Not under construction,2029-02,38.68,-82.179
+69704-RC-4,R.C. Byrd L&D Hydroelectric Project,Ohio Power and Light LLC,Conventional Hydroelectric,WAT,4.8,WV,Mason,(L) Regulatory approvals pending. Not under construction,2029-02,38.68,-82.179
+69704-RC-5,R.C. Byrd L&D Hydroelectric Project,Ohio Power and Light LLC,Conventional Hydroelectric,WAT,4.8,WV,Mason,(L) Regulatory approvals pending. Not under construction,2029-02,38.68,-82.179
+69704-RC-6,R.C. Byrd L&D Hydroelectric Project,Ohio Power and Light LLC,Conventional Hydroelectric,WAT,4.8,WV,Mason,(L) Regulatory approvals pending. Not under construction,2029-02,38.68,-82.179
+62386-NA1,Opekiska L&D Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,3,WV,Monongalia,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,39.564917,-80.05114
+62386-NA2,Opekiska L&D Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,3,WV,Monongalia,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,39.564917,-80.05114
+62387-NA1,Morgantown L&D Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,WV,Monongalia,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,39.619589,-79.96811
+62387-NA2,Morgantown L&D Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,WV,Monongalia,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,39.619589,-79.96811

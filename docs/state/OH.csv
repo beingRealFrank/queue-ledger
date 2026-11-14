@@ -1,0 +1,29 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69796-HARVS,Harvey Solar,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,350,OH,Licking,(T) Regulatory approvals received. Not under construction,2028-08,40.273115,-82.71962
+69963-YLWWD,Yellow Wood Solar Energy LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,300,OH,Clinton,"(U) Under construction, less than or equal to 50 percent complete",2027-12,39.271465,-83.7904
+68186-FIRE,Firelands Wind,"Firelands Wind, LLC",Onshore Wind Turbine,WND,297,OH,Huron,"(U) Under construction, less than or equal to 50 percent complete",2027-05,41.210325,-82.77908
+69108-COT01,Eastern Cottontail Solar,"EDF Renewables Development, Inc.",Solar Photovoltaic,SUN,220,OH,Fairfield,(L) Regulatory approvals pending. Not under construction,2028-12,39.844172,-82.49453
+68511-CHC1,Henry Solar,Repsol Renewables NA,Solar Photovoltaic,SUN,206,OH,Henry,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,41.474421,-84.11271
+69477-PLSNT,Pleasant Prairie Solar Energy LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,200,OH,Franklin,"(V) Under construction, more than 50 percent complete",2026-12,39.944801,-83.20397
+63784-PLMNO,Palomino Solar,"Palomino Solar, LLC",Solar Photovoltaic,SUN,200,OH,Highland,"(U) Under construction, less than or equal to 50 percent complete",2027-07,39.2158,-83.7771
+68911-27288,Flint,Flint,Batteries,MWH,200,OH,Franklin,"(U) Under construction, less than or equal to 50 percent complete",2027-07,40.09639,-82.73361
+68510-CFC1,Ritter Solar,Repsol Renewables NA,Solar Photovoltaic,SUN,199,OH,Fulton,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,41.694902,-84.31682
+65425-KWOOD,Kingwood Solar,Vesper Energy Development LLC,Solar Photovoltaic,SUN,175,OH,Greene,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,39.782,-83.83
+65900-SPRIN,"Springwater Solar, LLC","Springwater Solar, LLC",Solar Photovoltaic,SUN,155,OH,Madison,"(U) Under construction, less than or equal to 50 percent complete",2027-04,39.82972,-83.2498
+66672-AG239,"Stark Solar, LLC","Samsung C&T Renewables, LLC",Solar Photovoltaic,SUN,150,OH,Stark,"(P) Planned for installation, but regulatory approvals not initiated",2027-08,40.852661,-81.15701
+68968-ENX37,Border Basin Solar,"Border Basin, LLC",Solar Photovoltaic,SUN,120,OH,Hancock,"(V) Under construction, more than 50 percent complete",2026-10,41.107431,-83.5722
+68086-SBS,South Branch Solar,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,115,OH,Hancock,(L) Regulatory approvals pending. Not under construction,2027-06,41.128477,-83.51517
+65338-UNIS1,Union Ridge Solar,"RWE Americas, LLC",Solar Photovoltaic,SUN,108,OH,Montgomery,"(TS) Construction complete, but not yet in commercial operation",2026-10,39.984126,-82.6413
+66658-NOTT,Nottingham Solar,Nottingham Solar LLC,Solar Photovoltaic,SUN,100,OH,Harrison,"(U) Under construction, less than or equal to 50 percent complete",2027-03,40.189455,-81.04111
+68938-OHJE1,"Juliet Energy Project, LLC","Lightsource Renewable Energy Asset Management, LLC",Solar Photovoltaic,SUN,50,OH,Wood,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.343803,-83.81598
+68019-RICBA,Richwood Solar and Storage,"Samsung C&T Renewables, LLC",Batteries,MWH,50,OH,Union,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,40.353175,-83.33117
+64073-GBS,"Great Bear Solar, LLC",Avangrid Power LLC,Solar Photovoltaic,SUN,46,OH,Van Wert,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,40.9397,-84.5828
+66657-STEUB,Steubenville Solar,BQ Energy Development,Solar Photovoltaic,SUN,43,OH,Jefferson,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,40.351722,-80.67036
+65302-BESS,Salt City Solar Project - Hybrid,Salt City Solar LLC,Batteries,MWH,12.5,OH,Ross,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,39.41473,-82.96285
+69702-PI-1,Pike Island Hydroelectric Project,Pike Island Hydropower Corporation,Conventional Hydroelectric,WAT,10,OH,Jefferson,(L) Regulatory approvals pending. Not under construction,2029-01,40.151,-80.70569
+69702-PI-2,Pike Island Hydroelectric Project,Pike Island Hydropower Corporation,Conventional Hydroelectric,WAT,10,OH,Jefferson,(L) Regulatory approvals pending. Not under construction,2029-01,40.151,-80.70569
+69819-TRNTN,Trenton Solar - (OH),ENGIE Distributed Renewables Development LLC,Solar Photovoltaic,SUN,9.5,OH,Butler,"(U) Under construction, less than or equal to 50 percent complete",2027-05,39.455321,-84.46788
+69593-1,MCCo BESS Generating Facility,The Medical Center Company,Batteries,MWH,3.9,OH,Cuyahoga,"(V) Under construction, more than 50 percent complete",2026-10,41.3026,-81.3604
+69593-2,MCCo BESS Generating Facility,The Medical Center Company,Batteries,MWH,3.9,OH,Cuyahoga,"(V) Under construction, more than 50 percent complete",2026-10,41.3026,-81.3604
+69593-3,MCCo BESS Generating Facility,The Medical Center Company,Batteries,MWH,3.9,OH,Cuyahoga,"(V) Under construction, more than 50 percent complete",2026-10,41.3026,-81.3604
+69593-4,MCCo BESS Generating Facility,The Medical Center Company,Batteries,MWH,3.9,OH,Cuyahoga,"(V) Under construction, more than 50 percent complete",2026-10,41.3026,-81.3604

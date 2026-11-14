@@ -1,0 +1,15 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+56-LEC3,Lowman Energy Center,PowerSouth Energy Cooperative,Natural Gas Fired Combustion Turbine,NG,438,AL,Washington,(L) Regulatory approvals pending. Not under construction,2029-11,31.488019,-87.91075
+66852-HILL3,Hillsboro Solar 3,Urban Grid Solar,Solar Photovoltaic,SUN,200,AL,Lawrence,(L) Regulatory approvals pending. Not under construction,2027-05,34.669883,-87.2332
+66858-SPRV2,Spring Valley Solar 2,Urban Grid Solar,Solar Photovoltaic,SUN,200,AL,Colbert,(L) Regulatory approvals pending. Not under construction,2028-02,34.674983,-87.66373
+70138-CRAW1,Crawfish Creek Energy Storage,Crawfish Creek Energy Storage LLC,Batteries,MWH,200,AL,Jackson,(T) Regulatory approvals received. Not under construction,2029-06,34.83057,-85.66845
+68332-DEGA1,Dega Solar and Storage,"DEGA bn, LLC",Solar Photovoltaic,SUN,200,AL,Talladega,(L) Regulatory approvals pending. Not under construction,2029-12,33.537201,-86.0855
+68332-DEGA2,Dega Solar and Storage,"DEGA bn, LLC",Batteries,MWH,200,AL,Talladega,(L) Regulatory approvals pending. Not under construction,2029-12,33.537201,-86.0855
+67233-SOL1,Lawrence County Solar,Tennessee Valley Authority,Solar Photovoltaic,SUN,193,AL,Lawrence,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,34.63928,-87.25098
+68002-FOLEY,"Foley Solar, LLC","Nofar USA Energy Investments and Management, LLC",Solar Photovoltaic,SUN,80,AL,Baldwin,"(TS) Construction complete, but not yet in commercial operation",2026-10,30.377488,-87.72751
+68057-BAMA1,Alabama Creek Solar,"Alabama Creek Solar, LLC",Solar Photovoltaic,SUN,80,AL,Dallas,(T) Regulatory approvals received. Not under construction,2027-10,32.315548,-87.22312
+68104-HPHUL,SR Hope Hull,"SR Hope Hull, LLC",Solar Photovoltaic,SUN,80,AL,Montgomery,(T) Regulatory approvals received. Not under construction,2027-12,32.2555,-86.3194
+68560-MARJT,SR Marion Junction,"SR Marion Junction, LLC",Solar Photovoltaic,SUN,15,AL,Dallas,(T) Regulatory approvals received. Not under construction,2027-12,32.418685,-87.36171
+68566-SIPSY,SR Sipsey,"SR Sipsey, LLC",Solar Photovoltaic,SUN,10,AL,Fayette,(T) Regulatory approvals received. Not under construction,2027-12,33.694556,-87.81805
+68558-LOTT,SR Lott,"SR Lott, LLC",Solar Photovoltaic,SUN,8.3,AL,Mobile,(T) Regulatory approvals received. Not under construction,2027-12,30.940181,-88.29926
+68243-BEAR,SR Bear Creek,"SR Bear Creek, LLC",Solar Photovoltaic,SUN,4.5,AL,Marion,(T) Regulatory approvals received. Not under construction,2027-12,34.275559,-87.70564

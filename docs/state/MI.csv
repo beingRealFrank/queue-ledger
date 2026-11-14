@@ -1,0 +1,34 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+63911-MECN,MEC North,MEC North,Natural Gas Fired Combined Cycle,NG,500,MI,Calhoun,(T) Regulatory approvals received. Not under construction,2034-06,42.233559,-84.96234
+63912-MECS,MEC South,MEC South,Natural Gas Fired Combined Cycle,NG,500,MI,Calhoun,(L) Regulatory approvals pending. Not under construction,2034-06,42.237103,-84.95915
+70522-SSLR,Hecate Energy Sunfish Solar LLC,Hecate Energy Sunfish Solar LLC,Solar Photovoltaic,SUN,499,MI,Calhoun,(L) Regulatory approvals pending. Not under construction,2028-12,42.376961,-84.87973
+68745-SS2,Sunfish Solar 2,Consumers Energy Co - (MI),Solar Photovoltaic,SUN,360,MI,Calhoun,"(U) Under construction, less than or equal to 50 percent complete",2026-12,42.24653,-85.00559
+67759-TCHEC,Trenton Channel Energy Center,DTE Electric Company,Batteries,MWH,220,MI,Wayne,"(TS) Construction complete, but not yet in commercial operation",2027-01,42.124423,-83.18571
+68744-LSEC,Liberty Solar Energy Center,Consumers Energy Co - (MI),Solar Photovoltaic,SUN,220,MI,Kalamazoo,"(U) Under construction, less than or equal to 50 percent complete",2027-12,42.3631,-85.474
+69468-PSVSP,Poseyville Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,206.4,MI,Midland,"(U) Under construction, less than or equal to 50 percent complete",2028-04,43.5178,-84.2254
+69169-FWS,"Freshwater Solar, LLC",Freshwater Solar LLC,Solar Photovoltaic,SUN,200,MI,Montcalm,"(V) Under construction, more than 50 percent complete",2027-06,43.338197,-85.04013
+69470-SVCSP,Silver Creek Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,200,MI,Huron,"(U) Under construction, less than or equal to 50 percent complete",2028-08,43.837206,-83.05481
+69776-DKVSP,Deckerville Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,200,MI,Sanilac,"(U) Under construction, less than or equal to 50 percent complete",2028-11,44.5521,-82.7649
+68843-TLCP,Tupper Lake Wind,Tupper Lake,Onshore Wind Turbine,WND,200,MI,Ionia,(L) Regulatory approvals pending. Not under construction,2029-12,42.829,-85.138
+69467-PETSP,Peatville Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,185,MI,Sanilac,"(U) Under construction, less than or equal to 50 percent complete",2028-07,43.64,-82.8
+69462-AUGSP,Au Gres Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,175,MI,Arenac,"(U) Under construction, less than or equal to 50 percent complete",2028-08,44.118,-83.794
+69945-WTRTN,Watertown Solar,"Watertown Solar, LLC",Solar Photovoltaic,SUN,154,MI,Sanilac,"(U) Under construction, less than or equal to 50 percent complete",2027-04,43.399794,-82.81425
+67755-LTRSP,Little Trout Solar,DTE Electric Company,Solar Photovoltaic,SUN,150,MI,Presque Isle,"(TS) Construction complete, but not yet in commercial operation",2026-12,45.334045,-83.75117
+68061-GEMPV,Gemstone Solar LLC,Clenera DevCo LLC,Solar Photovoltaic,SUN,150,MI,Cass,(T) Regulatory approvals received. Not under construction,2028-10,41.896754,-86.0488
+69577-SPROR,"Superior Solar Project, LLC",Invenergy Services LLC,Solar Photovoltaic,SUN,150,MI,Marquette,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,46.455,-87.466
+69464-CDFSP,Cedar Field Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,145,MI,Gladwin,"(V) Under construction, more than 50 percent complete",2027-07,43.95,-84.55
+67999-SCAEC,Spring Creek Agri-Energy Center,Consumers Energy Co - (MI),Solar Photovoltaic,SUN,140,MI,Calhoun,"(U) Under construction, less than or equal to 50 percent complete",2026-12,42.2024,-85.23803
+66778-HS1,Hart Solar Project,"Hart Solar Partners, LLC",Solar Photovoltaic,SUN,120,MI,Oceana,"(U) Under construction, less than or equal to 50 percent complete",2026-10,43.692866,-86.32097
+68898-ECS1,Eagle Creek Solar Park LLC,Eagle Creek Solar Park LLC,Solar Photovoltaic,SUN,120,MI,Saginaw,(L) Regulatory approvals pending. Not under construction,2027-03,43.308523,-84.21895
+68426-VOYGR,Voyager Energy Storage,Voyager Energy Storage LLC,Batteries,MWH,100,MI,Washtenaw,"(V) Under construction, more than 50 percent complete",2027-01,42.153167,-83.8333
+70403-GRBS1,Grand Basin Energy Storage,"Grand Basin Energy Storage, LLC",Batteries,MWH,100,MI,Jackson,"(U) Under construction, less than or equal to 50 percent complete",2027-03,42.420211,-84.48752
+69170-FW2,"Freshwater Solar II, LLC","Freshwater Solar II, LLC",Solar Photovoltaic,SUN,100,MI,Montcalm,"(U) Under construction, less than or equal to 50 percent complete",2027-12,43.310581,-85.05159
+69775-STBSP,Strasburg Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,100,MI,Monroe,"(U) Under construction, less than or equal to 50 percent complete",2028-12,41.971933,-83.45975
+70089-MURCH,"Murch Solar, LLC","Murch Solar, LLC",Solar Photovoltaic,SUN,85,MI,Van Buren,"(V) Under construction, more than 50 percent complete",2027-01,42.401,-86.03
+67998-KSEC,Karn Solar Energy Center,Consumers Energy Co - (MI),Solar Photovoltaic,SUN,80,MI,Bay,"(U) Under construction, less than or equal to 50 percent complete",2026-12,43.644996,-83.84007
+69463-BCRSP,Beecher Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,80,MI,Lenawee,"(U) Under construction, less than or equal to 50 percent complete",2027-06,41.923,-83.917
+68850-GRTSP,Gratiot Solar Park,DTE Electric Company,Solar Photovoltaic,SUN,50,MI,Gratiot,"(TS) Construction complete, but not yet in commercial operation",2026-10,43.436999,-84.49845
+10328-GEN11,T B Simon Power Plant,Michigan State University,Natural Gas Fired Combustion Turbine,NG,15,MI,Ingham,"(U) Under construction, less than or equal to 50 percent complete",2028-01,42.7178,-84.4836
+69465-CSTSP,City of Detroit Castle Solar,DTE Electric Company,Solar Photovoltaic,SUN,10,MI,Wayne,"(V) Under construction, more than 50 percent complete",2026-11,42.411333,-83.01867
+69466-GRESP,City of Detroit Greenfield,DTE Electric Company,Solar Photovoltaic,SUN,7,MI,Wayne,(T) Regulatory approvals received. Not under construction,2027-09,42.420589,-83.09909
+69385-GEN1,Hastings Generating Facility,NAPS - Hastings LLC,Landfill Gas,LFG,1.6,MI,Barry,(T) Regulatory approvals received. Not under construction,2027-04,42.67856,-85.29629

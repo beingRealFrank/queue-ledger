@@ -126,6 +126,7 @@ published, and see the change log in between. It is a leading indicator of gener
 <li><a href="{RAW}data/changes/all_changes.csv">changes/all_changes.csv</a> — the full change log (new, changed field old→new, dropped)</li>
 <li><a href="{RAW}data/manifest.jsonl">manifest.jsonl</a> — provenance: URL, fetch time, SHA-256, HTTP validators for every capture</li>
 <li><a href="https://github.com/{REPO}/tree/main/data/raw">raw/</a> — the original source files, gzipped, one per distinct version</li>
+<li><a href="state/">Planned projects by state</a>: every planned US generator in each state, with a CSV and change history</li>
 <li><a href="https://www.kaggle.com/datasets/beingrealfrank/us-power-plant-pipeline-eia-860m">Kaggle mirror</a> of the latest EIA-860M generator table, updated on each EIA release</li>
 <li>Every day is a git commit, so <code>git log -- data/latest/caiso.csv</code> gives the queue as of any day.</li>
 </ul>
