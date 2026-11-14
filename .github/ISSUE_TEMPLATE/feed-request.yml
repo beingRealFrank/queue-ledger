@@ -1,0 +1,51 @@
+name: Filtered feed or data request
+description: Ask for a filtered alert, extract or backfill built from the EIA-860M data
+title: "Feed request: "
+labels: ["feed-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what you need. Requests are answered in writing here. Paid custom feeds are built from the public-domain EIA-860M data only.
+  - type: input
+    id: states
+    attributes:
+      label: States
+      description: Two-letter codes, or "all"
+      placeholder: TX, OK, NM
+    validations:
+      required: true
+  - type: input
+    id: technologies
+    attributes:
+      label: Technologies
+      description: For example solar, batteries, natural gas, wind, or "all"
+    validations:
+      required: true
+  - type: input
+    id: min_mw
+    attributes:
+      label: Minimum size (MW)
+      placeholder: "100"
+  - type: checkboxes
+    id: events
+    attributes:
+      label: Which changes matter?
+      options:
+        - label: New planned projects
+        - label: Operating-date slips
+        - label: Cancellations or postponements
+        - label: Capacity or status changes
+  - type: dropdown
+    id: format
+    attributes:
+      label: Delivery format
+      options:
+        - CSV
+        - RSS
+        - Email
+        - Not sure
+  - type: textarea
+    id: use
+    attributes:
+      label: What will you use it for? (optional)

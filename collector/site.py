@@ -148,7 +148,7 @@ citation but require SPP's written authorization for commercial use, so the SPP 
 </ul>
 <div class=box><p>Need filtered alerts (e.g. every new planned plant over 100&nbsp;MW in a set of states, or every
 operating-date slip), a backfill, or a source we don't cover yet?
-<a href="https://github.com/{REPO}/issues/new?labels=request&title=Feed+request">Open a request</a>; requests are answered in writing.</p></div>
+<a href="https://github.com/{REPO}/issues/new?template=feed-request.yml">Open a request</a>; requests are answered in writing.</p></div>
 """
 open(os.path.join(docs, "index.html"), "w").write(page(
     "Queue Ledger — point-in-time archive of US power-project pipelines (EIA-860M, CAISO, SPP)", index,
