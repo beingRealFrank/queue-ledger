@@ -1,7 +1,7 @@
 {
  "title": "US Power Plant Pipeline (EIA-860M) - Point in Time",
  "id": "beingrealfrank/us-power-plant-pipeline-eia-860m",
- "subtitle": "All US generators: planned, operating, retired, canceled. Monthly EIA-860M, with history.",
+ "subtitle": "All US generators (planned, operating, retired, canceled), monthly from EIA-860M",
  "licenses": [
   {
    "name": "CC0-1.0"
