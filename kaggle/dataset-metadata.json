@@ -1,7 +1,7 @@
 {
  "title": "US Power Plant Pipeline (EIA-860M) - Point in Time",
  "id": "beingrealfrank/us-power-plant-pipeline-eia-860m",
- "subtitle": "Every planned, operating, retired and canceled US generator, monthly snapshots",
+ "subtitle": "All US generators: planned, operating, retired, canceled. Monthly EIA-860M, with history.",
  "licenses": [
   {
    "name": "CC0-1.0"
@@ -12,7 +12,98 @@
   "electricity",
   "renewable energy",
   "united states",
-  "government"
+  "time series"
  ],
- "description": "Every US electric generator of 1 MW or more from the U.S. Energy Information Administration's Preliminary Monthly Electric Generator Inventory (Form EIA-860M): planned (new-build pipeline with status and planned operation month), operating, retired, and canceled or postponed. Includes owner (entity), plant, state, county, balancing authority, technology, energy source, nameplate MW and coordinates.\n\nThis dataset is a point-in-time mirror of [Queue Ledger](https://beingrealfrank.github.io/queue-ledger/) ([GitHub](https://github.com/beingRealFrank/queue-ledger)), which keeps every EIA release with its SHA-256 and logs what changed between releases (new planned plants, operating-date slips, cancellations). The full history and daily change log live there.\n\n**Files**\n- `eia860m_generators_latest.csv`: one row per generator from the latest release. `plant_generator_id` = `<EIA plant id>-<generator id>`. `inventory` is the EIA sheet (planned, operating, retired, canceled_or_postponed). `operation_date` is YYYY-MM (planned or actual).\n\n**Source and licence**\nSource: U.S. Energy Information Administration, Preliminary Monthly Electric Generator Inventory (Form EIA-860M), September 2026 data (released October 23, 2026). U.S. government data in the public domain; EIA asks for an acknowledgment with the publication date. Data is preliminary as EIA states. Not affiliated with or endorsed by EIA."
+ "expectedUpdateFrequency": "monthly",
+ "description": "Every US electric generator of 1 MW or more from the U.S. Energy Information Administration's Preliminary Monthly Electric Generator Inventory (Form EIA-860M): planned (the new-build pipeline, with status and planned operating month), operating, retired, and canceled or postponed. One row per generator, with owner, plant, state, county, balancing authority, technology, energy source, nameplate MW and coordinates.\n\n**Why a point-in-time copy:** EIA replaces this file every month. This dataset is the latest release, and the full history (every release with its SHA-256, plus a change log of new projects, status changes and operating-date slips) lives in the [Queue Ledger](https://beingrealfrank.github.io/queue-ledger/) archive ([GitHub](https://github.com/beingRealFrank/queue-ledger)). A new version is published here after each EIA release (monthly).\n\n**Files**\n- `eia860m_generators_latest.csv`: 39,908 rows, 16 columns (described below). `plant_generator_id` is unique. Filter `inventory == \"planned\"` for the pipeline (about 2,400 generators).\n\n**Ideas**\n- Planned MW by state and technology, and by planned operating month.\n- Share of planned capacity that is batteries or solar, by balancing authority.\n- Operating-date slips between releases, using the change log in the archive.\n- Map planned projects from latitude and longitude.\n\n**Source and licence**\nSource: U.S. Energy Information Administration, Preliminary Monthly Electric Generator Inventory (Form EIA-860M), September 2026 data (released October 23, 2026). U.S. government data in the public domain; EIA asks for an acknowledgment with the publication date. Data is preliminary, as EIA states. Owner names that look like private individuals are left blank. Not affiliated with or endorsed by EIA.",
+ "resources": [
+  {
+   "path": "eia860m_generators_latest.csv",
+   "description": "Every US generator of 1 MW or more from the latest EIA-860M release, one row per generator.",
+   "schema": {
+    "fields": [
+     {
+      "name": "plant_generator_id",
+      "description": "EIA plant ID and generator ID joined with a hyphen; unique per generator.",
+      "type": "string"
+     },
+     {
+      "name": "plant_id",
+      "description": "EIA plant code (numeric). Join key to other EIA files.",
+      "type": "string"
+     },
+     {
+      "name": "plant_name",
+      "description": "Plant name as published by EIA.",
+      "type": "string"
+     },
+     {
+      "name": "entity_name",
+      "description": "Owner or operator (EIA entity name). Blank where the name looks like a private individual.",
+      "type": "string"
+     },
+     {
+      "name": "inventory",
+      "description": "Which EIA-860M sheet the generator is on: planned, operating, retired or canceled_or_postponed.",
+      "type": "string"
+     },
+     {
+      "name": "status",
+      "description": "EIA status text with its code in brackets, e.g. (U) under construction. Planned generators use P, L, T, U, V, TS; operating ones use OP, SB and others.",
+      "type": "string"
+     },
+     {
+      "name": "technology",
+      "description": "Generator technology, e.g. Solar Photovoltaic, Batteries, Natural Gas Fired Combined Cycle.",
+      "type": "string"
+     },
+     {
+      "name": "energy_source_code",
+      "description": "EIA energy source code, e.g. SUN, WND, NG, WAT, MWH.",
+      "type": "string"
+     },
+     {
+      "name": "nameplate_mw",
+      "description": "Nameplate capacity in megawatts.",
+      "type": "number"
+     },
+     {
+      "name": "state",
+      "description": "Two-letter state or territory code of the plant.",
+      "type": "string"
+     },
+     {
+      "name": "county",
+      "description": "County of the plant.",
+      "type": "string"
+     },
+     {
+      "name": "balancing_authority",
+      "description": "EIA balancing authority code of the plant, e.g. ERCO, CISO, PJM.",
+      "type": "string"
+     },
+     {
+      "name": "operation_date",
+      "description": "YYYY-MM. Planned operation month for planned generators, actual operating month for operating and retired ones.",
+      "type": "string"
+     },
+     {
+      "name": "retirement_year",
+      "description": "Planned or actual retirement, as published by EIA (year or year-month); blank if none.",
+      "type": "string"
+     },
+     {
+      "name": "latitude",
+      "description": "Plant latitude in decimal degrees (WGS84).",
+      "type": "number"
+     },
+     {
+      "name": "longitude",
+      "description": "Plant longitude in decimal degrees (WGS84).",
+      "type": "number"
+     }
+    ]
+   }
+  }
+ ]
 }
