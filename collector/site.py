@@ -129,6 +129,7 @@ published, and see the change log in between. It is a leading indicator of gener
 <li><a href="state/">Planned projects by state</a>: every planned US generator in each state, with a CSV and change history</li>
 <li><a href="https://apify.com/civic_data_feeds/us-power-plant-pipeline">US Power Plant Pipeline on Apify</a>: pull the same EIA-860M generators as JSON from code or no-code tools, pay per result ($4 per 1,000)</li>
 <li><a href="technology/">Planned projects by technology</a>: solar, batteries, gas, wind and more, with MW by state</li>
+<li><a href="findings.html">What is in the pipeline</a> (technology, state and year breakdown) and <a href="largest.html">the 100 largest planned plants</a></li>
 <li><a href="https://www.kaggle.com/datasets/beingrealfrank/us-power-plant-pipeline-eia-860m">Kaggle mirror</a> of the latest EIA-860M generator table, updated on each EIA release</li>
 <li>Every day is a git commit, so <code>git log -- data/latest/caiso.csv</code> gives the queue as of any day.</li>
 </ul>

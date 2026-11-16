@@ -259,6 +259,98 @@ page(f"Planned US power plants by technology (EIA-860M, {release})",
      "Planned US power plants by technology: solar, batteries, gas, wind and more, with MW by state.", tbody, tld, "technology/index.html")
 urls.insert(2, "technology/")
 
+# State x technology pages, a largest-projects page and a findings page (all EIA-860M only).
+def cod_year(r):
+    m2 = re.search(r"(20\d\d)", r.get("proposed_cod", ""))
+    return m2.group(1) if m2 else ""
+
+
+st_tech = defaultdict(list)
+for r in rows:
+    if r["technology"] and r["state"] in STATES:
+        st_tech[(r["state"], r["technology"])].append(r)
+combo = 0
+for (s, tn), rs in sorted(st_tech.items()):
+    if len(rs) < 8:
+        continue
+    sl = slug(tn) + "-" + s.lower()
+    rs = sorted(rs, key=mw, reverse=True)
+    total = sum(mw(r) for r in rs)
+    yrs = Counter()
+    for r in rs:
+        yrs[cod_year(r) or "unknown"] += mw(r)
+    yli = "".join(f"<li>{e(y)}: {fmt_mw(v)} MW</li>" for y, v in sorted(yrs.items()))
+    trs = "".join(
+        f"<tr><td>{e(r['project_name'])}</td><td>{e(r['developer'])}</td><td>{e(r['county'])}</td>"
+        f"<td class=n data-v=\"{mw(r)}\">{fmt_mw(mw(r))}</td><td>{e(STATUS_LABEL.get(code(r), r['status']))}</td>"
+        f"<td>{e(r['proposed_cod'])}</td></tr>" for r in rs)
+    name = STATES[s]
+    body = (f"<h1>Planned {e(tn)} projects in {e(name)}</h1>"
+            f"<p class=sub>{len(rs):,} planned projects, {fmt_mw(total)} MW, from the EIA-860M {e(release)} release. "
+            f"See also: <a href=\"../state/{s}.html\">all planned plants in {e(name)}</a> · "
+            f"<a href=\"{slug(tn)}.html\">{e(tn)} across the US</a></p>"
+            f"<h2>Planned MW by operating year</h2><ul>{yli}</ul>"
+            f"<h2>All projects</h2><table class=sort><tr><th>Project</th><th>Owner</th><th>County</th><th class=n>MW</th>"
+            f"<th>Status</th><th>Planned operation</th></tr>{trs}</table>")
+    ld = {"@context": "https://schema.org", "@type": "Dataset", "name": f"Planned {tn} projects in {name} (EIA-860M, {release})",
+          "description": f"Every planned {tn} generator of 1 MW or more in {name} from EIA Form EIA-860M.",
+          "url": f"{SITE}technology/{sl}.html", "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "creator": {"@type": "Person", "name": "Frank Gilroy"}, "isBasedOn": "https://www.eia.gov/electricity/data/eia860m/",
+          "spatialCoverage": {"@type": "Place", "name": f"{name}, United States"}}
+    page(f"Planned {tn} projects in {name} (EIA-860M, {release})",
+         f"{len(rs)} planned {tn} projects in {name}, {fmt_mw(total)} MW: owner, county, status and planned operating month.",
+         body, ld, f"technology/{sl}.html")
+    urls.append(f"technology/{sl}.html")
+    combo += 1
+
+big = sorted(rows, key=mw, reverse=True)[:100]
+btrs = "".join(
+    f"<tr><td>{e(r['project_name'])}</td><td>{e(r['developer'])}</td><td>{e(r['technology'])}</td><td>{e(STATES.get(r['state'], r['state']))}</td>"
+    f"<td class=n data-v=\"{mw(r)}\">{fmt_mw(mw(r))}</td><td>{e(STATUS_LABEL.get(code(r), r['status']))}</td><td>{e(r['proposed_cod'])}</td></tr>"
+    for r in big)
+bbody = (f"<h1>The 100 largest planned US power plants</h1><p class=sub>By nameplate MW, EIA-860M {e(release)} release. "
+         f"<a href=\"technology/\">By technology</a> · <a href=\"state/\">By state</a></p>"
+         f"<table class=sort><tr><th>Project</th><th>Owner</th><th>Technology</th><th>State</th><th class=n>MW</th><th>Status</th>"
+         f"<th>Planned operation</th></tr>{btrs}</table>")
+bld = {"@context": "https://schema.org", "@type": "Dataset", "name": f"The 100 largest planned US power plants (EIA-860M, {release})",
+       "description": "The largest planned US generators by capacity from EIA Form EIA-860M.", "url": f"{SITE}largest.html",
+       "license": "https://creativecommons.org/publicdomain/zero/1.0/", "creator": {"@type": "Person", "name": "Frank Gilroy"},
+       "isBasedOn": "https://www.eia.gov/electricity/data/eia860m/"}
+page(f"The 100 largest planned US power plants (EIA-860M, {release})",
+     "The 100 largest planned US power plants by MW with owner, technology, state, status and planned operating month.",
+     bbody, bld, "largest.html")
+urls.append("largest.html")
+
+tot = sum(mw(r) for r in rows)
+tm = Counter()
+for r in rows:
+    tm[r["technology"] or "Unspecified"] += mw(r)
+sm2 = Counter()
+for r in rows:
+    sm2[r["state"]] += mw(r)
+yrs2 = Counter()
+for r in rows:
+    yrs2[cod_year(r) or "unknown"] += mw(r)
+uc = sum(1 for r in rows if code(r) in ("U", "V", "TS"))
+li_t = "".join(f"<li>{e(t)}: {fmt_mw(v)} MW ({v / tot * 100:.0f}%)</li>" for t, v in tm.most_common(6))
+li_s = "".join(f"<li><a href=\"state/{s}.html\">{e(STATES.get(s, s))}</a>: {fmt_mw(v)} MW</li>" for s, v in sm2.most_common(8))
+li_y = "".join(f"<li>{e(y)}: {fmt_mw(v)} MW</li>" for y, v in sorted(yrs2.items()))
+fbody = (f"<h1>What is in the US power-plant pipeline: EIA-860M, {e(release)}</h1>"
+         f"<p class=sub>{len(rows):,} planned generators of 1 MW or more, {fmt_mw(tot)} MW in total; {uc:,} are already under "
+         f"construction or built and awaiting operation. Every number below is computed from the published file.</p>"
+         f"<h2>By technology</h2><ul>{li_t}</ul><h2>Top states by planned MW</h2><ul>{li_s}</ul>"
+         f"<h2>By planned operating year</h2><ul>{li_y}</ul>"
+         f"<p>Details: <a href=\"technology/\">by technology</a>, <a href=\"state/\">by state</a>, "
+         f"<a href=\"largest.html\">the 100 largest</a>. Queue Ledger keeps every monthly release, so the next report will show "
+         f"what slipped, what was canceled and what is new.</p>")
+fld = {"@context": "https://schema.org", "@type": "Article", "headline": f"What is in the US power-plant pipeline: EIA-860M, {release}",
+       "author": {"@type": "Person", "name": "Frank Gilroy"}, "datePublished": today, "mainEntityOfPage": f"{SITE}findings.html"}
+page(f"What is in the US power-plant pipeline: EIA-860M, {release}",
+     f"{len(rows):,} planned US generators, {fmt_mw(tot)} MW: breakdown by technology, state and planned operating year.",
+     fbody, fld, "findings.html")
+urls.append("findings.html")
+print("extra pages:", combo, "state-technology + largest + findings")
+
 # Sitemap: index, state pages, and any monthly change pages already built.
 for fn in sorted(os.listdir(os.path.join(DOCS, "changes"))) if os.path.isdir(os.path.join(DOCS, "changes")) else []:
     if fn.endswith(".html"):
