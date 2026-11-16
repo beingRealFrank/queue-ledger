@@ -33,6 +33,9 @@ the inventory sheet (planned, operating, retired, canceled_or_postponed) and a m
 [![DOI](https://zenodo.org/badge/1456775885.svg)](https://zenodo.org/badge/latestdoi/1456775885)
 
 Cite the archive with its DOI (each GitHub release is archived on Zenodo).
+
+Prefer an API? The same EIA-860M generators are available as JSON on Apify: [US Power Plant Pipeline](https://apify.com/civic_data_feeds/us-power-plant-pipeline) (pay per result, $4 per 1,000).
+
 ## Code licence
 
 MIT. No warranty: verify against the raw source file before relying on a row. Not affiliated with or endorsed by EIA,
