@@ -1,18 +1,18 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "sources": {
   "caiso": {
    "events": 0,
-   "fetched_at": "2026-11-15T19:25:15+00:00",
+   "fetched_at": "2026-11-16T23:24:02+00:00",
    "new_content": true,
    "ok": true,
    "records": 2278,
-   "sha256": "4ef71eba0b1c77c9a814b88cafe8f93b7c20c168d974dbfa425076de88d1965c",
+   "sha256": "decea41b9aae2a8783fe7b91c47226cc89b8f5bb453a57d90ac7092a29733b9f",
    "url": "http://www.caiso.com/PublishedDocuments/PublicQueueReport.xlsx"
   },
   "eia860m": {
    "events": 0,
-   "fetched_at": "2026-11-15T19:25:16+00:00",
+   "fetched_at": "2026-11-16T23:24:03+00:00",
    "new_content": false,
    "ok": true,
    "records": 39908,
@@ -20,12 +20,12 @@
    "url": "https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx"
   },
   "spp": {
-   "events": 0,
-   "fetched_at": "2026-11-15T19:25:14+00:00",
-   "new_content": false,
+   "events": 4,
+   "fetched_at": "2026-11-16T23:24:01+00:00",
+   "new_content": true,
    "ok": true,
-   "records": 1018,
-   "sha256": "515591b732ead12e5fd8719e1dabd386621a36cd7c97d80a17b14a62839481d8",
+   "records": 1017,
+   "sha256": "5d41e489cfa7de960d9268c6c5f3bc5c606d0e39f459deae7eaa3a798180ac2c",
    "url": "https://opsportal.spp.org/Studies/GenerateActiveCSV"
   }
  }

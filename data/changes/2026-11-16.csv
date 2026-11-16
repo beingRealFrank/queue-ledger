@@ -1,0 +1,5 @@
+date,event,iso,queue_id,record_type,project_name,developer,status,fuel,technology,mw,state,county,poi,utility,queue_date,proposed_cod,withdrawn_date,end_use,source_sheet,latitude,longitude,field,old,new
+2026-11-16,changed,SPP,GEN-2023-193,generation,,,IA FULLY EXECUTED/ON SCHEDULE,Solar/Storage,Hybrid,175,TX,Harrison,Pirkey - Whitney 138 kV Line,AEP,2023-10-02,2029-12-31,,,GenerateActiveCSV,,,status,IA PENDING,IA FULLY EXECUTED/ON SCHEDULE
+2026-11-16,changed,SPP,GEN-2023-193,generation,,,IA FULLY EXECUTED/ON SCHEDULE,Solar/Storage,Hybrid,175,TX,Harrison,Pirkey - Whitney 138 kV Line,AEP,2023-10-02,2029-12-31,,,GenerateActiveCSV,,,proposed_cod,2028-03-31,2029-12-31
+2026-11-16,changed,SPP,ERAS-2025-019,generation,,,IA FULLY EXECUTED/ON SCHEDULE,Photovoltaic,Solar,80,KS,Kinsley,5th Street Substation,MIDW,2025-10-02,2028-12-15,,,GenerateActiveCSV,,,status,IA PENDING,IA FULLY EXECUTED/ON SCHEDULE
+2026-11-16,removed_from_report,SPP,GI-CS-2025-04,generation,,,FACILITY STUDY STAGE,Wind/Storage,Hybrid,330,WY,"Laramie County,",Ault LRS 345 Line,TSGT,2025-09-17,2029-11-30,,,GenerateActiveCSV,,,,,
