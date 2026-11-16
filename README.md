@@ -36,6 +36,10 @@ Cite the archive with its DOI (each GitHub release is archived on Zenodo).
 
 Prefer an API? The same EIA-860M generators are available as JSON on Apify: [US Power Plant Pipeline](https://apify.com/civic_data_feeds/us-power-plant-pipeline) (pay per result, $4 per 1,000).
 
+## Paid options
+
+- [Queue Ledger Pro](https://buy.polar.sh/polar_cl_0K2xh3J5SBkT0QZWAqdI9GJVWJxKOrJbly1cy3l2DLY) ($19/month): private repo with a dated digest of every EIA-860M release, a slip tracker, planned MW by state and technology, and all planned projects of 100 MW or more with first-seen dates.
+
 ## Code licence
 
 MIT. No warranty: verify against the raw source file before relying on a row. Not affiliated with or endorsed by EIA,
