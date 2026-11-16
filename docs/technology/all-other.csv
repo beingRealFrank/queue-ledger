@@ -1,0 +1,6 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69099-HEWA1,Orion - Helion,"Helion Energy, Inc.",All Other,H2,50,WA,Chelan,(L) Regulatory approvals pending. Not under construction,2028-12,47.3368,-120.1043
+60670-1,CE&P Imperial Valley 1,"California Ethanol Power, LLC",All Other,OTH,50,CA,Imperial,(T) Regulatory approvals received. Not under construction,2029-06,32.912778,-115.5183
+60642-1,M&G Resins USA,CC Polymers LLC,All Other,WH,14.3,TX,Nueces,"(U) Under construction, less than or equal to 50 percent complete",2028-12,27.833756,-97.49652
+60642-2,M&G Resins USA,CC Polymers LLC,All Other,WH,14.3,TX,Nueces,"(U) Under construction, less than or equal to 50 percent complete",2028-12,27.833756,-97.49652
+65834-SDBTD,Saddleback BESS2,"HEN Infrastructure, L.L.C.",All Other,OTH,9.9,TX,Reeves,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.332883,-103.4984

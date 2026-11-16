@@ -1,0 +1,6 @@
+queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
+69798-PMN1,Project Matador Nuclear,Fermi Nuclear,Nuclear,NUC,1117,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2031-12,35.283762,-101.569
+69798-PMN3,Project Matador Nuclear,Fermi Nuclear,Nuclear,NUC,1117,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2031-12,35.283762,-101.569
+69798-PMN2,Project Matador Nuclear,Fermi Nuclear,Nuclear,NUC,1117,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2032-12,35.283762,-101.569
+69798-PMN4,Project Matador Nuclear,Fermi Nuclear,Nuclear,NUC,1117,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2032-12,35.283762,-101.569
+68635-KU1,Kemmerer Unit 1,US SFR Owner LLC,Nuclear,NUC,500,WY,Lincoln,(L) Regulatory approvals pending. Not under construction,2030-12,41.705993,-110.5603

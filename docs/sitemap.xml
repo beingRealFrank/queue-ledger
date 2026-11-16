@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://beingrealfrank.github.io/queue-ledger/</loc><lastmod>2026-11-15</lastmod></url>
 <url><loc>https://beingrealfrank.github.io/queue-ledger/state/</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/</loc><lastmod>2026-11-15</lastmod></url>
 <url><loc>https://beingrealfrank.github.io/queue-ledger/state/AK.html</loc><lastmod>2026-11-15</lastmod></url>
 <url><loc>https://beingrealfrank.github.io/queue-ledger/state/AL.html</loc><lastmod>2026-11-15</lastmod></url>
 <url><loc>https://beingrealfrank.github.io/queue-ledger/state/AR.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -52,4 +53,18 @@
 <url><loc>https://beingrealfrank.github.io/queue-ledger/state/WI.html</loc><lastmod>2026-11-15</lastmod></url>
 <url><loc>https://beingrealfrank.github.io/queue-ledger/state/WV.html</loc><lastmod>2026-11-15</lastmod></url>
 <url><loc>https://beingrealfrank.github.io/queue-ledger/state/WY.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/all-other.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/batteries.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/conventional-hydroelectric.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/geothermal.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/hydroelectric-pumped-storage.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/landfill-gas.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/natural-gas-fired-combined-cycle.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/natural-gas-fired-combustion-turbine.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/natural-gas-internal-combustion-engine.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/nuclear.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/onshore-wind-turbine.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/other-waste-biomass.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/petroleum-liquids.html</loc><lastmod>2026-11-15</lastmod></url>
+<url><loc>https://beingrealfrank.github.io/queue-ledger/technology/solar-photovoltaic.html</loc><lastmod>2026-11-15</lastmod></url>
 </urlset>

@@ -194,6 +194,71 @@ page(f"Planned power plants by state (EIA-860M, {release})", "Planned US power p
      ibody, ild, "state/index.html")
 urls.insert(1, "state/")
 
+# Per-technology pages (solar, batteries, gas, wind, ...) for long-tail searches.
+def slug(t):
+    return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
+
+
+by_tech = defaultdict(list)
+for r in rows:
+    if r["technology"] and r["state"] in STATES:
+        by_tech[r["technology"]].append(r)
+os.makedirs(os.path.join(DOCS, "technology"), exist_ok=True)
+tech_index = []
+for tn, rs in sorted(by_tech.items()):
+    if len(rs) < 5:
+        continue
+    sl = slug(tn)
+    rs = sorted(rs, key=mw, reverse=True)
+    total = sum(mw(r) for r in rs)
+    sm_mw, sm_n = Counter(), Counter()
+    for r in rs:
+        sm_mw[r["state"]] += mw(r)
+        sm_n[r["state"]] += 1
+    with open(os.path.join(DOCS, "technology", f"{sl}.csv"), "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=CSV_FIELDS, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(rs)
+    srows = "".join(f"<tr><td><a href=\"../state/{s}.html\">{e(STATES[s])}</a></td><td class=n data-v=\"{sm_n[s]}\">{sm_n[s]:,}</td>"
+                    f"<td class=n data-v=\"{v}\">{fmt_mw(v)}</td></tr>" for s, v in sm_mw.most_common())
+    trs = "".join(
+        f"<tr><td>{e(r['project_name'])}</td><td>{e(r['developer'])}</td><td>{e(STATES[r['state']])}</td>"
+        f"<td>{e(r['county'])}</td><td class=n data-v=\"{mw(r)}\">{fmt_mw(mw(r))}</td>"
+        f"<td>{e(STATUS_LABEL.get(code(r), r['status']))}</td><td>{e(r['proposed_cod'])}</td></tr>" for r in rs)
+    body = (f"<h1>Planned {e(tn)} projects in the US</h1>"
+            f"<p class=sub>{len(rs):,} planned projects, {fmt_mw(total)} MW, in {len(sm_mw)} states, from the EIA-860M "
+            f"{e(release)} release. <a href=\"{sl}.csv\">Download CSV</a> · <a href=\"./\">All technologies</a></p>"
+            f"<h2>By state</h2><table class=sort><tr><th>State</th><th class=n>Projects</th><th class=n>MW</th></tr>{srows}</table>"
+            f"<h2>All projects</h2><table class=sort><tr><th>Project</th><th>Owner</th><th>State</th><th>County</th>"
+            f"<th class=n>MW</th><th>Status</th><th>Planned operation</th></tr>{trs}</table>")
+    ld = {"@context": "https://schema.org", "@type": "Dataset",
+          "name": f"Planned US {tn} projects (EIA-860M, {release})",
+          "description": f"Every planned US {tn} generator of 1 MW or more from EIA Form EIA-860M, with owner, state, "
+                         f"county, capacity, status and planned operating month.",
+          "url": f"{SITE}technology/{sl}.html", "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "creator": {"@type": "Person", "name": "Frank Gilroy"},
+          "isBasedOn": "https://www.eia.gov/electricity/data/eia860m/",
+          "spatialCoverage": {"@type": "Place", "name": "United States"},
+          "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": f"{SITE}technology/{sl}.csv"}]}
+    page(f"Planned {tn} projects in the US (EIA-860M, {release})",
+         f"{len(rs)} planned US {tn} projects, {fmt_mw(total)} MW, by state, with owner, county, status and planned "
+         f"operating month from EIA-860M.", body, ld, f"technology/{sl}.html")
+    urls.append(f"technology/{sl}.html")
+    tech_index.append((sl, tn, len(rs), total, len(sm_mw)))
+trows = "".join(f"<tr><td><a href=\"{sl}.html\">{e(tn)}</a></td><td class=n data-v=\"{c}\">{c:,}</td>"
+                f"<td class=n data-v=\"{t}\">{fmt_mw(t)}</td><td class=n>{ns}</td></tr>"
+                for sl, tn, c, t, ns in sorted(tech_index, key=lambda x: -x[3]))
+tbody = (f"<h1>Planned US power plants by technology</h1><p class=sub>EIA-860M {e(release)} release. Solar, battery storage, "
+         f"gas, wind, hydro and more, each with a state breakdown, project table and CSV.</p>"
+         f"<table class=sort><tr><th>Technology</th><th class=n>Projects</th><th class=n>MW</th><th class=n>States</th></tr>{trows}</table>")
+tld = {"@context": "https://schema.org", "@type": "Dataset", "name": f"Planned US power plants by technology (EIA-860M, {release})",
+       "description": "Planned US generators of 1 MW or more by technology, from EIA Form EIA-860M.",
+       "url": f"{SITE}technology/", "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+       "creator": {"@type": "Person", "name": "Frank Gilroy"}, "isBasedOn": "https://www.eia.gov/electricity/data/eia860m/"}
+page(f"Planned US power plants by technology (EIA-860M, {release})",
+     "Planned US power plants by technology: solar, batteries, gas, wind and more, with MW by state.", tbody, tld, "technology/index.html")
+urls.insert(2, "technology/")
+
 # Sitemap: index, state pages, and any monthly change pages already built.
 for fn in sorted(os.listdir(os.path.join(DOCS, "changes"))) if os.path.isdir(os.path.join(DOCS, "changes")) else []:
     if fn.endswith(".html"):
