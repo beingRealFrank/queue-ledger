@@ -116,6 +116,7 @@ def page(title, desc, body, ld, path):
            f'<meta name=viewport content="width=device-width,initial-scale=1"><title>{e(title)}</title>'
            f'<meta name=description content="{e(desc)}"><link rel=canonical href="{SITE}{path}">'
            f"<style>{CSS}</style>"
+           f'<script async src="{SITE}gc.js"></script>'
            f'<script type="application/ld+json">{json.dumps(ld).replace("</", "<\\/")}</script></head>'
            f"<body>{body}{FOOT}{SORT_JS}</body></html>")
     full = os.path.join(DOCS, path)

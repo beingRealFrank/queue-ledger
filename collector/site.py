@@ -83,7 +83,7 @@ def page(title, body, desc):
 <meta name=viewport content="width=device-width,initial-scale=1">
 <title>{e(title)}</title><meta name=description content="{e(desc)}">
 <link rel=alternate type=application/rss+xml title="Queue Ledger changes" href="{SITE}feed.xml">
-<style>{CSS}</style></head><body>{body}
+<style>{CSS}</style><script async src="{SITE}gc.js"></script></head><body>{body}
 <p class=muted style="margin-top:40px">Queue Ledger is an independent archive of public records and is not affiliated with or endorsed by EIA, CAISO or SPP.
 Data is provided as-is, with no warranty; check the linked source file before relying on any row.
 Source code and data: <a href="https://github.com/{REPO}">github.com/{REPO}</a>.</p></body></html>"""
