@@ -265,12 +265,12 @@ def diff(prev: dict, cur: dict, day: str):
     ev = []
     for k, r in cur.items():
         if k not in prev:
-            ev.append({"date": day, "event": "new", **{f: r[f] for f in FIELDS}, "field": "", "old": "", "new": ""})
+            ev.append({"date": day, "event": "new", **{f: r.get(f, "") for f in FIELDS}, "field": "", "old": "", "new": ""})
             continue
         p = prev[k]
         for f in TRACKED:
             if p.get(f, "") != r.get(f, ""):
-                ev.append({"date": day, "event": "changed", **{x: r[x] for x in FIELDS},
+                ev.append({"date": day, "event": "changed", **{x: r.get(x, "") for x in FIELDS},
                            "field": f, "old": p.get(f, ""), "new": r.get(f, "")})
     for k, p in prev.items():
         if k not in cur:
