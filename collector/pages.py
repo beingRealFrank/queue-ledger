@@ -23,6 +23,7 @@ SITE = "https://beingrealfrank.github.io/queue-ledger/"
 REPO = "https://github.com/beingRealFrank/queue-ledger"
 APIFY = "https://apify.com/civic_data_feeds/us-power-plant-pipeline"
 e = html.escape
+PRO = "https://buy.polar.sh/polar_cl_0K2xh3J5SBkT0QZWAqdI9GJVWJxKOrJbly1cy3l2DLY"
 
 STATES = {
     "AK": "Alaska", "AL": "Alabama", "AR": "Arkansas", "AZ": "Arizona", "CA": "California", "CO": "Colorado",
@@ -105,7 +106,9 @@ FOOT = (f'<p class=muted style="margin-top:36px">Source: U.S. Energy Information
         f'Generator Inventory (Form EIA-860M), {e(release)} release; public domain. Preliminary data, so check the raw file in the '
         f'<a href="{REPO}">archive</a> before relying on a row. Not affiliated with or endorsed by EIA. '
         f'Back to <a href="{SITE}">Queue Ledger</a>. Query the same data from code: '
-        f'<a href="{APIFY}">US Power Plant Pipeline on Apify</a>.</p>')
+        f'<a href="{APIFY}">US Power Plant Pipeline on Apify</a>. '
+        f'Want release-by-release change digests, slip tracking and every 100 MW+ project in a private repo rebuilt daily? '
+        f'<a href="{PRO}">Queue Ledger Pro, $19/month</a>.</p>')
 
 
 def page(title, desc, body, ld, path):
