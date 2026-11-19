@@ -1,18 +1,18 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "sources": {
   "caiso": {
    "events": 0,
-   "fetched_at": "2026-11-18T21:28:39+00:00",
+   "fetched_at": "2026-11-19T21:39:28+00:00",
    "new_content": true,
    "ok": true,
    "records": 2278,
-   "sha256": "6db310568475b25e27b4eaedc7d459efbdd1834f6abac73c73eb554699e9fefe",
+   "sha256": "121815dd412c2ba1e4b0043f6b5919c95a8e7a705157ac8751dfcd1c3bdb32ce",
    "url": "http://www.caiso.com/PublishedDocuments/PublicQueueReport.xlsx"
   },
   "eia860m": {
    "events": 0,
-   "fetched_at": "2026-11-18T21:28:40+00:00",
+   "fetched_at": "2026-11-19T21:39:28+00:00",
    "new_content": false,
    "ok": true,
    "records": 39908,
@@ -21,11 +21,11 @@
   },
   "spp": {
    "events": 4,
-   "fetched_at": "2026-11-18T21:28:38+00:00",
+   "fetched_at": "2026-11-19T21:39:27+00:00",
    "new_content": true,
    "ok": true,
-   "records": 1016,
-   "sha256": "a7041a5d6f219c14d28f2aa29476002fbaa448c51d66e09093c67ef9f4d0877c",
+   "records": 1018,
+   "sha256": "3294b53769005ffe13a2d5cb7dab04b6ce46fc9e8124fd8b66c0e52003b1fa89",
    "url": "https://opsportal.spp.org/Studies/GenerateActiveCSV"
   }
  }

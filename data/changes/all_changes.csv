@@ -14,3 +14,7 @@ date,event,iso,queue_id,record_type,project_name,developer,status,fuel,technolog
 2026-11-18,changed,SPP,GEN-2019-041,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,78,NE,Lancaster,115kV Monolith Substation,NPPD,2019-05-23,2027-04-01,,,GenerateActiveCSV,,,proposed_cod,2028-12-31,2027-04-01
 2026-11-18,changed,SPP,GEN-2013-019,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,73.6,NE,Lancaster,Monolith 115kV,NPPD,2013-04-17,2027-04-01,,,GenerateActiveCSV,,,proposed_cod,2026-12-01,2027-04-01
 2026-11-18,changed,SPP,GEN-2013-002,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,50.6,NE,Lancaster,Monolith 115kV,NPPD,2013-03-01,2027-04-01,,,GenerateActiveCSV,,,proposed_cod,2026-12-01,2027-04-01
+2026-11-19,new,SPP,GEN-2026-SR39,generation,,,SPECIAL STUDY,,Battery/Storage,108.98,MO,Jasper County,Asbury 161 kV,EDE,2026-10-19,2028-12-01,,,GenerateActiveCSV,,,,,
+2026-11-19,new,SPP,GEN-2026-SR38,generation,,,SPECIAL STUDY,,Battery/Storage,155,OK,Woods,DeGrasse 138kV Substation,OGE,2026-10-12,2028-12-31,,,GenerateActiveCSV,,,,,
+2026-11-19,changed,SPP,GEN-2023-241,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,93,TX,Franklin & Wood,Winnsboro 138 kV Substation,AEP,2023-10-02,2029-10-15,,,GenerateActiveCSV,,,status,IA PENDING,IA FULLY EXECUTED/ON SCHEDULE
+2026-11-19,changed,SPP,GEN-2023-241,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,93,TX,Franklin & Wood,Winnsboro 138 kV Substation,AEP,2023-10-02,2029-10-15,,,GenerateActiveCSV,,,proposed_cod,2029-04-19,2029-10-15
