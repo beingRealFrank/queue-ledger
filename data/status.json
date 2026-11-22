@@ -1,18 +1,18 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "sources": {
   "caiso": {
    "events": 0,
-   "fetched_at": "2026-11-21T20:09:36+00:00",
+   "fetched_at": "2026-11-22T20:23:41+00:00",
    "new_content": true,
    "ok": true,
    "records": 2278,
-   "sha256": "0ddecf26530ca8e2df4006c837fb0a69c876046413a5d6f7987866286ad024f7",
+   "sha256": "94d9bb0a2e2f999dbb048aea8b3bbb6e47f6b48a867f7887fc73c42887f5f14e",
    "url": "http://www.caiso.com/PublishedDocuments/PublicQueueReport.xlsx"
   },
   "eia860m": {
    "events": 0,
-   "fetched_at": "2026-11-21T20:09:37+00:00",
+   "fetched_at": "2026-11-22T20:23:42+00:00",
    "new_content": false,
    "ok": true,
    "records": 39908,
@@ -21,7 +21,7 @@
   },
   "spp": {
    "events": 0,
-   "fetched_at": "2026-11-21T20:09:35+00:00",
+   "fetched_at": "2026-11-22T20:23:40+00:00",
    "new_content": false,
    "ok": true,
    "records": 1018,
