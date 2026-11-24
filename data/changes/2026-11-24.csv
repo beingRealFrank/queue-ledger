@@ -1,0 +1,4 @@
+date,event,iso,queue_id,record_type,project_name,developer,status,fuel,technology,mw,state,county,poi,utility,queue_date,proposed_cod,withdrawn_date,end_use,source_sheet,latitude,longitude,field,old,new
+2026-11-24,changed,SPP,GEN-2023-104,generation,,,IA FULLY EXECUTED/ON SCHEDULE,Solar/Storage,Hybrid,100,OK,Woods,Mooreland - Noel 138 kV Line,WFEC,2023-10-02,2028-09-30,,,GenerateActiveCSV,,,status,IA PENDING,IA FULLY EXECUTED/ON SCHEDULE
+2026-11-24,changed,SPP,GEN-2023-092,generation,,,IA FULLY EXECUTED/ON SCHEDULE,Solar/Storage,Hybrid,125,OK,Choctaw,Unger - Frogville 138 kV line,WFEC,2023-10-02,2028-09-30,,,GenerateActiveCSV,,,status,IA PENDING,IA FULLY EXECUTED/ON SCHEDULE
+2026-11-24,changed,SPP,GEN-2023-069,generation,,,IA FULLY EXECUTED/ON SCHEDULE,Solar/Storage,Hybrid,100,OK,Atoka,Tupelo - Atoka 138 kV Line,WFEC,2023-10-02,2028-09-30,,,GenerateActiveCSV,,,status,IA PENDING,IA FULLY EXECUTED/ON SCHEDULE
