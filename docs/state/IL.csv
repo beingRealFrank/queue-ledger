@@ -10,8 +10,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 66707-11102,Prairie Oak Solar,Strata Clean Energy,Solar Photovoltaic,SUN,250,IL,Shelby,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,39.542799,-89.03153
 65049-CPCW1,Pike Creek Wind,Repsol Renewables NA,Onshore Wind Turbine,WND,202.5,IL,Logan,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,40.059,-89.537
 68413-OT,Old Town Wind,Old Town Wind LLC,Onshore Wind Turbine,WND,178,IL,Marshall,"(P) Planned for installation, but regulatory approvals not initiated",2029-10,40.988976,-89.17326
-69874-BHSF,"Bee Hollow Solar, LLC",Geronimo Power,Solar Photovoltaic,SUN,150,IL,St Clair,"(V) Under construction, more than 50 percent complete",2026-11,38.323,-89.75
-67347-OF1,Osagrove Flats Wind,Avangrid Power LLC,Onshore Wind Turbine,WND,150,IL,LaSalle,"(TS) Construction complete, but not yet in commercial operation",2026-12,40.941383,-88.97152
+67347-OF1,Osagrove Flats Wind,Avangrid Power LLC,Onshore Wind Turbine,WND,150,IL,LaSalle,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.941383,-88.97152
+69874-BHSF,"Bee Hollow Solar, LLC",Geronimo Power,Solar Photovoltaic,SUN,150,IL,St Clair,"(TS) Construction complete, but not yet in commercial operation",2026-12,38.323,-89.75
 67986-MSPRB,Meadow Springs Renewable Energy (Hybrid),Vesper Energy Development LLC,Batteries,MWH,150,IL,White,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,38.029,-88.284
 67986-MSPRE,Meadow Springs Renewable Energy (Hybrid),Vesper Energy Development LLC,Solar Photovoltaic,SUN,150,IL,White,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,38.029,-88.284
 70055-AA1,Allen Acres Solar,Avangrid Power LLC,Solar Photovoltaic,SUN,150,IL,LaSalle,"(P) Planned for installation, but regulatory approvals not initiated",2029-05,41.11792,-88.64038
@@ -19,32 +19,24 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 67937-FLOSO,Flora Solar,"Flora Solar, LLC",Solar Photovoltaic,SUN,125,IL,Clay,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,38.648852,-88.51444
 69586-GPS,"Great Plains Solar, LLC","Great Plains Solar, LLC",Solar Photovoltaic,SUN,100,IL,Perry,"(V) Under construction, more than 50 percent complete",2026-12,38.177944,-89.55289
 69594-SPS,"Switchgrass Plains Solar, LLC","Switchgrass Plains Solar, LLC",Solar Photovoltaic,SUN,100,IL,Fayette,"(V) Under construction, more than 50 percent complete",2026-12,39.172414,-89.05787
-69629-BIGM1,Big Muddy Solar,"Big Muddy Solar Project, LLC",Solar Photovoltaic,SUN,95,IL,Jackson,"(V) Under construction, more than 50 percent complete",2026-10,37.86,-89.3
 68085-RMS1,Red Maple LRE,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,95,IL,DeKalb,(L) Regulatory approvals pending. Not under construction,2028-09,41.886064,-88.72725
-68929-RUBY,"Ruby Solar, LLC",Birch Creek Development,Solar Photovoltaic,SUN,50,IL,Clinton,"(V) Under construction, more than 50 percent complete",2026-10,38.595759,-89.16983
 70092-2BLUE,"Two Blues Solar, LLC","Two Blues Solar, LLC",Solar Photovoltaic,SUN,40,IL,Perry,"(V) Under construction, more than 50 percent complete",2027-01,38.1633,-89.37
-69978-STPV,Station Solar,Birch Creek Development,Solar Photovoltaic,SUN,40,IL,Mercer,"(U) Under construction, less than or equal to 50 percent complete",2027-08,41.0777,-90.55
-69977-BBPV,Blue Branch Solar,Birch Creek Development,Solar Photovoltaic,SUN,35.9,IL,Johnson,"(U) Under construction, less than or equal to 50 percent complete",2027-01,37.467778,-88.96889
+69978-STPV,Station Solar,Birch Creek Development,Solar Photovoltaic,SUN,40,IL,Mercer,"(U) Under construction, less than or equal to 50 percent complete",2027-12,41.0777,-90.55
+69977-BBPV,Blue Branch Solar,Birch Creek Development,Solar Photovoltaic,SUN,35.9,IL,Johnson,"(U) Under construction, less than or equal to 50 percent complete",2027-02,37.467778,-88.96889
 70090-SNPDR,"Snapdragon Solar, LLC","Snapdragon Solar, LLC",Solar Photovoltaic,SUN,28,IL,Perry,"(TS) Construction complete, but not yet in commercial operation",2026-12,38.1703,-89.5532
-70108-PIKE,PIKE Solar,"Pike Solar, LLC",Solar Photovoltaic,SUN,18,IL,Fayette,"(V) Under construction, more than 50 percent complete",2026-11,38.9577,-89.169
+70108-PIKE,PIKE Solar,"Pike Solar, LLC",Solar Photovoltaic,SUN,18,IL,Fayette,"(TS) Construction complete, but not yet in commercial operation",2026-11,38.9577,-89.169
 67253-761,Cherry Valley,Greenbacker Renewable Energy Corporation,Solar Photovoltaic,SUN,12.5,IL,Boone,"(U) Under construction, less than or equal to 50 percent complete",2027-12,42.240017,-88.93076
-68975-17340,Washington Street Solar 1 LLC,Washington Street Solar 1 LLC,Solar Photovoltaic,SUN,5,IL,Mclean,"(U) Under construction, less than or equal to 50 percent complete",2026-10,40.477287,-89.04986
-69844-HORSE,"Horseshoe Solar Project, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Montgomery,"(V) Under construction, more than 50 percent complete",2026-10,39.14706,-89.4426
-70176-KIESE,Kieser,AES Clean Energy,Solar Photovoltaic,SUN,5,IL,McLean,"(V) Under construction, more than 50 percent complete",2026-10,40.4396,-89.0078
-70563-HIBIS,"Hibiscus Solar, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Macoupin,"(U) Under construction, less than or equal to 50 percent complete",2026-10,39.06927,-90.14414
 67637-GILLD,Gillard,38DN Asset Management LLC,Solar Photovoltaic,SUN,5,IL,Grundy,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.19401,-88.29454
 67643-SOLIT,Solitude,38DN Asset Management LLC,Solar Photovoltaic,SUN,5,IL,LaSalle,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.130185,-89.04407
 69178-11237,Cherry Solar 1,Generate Capital,Solar Photovoltaic,SUN,5,IL,Bureau,"(TS) Construction complete, but not yet in commercial operation",2026-11,41.450314,-89.22483
 69182-11225,KA 340,Generate Capital,Solar Photovoltaic,SUN,5,IL,Kankakee,"(V) Under construction, more than 50 percent complete",2026-11,41.245,-87.753
+70176-KIESE,Kieser,AES Clean Energy,Solar Photovoltaic,SUN,5,IL,McLean,"(V) Under construction, more than 50 percent complete",2026-11,40.4396,-89.0078
 70294-EAST,NL IL 2700 East,Standard Solar,Solar Photovoltaic,SUN,5,IL,Livingston,"(TS) Construction complete, but not yet in commercial operation",2026-11,41.050261,-88.42827
 70295-LAKE,NL IL Lake,Standard Solar,Solar Photovoltaic,SUN,5,IL,Lake,"(TS) Construction complete, but not yet in commercial operation",2026-11,42.464881,-87.88974
 70440-BRACE,NL IL Braceville,Standard Solar,Solar Photovoltaic,SUN,5,IL,Grundy,"(TS) Construction complete, but not yet in commercial operation",2026-11,41.230511,-88.25037
-70562-BUNGA,"Bungalow Solar, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Tazewell,"(U) Under construction, less than or equal to 50 percent complete",2026-11,40.630326,-89.44935
-70565-TREN1,Trenton CSG 1 LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Clinton,"(U) Under construction, less than or equal to 50 percent complete",2026-11,38.588043,-89.68674
 70580-OLSTG,NL IL Old Stage,Standard Solar,Solar Photovoltaic,SUN,5,IL,Grundy,"(TS) Construction complete, but not yet in commercial operation",2026-11,41.311417,-88.58678
+68975-17340,Washington Street Solar 1 LLC,Washington Street Solar 1 LLC,Solar Photovoltaic,SUN,5,IL,Mclean,"(U) Under construction, less than or equal to 50 percent complete",2026-12,40.477287,-89.04986
 69159-DIEL,SV CSG Diel 1,"SV CSG Diel 1, LLC",Solar Photovoltaic,SUN,5,IL,Richland,"(TS) Construction complete, but not yet in commercial operation",2026-12,38.70762,-88.22238
-69814-SUNSO,SV CSG Sun Trust Solar,"SV CSG Sun Trust Solar, LLC",Solar Photovoltaic,SUN,5,IL,Kane,"(V) Under construction, more than 50 percent complete",2026-12,42.0969,-88.3865
-69815-KINGS,SV CSG Kingston Solar 1,"SV CSG Kingston Solar 1, LLC",Solar Photovoltaic,SUN,5,IL,DeKalb,"(V) Under construction, more than 50 percent complete",2026-12,42.0971,-88.7318
 69837-FALCH,"Falconhead Solar, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Will,"(U) Under construction, less than or equal to 50 percent complete",2026-12,41.43149,-87.63821
 69882-USMID,USS Middle Solar,USS Middle Solar LLC,Solar Photovoltaic,SUN,5,IL,Grundy,"(U) Under construction, less than or equal to 50 percent complete",2026-12,41.413923,-88.44451
 69997-FASTA,Fast Ave Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Tazewell,"(U) Under construction, less than or equal to 50 percent complete",2026-12,40.534803,-89.28959
@@ -55,110 +47,105 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 70501-SCS1,South Cherry Solar 1,"South Cherry Solar 1, LLC",Solar Photovoltaic,SUN,5,IL,Bureau,"(V) Under construction, more than 50 percent complete",2026-12,41.41675,-89.21233
 70517-1400E,NL IL 1400 East,Standard Solar,Solar Photovoltaic,SUN,5,IL,Livingston,"(TS) Construction complete, but not yet in commercial operation",2026-12,41.0858,-88.6618
 70548-WRDEN,Cenergy IL - Worden,Standard Solar,Solar Photovoltaic,SUN,5,IL,Madison,"(TS) Construction complete, but not yet in commercial operation",2026-12,38.93278,-89.82896
+70563-HIBIS,"Hibiscus Solar, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Macoupin,"(U) Under construction, less than or equal to 50 percent complete",2026-12,39.06927,-90.14414
+69815-KINGS,SV CSG Kingston Solar 1,"SV CSG Kingston Solar 1, LLC",Solar Photovoltaic,SUN,5,IL,DeKalb,"(V) Under construction, more than 50 percent complete",2027-01,42.0971,-88.7318
 70009-WILL1,"Willis Solar 1, LLC - (IL)",Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Macoupin,"(U) Under construction, less than or equal to 50 percent complete",2027-01,39.118354,-89.84199
 70177-ALLEN,Allen CSG,AES Clean Energy,Solar Photovoltaic,SUN,5,IL,Peoria,"(V) Under construction, more than 50 percent complete",2027-01,40.9166,-89.5273
 70376-IL52,Pivot Energy IL 52,Pivot Energy,Solar Photovoltaic,SUN,5,IL,McHenry,"(V) Under construction, more than 50 percent complete",2027-01,42.329332,-88.41144
+70562-BUNGA,"Bungalow Solar, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Tazewell,"(U) Under construction, less than or equal to 50 percent complete",2027-01,40.630326,-89.44935
+70565-TREN1,Trenton CSG 1 LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Clinton,"(U) Under construction, less than or equal to 50 percent complete",2027-01,38.588043,-89.68674
 70100-IL070,Pivot Energy IL 70 LLC,Pivot Energy,Solar Photovoltaic,SUN,5,IL,Boone,"(V) Under construction, more than 50 percent complete",2027-02,42.227709,-88.8679
 70025-CINC1,Cincinnati CSG 1 LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Tazewell,"(U) Under construction, less than or equal to 50 percent complete",2027-03,40.526203,-89.63886
 70026-CINC2,Cincinnati CSG 2 LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,IL,Tazewell,"(U) Under construction, less than or equal to 50 percent complete",2027-03,40.526203,-89.63886
 68934-EAST1,SV CSG East St Louis,SV CSG East St Louis LLC,Solar Photovoltaic,SUN,5,IL,St Clair,"(U) Under construction, less than or equal to 50 percent complete",2027-04,38.6056,-90.0705
 67645-TWNDA,Varnsen,Cypress Creek Renewables,Solar Photovoltaic,SUN,5,IL,Winnebago,(L) Regulatory approvals pending. Not under construction,2027-07,42.315822,-89.31315
 69825-MADCR,Madden Creek Solar,"Madden Creek Solar, LLC",Solar Photovoltaic,SUN,5,IL,Piatt,(T) Regulatory approvals received. Not under construction,2027-08,40.201889,-88.46611
-69894-13PV1,E 1300 Street Solar LLC,"HQCA Energy Solutions, LLC",Solar Photovoltaic,SUN,5,IL,Henry,(L) Regulatory approvals pending. Not under construction,2027-09,41.310529,-90.18478
 69859-MURP1,Murphysboro 1,Navisun LLC,Solar Photovoltaic,SUN,5,IL,Jackson,(T) Regulatory approvals received. Not under construction,2027-10,37.794585,-89.35141
+69814-SUNSO,SV CSG Sun Trust Solar,"SV CSG Sun Trust Solar, LLC",Solar Photovoltaic,SUN,5,IL,Kane,"(V) Under construction, more than 50 percent complete",2027-11,42.0969,-88.3865
 69158-REEDR,SV CSG Reeder Solar,"SV CSG Reeder Solar, LLC",Solar Photovoltaic,SUN,5,IL,Knox,"(U) Under construction, less than or equal to 50 percent complete",2027-12,40.92886,-90.49347
 69817-SANNE,SV CSG St Anne 1,"SV CSG St Anne 1, LLC",Solar Photovoltaic,SUN,5,IL,Kankakee,(T) Regulatory approvals received. Not under construction,2027-12,41.041,-87.6999
+69894-13PV1,E 1300 Street Solar LLC,"HQCA Energy Solutions, LLC",Solar Photovoltaic,SUN,5,IL,Henry,(L) Regulatory approvals pending. Not under construction,2027-12,41.310529,-90.18478
 69948-MANTB,SV CSG Manteno,"SV CSG Manteno, LLC",Batteries,MWH,5,IL,Kankakee,(T) Regulatory approvals received. Not under construction,2027-12,41.221257,-87.88186
 69948-MANTO,SV CSG Manteno,"SV CSG Manteno, LLC",Solar Photovoltaic,SUN,5,IL,Kankakee,(T) Regulatory approvals received. Not under construction,2027-12,41.221257,-87.88186
 69949-BLOMB,SV CSG Bloomington,"SV CSG Bloomington, LLC",Batteries,MWH,5,IL,McLean,(T) Regulatory approvals received. Not under construction,2027-12,40.465889,-89.03208
 69949-BLOOM,SV CSG Bloomington,"SV CSG Bloomington, LLC",Solar Photovoltaic,SUN,5,IL,McLean,(T) Regulatory approvals received. Not under construction,2027-12,40.465889,-89.03208
 69816-WILSN,SV CSG Wilson School Solar,"SV CSG Wilson School Solar, LLC",Solar Photovoltaic,SUN,5,IL,Kane,(T) Regulatory approvals received. Not under construction,2028-01,42.053991,-88.35269
 69821-SROX,SV CSG South Roxana,"SV CSG South Roxana, LLC",Solar Photovoltaic,SUN,5,IL,Madison,(L) Regulatory approvals pending. Not under construction,2028-01,38.811582,-90.0515
-68392-IL2PV,IL2 - W109,Madison Energy Investments LLC,Solar Photovoltaic,SUN,4.9,IL,Will,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.470454,-88.02366
 70442-11224,KN216,Generate Capital,Solar Photovoltaic,SUN,4.9,IL,Kane,"(V) Under construction, more than 50 percent complete",2026-12,41.852991,-88.43975
-70488-BOBW,IL - Renewable Properties - Bobcat - Wes,"RPIL Solar 14, LLC",Solar Photovoltaic,SUN,4.5,IL,Lake,"(V) Under construction, more than 50 percent complete",2026-10,42.463396,-87.92959
 69174-11238,Arlington 1,Generate Capital,Solar Photovoltaic,SUN,4.5,IL,Bureau,"(V) Under construction, more than 50 percent complete",2026-11,41.454037,-89.29509
 69175-11239,Arlington 2,Generate Capital,Solar Photovoltaic,SUN,4.5,IL,Bureau,"(V) Under construction, more than 50 percent complete",2026-11,41.454503,-89.29475
 69207-11215,Osman Trust,Generate Capital,Solar Photovoltaic,SUN,4.5,IL,McHenry,"(V) Under construction, more than 50 percent complete",2026-11,42.267124,-88.45245
+70488-BOBW,IL - Renewable Properties - Bobcat - Wes,"RPIL Solar 14, LLC",Solar Photovoltaic,SUN,4.5,IL,Lake,"(V) Under construction, more than 50 percent complete",2026-11,42.463396,-87.92959
 70498-LS3,Ladd Solar 3,"Ladd Solar 3, LLC",Solar Photovoltaic,SUN,4.5,IL,Bureau,"(V) Under construction, more than 50 percent complete",2026-12,41.40225,-89.22147
 68972-11253,Gilman Solar LLC,Gilman Solar LLC PV,Solar Photovoltaic,SUN,4.5,IL,Iroquois,"(U) Under construction, less than or equal to 50 percent complete",2027-09,40.764392,-87.99916
-52021-GEN3,ITT Cogen Facility,"ITT Energy Tech Partners, LLC",Natural Gas Internal Combustion Engine,NG,4.1,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-03,41.83442,-87.62847
-52021-GEN4,ITT Cogen Facility,"ITT Energy Tech Partners, LLC",Natural Gas Internal Combustion Engine,NG,4.1,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-03,41.83442,-87.62847
+52021-GEN3,ITT Cogen Facility,"ITT Energy Tech Partners, LLC",Natural Gas Internal Combustion Engine,NG,4.1,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-01,41.83442,-87.62847
+52021-GEN4,ITT Cogen Facility,"ITT Energy Tech Partners, LLC",Natural Gas Internal Combustion Engine,NG,4.1,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-01,41.83442,-87.62847
 69204-11241,Little Creek,Generate Capital,Solar Photovoltaic,SUN,4,IL,McDonough,"(V) Under construction, more than 50 percent complete",2026-11,40.564286,-90.88035
-70510-MCD4,McDonough Solar 4 LLC,Pivot Energy,Solar Photovoltaic,SUN,4,IL,McDonough,"(V) Under construction, more than 50 percent complete",2026-11,40.447671,-90.7127
-68936-NAP1,SV CSG Naplate,"SV CSG Naplate, LLC",Solar Photovoltaic,SUN,3.9,IL,LaSalle,"(TS) Construction complete, but not yet in commercial operation",2026-11,41.332158,-88.88482
-69811-ANGEL,SV CSG Angelly 1,"SV CSG Angelly 1, LLC",Solar Photovoltaic,SUN,3.6,IL,Saline,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.7164,-88.5303
+70510-MCD4,McDonough Solar 4 LLC,Pivot Energy,Solar Photovoltaic,SUN,4,IL,McDonough,"(V) Under construction, more than 50 percent complete",2027-01,40.447671,-90.7127
+68936-NAP1,SV CSG Naplate,"SV CSG Naplate, LLC",Solar Photovoltaic,SUN,3.9,IL,LaSalle,"(TS) Construction complete, but not yet in commercial operation",2026-12,41.332158,-88.88482
+69811-ANGEL,SV CSG Angelly 1,"SV CSG Angelly 1, LLC",Solar Photovoltaic,SUN,3.6,IL,Saline,"(TS) Construction complete, but not yet in commercial operation",2026-12,37.7164,-88.5303
 70497-GF1,Greenfield Solar 1 (IL),"Greenfield Solar 1, LLC",Solar Photovoltaic,SUN,3.6,IL,Greene,"(V) Under construction, more than 50 percent complete",2026-12,39.360626,-90.25397
 69810-MAHOM,SV CSG Mahomet,"SV CSG Mahomet, LLC",Solar Photovoltaic,SUN,3.5,IL,Champaign,(L) Regulatory approvals pending. Not under construction,2028-01,40.193189,-88.37984
 70228-LOCKW,AC IL - Lockport West,Standard Solar,Solar Photovoltaic,SUN,3.4,IL,Will,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.5944,-88.0624
 70457-DEVIZ,DeVillez,AES Clean Energy,Solar Photovoltaic,SUN,3.3,IL,Saline,"(V) Under construction, more than 50 percent complete",2026-11,37.7685,-88.5155
 69861-NORR2,Norris City 2,Navisun LLC,Solar Photovoltaic,SUN,3.2,IL,White,(T) Regulatory approvals received. Not under construction,2027-10,38.020585,-88.27321
 70227-LOCKE,AC IL - Lockport East,Standard Solar,Solar Photovoltaic,SUN,3.1,IL,Will,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.6044,-88.0603
-70339-IL55B,Pivot Energy IL 55 LLC,Pivot Energy,Solar Photovoltaic,SUN,3.1,IL,McHenry,"(V) Under construction, more than 50 percent complete",2026-10,42.339848,-88.50452
-70486-WHWIL,IL - Renewable Properties - Bobcat - Whi,"RPIL Solar 9, LLC",Solar Photovoltaic,SUN,3,IL,Grundy,"(V) Under construction, more than 50 percent complete",2026-10,41.470074,-88.42523
+70339-IL55B,Pivot Energy IL 55 LLC,Pivot Energy,Solar Photovoltaic,SUN,3.1,IL,McHenry,"(V) Under construction, more than 50 percent complete",2026-11,42.339848,-88.50452
+70486-WHWIL,IL - Renewable Properties - Bobcat - Whi,"RPIL Solar 9, LLC",Solar Photovoltaic,SUN,3,IL,Grundy,"(V) Under construction, more than 50 percent complete",2026-12,41.470074,-88.42523
 70494-FMCS2,Four Mile Creek Solar Two,"Four Mile Creek Solar Two, LLC",Solar Photovoltaic,SUN,3,IL,Jefferson,"(V) Under construction, more than 50 percent complete",2026-12,38.326811,-88.75557
-68140-CH547,Melrose Park 2-SLCHI547,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,3,IL,Cook,"(U) Under construction, less than or equal to 50 percent complete",2027-01,41.9809,-87.8633
+68140-CH547,Melrose Park 2-SLCHI547,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,3,IL,Cook,"(U) Under construction, less than or equal to 50 percent complete",2027-02,41.9809,-87.8633
 69160-OTTA1,SV CSG Ottawa 1,SV CSG Ottawa 1 LLC,Solar Photovoltaic,SUN,3,IL,LaSalle,(L) Regulatory approvals pending. Not under construction,2027-11,41.340799,-88.77689
 70334-IL55B,Pivot Energy IL 55b LLC,Pivot Energy,Solar Photovoltaic,SUN,2.8,IL,McHenry,"(V) Under construction, more than 50 percent complete",2027-01,42.3455,-88.50561
-69804-MEPV1,Menard 1,ENGIE Distributed Renewables Development LLC,Solar Photovoltaic,SUN,2.8,IL,Menard,"(U) Under construction, less than or equal to 50 percent complete",2027-09,40.089,-89.723
-70375-CLIN5,Clinton Solar 5,Pivot Energy,Solar Photovoltaic,SUN,2.6,IL,Clinton,"(V) Under construction, more than 50 percent complete",2026-11,38.595381,-89.18656
+69804-MEPV1,Menard 1,ENGIE Distributed Renewables Development LLC,Solar Photovoltaic,SUN,2.8,IL,Menard,"(U) Under construction, less than or equal to 50 percent complete",2027-05,40.089,-89.723
+70375-CLIN5,Clinton Solar 5,Pivot Energy,Solar Photovoltaic,SUN,2.6,IL,Clinton,"(V) Under construction, more than 50 percent complete",2027-05,38.595381,-89.18656
 58903-UNIT1,Marseilles Lock and Dam Hydro,Marseilles Land and Water Company,Conventional Hydroelectric,WAT,2.6,IL,LaSalle,"(U) Under construction, less than or equal to 50 percent complete",2027-12,41.327778,-88.70111
 58903-UNIT2,Marseilles Lock and Dam Hydro,Marseilles Land and Water Company,Conventional Hydroelectric,WAT,2.6,IL,LaSalle,"(U) Under construction, less than or equal to 50 percent complete",2027-12,41.327778,-88.70111
 58903-UNIT3,Marseilles Lock and Dam Hydro,Marseilles Land and Water Company,Conventional Hydroelectric,WAT,2.6,IL,LaSalle,"(U) Under construction, less than or equal to 50 percent complete",2027-12,41.327778,-88.70111
 58903-UNIT4,Marseilles Lock and Dam Hydro,Marseilles Land and Water Company,Conventional Hydroelectric,WAT,2.6,IL,LaSalle,"(U) Under construction, less than or equal to 50 percent complete",2027-12,41.327778,-88.70111
-70031-ZEBRA,"Zebrawood Solar, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,2.5,IL,Hancock,"(U) Under construction, less than or equal to 50 percent complete",2026-10,40.613821,-91.28497
-68935-ROX1,SV CSG Roxana 1,SV CSG Roxana 1 LLC,Solar Photovoltaic,SUN,2.5,IL,Madison,"(V) Under construction, more than 50 percent complete",2026-12,38.836055,-90.03685
+70031-ZEBRA,"Zebrawood Solar, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,2.5,IL,Hancock,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.613821,-91.28497
 70502-SRS2,Sunset Road Solar 2,"Sunset Road Solar 2, LLC",Solar Photovoltaic,SUN,2.5,IL,Macoupin,"(V) Under construction, more than 50 percent complete",2026-12,39.158531,-89.77262
+68935-ROX1,SV CSG Roxana 1,SV CSG Roxana 1 LLC,Solar Photovoltaic,SUN,2.5,IL,Madison,"(V) Under construction, more than 50 percent complete",2027-01,38.836055,-90.03685
 70205-BURS2,Bureau Solar 2 LLC,Pivot Energy,Solar Photovoltaic,SUN,2.5,IL,Bureau,"(V) Under construction, more than 50 percent complete",2027-01,41.463853,-89.46756
 69176-11218,Bonacci 1,Generate Capital,Solar Photovoltaic,SUN,2.5,IL,Champaign,"(V) Under construction, more than 50 percent complete",2027-02,40.083997,-88.16215
 69177-11218,Bonacci 2,Generate Capital,Solar Photovoltaic,SUN,2.5,IL,Champaign,"(V) Under construction, more than 50 percent complete",2027-02,40.083997,-88.16215
 935-8,Bushnell,City of Bushnell - (IL),Petroleum Liquids,DFO,2.5,IL,McDonough,"(U) Under construction, less than or equal to 50 percent complete",2027-06,40.548586,-90.51381
 68144-CH305,Northlake 5-SLCHI305,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,2.5,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-06,41.929004,-87.91716
-68571-7481,"Lowe's - 1440 - Rockford, IL RDC (POI 1)","South Springfield Avenue Solar Project 2022, LLC",Solar Photovoltaic,SUN,2.3,IL,Winnebago,"(V) Under construction, more than 50 percent complete",2026-11,42.239075,-89.13187
-68572-7824,"Lowe's - 1440 - Rockford, IL RDC (POI 2)","South Springfield Avenue II Solar Project 2022, LLC",Solar Photovoltaic,SUN,2.3,IL,Winnebago,"(V) Under construction, more than 50 percent complete",2026-11,42.239075,-89.13187
 70555-ZIONP,Cenergy IL - Zion Park District,Standard Solar,Solar Photovoltaic,SUN,2.3,IL,Lake,"(TS) Construction complete, but not yet in commercial operation",2026-11,42.4645,-87.8476
+68571-7481,"Lowe's - 1440 - Rockford, IL RDC (POI 1)","South Springfield Avenue Solar Project 2022, LLC",Solar Photovoltaic,SUN,2.3,IL,Winnebago,"(V) Under construction, more than 50 percent complete",2026-12,42.239075,-89.13187
+68572-7824,"Lowe's - 1440 - Rockford, IL RDC (POI 2)","South Springfield Avenue II Solar Project 2022, LLC",Solar Photovoltaic,SUN,2.3,IL,Winnebago,"(V) Under construction, more than 50 percent complete",2026-12,42.239075,-89.13187
 69818-NCREK,SV CSG North Creek 1,"SV CSG North Creek 1, LLC",Solar Photovoltaic,SUN,2.1,IL,Livingston,(T) Regulatory approvals received. Not under construction,2027-10,40.916213,-88.60821
-70574-14237,Sandoval 2,Nautilus Solar Solutions,Solar Photovoltaic,SUN,2,IL,Clinton,(L) Regulatory approvals pending. Not under construction,2026-09,38.589399,-89.14667
-68139-CH102,McCook 2-SLCHI102,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,2,IL,Cook,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.803083,-87.81935
-70182-PV1,Steger,Steger Road Solar 1 LLC,Solar Photovoltaic,SUN,2,IL,Cook,"(V) Under construction, more than 50 percent complete",2026-10,41.4701,-87.5793
-70393-S1,Stephenson County IL S1,"SolAmerica Energy / Stephenson County IL S1, LLC",Solar Photovoltaic,SUN,2,IL,Stephenson,"(V) Under construction, more than 50 percent complete",2026-10,42.304234,-89.58015
-70448-22258,Keithsburg North Solar LLC PV,"Keithsburg North Solar, LLC PV",Solar Photovoltaic,SUN,2,IL,Mercer,"(U) Under construction, less than or equal to 50 percent complete",2026-10,41.120819,-90.94078
-68933-CORB,SV CSG Corbell,"SV CSG Corbell, LLC",Solar Photovoltaic,SUN,2,IL,Williamson,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.758343,-89.05748
+68139-CH102,McCook 2-SLCHI102,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,2,IL,Cook,"(TS) Construction complete, but not yet in commercial operation",2026-11,41.803083,-87.81935
+68933-CORB,SV CSG Corbell,"SV CSG Corbell, LLC",Solar Photovoltaic,SUN,2,IL,Williamson,"(TS) Construction complete, but not yet in commercial operation",2026-12,37.758343,-89.05748
 69885-USMOU,USS Mourning,USS Mourning Lane,Solar Photovoltaic,SUN,2,IL,Schuyler,"(U) Under construction, less than or equal to 50 percent complete",2026-12,40.160741,-90.59832
 70350-RT40,IL - Forefront Ameren- Route 40,"IL Solar Route 40 Project2, LLC",Solar Photovoltaic,SUN,2,IL,Peoria,"(V) Under construction, more than 50 percent complete",2026-12,40.923873,-89.63042
 70353-TRU1,IL-Forefront Ameren-Truitt 1,"IL Solar Truitt Project1, LLC",Solar Photovoltaic,SUN,2,IL,Peoria,"(V) Under construction, more than 50 percent complete",2026-12,40.929207,-89.64177
 70354-TRU2,IL-Forefront Ameren-Truitt 2,"IL Solar Truitt Project2, LLC",Solar Photovoltaic,SUN,2,IL,Peoria,"(V) Under construction, more than 50 percent complete",2026-12,40.929207,-89.64177
 70198-FLOR2,"CF IL Solar Marigold Lane, Flora2 LLC",Pivot Energy,Solar Photovoltaic,SUN,2,IL,Clay,"(V) Under construction, more than 50 percent complete",2027-01,38.632489,-88.43829
 69215-11216,Sommer,Generate Capital,Solar Photovoltaic,SUN,2,IL,Massac,"(U) Under construction, less than or equal to 50 percent complete",2027-08,37.205915,-88.8179
-68122-CH526,Bensenville 2-SLCHI526,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.9,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.971289,-87.95462
-68119-CH307,Aurora 7-SLCHI307,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.9,IL,Kane,"(U) Under construction, less than or equal to 50 percent complete",2027-04,41.79698,-88.26809
+68122-CH526,Bensenville 2-SLCHI526,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.9,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2026-12,41.971289,-87.95462
+68119-CH307,Aurora 7-SLCHI307,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.9,IL,Kane,"(U) Under construction, less than or equal to 50 percent complete",2027-07,41.79698,-88.26809
 68129-CH603,Cicero 3-SLCHI603,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.9,IL,Cook,"(U) Under construction, less than or equal to 50 percent complete",2027-07,41.86464,-87.75757
 68138-CH321,Internationale Ctr 11-SLCHI321,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.8,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2027-06,41.70053,-88.02744
-68132-CH701,Elk Grove 1-SLCHI701,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.7,IL,Cook,"(V) Under construction, more than 50 percent complete",2026-11,42.010416,-87.958
-68127-CH424,Bensenville Ind Park 4-SLCHI424,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.7,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-01,41.983893,-87.95172
-68118-CH404,Addison 11-SLCHI404,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.6,IL,DuPage,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.930327,-88.04848
-68130-CH211,Des Plaines 11-SLCHI211,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.6,IL,Cook,"(TS) Construction complete, but not yet in commercial operation",2026-10,42.015,-87.915
-68141-CH302,Northlake 2-SLCHI302,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.6,IL,Cook,"(U) Under construction, less than or equal to 50 percent complete",2027-01,41.9118,-87.9081
-70445-PV1,W 167th St,"555 W 167th St Solar, LLC",Solar Photovoltaic,SUN,1.5,IL,Cook,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.59009,-87.63044
-69813-ARGEN,Argenta Solar,"Argenta Solar, LLC",Solar Photovoltaic,SUN,1.5,IL,Macon,"(V) Under construction, more than 50 percent complete",2026-11,39.989915,-88.81196
+68132-CH701,Elk Grove 1-SLCHI701,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.7,IL,Cook,"(TS) Construction complete, but not yet in commercial operation",2026-11,42.010416,-87.958
+68127-CH424,Bensenville Ind Park 4-SLCHI424,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.7,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-03,41.983893,-87.95172
+68141-CH302,Northlake 2-SLCHI302,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.6,IL,Cook,"(U) Under construction, less than or equal to 50 percent complete",2027-02,41.9118,-87.9081
+69813-ARGEN,Argenta Solar,"Argenta Solar, LLC",Solar Photovoltaic,SUN,1.5,IL,Macon,"(TS) Construction complete, but not yet in commercial operation",2026-11,39.989915,-88.81196
 69805-RFRD7,Rockford Plant 7,ENGIE Distributed Renewables Development LLC,Solar Photovoltaic,SUN,1.5,IL,Winnebago,"(U) Under construction, less than or equal to 50 percent complete",2027-03,42.232527,-89.02408
 69862-GALF,Galva School,Navisun LLC,Solar Photovoltaic,SUN,1.5,IL,Henry,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,41.179241,-90.04677
-68120-CH513,Bensenville 13-SLCHI513,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.4,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2026-10,41.987884,-87.95258
-70099-IL007,Pivot Energy IL 7 LLC,Pivot Energy,Solar Photovoltaic,SUN,1.4,IL,Logan,"(V) Under construction, more than 50 percent complete",2026-10,40.268856,-89.23746
-70456-PV1,W Belmont Ave,"9100 W Belmont Ave, LLC",Solar Photovoltaic,SUN,1.4,IL,Cook,"(V) Under construction, more than 50 percent complete",2026-10,41.9378,-87.85318
+70099-IL007,Pivot Energy IL 7 LLC,Pivot Energy,Solar Photovoltaic,SUN,1.4,IL,Logan,"(V) Under construction, more than 50 percent complete",2026-11,40.268856,-89.23746
+68120-CH513,Bensenville 13-SLCHI513,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.4,IL,DuPage,"(V) Under construction, more than 50 percent complete",2026-12,41.987884,-87.95258
 68143-CH304,Northlake 4-SLCHI304,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.4,IL,Cook,"(U) Under construction, less than or equal to 50 percent complete",2027-03,41.92302,-87.91646
 68133-CH151,Elk Grove 51-SLCHI151,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.4,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2027-07,42.00096,-87.95782
 68121-CH414,Bensenville 14-SLCHI414,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.3,IL,DuPage,"(V) Under construction, more than 50 percent complete",2027-04,41.982829,-87.94589
-68137-CH910,Glendale Heights 10-SLCHI910,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.3,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2027-04,41.929422,-88.07008
+68137-CH910,Glendale Heights 10-SLCHI910,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.3,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2027-07,41.929422,-88.07008
 69860-MURP2,Murphysboro 2,Navisun LLC,Solar Photovoltaic,SUN,1.3,IL,Jackson,(T) Regulatory approvals received. Not under construction,2027-10,37.794585,-89.35141
-68124-CH411,Bensenville Ind Park 11,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.2,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2026-12,41.986194,-87.94525
-68135-CH802,Franklin Park 2-SLCHI802,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.2,IL,Cook,"(V) Under construction, more than 50 percent complete",2026-12,41.946509,-87.85944
+68135-CH802,Franklin Park 2-SLCHI802,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.2,IL,Cook,"(TS) Construction complete, but not yet in commercial operation",2026-12,41.946509,-87.85944
 68123-CH410,Bensenville Ind Park 10-SLCHI410,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.2,IL,DuPage,"(V) Under construction, more than 50 percent complete",2027-01,41.984507,-87.94587
+68124-CH411,Bensenville Ind Park 11,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.2,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2027-02,41.986194,-87.94525
 68126-CH402,Bensenville Ind Park 2-SLCHI402,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.1,IL,DuPage,"(U) Under construction, less than or equal to 50 percent complete",2027-01,41.983957,-87.95383
-69616-USLYN,USS Lyndon Solar LLC,United States Solar Corporation,Solar Photovoltaic,SUN,1,IL,Whiteside,"(V) Under construction, more than 50 percent complete",2026-10,41.659472,-89.92079
-69886-USSWA,USS Swank Solar,USS Swank Solar LLC,Solar Photovoltaic,SUN,1,IL,Henry,"(V) Under construction, more than 50 percent complete",2026-10,41.1615,-90.0285
+69886-USSWA,USS Swank Solar,USS Swank Solar LLC,Solar Photovoltaic,SUN,1,IL,Henry,"(V) Under construction, more than 50 percent complete",2026-11,41.1615,-90.0285
 69812-BROWN,SV CSG Brownstown 1,"SV CSG Brownstown 1, LLC",Solar Photovoltaic,SUN,1,IL,Fayette,"(V) Under construction, more than 50 percent complete",2027-02,38.971573,-89.01849
-69724-PIKE,Pike County Solar,Illinois Rural Electric Coop,Solar Photovoltaic,SUN,1,IL,Pike,(T) Regulatory approvals received. Not under construction,2027-04,39.6189,-90.8461
+69724-PIKE,Pike County Solar,Illinois Rural Electric Coop,Solar Photovoltaic,SUN,1,IL,Pike,(T) Regulatory approvals received. Not under construction,2027-05,39.6189,-90.8461
 69699-DI-1,Dresden Island Hydroelectric Project,"Northern Illinois Hydropower, LLC",Conventional Hydroelectric,WAT,1,IL,Grundy,(L) Regulatory approvals pending. Not under construction,2030-12,41.401926,-88.28172
 69699-DI-10,Dresden Island Hydroelectric Project,"Northern Illinois Hydropower, LLC",Conventional Hydroelectric,WAT,1,IL,Grundy,(L) Regulatory approvals pending. Not under construction,2030-12,41.401926,-88.28172
 69699-DI-2,Dresden Island Hydroelectric Project,"Northern Illinois Hydropower, LLC",Conventional Hydroelectric,WAT,1,IL,Grundy,(L) Regulatory approvals pending. Not under construction,2030-12,41.401926,-88.28172

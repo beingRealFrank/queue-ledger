@@ -1,6 +1,6 @@
 queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
 68068-CP1G2,Cape Generating Station,Cape HoldCo LLC,Geothermal,GEO,43,UT,Beaver,"(TS) Construction complete, but not yet in commercial operation",2027-01,38.506706,-112.9175
-68068-CP1G3,Cape Generating Station,Cape HoldCo LLC,Geothermal,GEO,43,UT,Beaver,"(V) Under construction, more than 50 percent complete",2027-01,38.506706,-112.9175
+68068-CP1G3,Cape Generating Station,Cape HoldCo LLC,Geothermal,GEO,43,UT,Beaver,"(TS) Construction complete, but not yet in commercial operation",2027-01,38.506706,-112.9175
 66618-FL5,Fish Lake Geothermal,Fish Lake Geothermal LLC,Geothermal,GEO,9,NV,Esmeralda,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.860925,-118.0341
 66618-FL4,Fish Lake Geothermal,Fish Lake Geothermal LLC,Geothermal,GEO,6.2,NV,Esmeralda,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.860925,-118.0341
 66618-FL3,Fish Lake Geothermal,Fish Lake Geothermal LLC,Geothermal,GEO,4.7,NV,Esmeralda,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.860925,-118.0341

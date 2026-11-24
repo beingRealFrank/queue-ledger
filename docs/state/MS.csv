@@ -5,7 +5,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 67914-1C,Delta Blues Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,341.7,MS,Washington,(L) Regulatory approvals pending. Not under construction,2028-05,33.330476,-91.13058
 69223-ST1,Vicksburg Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,341.7,MS,Warren,"(U) Under construction, less than or equal to 50 percent complete",2028-08,32.28526,-90.92568
 70187-ST1,Traceview Advanced Power Station,Entergy Mississippi LLC,Natural Gas Fired Combined Cycle,NG,341.7,MS,Madison,"(U) Under construction, less than or equal to 50 percent complete",2028-08,32.405646,-90.22114
-68515-GREER,Greer Solar Plant,"Greer Solar, LLC",Solar Photovoltaic,SUN,200,MS,Washington,"(U) Under construction, less than or equal to 50 percent complete",2026-12,33.115544,-90.83077
+68515-GREER,Greer Solar Plant,"Greer Solar, LLC",Solar Photovoltaic,SUN,200,MS,Washington,"(TS) Construction complete, but not yet in commercial operation",2026-12,33.115544,-90.83077
 68029-PSP,Penton Solar Plant,Entergy Mississippi LLC,Solar Photovoltaic,SUN,190,MS,DeSoto,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,34.861567,-90.263
 68559-MAGNA,SR Magnolia,"SR Magnolia, LLC",Solar Photovoltaic,SUN,160,MS,Monroe,"(V) Under construction, more than 50 percent complete",2027-06,33.856467,-88.67488
 69638-11767,Landshark Energy Generation Facility,Landshark Energy Generation Facility LLC,Solar Photovoltaic,SUN,160,MS,Calhoun,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,33.898797,-89.14577
@@ -30,7 +30,6 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 62425-NA2,Sardis Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,7.5,MS,Panola,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,34.399125,-89.77246
 62430-NA1,Grenada Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,5,MS,Grenada,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,33.808842,-89.77246
 62430-NA2,Grenada Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,5,MS,Grenada,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,33.808842,-89.77246
-67134-MARSH,"SR Marshall, LLC","SR Marshall, LLC",Solar Photovoltaic,SUN,4.8,MS,Marshall,"(TS) Construction complete, but not yet in commercial operation",2026-12,34.959526,-89.58856
 62402-NA1,Arkabutla Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,MS,DeSoto,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,34.757926,-90.12569
 62402-NA2,Arkabutla Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,MS,DeSoto,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,34.757926,-90.12569
 62432-NA1,Enid Lake Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,MS,Panola,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,34.158065,-89.90553

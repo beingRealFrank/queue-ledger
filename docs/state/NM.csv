@@ -2,10 +2,9 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68579-AC2S,AC Ranch II,Lydian Energy,Solar Photovoltaic,SUN,230,NM,Lea,(L) Regulatory approvals pending. Not under construction,2029-06,32.732263,-103.2748
 63028-GEN1,Tip Top Solar Energy Center LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,220,NM,Lea,"(V) Under construction, more than 50 percent complete",2026-12,32.133136,-103.3235
 70297-BWTS,Blackwater Solar Center - NM,"Blackwater Solar Center, LLC",Solar Photovoltaic,SUN,200,NM,Roosevelt,(T) Regulatory approvals received. Not under construction,2027-12,34.292324,-103.1657
-70259-CHCS2,Cunningham Solar II,Southwestern Public Service Co,Solar Photovoltaic,SUN,196,NM,Lea,(T) Regulatory approvals received. Not under construction,2027-04,32.786412,-103.3507
+70259-CHCS2,Cunningham Solar II,Southwestern Public Service Co,Solar Photovoltaic,SUN,196,NM,Lea,"(U) Under construction, less than or equal to 50 percent complete",2027-04,32.786412,-103.3507
 59047-GEN 1,"Gallegos Wind Farm, Phase 1",Gallegos Wind Farm LLC,Onshore Wind Turbine,WND,190,NM,Union,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,36.580281,-103.849
 69967-FTS,"Foxtail Flats Solar, LLC","Foxtail Flats Solar, LLC",Solar Photovoltaic,SUN,170,NM,San Juan,"(U) Under construction, less than or equal to 50 percent complete",2027-05,36.8685,-108.277
-68866-SAN,Santa Teresa Solar,Santa Teresa Solar,Batteries,MWH,150,NM,Dona Ana,"(TS) Construction complete, but not yet in commercial operation",2026-10,31.805525,-106.6989
 69974-CRZN1,Corazon Energy Storage,"Corazon Energy Storage, LLC",Batteries,MWH,150,NM,Bernalillo,"(U) Under construction, less than or equal to 50 percent complete",2027-09,35.003482,-106.742
 69497-SLB,Star Light Energy Center,Star Light Energy Center,Batteries,MWH,100,NM,Valencia,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.739572,-106.7928
 69497-SLS,Star Light Energy Center,Star Light Energy Center,Solar Photovoltaic,SUN,100,NM,Valencia,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.739572,-106.7928
@@ -50,4 +49,4 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69889-USGOL,USS Gold Solar,USS Gold Solar LLC,Solar Photovoltaic,SUN,4.3,NM,Luna,"(U) Under construction, less than or equal to 50 percent complete",2026-12,32.26144,-107.7778
 69881-USHER,USS Hermanas Solar,USS Hermanas Solar LLC,Solar Photovoltaic,SUN,3.3,NM,Luna,"(U) Under construction, less than or equal to 50 percent complete",2026-12,32.210444,-107.8114
 69884-USMED,USS Meadow Lake Solar,USS Meadow Lake Solar LLC,Solar Photovoltaic,SUN,3,NM,Valencia,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.79756,-106.6542
-69888-USFLE,USS Fletcher Solar,USS Fletcher Solar LLC,Solar Photovoltaic,SUN,1.7,NM,Hidalgo,"(U) Under construction, less than or equal to 50 percent complete",2026-10,32.366814,-108.6934
+69888-USFLE,USS Fletcher Solar,USS Fletcher Solar LLC,Solar Photovoltaic,SUN,1.7,NM,Hidalgo,"(U) Under construction, less than or equal to 50 percent complete",2026-11,32.366814,-108.6934

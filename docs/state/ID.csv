@@ -1,6 +1,6 @@
 queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
-69553-BCS,Blacks Creek Solar,"Blacks Creek Energy Center, LLC",Solar Photovoltaic,SUN,400,ID,Ada,"(U) Under construction, less than or equal to 50 percent complete",2027-06,43.499,-116.1918
+69553-BCS,Blacks Creek Solar,"Blacks Creek Energy Center, LLC",Solar Photovoltaic,SUN,400,ID,Ada,"(V) Under construction, more than 50 percent complete",2027-06,43.499,-116.1918
 66651-C2-92,Arco Wind and Solar Project,PacifiCorp,Onshore Wind Turbine,WND,206,ID,Bonneville,(T) Regulatory approvals received. Not under construction,2028-12,43.557,-112.4415
 66651-37565,Arco Wind and Solar Project,PacifiCorp,Onshore Wind Turbine,WND,153,ID,Bonneville,(T) Regulatory approvals received. Not under construction,2027-12,43.557,-112.4415
-69059-COBA,Crimson Orchard Solar and BESS,Clenera DevCo LLC,Batteries,MWH,100,ID,Elmore,(L) Regulatory approvals pending. Not under construction,2027-04,43.181239,-115.7465
-69059-COPV,Crimson Orchard Solar and BESS,Clenera DevCo LLC,Solar Photovoltaic,SUN,100,ID,Elmore,(L) Regulatory approvals pending. Not under construction,2027-04,43.181239,-115.7465
+69059-COBA,Crimson Orchard Solar and BESS,Clenera DevCo LLC,Batteries,MWH,100,ID,Elmore,"(U) Under construction, less than or equal to 50 percent complete",2027-04,43.181239,-115.7465
+69059-COPV,Crimson Orchard Solar and BESS,Clenera DevCo LLC,Solar Photovoltaic,SUN,100,ID,Elmore,"(U) Under construction, less than or equal to 50 percent complete",2027-04,43.181239,-115.7465

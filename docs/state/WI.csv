@@ -2,7 +2,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 67551-VISTA,Vista Sands Solar,Vista Sands Solar LLC,Solar Photovoltaic,SUN,1182,WI,Portage,(L) Regulatory approvals pending. Not under construction,2028-12,44.446256,-89.57631
 69479-KSHKS,Koshkonong Solar Energy Center LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,300,WI,Dane,"(V) Under construction, more than 50 percent complete",2026-12,42.976875,-89.07209
 69480-HGHNN,High Noon Solar Energy LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,300,WI,Columbia,"(U) Under construction, less than or equal to 50 percent complete",2027-09,43.35326,-89.34738
-69887-PRTGS,"Portage Solar, LLC",Geronimo Power,Solar Photovoltaic,SUN,250,WI,Portage,"(U) Under construction, less than or equal to 50 percent complete",2027-07,44.456358,-89.54401
+70913-ECS,Elk Creek Solar,Northern States Power Co - Minnesota,Solar Photovoltaic,SUN,300,WI,Dunn,(L) Regulatory approvals pending. Not under construction,2028-12,44.830028,-91.74842
+69887-PRTGS,"Portage Solar, LLC",Geronimo Power,Solar Photovoltaic,SUN,250,WI,Portage,"(V) Under construction, more than 50 percent complete",2027-05,44.456358,-89.54401
 70453-CT4,Red Oak Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,242,WI,Kenosha,(L) Regulatory approvals pending. Not under construction,2029-12,42.631839,-87.96625
 70453-CT5,Red Oak Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,242,WI,Kenosha,(L) Regulatory approvals pending. Not under construction,2029-12,42.631839,-87.96625
 70453-RDOR1,Red Oak Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,242,WI,Kenosha,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,42.631839,-87.96625
@@ -17,21 +18,24 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 65964-URSA,"Ursa Solar, LLC","Samsung C&T Renewables, LLC",Solar Photovoltaic,SUN,200,WI,Columbia,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,43.504285,-89.11314
 69761-DBBES,Dawn Break Solar,"Dawn Break Solar, LLC",Batteries,MWH,180,WI,Waushara,(L) Regulatory approvals pending. Not under construction,2029-09,44.140833,-89.46472
 69761-DBSOL,Dawn Break Solar,"Dawn Break Solar, LLC",Solar Photovoltaic,SUN,180,WI,Waushara,(L) Regulatory approvals pending. Not under construction,2029-09,44.140833,-89.46472
-68900-BSS,Badger State Solar LLC,Badger State Solar LLC,Solar Photovoltaic,SUN,149,WI,Jefferson,"(V) Under construction, more than 50 percent complete",2027-10,43.012287,-88.86356
+70912-DHSOL,Dawn Harvest Solar Energy Center LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,150,WI,Rock,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,42.671801,-88.947
+68900-BSS,Badger State Solar LLC,Badger State Solar LLC,Solar Photovoltaic,SUN,149,WI,Jefferson,"(TS) Construction complete, but not yet in commercial operation",2026-12,43.012287,-88.86356
 70360-FNDRD,Foundry Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,108,WI,Walworth,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,42.583072,-88.72461
 70360-FNRD2,Foundry Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,108,WI,Walworth,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,42.583072,-88.72461
 70360-FNRD3,Foundry Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,108,WI,Walworth,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,42.583072,-88.72461
 66958-NOPR1,Northern Prairie 1,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,101,WI,St Croix,(T) Regulatory approvals received. Not under construction,2028-12,45.131813,-92.31686
 69608-SNSPI,Sinnissippi Solar Energy LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,100,WI,Jefferson,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,43.12592,-88.67098
 4050-BESS1,Edgewater,Wisconsin Power & Light Co,Batteries,MWH,99,WI,Sheboygan,"(U) Under construction, less than or equal to 50 percent complete",2027-04,43.715142,-87.70586
+70913-ECB,Elk Creek Solar,Northern States Power Co - Minnesota,Batteries,MWH,75,WI,Dunn,(L) Regulatory approvals pending. Not under construction,2028-12,44.830028,-91.74842
 67379-1,Whitetail Wind Farm,Invenergy Services LLC,Onshore Wind Turbine,WND,67.2,WI,Grant,(T) Regulatory approvals received. Not under construction,2027-12,42.951448,-90.4407
+70912-DHSTO,Dawn Harvest Solar Energy Center LLC,Invenergy Services LLC,Batteries,MWH,50,WI,Rock,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,42.671801,-88.947
 68054-SNSB,Sunnyside Solar Energy Center,Madison Gas & Electric Co,Batteries,MWH,40,WI,Dane,"(V) Under construction, more than 50 percent complete",2026-11,42.985244,-89.43607
 68054-SNSS,Sunnyside Solar Energy Center,Madison Gas & Electric Co,Solar Photovoltaic,SUN,20,WI,Dane,"(V) Under construction, more than 50 percent complete",2026-11,42.985244,-89.43607
 70466-NSP,Nine Springs Solar,Madison Gas & Electric Co,Solar Photovoltaic,SUN,8,WI,Dane,"(U) Under construction, less than or equal to 50 percent complete",2027-06,43.029352,-89.36307
 70467-PHS,Pine Hill Solar,Madison Gas & Electric Co,Solar Photovoltaic,SUN,6,WI,Dane,"(U) Under construction, less than or equal to 50 percent complete",2026-11,43.06999,-89.6452
 70468-20265,"Big Rapids Solar WI, LLC","OneEnergy, Inc.",Solar Photovoltaic,SUN,6,WI,Marathon,(L) Regulatory approvals pending. Not under construction,2026-12,44.815532,-90.07455
 70469-20261,"Campbellsport Solar WI, LLC","OneEnergy, Inc.",Solar Photovoltaic,SUN,6,WI,Fond Du Lac,(L) Regulatory approvals pending. Not under construction,2026-12,43.583212,-88.27886
-70470-20262,"Honey Creek Solar WI, LLC",Wisconsin Electric Power Co,Solar Photovoltaic,SUN,6,WI,Walworth,(L) Regulatory approvals pending. Not under construction,2026-12,42.790988,-88.50094
+70470-20262,"Honey Creek Solar WI, LLC",Wisconsin Electric Power Co,Solar Photovoltaic,SUN,6,WI,Walworth,"(TS) Construction complete, but not yet in commercial operation",2026-12,42.790988,-88.50094
 70471-20263,"Germantown - Rockfield Rd Solar WI, LLC","OneEnergy, Inc.",Solar Photovoltaic,SUN,6,WI,Washington,(L) Regulatory approvals pending. Not under construction,2026-12,43.257821,-88.1316
 70472-20268,"Lime Kiln Solar, LLC","OneEnergy, Inc.",Solar Photovoltaic,SUN,6,WI,Washington,(L) Regulatory approvals pending. Not under construction,2026-12,43.277345,-88.0684
 70473-20267,"Little Rose Solar WI, LLC","OneEnergy, Inc.",Solar Photovoltaic,SUN,6,WI,Marathon,(L) Regulatory approvals pending. Not under construction,2026-12,44.800623,-90.1303
@@ -40,7 +44,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69931-BJORN,Bjorn,"OneEnergy, Inc.",Solar Photovoltaic,SUN,5,WI,Barron,"(V) Under construction, more than 50 percent complete",2026-10,45.395931,-91.881
 70474-20266,"Lyndon Solar WI, LLC","OneEnergy, Inc.",Solar Photovoltaic,SUN,5,WI,Sheboygan,(L) Regulatory approvals pending. Not under construction,2026-12,43.662209,-87.95873
 70475-20264,"Maple Creek Solar WI, LLC","OneEnergy, Inc.",Solar Photovoltaic,SUN,5,WI,Outagamie,(L) Regulatory approvals pending. Not under construction,2026-12,44.436056,-88.73581
-70048-AIREX,City of Milwaukee- Airport Expansion,WEC: City of Milwaukee - Airport Expansion,Solar Photovoltaic,SUN,4.6,WI,Milwaukee,"(V) Under construction, more than 50 percent complete",2026-11,42.930271,-87.88801
+70048-AIREX,City of Milwaukee- Airport Expansion,WEC: City of Milwaukee - Airport Expansion,Solar Photovoltaic,SUN,4.6,WI,Milwaukee,"(TS) Construction complete, but not yet in commercial operation",2026-11,42.930271,-87.88801
 69932-CSTLO,Castle Rock Lake Solar,"OneEnergy, Inc.",Solar Photovoltaic,SUN,4.5,WI,Juneau,"(V) Under construction, more than 50 percent complete",2026-10,43.972048,-90.06761
 69935-GILMN,Gilman,"OneEnergy, Inc.",Solar Photovoltaic,SUN,3.8,WI,Chippewa,"(V) Under construction, more than 50 percent complete",2026-11,45.119204,-90.87405
 69937-MNDVI,Mondovi,"OneEnergy, Inc.",Solar Photovoltaic,SUN,3,WI,Buffalo,"(V) Under construction, more than 50 percent complete",2026-10,44.569282,-91.70856

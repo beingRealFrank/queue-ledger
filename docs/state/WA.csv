@@ -5,7 +5,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68344-LOSN2,Lower Snake Solar Generation BESS,"LOSN, LLC",Batteries,MWH,300,WA,Garfield,(L) Regulatory approvals pending. Not under construction,2029-10,46.502392,-117.8263
 70419-RSBA,Royal Slope,Royal Slope Solar LLC,Batteries,MWH,260,WA,Grant,(T) Regulatory approvals received. Not under construction,2027-10,46.883147,-119.9207
 70419-RSPV,Royal Slope,Royal Slope Solar LLC,Solar Photovoltaic,SUN,260,WA,Grant,(T) Regulatory approvals received. Not under construction,2027-10,46.883147,-119.9207
-68341-GREE,Greenwater BESS,"GREE bn, LLC",Batteries,MWH,200,WA,Pierce,"(V) Under construction, more than 50 percent complete",2026-12,47.236485,-122.2271
+68341-GREE,Greenwater BESS,"GREE bn, LLC",Batteries,MWH,200,WA,Pierce,"(V) Under construction, more than 50 percent complete",2027-03,47.236485,-122.2271
 68282-CENT,Centralia Battery Energy Storage System,"CENT bn, LLC",Batteries,MWH,200,WA,Thurston,(L) Regulatory approvals pending. Not under construction,2028-12,46.779823,-122.8848
 68342-HOHI,Hop Hill Solar Generation and BESS,"HOHI bn, LLC",Onshore Wind Turbine,WND,200,WA,Benton,(L) Regulatory approvals pending. Not under construction,2031-09,46.324,-119.822
 68366-AGAT,AGATE BESS,BrightNight Power,Batteries,MWH,170,WA,Kitsap,(L) Regulatory approvals pending. Not under construction,2029-02,47.76879,-122.6078
@@ -15,4 +15,4 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 62263-GEN1,Saddle Mountain East Wind Farm,EDP Renewables North America LLC,Onshore Wind Turbine,WND,126,WA,Adams,"(P) Planned for installation, but regulatory approvals not initiated",2029-10,46.789,-119.346
 65325-98936,High Top Solar,Cypress Creek Renewables,Solar Photovoltaic,SUN,80,WA,Yakima,(T) Regulatory approvals received. Not under construction,2029-01,46.522974,-119.9586
 69099-HEWA1,Orion - Helion,"Helion Energy, Inc.",All Other,H2,50,WA,Chelan,(L) Regulatory approvals pending. Not under construction,2028-12,47.3368,-120.1043
-67669-ABESS,Arlington Battery Energy Storage System,PUD No 1 of Snohomish County - (WA),Batteries,MWH,25,WA,Snohomish,"(V) Under construction, more than 50 percent complete",2026-10,48.15617,-122.1437
+67669-ABESS,Arlington Battery Energy Storage System,PUD No 1 of Snohomish County - (WA),Batteries,MWH,25,WA,Snohomish,"(TS) Construction complete, but not yet in commercial operation",2026-12,48.15617,-122.1437

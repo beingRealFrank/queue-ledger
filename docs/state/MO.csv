@@ -14,7 +14,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68036-VCHSB,Vichy Solar,Vesper Energy Development LLC,Batteries,MWH,200,MO,Maries,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,38.167934,-91.82552
 68036-VCHSR,Vichy Solar,Vesper Energy Development LLC,Solar Photovoltaic,SUN,200,MO,Maries,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,38.167934,-91.82552
 69481-FXTRT,Foxtrot Solar Energy LLC,Evergy Missouri West,Solar Photovoltaic,SUN,108.9,MO,Jasper,"(V) Under construction, more than 50 percent complete",2027-03,37.352,-94.606
-68926-BLUEJ,"Blue Jay Road Solar, LLC",Birch Creek Development,Solar Photovoltaic,SUN,66,MO,Ralls,"(U) Under construction, less than or equal to 50 percent complete",2026-11,39.380782,-91.53206
+68926-BLUEJ,"Blue Jay Road Solar, LLC",Birch Creek Development,Solar Photovoltaic,SUN,66,MO,Ralls,"(U) Under construction, less than or equal to 50 percent complete",2027-01,39.380782,-91.53206
 70485-GT01,White Cloud Generating,"White Cloud Generating, LLC",Natural Gas Fired Combustion Turbine,NG,50.2,MO,Nodaway,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,40.228497,-94.85165
 70485-GT02,White Cloud Generating,"White Cloud Generating, LLC",Natural Gas Fired Combustion Turbine,NG,50.2,MO,Nodaway,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,40.228497,-94.85165
 70485-GT03,White Cloud Generating,"White Cloud Generating, LLC",Natural Gas Fired Combustion Turbine,NG,50.2,MO,Nodaway,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,40.228497,-94.85165
@@ -38,6 +38,5 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69890-UNIT1,Marshall Energy Center,Missouri Jnt Muni.Pwr Elec. Ut. Comm.,Natural Gas Fired Combustion Turbine,NG,23.1,MO,Saline,"(V) Under construction, more than 50 percent complete",2026-12,39.12358,-93.20592
 69890-UNIT2,Marshall Energy Center,Missouri Jnt Muni.Pwr Elec. Ut. Comm.,Natural Gas Fired Combustion Turbine,NG,23.1,MO,Saline,"(V) Under construction, more than 50 percent complete",2026-12,39.12358,-93.20592
 69868-UNIT1,Fulton Energy Center,Missouri Jnt Muni.Pwr Elec. Ut. Comm.,Natural Gas Fired Combustion Turbine,NG,16.5,MO,Callaway,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,38.8676,-91.94778
-50969-GEN10,MU Combined Heat and Power Plant,Curators of the University of Missouri,Natural Gas Steam Turbine,NG,9,MO,Boone,"(V) Under construction, more than 50 percent complete",2026-11,38.9461,-92.3328
-70465-NFREC,New Florence Renewable Energy Center,Union Electric Co - (MO),Solar Photovoltaic,SUN,7,MO,Montgomery,"(P) Planned for installation, but regulatory approvals not initiated",2026-11,38.8908,-91.4186
-70464-BAT1,Blackman Battery Energy Storage System,City Utilities of Springfield - (MO),Batteries,MWH,5,MO,Greene,(T) Regulatory approvals received. Not under construction,2026-11,37.163516,-93.22325
+50969-GEN10,MU Combined Heat and Power Plant,Curators of the University of Missouri,Natural Gas Steam Turbine,NG,9,MO,Boone,"(V) Under construction, more than 50 percent complete",2027-01,38.9461,-92.3328
+70464-BAT1,Blackman Battery Energy Storage System,City Utilities of Springfield - (MO),Batteries,MWH,5,MO,Greene,(T) Regulatory approvals received. Not under construction,2027-06,37.163516,-93.22325

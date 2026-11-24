@@ -47,7 +47,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69704-RC-6,R.C. Byrd L&D Hydroelectric Project,Ohio Power and Light LLC,Conventional Hydroelectric,WAT,4.8,WV,Mason,(L) Regulatory approvals pending. Not under construction,2029-02,38.68,-82.179
 62401-NA1,Allegheny L&D2 Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,4.5,PA,Allegheny,"(P) Planned for installation, but regulatory approvals not initiated",2030-11,40.89444,-79.91361
 62401-NA2,Allegheny L&D2 Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,4.5,PA,Allegheny,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,40.89444,-79.91361
-56615-G200,Rancho Penasquitos,San Diego County Water Auth,Conventional Hydroelectric,WAT,4.3,CA,San Diego,"(U) Under construction, less than or equal to 50 percent complete",2026-10,32.93695,-117.1137
+56615-G200,Rancho Penasquitos,San Diego County Water Auth,Conventional Hydroelectric,WAT,4.3,CA,San Diego,"(U) Under construction, less than or equal to 50 percent complete",2027-06,32.93695,-117.1137
 7907-4,Pine Flat,Kings River Conservation Dist,Conventional Hydroelectric,WAT,3.8,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.8326,-119.327
 2185-HAU9,Hauser,NorthWestern Energy (MT Hydro),Conventional Hydroelectric,WAT,3.5,MT,Lewis and Clark,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,46.765941,-111.8873
 2185-HAU12,Hauser,NorthWestern Energy (MT Hydro),Conventional Hydroelectric,WAT,3.5,MT,Lewis and Clark,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,46.765941,-111.8873
@@ -98,10 +98,10 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69694-AL4-6,Allegheny Lock and Dam 4,"Allegheny Hydro Group Lock and Dam 4, Inc",Conventional Hydroelectric,WAT,0.8,PA,Allegheny,(L) Regulatory approvals pending. Not under construction,2031-02,40.613718,-79.71829
 69694-AL4-7,Allegheny Lock and Dam 4,"Allegheny Hydro Group Lock and Dam 4, Inc",Conventional Hydroelectric,WAT,0.8,PA,Allegheny,(L) Regulatory approvals pending. Not under construction,2031-02,40.613718,-79.71829
 69694-AL4-8,Allegheny Lock and Dam 4,"Allegheny Hydro Group Lock and Dam 4, Inc",Conventional Hydroelectric,WAT,0.8,PA,Allegheny,(L) Regulatory approvals pending. Not under construction,2031-02,40.613718,-79.71829
-62749-1,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
-62749-2,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
-62749-5,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
-62749-6,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
+62749-1,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
+62749-2,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
+62749-5,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
+62749-6,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
 62390-6,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
 62390-NA1,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
 62390-NA2,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
@@ -110,8 +110,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 62748-2,Evelyn Hydroelectric Project,Lock 13 Hydro Partners,Conventional Hydroelectric,WAT,0.6,KY,Lee,(T) Regulatory approvals received. Not under construction,2029-12,37.601982,-83.83297
 62748-5,Evelyn Hydroelectric Project,Lock 13 Hydro Partners,Conventional Hydroelectric,WAT,0.6,KY,Lee,(T) Regulatory approvals received. Not under construction,2029-12,37.601982,-83.83297
 62748-6,Evelyn Hydroelectric Project,Lock 13 Hydro Partners,Conventional Hydroelectric,WAT,0.6,KY,Lee,(T) Regulatory approvals received. Not under construction,2029-12,37.601982,-83.83297
-62749-3,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
-62749-4,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
+62749-3,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
+62749-4,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
 62390-NA3,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
 62390-NA4,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
 62748-3,Evelyn Hydroelectric Project,Lock 13 Hydro Partners,Conventional Hydroelectric,WAT,0.2,KY,Lee,(T) Regulatory approvals received. Not under construction,2029-12,37.601982,-83.83297

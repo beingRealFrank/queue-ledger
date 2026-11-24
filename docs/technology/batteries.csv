@@ -11,11 +11,10 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68353-LSBS1,La Salle ESS,La Salle ESS LLC,Batteries,MWH,500,TX,LaSalle,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,28.094701,-99.05554
 68342-HOHI2,Hop Hill Solar Generation and BESS,"HOHI bn, LLC",Batteries,MWH,500,WA,Benton,(L) Regulatory approvals pending. Not under construction,2031-09,46.324,-119.822
 68317-DUTC2,Dutchman Solar generation and BESS,"DUTC bn, LLC",Batteries,MWH,499,WY,Converse,(L) Regulatory approvals pending. Not under construction,2029-06,42.871644,-105.8176
-69060-SNFBA,Snowflake A Solar and BESS,Clenera DevCo LLC,Batteries,MWH,475,AZ,Navajo,(L) Regulatory approvals pending. Not under construction,2027-08,34.998055,-110.1255
-68759-IPQ1B,Quantum BESS,"Intersect USA, LLC",Batteries,MWH,422.4,TX,Haskell,"(TS) Construction complete, but not yet in commercial operation",2026-11,33.0121,-99.5604
+69060-SNFBA,Snowflake A Solar and BESS,Clenera DevCo LLC,Batteries,MWH,475,AZ,Navajo,"(U) Under construction, less than or equal to 50 percent complete",2027-08,34.998055,-110.1255
+68759-IPQ1B,Quantum BESS,"Intersect USA, LLC",Batteries,MWH,422.4,TX,Haskell,"(TS) Construction complete, but not yet in commercial operation",2026-12,33.0121,-99.5604
 68761-IPQ2B,Quantum II BESS,"Intersect USA, LLC",Batteries,MWH,422.4,TX,Haskell,"(TS) Construction complete, but not yet in commercial operation",2026-12,33.135,-99.5719
-65855-TE1BS,Tehuacana Creek Solar,Parliament Energy Holdings LLC,Batteries,MWH,418,TX,Navarro,"(V) Under construction, more than 50 percent complete",2026-12,31.914062,-96.41347
-68422-CALII,Callisto II Energy Center,Callisto II Energy Center LLC,Batteries,MWH,400,TX,Harris,"(V) Under construction, more than 50 percent complete",2026-11,29.645345,-95.45025
+68422-CALII,Callisto II Energy Center,Callisto II Energy Center LLC,Batteries,MWH,400,TX,Harris,"(V) Under construction, more than 50 percent complete",2026-12,29.645345,-95.45025
 69509-1,Gabriel,San Gabriel Project LLC,Batteries,MWH,400,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-04,34.11,-117.97
 67059-1,Iron Belt,"Iron Belt Energy Storage Project, LLC",Batteries,MWH,400,TX,Borden,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,32.5557,-101.6601
 69508-1,Marici,Marici Project LLC,Batteries,MWH,400,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-06,34.007751,-117.9462
@@ -24,11 +23,11 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68287-EAGL2,Eagle Eye Solar and Storage,"EAGL bn, LLC",Batteries,MWH,400,AZ,La Paz,(L) Regulatory approvals pending. Not under construction,2028-05,33.727,-112.881
 68209-PSGBS,Purple Sage Energy Center,Noble Solar LLC,Batteries,MWH,400,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,36.029139,-115.8062
 68022-CLPBS,Cowboy Solar I,Cowboy Solar I,Batteries,MWH,400,WY,Laramie,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,41.032968,-104.3816
+70905-PBESS,Potentia Viridi BESS,"Levy Alameda, LLC",Batteries,MWH,400,CA,Alameda,"(U) Under construction, less than or equal to 50 percent complete",2028-12,37.7121,-121.5735
 68367-PEHA2,Pepper Hammock Solar and Storage,BrightNight Power,Batteries,MWH,400,GA,Wayne,(L) Regulatory approvals pending. Not under construction,2029-09,31.331,-81.759
 66805-LYCN2,Lycan Solar Project,"EDF Renewables Development, Inc.",Batteries,MWH,400,CA,Riverside,"(P) Planned for installation, but regulatory approvals not initiated",2030-04,33.621326,-115.0959
 69057-CBDBA,CO Bar D Solar and BESS,Clenera DevCo LLC,Batteries,MWH,394,AZ,Coconino,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,35.636594,-111.8835
 63841-BESS,Arida Solar (Hybrid),326FW 8me LLC,Batteries,MWH,370,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,35.092036,-114.6888
-65854-RDYBS,Rowdy Creek Solar and BESS,Parliament Energy Holdings LLC,Batteries,MWH,350,TX,Lamar,(L) Regulatory approvals pending. Not under construction,2027-05,33.75694,-95.6458
 69989-PB2,Arkansas Cypress Solar Station,Entergy Arkansas LLC,Batteries,MWH,350,AR,Jefferson,"(P) Planned for installation, but regulatory approvals not initiated",2029-01,34.42,-92.08
 67776-GRS2B,Cuchillas PV and BESS,Gransolar Texas Two LLC,Batteries,MWH,306.9,TX,Webb,(L) Regulatory approvals pending. Not under construction,2028-12,27.644178,-99.18445
 66391-BESS,Ash Creek BESS,ACTX BESS Project LLC,Batteries,MWH,306,TX,Hill,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,31.900218,-97.01642
@@ -36,10 +35,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69662-IPD2B,Darden II Solar,"IPX Power USA, LLC",Batteries,MWH,303.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.457086,-120.2248
 69663-IPD3B,Darden III Solar,"IPX Power USA, LLC",Batteries,MWH,303.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.499703,-120.1912
 69664-IPD4B,Darden IV Solar,"IPX Power USA, LLC",Batteries,MWH,303.7,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-03,36.464339,-120.1862
-65853-MIDBS,Banita Creek- Spindlepop Solar,Parliament Energy Holdings LLC,Batteries,MWH,302.9,TX,Nacogdoches,(L) Regulatory approvals pending. Not under construction,2027-04,31.5552,-94.7919
-68328-ORCH2,Pioneer Clean Energy Center,"Yuma bn, LLC",Batteries,MWH,300,AZ,Yuma,"(U) Under construction, less than or equal to 50 percent complete",2027-04,32.549081,-114.5974
-70020-1,Pinopolis BESS,Pinopolis BESS LLC,Batteries,MWH,300,SC,Berkeley,(L) Regulatory approvals pending. Not under construction,2027-09,33.246764,-79.98517
-68030-RHLWB,Red Hollow Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,300,TX,Archer,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,33.564936,-98.612
+68328-ORCH2,Pioneer Clean Energy Center,"Yuma bn, LLC",Batteries,MWH,300,AZ,Yuma,"(V) Under construction, more than 50 percent complete",2027-04,32.549081,-114.5974
+70020-1,Pinopolis BESS,Pinopolis BESS LLC,Batteries,MWH,300,SC,Berkeley,"(U) Under construction, less than or equal to 50 percent complete",2027-09,33.246764,-79.98517
 69364-REDEG,Red Egret,"Red Egret, LLC",Batteries,MWH,300,TX,Galveston,"(U) Under construction, less than or equal to 50 percent complete",2027-10,29.4229,-95.0049
 70097-SWB,Sherco BESS,Northern States Power Co - Minnesota,Batteries,MWH,300,MN,Sherburne,"(U) Under construction, less than or equal to 50 percent complete",2027-11,45.372125,-93.89978
 65850-ELIBS,Elio Energy LLC,Elio Energy LLC,Batteries,MWH,300,TX,Brazoria,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,29.247678,-95.68546
@@ -52,6 +49,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 63113-BESS,Southern Bighorn Solar Hybrid,300MS 8me LLC,Batteries,MWH,300,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2028-07,36.304793,-114.4728
 68283-DESA,Desert Sand BESS,"DESA bn, LLC",Batteries,MWH,300,AZ,Maricopa,(L) Regulatory approvals pending. Not under construction,2028-12,33.497049,-113.0514
 70367-OBAES,O'Bannion Energy Storage,"O'Bannion Energy Storage, LLC",Batteries,MWH,300,TX,Jack,(T) Regulatory approvals received. Not under construction,2028-12,33.041,-98.339
+68030-RHLWB,Red Hollow Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,300,TX,Archer,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,33.564936,-98.612
 68298-THSI1,THREE SISTERS Solar Generation and BESS,"THSI bn, LLC",Batteries,MWH,300,AZ,Pinal,(L) Regulatory approvals pending. Not under construction,2029-04,32.053732,-109.823
 68371-REBU2,Red Butte Solar and Storage,BrightNight Power,Batteries,MWH,300,UT,Iron,(L) Regulatory approvals pending. Not under construction,2029-04,37.6134,-113.644
 65703-HEHUM,Humidor Storage I,Hecate Grid Humidor Storage 1 LLC,Batteries,MWH,300,CA,Los Angeles,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,34.29116,-118.7518
@@ -61,10 +59,11 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 66786-ELVMT,Elevate Middletown,"Lighthouse Middletown, LLC",Batteries,MWH,275,CT,Middlesex,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,41.554321,-72.57832
 70419-RSBA,Royal Slope,Royal Slope Solar LLC,Batteries,MWH,260,WA,Grant,(T) Regulatory approvals received. Not under construction,2027-10,46.883147,-119.9207
 66411-RMSY,Hecate Grid East Valley Storage,"Hecate Grid East Valley Storage, LLC",Batteries,MWH,255,TX,Cameron,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,25.94113,-97.53276
-69681-DRAKE,Mallard Energy Storage,"Mallard Energy Storage, LLC",Batteries,MWH,250,TX,Collin,"(U) Under construction, less than or equal to 50 percent complete",2026-10,33.064274,-96.45051
 65880-ZEYA,Zeya,Engie North America,Batteries,MWH,250,TX,Galveston,"(U) Under construction, less than or equal to 50 percent complete",2026-12,29.388758,-94.94793
 70137-DL250,Dry Land Prairie Energy Storage,"Dry Land Prairie Energy Storage, LLC",Batteries,MWH,250,CO,Cheyenne,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.99974,-102.4943
+69681-DRAKE,Mallard Energy Storage,"Mallard Energy Storage, LLC",Batteries,MWH,250,TX,Collin,"(U) Under construction, less than or equal to 50 percent complete",2027-02,33.064274,-96.45051
 70053-SP250,South Platte Storage,"South Platte Storage, LLC",Batteries,MWH,250,CO,Morgan,"(U) Under construction, less than or equal to 50 percent complete",2027-06,40.12,-103.42
+70909-MVBS1,Mesa View,Mesa View Storage LLC,Batteries,MWH,250,TX,Upton,"(U) Under construction, less than or equal to 50 percent complete",2027-08,31.171224,-102.1397
 67552-ELMBA,Elm Flats Solar,"Headwater Energy, LLC",Batteries,MWH,250,TX,Navarro,"(U) Under construction, less than or equal to 50 percent complete",2027-09,32.113579,-96.30476
 68583-RRB,Rock N' Roll,Lydian Energy,Batteries,MWH,250,TX,Brazoria,(L) Regulatory approvals pending. Not under construction,2027-10,29.299371,-95.42218
 69721-BESS1,Energizar BESS,Energizar Storage LLC,Batteries,MWH,250,MA,Suffolk,(L) Regulatory approvals pending. Not under construction,2027-12,42.39556,-71.02218
@@ -79,21 +78,23 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 70399-SRSB3,Steel River Solar Phase 3,Cypress Creek Renewables,Batteries,MWH,250,AR,Mississippi,"(U) Under construction, less than or equal to 50 percent complete",2030-07,35.578637,-90.09763
 68370-SALM2,Salmonfly Solar and Storage,BrightNight Power,Batteries,MWH,247,OR,Jefferson,(L) Regulatory approvals pending. Not under construction,2029-02,44.6157,-121.3436
 68607-PJBS1,Pelicans Jaw Hybrid Solar,Pelicans Jaw Solar LLC,Batteries,MWH,238.5,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2027-04,35.765183,-119.7436
-69295-DFBSS,Duffy BESS,Duffy Energy Storage LLC,Batteries,MWH,235.9,TX,Matagorda,"(V) Under construction, more than 50 percent complete",2026-12,28.854592,-96.08606
+69295-DFBSS,Duffy BESS,Duffy Energy Storage LLC,Batteries,MWH,235.9,TX,Matagorda,"(V) Under construction, more than 50 percent complete",2027-01,28.854592,-96.08606
 69004-ADELI,Adelite Storage Project LLC,"Acciona Energy USA Global, LLC",Batteries,MWH,230,TX,Milam,(T) Regulatory approvals received. Not under construction,2028-03,30.622383,-97.2105
 67783-GRS12,Ventures BESS,Gransolar Texas Twelve LLC,Batteries,MWH,226.8,TX,Matagorda,(L) Regulatory approvals pending. Not under construction,2028-09,28.974482,-95.99381
 67767-BECBA,Bramble Energy Center,Mission Clean Energy Devco LLC,Batteries,MWH,225.1,TX,Zavala,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,28.955627,-99.72318
+67941-PNRES,Pine River Solar Park,DTE Electric Company,Batteries,MWH,225,MI,Gratiot,"(V) Under construction, more than 50 percent complete",2027-05,43.431156,-84.68356
 70193-REC01,Romero Energy Center,"Romero Energy Center, LLC",Batteries,MWH,225,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-06,33.509114,-113.008
+65328-MRDES,Meridian Wind Park,DTE Electric Company,Batteries,MWH,225,MI,Gratiot,"(U) Under construction, less than or equal to 50 percent complete",2027-08,43.461967,-84.33982
 70194-REC02,"Romero Energy Center II, LLC","Romero Energy Center II, LLC",Batteries,MWH,225,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2028-06,33.509114,-113.008
 61331-BA2,NISA Electric Generation Project,NYC Energy LLC,Batteries,MWH,220.1,NY,Kings,(T) Regulatory approvals received. Not under construction,2028-10,40.7065,-73.9702
-67759-TCHEC,Trenton Channel Energy Center,DTE Electric Company,Batteries,MWH,220,MI,Wayne,"(TS) Construction complete, but not yet in commercial operation",2027-01,42.124423,-83.18571
+67759-TCHEC,Trenton Channel Energy Center,DTE Electric Company,Batteries,MWH,220,MI,Wayne,"(TS) Construction complete, but not yet in commercial operation",2027-02,42.124423,-83.18571
 69520-AMDRB,Amador BESS,BT Amador Storage LLC,Batteries,MWH,220,TX,Van Zandt,"(V) Under construction, more than 50 percent complete",2027-04,32.479347,-96.0321
 68668-RIC90,Coke BESS,"RIC Development, LLC",Batteries,MWH,220,TX,Coke,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,31.862499,-100.7638
 69654-ZEUB,Zeus BESS,Zeus BESS LLC,Batteries,MWH,213.6,CA,San Joaquin,"(P) Planned for installation, but regulatory approvals not initiated",2031-09,37.711754,-121.4884
 68323-ALT8A,Atlas VIII,Atlas VIII LLC,Batteries,MWH,210,AZ,La Paz,"(V) Under construction, more than 50 percent complete",2026-12,33.582903,-113.5769
-69956-S10BS,Sanborn Hybrid 3,Terra-Gen Operating Co-Hybrid,Batteries,MWH,210,CA,Kern,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.996,-118.114
+69956-S10BS,Sanborn Hybrid 3,Terra-Gen Operating Co-Hybrid,Batteries,MWH,210,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-12,34.996,-118.114
 70237-MULE1,Mule Shoe Energy Storage,Mule Shoe Energy Storage LLC,Batteries,MWH,207,TX,Yoakum,(T) Regulatory approvals received. Not under construction,2028-08,33.125909,-102.76
-69058-CBCBA,CO Bar C Solar and BESS,Clenera DevCo LLC,Batteries,MWH,206,AZ,Coconino,"(P) Planned for installation, but regulatory approvals not initiated",2027-08,35.636594,-111.8835
+69058-CBCBA,CO Bar C Solar and BESS,Clenera DevCo LLC,Batteries,MWH,206,AZ,Coconino,"(U) Under construction, less than or equal to 50 percent complete",2027-08,35.636594,-111.8835
 67917-CHMPN,"Champaign BESS, LLC","Samsung C&T Renewables, LLC",Batteries,MWH,202.7,TX,Glasscock,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,31.871567,-101.7384
 67918-DIOS,"Dios BESS, LLC","Samsung C&T Renewables, LLC",Batteries,MWH,201.6,TX,Jackson,"(P) Planned for installation, but regulatory approvals not initiated",2027-08,29.012998,-96.5051
 67535-ASHU1,Bell Creek BESS LLC,Nexus Renewables U.S. Inc.,Batteries,MWH,200.9,TX,Brazoria,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,29.137519,-95.66797
@@ -101,23 +102,21 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69120-RESBS,Resaca Oasis Storage,Red River Clean Energy,Batteries,MWH,200.7,TX,Cameron,(T) Regulatory approvals received. Not under construction,2028-09,25.978783,-97.37263
 67558-RIC96,Blackcat BESS,"RIC Development, LLC",Batteries,MWH,200.6,TX,Matagorda,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,28.974879,-95.99499
 70021-STACB,Staccato BESS,Sunraycer Assets I LLC,Batteries,MWH,200.5,TX,Fayette,"(U) Under construction, less than or equal to 50 percent complete",2027-04,30.053062,-96.92122
-68914-12343,Padua 3,Padua 3,Batteries,MWH,200,TX,Bexar,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.325064,-98.32562
-68425-TWPII,Tidwell Prairie II,Tidwell Prairie IIA LLC,Batteries,MWH,200,TX,Robertson,"(V) Under construction, more than 50 percent complete",2026-11,31.103064,-96.66494
 69155-AHBA1,Apache Hill Energy Center,Apache Hill Energy Center,Batteries,MWH,200,TX,Hood,"(V) Under construction, more than 50 percent complete",2026-11,32.380005,-97.72782
 65870-CASTR,Castor,Engie North America,Batteries,MWH,200,TX,Brazoria,"(U) Under construction, less than or equal to 50 percent complete",2026-12,29.150279,-95.65118
-68341-GREE,Greenwater BESS,"GREE bn, LLC",Batteries,MWH,200,WA,Pierce,"(V) Under construction, more than 50 percent complete",2026-12,47.236485,-122.2271
+68425-TWPII,Tidwell Prairie II,Tidwell Prairie IIA LLC,Batteries,MWH,200,TX,Robertson,"(V) Under construction, more than 50 percent complete",2026-12,31.103064,-96.66494
 70408-WCB,Willow Creek Energy Storage,"Willow Creek Energy Storage, LLC",Batteries,MWH,200,OK,Pawnee,"(U) Under construction, less than or equal to 50 percent complete",2026-12,36.389624,-97.02781
 64290-ATHB2,"SE Athos II, LLC","SE Athos II, LLC",Batteries,MWH,200,CA,Riverside,"(U) Under construction, less than or equal to 50 percent complete",2027-01,33.751283,-115.355
 69392-BBIA,Barton Branch IA,Barton Branch IA LLC,Batteries,MWH,200,TX,Robertson,"(U) Under construction, less than or equal to 50 percent complete",2027-01,31.103064,-96.66494
 66893-TXJS2,Jones City 2 Solar,"Lightsource Renewable Energy Asset Management, LLC",Batteries,MWH,200,TX,Jones,"(U) Under construction, less than or equal to 50 percent complete",2027-03,32.794928,-99.99293
 67249-RRES,Rock Rose Energy Storage,Rock Rose Energy Storage LLC,Batteries,MWH,200,TX,Fort Bend,"(U) Under construction, less than or equal to 50 percent complete",2027-03,29.395241,-95.73535
+68341-GREE,Greenwater BESS,"GREE bn, LLC",Batteries,MWH,200,WA,Pierce,"(V) Under construction, more than 50 percent complete",2027-03,47.236485,-122.2271
 69779-HK2ST,Hashknife Energy Center II LLC,Invenergy Services LLC,Batteries,MWH,200,AZ,Navajo,"(V) Under construction, more than 50 percent complete",2027-03,34.574259,-110.4946
 69723-BESS1,Taft BESS,FE Taft LLC,Batteries,MWH,200,MA,Worcester,"(V) Under construction, more than 50 percent complete",2027-04,42.03383,-71.60374
 70400-BEE1A,Bee Branch IA,"Bee Branch IA, LLC",Batteries,MWH,200,TX,Robertson,"(U) Under construction, less than or equal to 50 percent complete",2027-06,31.104838,-96.66477
 68348-ACESS,Alamo City ESS,Alamo City ESS LLC,Batteries,MWH,200,TX,Bexar,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,29.345305,-98.31948
 68911-27288,Flint,Flint,Batteries,MWH,200,OH,Franklin,"(U) Under construction, less than or equal to 50 percent complete",2027-07,40.09639,-82.73361
 68906-PFBA2,Pine Forest Solar I,"Pine Forest Solar I, LLC",Batteries,MWH,200,TX,Hopkins,"(U) Under construction, less than or equal to 50 percent complete",2027-08,33.100779,-95.39229
-67768-CECBA,Cumbia Energy Center,Mission Clean Energy Devco LLC,Batteries,MWH,200,TX,Nueces,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,27.739083,-97.44955
 66401-OHLBS,OCI Hillsboro,HEC Renewable Energy America LLC,Batteries,MWH,200,TX,Hill,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.941,-97.021
 67652-BHALU,Bhalu,Cypress Creek Renewables,Batteries,MWH,200,TX,Howard,(L) Regulatory approvals pending. Not under construction,2027-12,32.31219,-101.3378
 68031-SCPSB,Scopus Solar,Vesper Energy Development LLC,Batteries,MWH,200,MO,Bollinger,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.392178,-89.89929
@@ -144,6 +143,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68084-MLB,Morrow Lake BESS,"Leeward Asset Management, LLC",Batteries,MWH,200,TX,Frio,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,28.936239,-99.08318
 68332-DEGA2,Dega Solar and Storage,"DEGA bn, LLC",Batteries,MWH,200,AL,Talladega,(L) Regulatory approvals pending. Not under construction,2029-12,33.537201,-86.0855
 70186-SOLBS,Solstice Solar LLC,Clenera DevCo LLC,Batteries,MWH,200,OK,Le Flore,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,35.291043,-94.77891
+67768-CECBA,Cumbia Energy Center,Mission Clean Energy Devco LLC,Batteries,MWH,200,TX,Nueces,"(P) Planned for installation, but regulatory approvals not initiated",2030-09,27.739083,-97.44955
 69637-28152,Oakley BESS,Oakley BESS LLC,Batteries,MWH,200,TX,Denton,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,33.41854,-97.18809
 69641-49453,Metro BESS,Metro BESS LLC,Batteries,MWH,200,TX,Caldwell,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,30.003245,-97.67794
 70136-MORL1,Morel Energy Storage,Morel Energy Storage LLC,Batteries,MWH,200,CO,Moffat,(T) Regulatory approvals received. Not under construction,2030-12,40.469217,-107.6032
@@ -151,8 +151,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69946-SBA,Spindle BESS,Spindle Battery LLC,Batteries,MWH,199,CO,Weld,"(TS) Construction complete, but not yet in commercial operation",2026-12,40.092401,-104.9012
 68153-BA1,Fremont Solar,"Fremont Solar, LLC",Batteries,MWH,198,UT,Iron,"(U) Under construction, less than or equal to 50 percent complete",2027-12,37.9789,-112.7761
 66908-BZES,Bonanza Solar and Storage Project,"EDF Renewables Development, Inc.",Batteries,MWH,195,NV,Clark,(L) Regulatory approvals pending. Not under construction,2027-12,36.558,-115.799
-67798-GRS7,Steelhead Energy Storage,"GRS BESS Texas Seven, LLC",Batteries,MWH,193.7,TX,Fannin,(L) Regulatory approvals pending. Not under construction,2027-09,33.633102,-96.15789
-68461-KEYBB,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,190,CA,Fresno,(T) Regulatory approvals received. Not under construction,2027-04,36.13681,-120.1312
+67798-GRS7,Steelhead Energy Storage,"GRS BESS Texas Seven, LLC",Batteries,MWH,193.7,TX,Fannin,(L) Regulatory approvals pending. Not under construction,2028-09,33.633102,-96.15789
+68461-KEYBB,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,190,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2027-01,36.13681,-120.1312
 67777-GRS4B,Harryoung PV and BESS,Gransolar Texas Four LLC,Batteries,MWH,190,TX,Cameron,(L) Regulatory approvals pending. Not under construction,2028-05,26.276027,-97.63249
 67555-RIC98,Zephyr Storage,"RIC Development, LLC",Batteries,MWH,185.6,TX,Brown,"(P) Planned for installation, but regulatory approvals not initiated",2028-03,31.707049,-98.85746
 67556-RIC97,Serrano BESS,"RIC Development, LLC",Batteries,MWH,185.6,TX,Maverick,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,28.837905,-100.5487
@@ -166,26 +166,28 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68171-MCMBA,Mcmurtre Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,176.1,TX,Hunt,(L) Regulatory approvals pending. Not under construction,2027-12,33.179664,-95.80922
 68178-YOOBA,Yooperlite Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,175.7,TX,Wise,(L) Regulatory approvals pending. Not under construction,2027-12,33.033186,-97.88031
 68323-ALT8B,Atlas VIII,Atlas VIII LLC,Batteries,MWH,172.4,AZ,La Paz,"(V) Under construction, more than 50 percent complete",2027-01,33.582903,-113.5769
-68940-CABS,Country Acres Clean Power LLC,Clenera DevCo LLC,Batteries,MWH,172,CA,Placer,"(V) Under construction, more than 50 percent complete",2027-02,38.751744,-121.4221
+68940-CABS,Country Acres Clean Power LLC,Clenera DevCo LLC,Batteries,MWH,172,CA,Placer,"(V) Under construction, more than 50 percent complete",2026-12,38.751744,-121.4221
 69110-CONEF,Coneflower Storage Project LLC,"Acciona Energy USA Global, LLC",Batteries,MWH,170.9,TX,Chambers,(L) Regulatory approvals pending. Not under construction,2028-07,29.8547,-94.9254
+61565-BESS1,English Farms,Interstate Power and Light Co,Batteries,MWH,170,IA,Poweshiek,(T) Regulatory approvals received. Not under construction,2028-03,41.57,-92.40718
 68366-AGAT,AGATE BESS,BrightNight Power,Batteries,MWH,170,WA,Kitsap,(L) Regulatory approvals pending. Not under construction,2029-02,47.76879,-122.6078
 69722-BESS1,Salt Cod BESS,"Somerset Energy Storage, LLC",Batteries,MWH,168,MA,Bristol,(L) Regulatory approvals pending. Not under construction,2028-12,41.73722,-71.1489
 69148-BESS1,Allen 2 BESS,"Duke Energy Carolinas, LLC",Batteries,MWH,167,NC,Gaston,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,35.192096,-81.01013
 70441-PALO2,Palo Duro Energy Storage II,"Palo Duro Energy Center, LLC",Batteries,MWH,165.7,TX,Ochiltree,"(P) Planned for installation, but regulatory approvals not initiated",2029-05,36.410697,-101.0149
 67956-CONBS,Concho Pearl Solar and Storage,Red River Clean Energy,Batteries,MWH,162.4,TX,Concho,(T) Regulatory approvals received. Not under construction,2027-10,31.465492,-99.93435
-68907-1,Vidal Energy Center,CDH Vidal LLC,Batteries,MWH,160,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2026-12,34.084796,-114.4707
+68907-1,Vidal Energy Center,CDH Vidal LLC,Batteries,MWH,160,CA,San Bernardino,"(TS) Construction complete, but not yet in commercial operation",2026-12,34.084796,-114.4707
 70256-DCES,"Dry Creek Energy Storage, LLC","Dry Creek Energy Storage, LLC",Batteries,MWH,160,CA,Sacramento,(T) Regulatory approvals received. Not under construction,2027-11,38.347139,-121.1209
 67774-GRS3,Pecan BESS,"Gransolar Texas Three, LLC",Batteries,MWH,157.1,TX,Leon,(L) Regulatory approvals pending. Not under construction,2028-12,31.078667,-96.22328
 68667-RIC89,Chimney Rock BESS,"RIC Development, LLC",Batteries,MWH,156,TX,Taylor,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,32.387494,-99.84846
 70584-SOSBA,SOSA Energy Center,"SOSA Energy Center, LLC",Batteries,MWH,155.8,TX,Madison,"(U) Under construction, less than or equal to 50 percent complete",2027-07,30.927401,-96.0738
 63584-NY2,NY2 Battery,Key Capture Energy,Batteries,MWH,151.5,NY,Orange,(L) Regulatory approvals pending. Not under construction,2028-07,41.52667,-74.14226
-68866-SAN,Santa Teresa Solar,Santa Teresa Solar,Batteries,MWH,150,NM,Dona Ana,"(TS) Construction complete, but not yet in commercial operation",2026-10,31.805525,-106.6989
-67964-A400M,Agave,Arizona Public Service Co,Batteries,MWH,150,AZ,Maricopa,"(TS) Construction complete, but not yet in commercial operation",2026-11,33.32389,-112.8397
+67964-A400M,Agave,Arizona Public Service Co,Batteries,MWH,150,AZ,Maricopa,"(TS) Construction complete, but not yet in commercial operation",2026-12,33.32389,-112.8397
 69277-GR001,Gunnar Reliability Project,Gunnar Reliability Project LLC,Batteries,MWH,150,TX,Hidalgo,"(U) Under construction, less than or equal to 50 percent complete",2026-12,26.315571,-98.14851
-68932-OSBA,Overnight Solar,Overnight Solar LLC,Batteries,MWH,150,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2027-01,35.016197,-117.357
+68932-OSBA,Overnight Solar,Overnight Solar LLC,Batteries,MWH,150,CA,San Bernardino,"(TS) Construction complete, but not yet in commercial operation",2027-01,35.016197,-117.357
 68321-ALT4,Atlas BESS IV LLC,"ATLAS BESS IV, LLC",Batteries,MWH,150,AZ,La Paz,"(V) Under construction, more than 50 percent complete",2027-03,33.582903,-113.5769
 70377-BES,Boxcar Energy Storage,"Boxcar Energy Storage, LLC",Batteries,MWH,150,TX,Collin,"(V) Under construction, more than 50 percent complete",2027-05,33.018516,-96.52003
+1047-BESS1,Lansing,Interstate Power and Light Co,Batteries,MWH,150,IA,Allamakee,"(U) Under construction, less than or equal to 50 percent complete",2027-08,43.3359,-91.1675
 69974-CRZN1,Corazon Energy Storage,"Corazon Energy Storage, LLC",Batteries,MWH,150,NM,Bernalillo,"(U) Under construction, less than or equal to 50 percent complete",2027-09,35.003482,-106.742
+69435-PLXB,Plant X Solar,Southwestern Public Service Co,Batteries,MWH,150,TX,Lamb,"(U) Under construction, less than or equal to 50 percent complete",2027-11,34.165603,-102.4053
 70195-MAMM1,Mammoth Plains Energy Storage,"Mammoth Plains Energy Storage, LLC",Batteries,MWH,150,OK,Dewey,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,35.981842,-98.70672
 70199-PALO1,Palo Duro Energy Storage,"Palo Duro Energy Storage, LLC",Batteries,MWH,150,TX,Ochiltree,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,36.4106,-101.0102
 67874-ENX32,Parks Valley Energy LLC,Parks Valley Energy LLC,Batteries,MWH,150,WV,Hampshire,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,39.288816,-78.47481
@@ -200,12 +202,13 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68078-CHIBS,Chisme Solar and Storage,Red River Clean Energy,Batteries,MWH,146,TX,Brown,"(U) Under construction, less than or equal to 50 percent complete",2027-07,31.568929,-98.82195
 68876-6340,Okolona Solar,"Okolona Solar, LLC",Batteries,MWH,145,MS,Henderson,(T) Regulatory approvals received. Not under construction,2028-08,37.693,-87.549
 68665-RIC87,Summerhill BESS,"RIC Development, LLC",Batteries,MWH,143,TX,Taylor,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,32.51289,-99.79563
-67784-GRS11,Vial BESS,Gransolar Texas Eleven LLC,Batteries,MWH,141.4,TX,Hill,(L) Regulatory approvals pending. Not under construction,2027-09,31.953772,-97.06248
+67784-GRS11,Vial BESS,Gransolar Texas Eleven LLC,Batteries,MWH,141.4,TX,Hill,(L) Regulatory approvals pending. Not under construction,2028-09,31.953772,-97.06248
 69878-5869,Emmons-Logan Energy Storage,"Emmons-Logan Energy Storage, LLC",Batteries,MWH,140,ND,Emmons,"(V) Under construction, more than 50 percent complete",2026-12,46.372883,-99.9784
 70455-BES,City Breeze Energy Storage,"City Breeze Energy Storage, LLC",Batteries,MWH,140,TX,Matagorda,"(V) Under construction, more than 50 percent complete",2027-06,29.011,-95.97
 70098-BEB,Blue Lake BESS,Northern States Power Co - Minnesota,Batteries,MWH,135.5,MN,Scott,"(U) Under construction, less than or equal to 50 percent complete",2027-05,44.786793,-93.4269
 66409-GWNT,Hecate Grid Gwent Storage 1,"Hecate Grid Gwent Storage 1, LLC",Batteries,MWH,135,CA,Ventura,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.28093,-118.903
 68666-RIC88,Stonewall BESS,"RIC Development, LLC",Batteries,MWH,135,TX,Stonewall,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,33.2466,-100.3982
+67754-FSCES,Fish Creek Solar Park,DTE Electric Company,Batteries,MWH,132,MI,Montcalm,"(V) Under construction, more than 50 percent complete",2027-05,43.12165,-85.01172
 65141-BS3ES,Boulder Solar III LLC,174 Power Global Corp.,Batteries,MWH,128,NV,Clark,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,35.838769,-114.9642
 69965-RS,Roccasecca BESS LLC,Roccasecca BESS LLC,Batteries,MWH,126.5,NV,Clark,"(TS) Construction complete, but not yet in commercial operation",2027-02,35.83,-115.0128
 68166-DOLBA,Dolomite Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,125.7,TX,Ellis,(L) Regulatory approvals pending. Not under construction,2028-07,32.456144,-96.73774
@@ -215,25 +218,23 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68671-RIC91,Houston County BESS,"RIC Development, LLC",Batteries,MWH,125,TX,Houston,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,31.239009,-95.57699
 68925-MIDB,Midway BESS,Midway BESS LLC,Batteries,MWH,124.6,CA,Fresno,"(V) Under construction, more than 50 percent complete",2027-06,36.652653,-120.5783
 66896-LP2BA,"Lupinus Solar 2, LLC",Sunraycer Assets I LLC,Batteries,MWH,122.9,TX,Franklin,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,30.303385,-95.25692
-69167-BCKBN,Backbone Creek BESS,Backbone BESS LLC,Batteries,MWH,121,TX,Burnet,"(V) Under construction, more than 50 percent complete",2026-12,30.550207,-98.25687
+69167-BCKBN,Backbone Creek BESS,Backbone BESS LLC,Batteries,MWH,121,TX,Burnet,"(TS) Construction complete, but not yet in commercial operation",2026-12,30.550207,-98.25687
 68877-WLDC1,Wildcat Ranch Energy Storage,"Wildcat Ranch Energy Storage, LLC",Batteries,MWH,120,TX,Cochran,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,33.524176,-102.8773
 68080-GRS8B,Marcos PV and BESS,GRS BESS Texas Eight LLC,Batteries,MWH,115.9,TX,Victoria,(L) Regulatory approvals pending. Not under construction,2029-08,28.904979,-97.71017
 67779-GRS5,Hayrick BESS,Gransolar Texas Five LLC,Batteries,MWH,113.9,TX,Coke,(L) Regulatory approvals pending. Not under construction,2028-03,32.022914,-100.2926
 64215-45MGB,Aratina Solar Center 2,45MG 8me LLC,Batteries,MWH,113,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2026-12,35.062965,-118.0878
-65458-ANOD1,Anode (Springville) BESS,Southern California Edison Co,Batteries,MWH,112.5,CA,Tulare,"(TS) Construction complete, but not yet in commercial operation",2027-03,36.107903,-118.9409
-65458-ANOD2,Anode (Springville) BESS,Southern California Edison Co,Batteries,MWH,112.5,CA,Tulare,"(TS) Construction complete, but not yet in commercial operation",2027-03,36.107903,-118.9409
+65458-ANOD1,Anode (Springville) BESS,Southern California Edison Co,Batteries,MWH,112.5,CA,Tulare,"(TS) Construction complete, but not yet in commercial operation",2027-05,36.107903,-118.9409
+65458-ANOD2,Anode (Springville) BESS,Southern California Edison Co,Batteries,MWH,112.5,CA,Tulare,"(TS) Construction complete, but not yet in commercial operation",2027-05,36.107903,-118.9409
 70463-WSTBA,"Westminster Reliability Project, LLC","RWE Americas, LLC",Batteries,MWH,110,CA,Orange,"(V) Under construction, more than 50 percent complete",2026-12,33.773169,-118.0116
 63850-BESS2,Cherry,"Westlands Cherry, LLC",Batteries,MWH,110,CA,Kings,(T) Regulatory approvals received. Not under construction,2027-07,36.122457,-119.9232
+70606-JABA,"Janus Solar PV, LLC","RWE Americas, LLC",Batteries,MWH,106.3,CA,Colusa,"(V) Under construction, more than 50 percent complete",2027-02,39.099743,-122.2821
 68428-GTSBY,Gatsby Energy Storage Project,Gatsby Energy Storage LLC,Batteries,MWH,103.4,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-03,30.664176,-101.7801
-68334-EVCRK,Evans Creek Energy Storage Project,Evans Creek Energy Storage LLC,Batteries,MWH,103,TX,Val Verde,"(V) Under construction, more than 50 percent complete",2026-09,29.746007,-101.1406
 64290-ATH1S,"SE Athos II, LLC","SE Athos II, LLC",Batteries,MWH,102.3,CA,Riverside,"(U) Under construction, less than or equal to 50 percent complete",2027-01,33.751283,-115.355
 67341-NOSES,SGT Hoskins Solar Project Hybrid,"SGT Hoskins Solar Project, LLC",Batteries,MWH,102.1,TX,Lamar,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,33.63124,-95.33785
 67919-DOLCE,"Dolce BESS, LLC","Samsung C&T Renewables, LLC",Batteries,MWH,101.4,TX,Mitchell,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,32.484063,-100.9018
 70443-MAMM2,Mammoth Plains Energy Storage II,"Mammoth Plains Energy Center, LLC",Batteries,MWH,101.2,OK,Dewey,"(P) Planned for installation, but regulatory approvals not initiated",2029-05,35.97972,-98.70606
 68173-SANBT,Sandford Solar and Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,100.9,TX,Wise,(L) Regulatory approvals pending. Not under construction,2028-12,33.30726,-97.52777
-68852-HSBE1,Hermes Storage BESS,"Bell 1 Storage, LLC",Batteries,MWH,100.4,TX,Bell,"(V) Under construction, more than 50 percent complete",2026-10,30.981595,-97.1429
-68149-RAVEB,Raven Storage,"Raven Storage, LLC",Batteries,MWH,100,TX,Wharton,"(V) Under construction, more than 50 percent complete",2026-10,29.575617,-96.08872
-68452-KITTB,Kitt Solar,301AK 8me LLC,Batteries,MWH,100,AZ,Pinal,"(V) Under construction, more than 50 percent complete",2026-12,32.73353,-111.5691
+68452-KITTB,Kitt Solar,301AK 8me LLC,Batteries,MWH,100,AZ,Pinal,(OT) Other,2026-12,32.73353,-111.5691
 69027-SSBA,"Stoneridge Solar, LLC","RWE Americas, LLC",Batteries,MWH,100,TX,Milam,"(TS) Construction complete, but not yet in commercial operation",2026-12,30.569447,-97.11043
 69497-SLB,Star Light Energy Center,Star Light Energy Center,Batteries,MWH,100,NM,Valencia,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.739572,-106.7928
 69517-BV3BA,Buena Vista Energy Center III,"Buena Vista Energy Center III, LLC",Batteries,MWH,100,NM,Otero,"(U) Under construction, less than or equal to 50 percent complete",2026-12,32.06659,-106.2853
@@ -241,12 +242,13 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 70188-WES01,Weld Energy Storage,"Weld Energy Storage, LLC",Batteries,MWH,100,CO,Weld,"(V) Under construction, more than 50 percent complete",2026-12,40.613467,-104.8467
 64290-ATH1N,"SE Athos II, LLC","SE Athos II, LLC",Batteries,MWH,100,CA,Riverside,"(U) Under construction, less than or equal to 50 percent complete",2027-01,33.751283,-115.355
 68426-VOYGR,Voyager Energy Storage,Voyager Energy Storage LLC,Batteries,MWH,100,MI,Washtenaw,"(V) Under construction, more than 50 percent complete",2027-01,42.153167,-83.8333
-69393-PHIEC,Pamela Heights I Energy Center,Pamela Heights I Energy Center LLC,Batteries,MWH,100,TX,Harris,"(U) Under construction, less than or equal to 50 percent complete",2027-01,29.645345,-95.45021
+69393-PHIEC,Pamela Heights I Energy Center,Pamela Heights I Energy Center LLC,Batteries,MWH,100,TX,Harris,"(V) Under construction, more than 50 percent complete",2027-01,29.645345,-95.45021
 69356-PWLNB,Powerline Energy Storage,"Duke Energy Florida, LLC",Batteries,MWH,100,FL,Citrus,"(U) Under construction, less than or equal to 50 percent complete",2027-03,28.96684,-82.61751
-70403-GRBS1,Grand Basin Energy Storage,"Grand Basin Energy Storage, LLC",Batteries,MWH,100,MI,Jackson,"(U) Under construction, less than or equal to 50 percent complete",2027-03,42.420211,-84.48752
-69059-COBA,Crimson Orchard Solar and BESS,Clenera DevCo LLC,Batteries,MWH,100,ID,Elmore,(L) Regulatory approvals pending. Not under construction,2027-04,43.181239,-115.7465
-70033-WT001,White Tank Energy Storage,White Tank Energy Storage LLC,Batteries,MWH,100,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-04,33.498,-112.3176
-68909-ISSBA,Imperial Sun Solar,Imperial Sun Solar LLC,Batteries,MWH,100,CA,Imperial,(L) Regulatory approvals pending. Not under construction,2027-07,32.6851,-115.2977
+70403-GRBS1,Grand Basin Energy Storage,"Grand Basin Energy Storage, LLC",Batteries,MWH,100,MI,Jackson,"(V) Under construction, more than 50 percent complete",2027-03,42.420211,-84.48752
+69059-COBA,Crimson Orchard Solar and BESS,Clenera DevCo LLC,Batteries,MWH,100,ID,Elmore,"(U) Under construction, less than or equal to 50 percent complete",2027-04,43.181239,-115.7465
+70033-WT001,White Tank Energy Storage,"White Tank Energy Storage, LLC",Batteries,MWH,100,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-04,33.498,-112.3176
+69471-CLCES,Cold Creek Solar Park,DTE Electric Company,Batteries,MWH,100,MI,Branch,"(U) Under construction, less than or equal to 50 percent complete",2027-05,41.938,-85.003
+68909-ISSBA,Imperial Sun Solar,Imperial Sun Solar LLC,Batteries,MWH,100,CA,Imperial,"(U) Under construction, less than or equal to 50 percent complete",2027-07,32.6851,-115.2977
 69966-FMMS,"Four Mile Mesa Solar, LLC","Four Mile Mesa Solar, LLC",Batteries,MWH,100,NM,San Juan,"(U) Under construction, less than or equal to 50 percent complete",2027-07,36.8685,-108.277
 67667-3COAS,"Third Coast BESS, LLC",Cypress Creek Renewables,Batteries,MWH,100,TX,Jackson,(T) Regulatory approvals received. Not under construction,2027-11,28.852327,-96.55642
 66216-BESS,Yaupon Solar Project (Hybrid),"Yaupon Solar, LLC",Batteries,MWH,100,TX,Milam,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.0444,-96.8514
@@ -256,6 +258,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68032-SKREB,Skylight Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,100,CA,Sutter,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,38.947494,-121.4792
 68604-DALBS,Dahlia Energy,Dahlia Energy LLC,Batteries,MWH,100,TX,La Salle,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,28.369598,-98.96762
 69762-BESS2,Southern Bighorn Solar 2,425LM 8ME LLC,Batteries,MWH,100,NV,Clark,(L) Regulatory approvals pending. Not under construction,2028-07,36.56117,-114.7413
+62079-BESS3,Whispering Willow North,Interstate Power and Light Co,Batteries,MWH,100,IA,Franklin,(T) Regulatory approvals received. Not under construction,2028-12,42.774955,-93.41807
 67896-229HD,Holstein 2 Battery Storage,"229HD 8me, LLC",Batteries,MWH,100,TX,Nolan,"(P) Planned for installation, but regulatory approvals not initiated",2029-05,32.081901,-100.159
 68343-GRVA2,Grand Valley Solar Generation and BESS,"GRVA bn, LLC",Batteries,MWH,100,CO,Mesa,(L) Regulatory approvals pending. Not under construction,2029-10,39.1987,-108.782
 65808-BSVEC,"Sacramento Valley Energy Center, LLC","Sacramento Valley Energy Center, LLC",Batteries,MWH,100,CA,Sacramento,"(U) Under construction, less than or equal to 50 percent complete",2029-12,38.57147,-121.1845
@@ -277,14 +280,16 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69351-HNYBS,Honeycomb Solar and Storage,"Honeycomb Solar Holdco, LLC",Batteries,MWH,76.5,TX,Bee,"(V) Under construction, more than 50 percent complete",2026-11,28.184344,-97.77169
 69823-CABOK,Cabokenze Energy Storage,"Cabokenze Energy Storage, LLC",Batteries,MWH,76,GA,Burke,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,33.037636,-82.11924
 68172-MYEBT,Myers Solar and Storage,"Belltown Power Texas 2, LLC",Batteries,MWH,75.7,TX,Goliad,(L) Regulatory approvals pending. Not under construction,2028-08,28.420043,-97.70934
-68461-KEYBA,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,75,CA,Fresno,"(U) Under construction, less than or equal to 50 percent complete",2026-12,36.13681,-120.1312
+68461-KEYBA,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,75,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2026-12,36.13681,-120.1312
+62079-BESS1,Whispering Willow North,Interstate Power and Light Co,Batteries,MWH,75,IA,Franklin,"(TS) Construction complete, but not yet in commercial operation",2027-03,42.774955,-93.41807
 67676-GEN02,Zeta Solar & Storage,"Zeta Solar, LLC",Batteries,MWH,75,CA,Merced,"(U) Under construction, less than or equal to 50 percent complete",2027-06,36.911894,-120.8101
 65344-66149,Noria Hondo Solar (Hybrid),"Nexus Renewable Power, LLC",Batteries,MWH,75,TX,Kleberg,(L) Regulatory approvals pending. Not under construction,2027-12,27.553355,-97.67528
 70545-WBESS,Wildwood Energy Storage,"Wildwood Energy Storage, LLC",Batteries,MWH,75,MS,Tallahatchie,(L) Regulatory approvals pending. Not under construction,2027-12,33.93316,-90.33908
 70454-BESS1,Big Bend III Battery Storage,Tampa Electric Co,Batteries,MWH,75,FL,Hillsborough,(T) Regulatory approvals received. Not under construction,2028-06,27.795,-82.403
 70365-BODES,Bodkin BESS,Bodkin BESS LLC,Batteries,MWH,75,TX,Brazoria,(T) Regulatory approvals received. Not under construction,2028-12,29.292,-95.301
 70366-BHBES,Boot Hill Energy Storage,Boot Hill Energy Storage LLC,Batteries,MWH,75,KS,Ford,(T) Regulatory approvals received. Not under construction,2028-12,37.704,-99.977
-62184-27,Big Fork Solar,Big Fork Solar,Batteries,MWH,74.9,SC,Barnwell,(T) Regulatory approvals received. Not under construction,2027-04,33.135275,-81.23911
+70913-ECB,Elk Creek Solar,Northern States Power Co - Minnesota,Batteries,MWH,75,WI,Dunn,(L) Regulatory approvals pending. Not under construction,2028-12,44.830028,-91.74842
+62184-27,Big Fork Solar,Big Fork Solar,Batteries,MWH,74.9,SC,Barnwell,(T) Regulatory approvals received. Not under construction,2027-05,33.135275,-81.23911
 64634-90FIB,Kingsley Solar Farm,"90FI 8me, LLC",Batteries,MWH,74,CA,Imperial,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,32.742036,-115.7354
 66691-BRUGG,"Briggs Solar, LLC","Intersect USA, LLC",Batteries,MWH,70.5,TX,Haskell,(L) Regulatory approvals pending. Not under construction,2027-12,33.144326,-99.55977
 66787-ELVPS,Elevate Pier S,"Lighthouse Pier S, LLC",Batteries,MWH,70,CA,Los Angeles,(L) Regulatory approvals pending. Not under construction,2026-12,33.764993,-118.2237
@@ -299,15 +304,14 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68924-IROB,Iron BESS,Panoche BESS LLC,Batteries,MWH,59.5,CA,Fresno,"(V) Under construction, more than 50 percent complete",2027-04,36.652653,-120.5783
 69541-VACB,Vaca BESS,Vaca Dixon BESS LLC,Batteries,MWH,59.5,CA,Solano,(L) Regulatory approvals pending. Not under construction,2027-07,38.398379,-121.924
 65823-PARB,Parowan Solar,"Leeward Asset Management, LLC",Batteries,MWH,58,UT,Iron,"(P) Planned for installation, but regulatory approvals not initiated",2028-02,37.875795,-112.8885
-708-5,Hammond,Georgia Power Co,Batteries,MWH,57.5,GA,Floyd,"(V) Under construction, more than 50 percent complete",2026-10,34.2528,-85.3456
 69119-NHBA1,New Hill 1 Battery,Duke Energy Progress - (NC),Batteries,MWH,56,NC,Wake,"(U) Under construction, less than or equal to 50 percent complete",2027-09,35.659692,-78.94412
 66341-EGSB,Eagle Springs Hybrid,Sunraycer Assets I LLC,Batteries,MWH,55.1,TX,Delta,"(V) Under construction, more than 50 percent complete",2026-12,33.433264,-95.57444
 68486-44STB,Sienna 2 Solar and Storage Project,44ST 8ME LLC,Batteries,MWH,55,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2029-03,34.506711,-116.8901
 68923-ENTB,Enterprise BESS,Enterprise BESS LLC,Batteries,MWH,54.1,CA,San Diego,(T) Regulatory approvals received. Not under construction,2027-12,33.12181,-117.1174
-66390-GDYES,MRG Goody Solar Project Hybrid,"Nexus Renewable Power, LLC",Batteries,MWH,50.4,TX,Lamar,"(V) Under construction, more than 50 percent complete",2026-10,33.639193,-95.62905
+66390-GDYES,MRG Goody Solar Project Hybrid,"Nexus Renewable Power, LLC",Batteries,MWH,50.4,TX,Lamar,"(V) Under construction, more than 50 percent complete",2026-11,33.639193,-95.62905
 66894-ALBBA,"Albatross Solar, LLC",Sunraycer Assets I LLC,Batteries,MWH,50.4,TX,McLennan,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.484342,-97.42239
 67778-GR16B,Findley PV and BESS,"Gransolar Texas Sixteen, LLC",Batteries,MWH,50.3,TX,Limestone,(L) Regulatory approvals pending. Not under construction,2028-01,31.643389,-96.77961
-67666-SUNBA,Sundance (CO),Cypress Creek Renewables,Batteries,MWH,50,CO,Elbert,"(U) Under construction, less than or equal to 50 percent complete",2026-10,39.414779,-104.4481
+67666-SUNBA,Sundance (CO),Cypress Creek Renewables,Batteries,MWH,50,CO,Elbert,"(V) Under construction, more than 50 percent complete",2026-11,39.414779,-104.4481
 65043-DUST,Dulles Solar and Storage,Dominion Energy Inc.,Batteries,MWH,50,VA,Loudoun,"(V) Under construction, more than 50 percent complete",2026-12,38.95,-77.5
 68953-KB1,Kifer BESS 1,"Kifer Energy Storage, LLC",Batteries,MWH,50,CA,Santa Clara,"(U) Under construction, less than or equal to 50 percent complete",2026-12,37.376214,-121.952
 69626-BMF,FRP Miller Solar,FRP Miller Solar LLC,Batteries,MWH,50,FL,Duval,"(U) Under construction, less than or equal to 50 percent complete",2026-12,30.320634,-81.91274
@@ -321,6 +325,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 63202-701-S,TREX US Red Holly,TREX US Red Holly LLC,Batteries,MWH,50,TX,Lynn,(L) Regulatory approvals pending. Not under construction,2027-12,32.952,-101.737
 65407-BEAR1,Beartooth Energy Storage LLC,"Beartooth Energy Storage, LLC",Batteries,MWH,50,MT,Yellowstone,(L) Regulatory approvals pending. Not under construction,2027-12,45.7843,-108.7178
 67983-AURRB,Aurora Renewable Energy (Hybrid),Vesper Energy Development LLC,Batteries,MWH,50,CA,Stanislaus,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,37.628805,-121.0714
+70912-DHSTO,Dawn Harvest Solar Energy Center LLC,Invenergy Services LLC,Batteries,MWH,50,WI,Rock,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,42.671801,-88.947
 64849-ATMWS,Wildcat Solar Power Plant LLC,"Solariant Capital, LLC",Batteries,MWH,50,NM,McKinley,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,35.580453,-108.9023
 68019-RICBA,Richwood Solar and Storage,"Samsung C&T Renewables, LLC",Batteries,MWH,50,OH,Union,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,40.353175,-83.33117
 65445-RBESS,Ridgely Energy Farm,"Leeward Asset Management, LLC",Batteries,MWH,50,TN,Lake,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,36.306319,-89.46202
@@ -332,94 +337,94 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 66879-CT1,"KCE CT 1, LLC",Key Capture Energy,Batteries,MWH,45,CT,Windham,"(P) Planned for installation, but regulatory approvals not initiated",2031-04,41.882568,-71.89481
 6211-GEN4,Dynegy Oakland Power Plant,"Dynegy Oakland, LLC",Batteries,MWH,43.3,CA,Alameda,"(P) Planned for installation, but regulatory approvals not initiated",2028-05,37.79675,-122.2819
 70225-SES,Shutler Energy Storage,Avangrid Power LLC,Batteries,MWH,41,OR,Gilliam,"(U) Under construction, less than or equal to 50 percent complete",2028-03,45.54,-120.18
-62892-SONR2,EDPR CA Solar Park VI LLC (CA) Hybrid,EDPR CA Solar Park VI LLC,Batteries,MWH,40,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2026-10,36.62543,-120.3789
+62892-SONR2,EDPR CA Solar Park VI LLC (CA) Hybrid,EDPR CA Solar Park VI LLC,Batteries,MWH,40,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2026-11,36.62543,-120.3789
 68054-SNSB,Sunnyside Solar Energy Center,Madison Gas & Electric Co,Batteries,MWH,40,WI,Dane,"(V) Under construction, more than 50 percent complete",2026-11,42.985244,-89.43607
 69539-TRAB,Tracy BESS,Middle River Power,Batteries,MWH,40,CA,San Joaquin,"(U) Under construction, less than or equal to 50 percent complete",2027-05,37.711459,-121.4895
 68035-SYTOB,Syracuse and Tours Renewable Energy,Vesper Energy Development LLC,Batteries,MWH,40,CA,Kern,(T) Regulatory approvals received. Not under construction,2027-11,34.951078,-118.3083
-68461-KEYBC,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,35,CA,Fresno,(T) Regulatory approvals received. Not under construction,2027-04,36.13681,-120.1312
+68461-KEYBC,Key Energy Storage,Key Energy Storage LLC,Batteries,MWH,35,CA,Fresno,"(TS) Construction complete, but not yet in commercial operation",2027-01,36.13681,-120.1312
 66363-GEN1B,"Black Walnut Solar, LLC",Cypress Creek Renewables,Batteries,MWH,32,NC,Jones,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,35.050032,-77.15218
 68871-TIMIB,Timber Mill Solar,Cypress Creek Renewables,Batteries,MWH,32,NC,Jones,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.96634,-77.21299
 66385-GEN1B,"Panther Branch Solar, LLC",Cypress Creek Renewables,Batteries,MWH,32,NC,Duplin,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,35.145344,-78.15963
 68673-SLW_S,Sand Luis West,"Origis Energy USA, Inc",Batteries,MWH,31.3,CA,Fresno,(T) Regulatory approvals received. Not under construction,2028-11,36.1676,-120.054
 2161-BAT1,James River Power Station,City Utilities of Springfield - (MO),Batteries,MWH,31,MO,Greene,"(V) Under construction, more than 50 percent complete",2027-01,37.108611,-93.26194
-66066-WAIBA,AES Waiawa Phase 2 Solar,AES Distributed Energy,Batteries,MWH,30,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-10,21.43026,-157.9779
+66066-WAIBA,AES Waiawa Phase 2 Solar,AES Distributed Energy,Batteries,MWH,30,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-12,21.43026,-157.9779
 64216-309SJ,Rockmont Solar and Storage Project,201LC 8me LLC,Batteries,MWH,30,NM,San Juan,(L) Regulatory approvals pending. Not under construction,2027-12,36.776579,-108.3751
 65981-TXSD2,Second Division Solar,"Lightsource Renewable Energy Asset Management, LLC",Batteries,MWH,30,TX,Brazoria,(L) Regulatory approvals pending. Not under construction,2031-12,29.170545,-95.74157
 68043-ROBSS,Robeson Solar I,AES Clean Energy,Batteries,MWH,28,NC,Robeson,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.614574,-78.93468
-67669-ABESS,Arlington Battery Energy Storage System,PUD No 1 of Snohomish County - (WA),Batteries,MWH,25,WA,Snohomish,"(V) Under construction, more than 50 percent complete",2026-10,48.15617,-122.1437
-68672-CHA_B,Chalan,"Origis Energy USA, Inc",Batteries,MWH,25,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-12,35.7803,-119.911
+67669-ABESS,Arlington Battery Energy Storage System,PUD No 1 of Snohomish County - (WA),Batteries,MWH,25,WA,Snohomish,"(TS) Construction complete, but not yet in commercial operation",2026-12,48.15617,-122.1437
+68672-CHA_B,Chalan,"Origis Energy USA, Inc",Batteries,MWH,25,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2026-12,35.7803,-119.911
+62079-BESS2,Whispering Willow North,Interstate Power and Light Co,Batteries,MWH,25,IA,Franklin,"(TS) Construction complete, but not yet in commercial operation",2027-03,42.774955,-93.41807
+67536-BESS1,Creston Solar (50 MW),Interstate Power and Light Co,Batteries,MWH,25,IA,Union,"(TS) Construction complete, but not yet in commercial operation",2027-03,41.070705,-94.31849
 69024-GLNB1,Glenarm BESS Plant,Glenarm BESS LLC,Batteries,MWH,25,CA,Los Angeles,(L) Regulatory approvals pending. Not under construction,2027-06,34.12739,-118.1477
 68240-SS3BT,Solar Star 3,"Solar Star 3, LLC",Batteries,MWH,23,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-11,34.84166,-118.4551
 68241-SS4BT,Solar Star 4,"Solar Star 4, LLC",Batteries,MWH,23,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-11,34.84166,-118.4551
 69806-GWBS1,"Gaskell West Storage 1, LLC",Matrix Renewables,Batteries,MWH,21.6,CA,Kern,"(TS) Construction complete, but not yet in commercial operation",2026-11,34.833541,-118.5469
 70240-PFNON,PF Onsite BESS,PF Onsite Generation LLC,Batteries,MWH,21,PA,Luzerne,(L) Regulatory approvals pending. Not under construction,2027-06,40.918616,-76.07934
-70232-EVERG,"Evergreen Energy Center, LLC","East Point Energy, LLC",Batteries,MWH,20,VA,Loudoun,"(V) Under construction, more than 50 percent complete",2026-10,39.044885,-77.58191
-64255-VBESS,Vonore Battery Energy Storage System,Tennessee Valley Authority,Batteries,MWH,20,TN,Monroe,"(U) Under construction, less than or equal to 50 percent complete",2026-12,35.61543,-84.27489
+70232-EVERG,"Evergreen Energy Center, LLC","East Point Energy, LLC",Batteries,MWH,20,VA,Loudoun,"(V) Under construction, more than 50 percent complete",2026-11,39.044885,-77.58191
 70231-BETHL,"Bethlehem Energy Center, LLC - (VA)","East Point Energy, LLC",Batteries,MWH,20,VA,Prince William,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.781889,-77.5426
 70233-RAILR,"Railroad Energy Center, LLC","East Point Energy, LLC",Batteries,MWH,20,VA,Prince William,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.781689,-77.54202
 70234-REID,"Reid Energy Center, LLC","East Point Energy, LLC",Batteries,MWH,20,VA,Prince William,"(U) Under construction, less than or equal to 50 percent complete",2026-12,38.729874,-77.59242
+64255-VBESS,Vonore Battery Energy Storage System,Tennessee Valley Authority,Batteries,MWH,20,TN,Monroe,"(U) Under construction, less than or equal to 50 percent complete",2027-07,35.61543,-84.27489
 50736-FSS13,Pure Hedge LLC,Pure Hedge LLC,Batteries,MWH,20,CT,Windham,"(U) Under construction, less than or equal to 50 percent complete",2027-10,41.712448,-71.82225
-70395-BESS1,Pace Road Battery Storage,Tampa Electric Co,Batteries,MWH,20,FL,Polk,(T) Regulatory approvals received. Not under construction,2027-10,28.136235,-81.82978
+70395-BESS1,Pace Road Battery Storage,Tampa Electric Co,Batteries,MWH,20,FL,Polk,"(U) Under construction, less than or equal to 50 percent complete",2027-10,28.136235,-81.82978
 64911-CSRB1,South Ripley Solar,Repsol Renewables NA,Batteries,MWH,20,NY,Chautauqua,(L) Regulatory approvals pending. Not under construction,2027-12,42.198116,-79.75789
 65821-HNYBA,Honey Creek Solar,"Leeward Asset Management, LLC",Batteries,MWH,20,IN,White,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,40.7971,-86.8572
 66682-NY10,"KCE NY 10, LLC",Key Capture Energy,Batteries,MWH,20,NY,Erie,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,42.907908,-78.66011
 65305-BESS,Powells Creek Solar - Hybrid,"Powells Creek Farm Solar, LLC",Batteries,MWH,17.5,VA,Halifax,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,36.55467,-79.0286
 69602-90918,Essex VT BESS 1,Essex VT BESS 1 LLC,Batteries,MWH,16,VT,Chittenden,"(U) Under construction, less than or equal to 50 percent complete",2026-12,44.483701,-73.10717
-66785-ELVAK,Elevate Arthur Kill,"Lighthouse Arthur Kill, LLC",Batteries,MWH,15.1,NY,Richmond,"(TS) Construction complete, but not yet in commercial operation",2026-10,40.590066,-74.19836
+66785-ELVAK,Elevate Arthur Kill,"Lighthouse Arthur Kill, LLC",Batteries,MWH,15.1,NY,Richmond,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.590066,-74.19836
 69771-CCBS1,Clark Creek Solar Plant,"Duke Energy Carolinas, LLC",Batteries,MWH,14,NC,Lincoln,(L) Regulatory approvals pending. Not under construction,2028-02,35.532689,-81.24866
-70296-MTBAT,Milltown Onsite BESS,"Milltown Onsite Generation, LLC",Batteries,MWH,13.2,NJ,Middlesex,"(V) Under construction, more than 50 percent complete",2026-10,40.453346,-74.43502
 67836-GSP2,Gibson Solar Project - Hybrid,"Emeren US, LLC",Batteries,MWH,13,CA,Yolo,(T) Regulatory approvals received. Not under construction,2027-12,38.678386,-121.9876
 65302-BESS,Salt City Solar Project - Hybrid,Salt City Solar LLC,Batteries,MWH,12.5,OH,Ross,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,39.41473,-82.96285
 65304-BESS,ENGIE Solidago Solar Project - Hybrid,ENGIE Solidago Solar LLC,Batteries,MWH,12.5,DE,New Castle,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,39.395187,-75.7535
 65307-SUNB,Sunnybrook Solar Project - Hybrid,"Sunnybrook Farm Solar, LLC",Batteries,MWH,12.5,VA,Halifax,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,36.798717,-78.83961
 58639-BESS8,KRS I Anahola Solar Hybrid,Kauai Island Utility Cooperative,Batteries,MWH,12,HI,Kauai,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,22.131667,-159.3031
-58640-BESS7,KRS II Koloa Solar,Kauai Island Utility Cooperative,Batteries,MWH,12,HI,Kauai,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,21.900833,-159.45
+58640-BESS7,KRS II Koloa Solar,Kauai Island Utility Cooperative,Batteries,MWH,12,HI,Kauai,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,21.900833,-159.45
 69870-BAT1,Parkwood BESS,North Carolina El Member Corp,Batteries,MWH,11.6,NC,Union,"(V) Under construction, more than 50 percent complete",2026-12,34.891701,-80.63255
-69552-90916,Danville VA BESS 2,Danville VA BESS 2 LLC,Batteries,MWH,11,VA,Pittsylvania,"(U) Under construction, less than or equal to 50 percent complete",2026-10,36.6052,-79.4358
 70542-WHI1,Mount Whitney BESS,Mount Whitney BESS LLC,Batteries,MWH,11,TX,Waller,"(V) Under construction, more than 50 percent complete",2027-02,30.159658,-95.92763
 70543-DEN1,Denali Energy Storage,Denali Energy Storage LLC,Batteries,MWH,11,TX,Austin,"(V) Under construction, more than 50 percent complete",2027-02,29.632317,-96.07565
 69864-COBA1,Colorado Clean Energy Center (BESS),On Energy Storage,Batteries,MWH,10.1,TX,Colorado,"(TS) Construction complete, but not yet in commercial operation",2026-12,29.649,-96.51519
 69865-CLBA1,Columbus Clean Energy Center (BESS),On Energy Storage,Batteries,MWH,10.1,TX,Colorado,"(TS) Construction complete, but not yet in commercial operation",2026-12,29.6789,-96.53042
 69866-MGBA1,Matagorda Clean Energy Center (BESS),On Energy Storage,Batteries,MWH,10.1,TX,Matagorda,"(TS) Construction complete, but not yet in commercial operation",2026-12,28.99489,-96.12536
-69226-KNBA1,Knapp BESS,GoldenMax Energy Inc,Batteries,MWH,10,TX,Scurry,"(V) Under construction, more than 50 percent complete",2026-10,32.6913,-101.0515
 69252-HABA1,Harlingen #1 BESS 1,Harlingen ESS Assets LLC,Batteries,MWH,10,TX,Cameron,"(V) Under construction, more than 50 percent complete",2026-11,26.206111,-97.70842
 69253-NEBA1,North Edinburg BESS 1,Edinburg ESS Assets LLC,Batteries,MWH,10,TX,Hidalgo,"(V) Under construction, more than 50 percent complete",2026-11,26.347194,-98.18844
-69665-ORCH,Orchard BESS,"IEP Tejas Verde, LLC",Batteries,MWH,10,TX,Fort Bend,"(TS) Construction complete, but not yet in commercial operation",2026-11,29.539579,-95.95732
 66410-596,Grizzly Ridge Solar,Grizzly Ridge Solar LLC,Batteries,MWH,10,TX,Hamilton,"(TS) Construction complete, but not yet in commercial operation",2026-12,31.738177,-98.21374
+69226-KNBA1,Knapp BESS,GoldenMax Energy Inc,Batteries,MWH,10,TX,Scurry,"(TS) Construction complete, but not yet in commercial operation",2026-12,32.6913,-101.0515
+69665-ORCH,Orchard BESS,"IEP Tejas Verde, LLC",Batteries,MWH,10,TX,Fort Bend,"(TS) Construction complete, but not yet in commercial operation",2027-04,29.539579,-95.95732
 64616-1,"South Portland ESS, LLC","South Portland ESS, LLC",Batteries,MWH,10,ME,Cumberland,(T) Regulatory approvals received. Not under construction,2027-12,43.622939,-70.33098
 68988-SHB01,Sherco LDES,Northern States Power Co - Minnesota,Batteries,MWH,10,MN,Sherburne,(T) Regulatory approvals received. Not under construction,2028-05,45.374997,-93.89719
 70559-BESS2,Mammoth,MN8 Energy LLC,Batteries,MWH,10,WV,Kanawha,(L) Regulatory approvals pending. Not under construction,2029-06,38.20845,-81.30893
 67570-3004,Cedar Hill ESS,"Cedar Hill ESS Assets, LLC",Batteries,MWH,10,TX,Dallas,(L) Regulatory approvals pending. Not under construction,2030-06,32.612139,-96.92511
-69318-APPLE,Apple BESS,"Apple Infra, LLC",Batteries,MWH,9.9,TX,Ector,"(TS) Construction complete, but not yet in commercial operation",2026-10,31.675697,-102.3638
-69338-LEAKY,Regis Leakey,Regis Leakey LLC,Batteries,MWH,9.9,TX,Real,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.681012,-99.76172
+70604-MART1,Bexar Martinez BESS,Bexar Martinez LLC,Batteries,MWH,9.9,TX,Bexar,"(TS) Construction complete, but not yet in commercial operation",2026-10,29.441844,-98.32199
+69318-APPLE,Apple BESS,"Apple Infra, LLC",Batteries,MWH,9.9,TX,Ector,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.675697,-102.3638
 69340-MEDIN,Regis Medina,Regis Medina LLC,Batteries,MWH,9.9,TX,Bandera,"(V) Under construction, more than 50 percent complete",2026-11,29.807877,-99.25467
 69534-TOR_B,Torrecillas Energy Storage,"Torrecillas Energy Storage, LLC",Batteries,MWH,9.9,TX,Webb,"(V) Under construction, more than 50 percent complete",2026-12,27.618936,-98.83924
 69246-BSOU1,BESS TX Camarine - BSHOU001,Prologis Logistics Services Incorporated BESS,Batteries,MWH,9.9,TX,Harris,"(U) Under construction, less than or equal to 50 percent complete",2027-01,29.86648,-95.43066
 70549-DARST,CF BESS NINE,"CF BESS Nine, LLC",Batteries,MWH,9.9,TX,Guadalupe,(L) Regulatory approvals pending. Not under construction,2027-01,29.586397,-97.77525
-69902-HOCKL,Hockley,Hockley LLC,Batteries,MWH,9.9,TX,Harris,"(V) Under construction, more than 50 percent complete",2027-02,30.021964,-95.84826
+69902-HOCKL,Hockley,Hockley LLC,Batteries,MWH,9.9,TX,Harris,"(U) Under construction, less than or equal to 50 percent complete",2027-04,30.021964,-95.84826
 65897-INPKY,Industrial Parkway Storage,"RPCA Storage 1, LLC",Batteries,MWH,9.8,CA,Santa Barbara,"(TS) Construction complete, but not yet in commercial operation",2026-11,34.907345,-120.4465
-69903-EBERN,East Bernard,East Bernard LLC,Batteries,MWH,9.5,TX,Wharton,"(V) Under construction, more than 50 percent complete",2026-11,29.52854,-96.07052
-69904-PLEDG,Pledger,Pledger LLC,Batteries,MWH,9.5,TX,Wharton,"(V) Under construction, more than 50 percent complete",2026-11,29.187719,-95.91223
+69904-PLEDG,Pledger,Pledger LLC,Batteries,MWH,9.5,TX,Wharton,"(V) Under construction, more than 50 percent complete",2026-12,29.187719,-95.91223
+69903-EBERN,East Bernard,East Bernard LLC,Batteries,MWH,9.5,TX,Wharton,"(V) Under construction, more than 50 percent complete",2027-01,29.52854,-96.07052
 69992-BA1,Sherwood Forest BESS,"Entergy New Orleans, LLC",Batteries,MWH,7.7,LA,Orleans,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,30.01266,-89.94403
 55369-BESS1,Hamakua Energy Plant,Hamakua Energy LP,Batteries,MWH,7.5,HI,Hawaii,"(P) Planned for installation, but regulatory approvals not initiated",2030-11,20.0939,-155.4711
 66002-MVSBA,AES Mountain View Solar,AES Distributed Energy,Batteries,MWH,7,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-11,21.45799,-158.1767
 68285-PS-2,Puuloa Solar,Puuloa Solar LLC,Batteries,MWH,6,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,21.351522,-157.9269
 68543-3850B,Town of Sharon Portfolio -Mt St Landfill,"Mountain Street Solar Project 2019, LLC",Batteries,MWH,5.7,MA,Norfolk,"(V) Under construction, more than 50 percent complete",2027-01,42.102685,-71.15906
-69551-90915,Holyoke MA BESS 1,Holyoke MA BESS 1 LLC,Batteries,MWH,5,MA,Hampden,"(U) Under construction, less than or equal to 50 percent complete",2026-10,42.16774,-72.64898
-70386-BESS1,Chicopee BESS,Uriel Renovables S.A,Batteries,MWH,5,MA,Hampden,"(U) Under construction, less than or equal to 50 percent complete",2026-10,42.173653,-72.6119
-70387-BESS1,Framingham BESS,Uriel Renovables S.A,Batteries,MWH,5,MA,Middlesex,"(U) Under construction, less than or equal to 50 percent complete",2026-10,42.313107,-71.38953
-67279-6572B,Borrego - Highland Ave,"Highland Ave Solar 1, LLC",Batteries,MWH,5,MA,Bristol,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.661525,-71.05998
-69603-90917,Ipswich MA BESS 1,Ipswich MA BESS 1 LLC,Batteries,MWH,5,MA,Essex,"(U) Under construction, less than or equal to 50 percent complete",2026-11,42.716353,-70.84202
-70464-BAT1,Blackman Battery Energy Storage System,City Utilities of Springfield - (MO),Batteries,MWH,5,MO,Greene,(T) Regulatory approvals received. Not under construction,2026-11,37.163516,-93.22325
+69551-90915,Holyoke MA BESS 1,Holyoke MA BESS 1 LLC,Batteries,MWH,5,MA,Hampden,"(U) Under construction, less than or equal to 50 percent complete",2026-11,42.16774,-72.64898
+69603-90917,Ipswich MA BESS 1,Ipswich MA BESS 1 LLC,Batteries,MWH,5,MA,Essex,"(V) Under construction, more than 50 percent complete",2026-11,42.716353,-70.84202
+70386-BESS1,Chicopee BESS,Uriel Renovables S.A,Batteries,MWH,5,MA,Hampden,"(U) Under construction, less than or equal to 50 percent complete",2026-11,42.173653,-72.6119
+67279-6572B,Borrego - Highland Ave,"Highland Ave Solar 1, LLC",Batteries,MWH,5,MA,Bristol,"(U) Under construction, less than or equal to 50 percent complete",2026-12,41.661525,-71.05998
+70387-BESS1,Framingham BESS,Uriel Renovables S.A,Batteries,MWH,5,MA,Middlesex,"(U) Under construction, less than or equal to 50 percent complete",2026-12,42.313107,-71.38953
 66497-BHBA1,Bensonhurst Energy Storage 1 LLC,Convergent Energy and Power LP,Batteries,MWH,5,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-01,40.636787,-73.93435
 68215-BRAES,Braley Hill North Solar,"Agilitas Energy, Inc.",Batteries,MWH,5,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.776,-70.904
 68218-RANES,Randall Lane Solar,"Agilitas Energy, Inc.",Batteries,MWH,5,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.663,-70.844
-67257-BVEB1,Bear Valley Battery Plant,Bear Valley Electric Service,Batteries,MWH,5,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2027-04,34.25,-116.86
-68520-MNDA4,Madena 4,ZGlobal Inc,Batteries,MWH,5,CA,Placer,(L) Regulatory approvals pending. Not under construction,2027-04,38.977582,-121.3765
+68520-MNDA4,Madena 4,ZGlobal Inc,Batteries,MWH,5,CA,Placer,(L) Regulatory approvals pending. Not under construction,2027-05,38.977582,-121.3765
+70464-BAT1,Blackman Battery Energy Storage System,City Utilities of Springfield - (MO),Batteries,MWH,5,MO,Greene,(T) Regulatory approvals received. Not under construction,2027-06,37.163516,-93.22325
+67257-BVEB1,Bear Valley Battery Plant,Bear Valley Electric Service,Batteries,MWH,5,CA,San Bernardino,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,34.25,-116.86
 64615-1,"Sanford ESS, LLC","Sanford ESS, LLC",Batteries,MWH,5,ME,York,(T) Regulatory approvals received. Not under construction,2027-12,43.407648,-70.71209
 69948-MANTB,SV CSG Manteno,"SV CSG Manteno, LLC",Batteries,MWH,5,IL,Kankakee,(T) Regulatory approvals received. Not under construction,2027-12,41.221257,-87.88186
 69949-BLOMB,SV CSG Bloomington,"SV CSG Bloomington, LLC",Batteries,MWH,5,IL,McLean,(T) Regulatory approvals received. Not under construction,2027-12,40.465889,-89.03208
-70327-ND012,"Heron Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2026-12,40.618159,-73.93242
+70327-ND012,"Heron Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-01,40.618159,-73.93242
 70328-ND013,"Jamaica Community Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.637975,-73.92817
 70312-ND022,Lobelia Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-07,40.853531,-73.89531
 70313-ND024,Lobelia 4452 Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-07,40.853722,-73.89525
@@ -430,44 +435,38 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 70308-ND030,Blue Aster Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.674137,-73.90102
 70309-ND031,Blue Aster B Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.674137,-73.90102
 70310-ND028,Blue Aster C Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.674137,-73.90102
-69195-LONTB,Longtown Energy Storage,"Duke Energy Carolinas, LLC",Batteries,MWH,4.5,SC,Fairfield,"(V) Under construction, more than 50 percent complete",2026-10,34.416433,-80.86814
+69195-LONTB,Longtown Energy Storage,"Duke Energy Carolinas, LLC",Batteries,MWH,4.5,SC,Fairfield,"(V) Under construction, more than 50 percent complete",2026-11,34.416433,-80.86814
 70311-ND020,Eastern BlueBird Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.4,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-09,40.884948,-73.82901
 70315-ND021,"Northern Cardinal Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,4.4,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-09,40.884948,-73.82901
-70242-216,Riverhead - CVE,CVE US NY Riverhead 215 LLC,Batteries,MWH,4,NY,Suffolk,"(V) Under construction, more than 50 percent complete",2026-10,40.94233,-72.71824
+70242-216,Riverhead - CVE,CVE US NY Riverhead 215 LLC,Batteries,MWH,4,NY,Suffolk,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.94233,-72.71824
 70550-9014,Meadow Creek VA BESS 1,Meadow Creek VA BESS 1 LLC,Batteries,MWH,4,VA,Craig,"(V) Under construction, more than 50 percent complete",2026-11,37.4897,-80.1189
 70551-90915,Piney River VA BESS 1,Piney River VA BESS 1 LLC,Batteries,MWH,4,VA,Nelson,"(V) Under construction, more than 50 percent complete",2026-11,37.7187,-79.0054
 70552-90913,Colleen VA BESS 1,Colleen VA BESS 1 LLC,Batteries,MWH,4,VA,Nelson,"(V) Under construction, more than 50 percent complete",2026-11,37.7103,-78.9463
 70553-90912,Salem VA BESS 1,Salem VA BESS 1 LLC,Batteries,MWH,4,VA,Salem City,"(V) Under construction, more than 50 percent complete",2026-11,37.2892,-80.03
 68219-SNIES,Snipatuit Road Solar,"Agilitas Energy, Inc.",Batteries,MWH,4,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.768,-70.882
-69593-1,MCCo BESS Generating Facility,The Medical Center Company,Batteries,MWH,3.9,OH,Cuyahoga,"(V) Under construction, more than 50 percent complete",2026-10,41.3026,-81.3604
-69593-2,MCCo BESS Generating Facility,The Medical Center Company,Batteries,MWH,3.9,OH,Cuyahoga,"(V) Under construction, more than 50 percent complete",2026-10,41.3026,-81.3604
-69593-3,MCCo BESS Generating Facility,The Medical Center Company,Batteries,MWH,3.9,OH,Cuyahoga,"(V) Under construction, more than 50 percent complete",2026-10,41.3026,-81.3604
-69593-4,MCCo BESS Generating Facility,The Medical Center Company,Batteries,MWH,3.9,OH,Cuyahoga,"(V) Under construction, more than 50 percent complete",2026-10,41.3026,-81.3604
 68519-MDNA3,Madena 3,ZGlobal Inc,Batteries,MWH,3.9,CA,Yuba,"(TS) Construction complete, but not yet in commercial operation",2026-12,39.026009,-121.5441
 69871-BAT1,Tanglewood BESS,North Carolina El Member Corp,Batteries,MWH,3.9,NC,Pasquotank,"(V) Under construction, more than 50 percent complete",2026-12,36.272111,-76.30127
-69872-BAT1,Windsor BESS,North Carolina El Member Corp,Batteries,MWH,3.9,NC,Bertie,"(V) Under construction, more than 50 percent complete",2026-12,36.025838,-76.98179
-70320-ND018,Water Willow A Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.9,NY,Queens,"(U) Under construction, less than or equal to 50 percent complete",2027-04,40.708897,-73.77939
-70321-ND019,Water Willow B Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.9,NY,Queens,"(U) Under construction, less than or equal to 50 percent complete",2027-04,40.708897,-73.77939
-70326-ND014,Coral Honeysuckle Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.7,NY,Queens,"(V) Under construction, more than 50 percent complete",2027-03,40.679023,-73.82032
-70329-ND015,"Linden Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,3.7,NY,Queens,"(V) Under construction, more than 50 percent complete",2027-03,40.679074,-73.82041
+69872-BAT1,Windsor BESS,North Carolina El Member Corp,Batteries,MWH,3.9,NC,Bertie,"(V) Under construction, more than 50 percent complete",2027-02,36.025838,-76.98179
+70320-ND018,Water Willow A Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.9,NY,Queens,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.708897,-73.77939
+70321-ND019,Water Willow B Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.9,NY,Queens,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.708897,-73.77939
+70326-ND014,Coral Honeysuckle Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.7,NY,Queens,"(TS) Construction complete, but not yet in commercial operation",2027-03,40.679023,-73.82032
+70329-ND015,"Linden Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,3.7,NY,Queens,"(TS) Construction complete, but not yet in commercial operation",2027-03,40.679074,-73.82041
 70317-ND029,Roseate Tern Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.3,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-10,40.715572,-73.88673
-66552-MH162,EnerSmart Mesa Heights Sub Station,EnerSmart Storage,Batteries,MWH,3,CA,San Diego,"(U) Under construction, less than or equal to 50 percent complete",2026-11,32.82412,-117.1513
 68018-MRCDB,Merced BESS,ZGlobal Inc,Batteries,MWH,3,CA,Merced,"(TS) Construction complete, but not yet in commercial operation",2026-11,36.989396,-120.8775
-68216-CUSES,Cushman Road Solar,"ReWild Renewables, LLC",Batteries,MWH,3,MA,Plymouth,(L) Regulatory approvals pending. Not under construction,2027-05,41.732,-70.875
+66552-MH162,EnerSmart Mesa Heights Sub Station,EnerSmart Storage,Batteries,MWH,3,CA,San Diego,"(U) Under construction, less than or equal to 50 percent complete",2026-12,32.82412,-117.1513
+68216-CUSES,Cushman Road Solar,"Agilitas Energy, Inc.",Batteries,MWH,3,MA,Plymouth,(L) Regulatory approvals pending. Not under construction,2027-05,41.732,-70.875
 70105-GDNAB,Gardenia 1,ZGlobal Inc,Batteries,MWH,3,CA,Kings,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,35.790785,-119.8777
 70538-BRHBA,Belchertown Solar PV + Battery Project,"Agilitas Energy, Inc.",Batteries,MWH,2.8,MA,Hampshire,"(U) Under construction, less than or equal to 50 percent complete",2026-12,42.3,-72.37
-69196-NEBOB,Nebo Energy Storage,"Duke Energy Carolinas, LLC",Batteries,MWH,2.7,NC,Burke,"(U) Under construction, less than or equal to 50 percent complete",2026-10,35.791718,-81.85104
+69196-NEBOB,Nebo Energy Storage,"Duke Energy Carolinas, LLC",Batteries,MWH,2.7,NC,Burke,"(U) Under construction, less than or equal to 50 percent complete",2026-11,35.791718,-81.85104
 69592-PSKBS,NL NY- Pulaski,Standard Solar,Batteries,MWH,2.5,NY,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.334309,-74.40401
-70012-BA609,Redlands DC 9 - sline609,Prologis Logistics Services Incorporated,Batteries,MWH,2.4,CA,San Bernardino,"(U) Under construction, less than or equal to 50 percent complete",2026-11,34.083141,-117.2035
+70012-BA609,Redlands DC 9 - sline609,Prologis Logistics Services Incorporated,Batteries,MWH,2.4,CA,San Bernardino,"(U) Under construction, less than or equal to 50 percent complete",2027-02,34.083141,-117.2035
+70316-ND017,"Piping Plover Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,2.3,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.815382,-73.86015
 70319-ND016,Warbler Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,2.3,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.815404,-73.86023
-70316-ND017,"Piping Plover Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,2.3,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-04,40.815382,-73.86015
-67283-6569B,Six Flags Magic Mountain,"Magic Mountain Parkway Solar Project 2023, LLC",Batteries,MWH,2,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-09,34.428209,-118.5993
 63541-BCRV1,Solar Carver 1 Hybrid,"Solar Carver 1, LLC",Batteries,MWH,2,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2026-10,41.824474,-70.75292
-66511-B8262,CA Riverside 2356 Fleetwood Dr.,Catalyze Riverside 2356 Fleetwood Drive Microgrid LLC,Batteries,MWH,2,CA,Riverside,"(V) Under construction, more than 50 percent complete",2026-11,34.012142,-117.3811
-66513-B8229,MA Acushnet 540R Main St,"TJA 540R Main St. Acushnet, LLC",Batteries,MWH,2,MA,Bristol,(L) Regulatory approvals pending. Not under construction,2027-06,41.702987,-70.8888
+66513-B8229,MA Acushnet 540R Main St,"TJA 540R Main St. Acushnet, LLC",Batteries,MWH,2,MA,Bristol,(L) Regulatory approvals pending. Not under construction,2027-12,41.702987,-70.8888
 67741-I,OIT BESS,PacifiCorp,Batteries,MWH,2,OR,Klamath,"(U) Under construction, less than or equal to 50 percent complete",2027-12,42.259366,-121.7864
-66475-B8263,CA Bloomington 2551 S Lilac Avenue Micro,Catalyze Bloomington 2551 S Lilac Avenue Microgrid LLC,Batteries,MWH,1.5,CA,San Bernardino,"(V) Under construction, more than 50 percent complete",2026-11,34.05523,-117.3778
 70106-JADEB,Jade Solar 3,ZGlobal Inc,Batteries,MWH,1.5,CA,Madera,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,37.056528,-119.9805
+70614-WES88,Westport Solar and Storage,Westport Route 88 Solar 1 LLC,Batteries,MWH,1.3,MA,Bristol,"(U) Under construction, less than or equal to 50 percent complete",2026-12,41.646,-71.086
 63506-BCRV3,Solar Carver 3 Hybrid,"Solar Carver 3, LLC",Batteries,MWH,1,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2026-10,41.84206,-70.7699
 68217-FEAES,Featherbed Lane South Solar,"Agilitas Energy, Inc.",Batteries,MWH,1,MA,Plymouth,"(V) Under construction, more than 50 percent complete",2027-03,41.761,-70.896
 67565-CEC01,East Road Storage Project,Form Energy Inc.,Batteries,MWH,1,CA,Mendocino,(T) Regulatory approvals received. Not under construction,2027-06,39.25,-123.196
@@ -476,9 +475,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69706-4149B,Bishop Ranch - BR 3-GG,"Camino Ramon BR 3-GG Solar Project 2020, LLC",Batteries,MWH,0.6,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.767242,-121.9582
 69708-4150B,Bishop Ranch - BR 3-HH,"Camino Ramon BR 3-HH Solar Project 2020, LLC",Batteries,MWH,0.6,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.766297,-121.9582
 69710-4148B,Bishop Ranch - BR 3-FF,"Camino Ramon BR 3-FF Solar Project 2020, LLC",Batteries,MWH,0.6,CA,Contra Costa,"(V) Under construction, more than 50 percent complete",2027-07,37.768388,-121.959
-68600-7236B,Las Virgenes MWD - Composting Plant,"Las Virgenes Road Solar Project 2022, LLC",Batteries,MWH,0.5,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-11,34.126481,-118.6981
-69713-9985B,Sanger USD - Sanger West HS,"South Fowler Avenue Solar Project 2023, LLC",Batteries,MWH,0.5,CA,Fresno,"(V) Under construction, more than 50 percent complete",2026-11,36.709291,-119.6814
+68600-7236B,Las Virgenes MWD - Composting Plant,"Las Virgenes Road Solar Project 2022, LLC",Batteries,MWH,0.5,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-12,34.126481,-118.6981
+69713-9985B,Sanger USD - Sanger West HS,"South Fowler Avenue Solar Project 2023, LLC",Batteries,MWH,0.5,CA,Fresno,"(V) Under construction, more than 50 percent complete",2026-12,36.709291,-119.6814
 68235-C34BB,Romeoville 34 - SLCHI234 - BSCHI234,Prologis Logistics Services Incorporated,Batteries,MWH,0.5,IL,Will,"(U) Under construction, less than or equal to 50 percent complete",2027-05,41.597,-88.11
-70428-DRIVB,Bakersfield Driver,Pacifico Bakersfield Driver LLC,Batteries,MWH,0.3,CA,Kern,"(V) Under construction, more than 50 percent complete",2026-09,35.562181,-119.202
-68542-7170B,Palmdale Water District 6MG Tank,"East Avenue South Solar Project 2022, LLC",Batteries,MWH,0.3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-11,34.558047,-118.1187
+68542-7170B,Palmdale Water District 6MG Tank,"East Avenue South Solar Project 2022, LLC",Batteries,MWH,0.3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2026-12,34.558047,-118.1187
 70101-PA29B,Pivot Energy PPA 29 LLC,Pivot Energy,Batteries,MWH,0.1,CA,Placer,"(V) Under construction, more than 50 percent complete",2027-01,38.828466,-121.3049

@@ -1,11 +1,12 @@
 queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
 70336-NCBP1,"NCBP ONE, LLC",Pivot Energy,Solar Photovoltaic,SUN,2.5,MD,Prince Georges,"(V) Under construction, more than 50 percent complete",2027-01,38.8698,-76.7394
 69767-NCBP7,NCBP Seven,Pivot Energy,Solar Photovoltaic,SUN,2.4,MD,Prince Georges,"(V) Under construction, more than 50 percent complete",2027-01,38.8692,-76.7368
-70373-SDF1A,100a Swiss Dale Farm,Pivot Energy,Solar Photovoltaic,SUN,2,MD,Cecil,"(V) Under construction, more than 50 percent complete",2026-11,39.661976,-76.05111
 70537-DOWII,Downsville II,AES Clean Energy,Solar Photovoltaic,SUN,2,MD,Washington,"(V) Under construction, more than 50 percent complete",2026-11,39.5922,-77.78
 65130-PV2,City of Bowie,Tesla Inc.,Solar Photovoltaic,SUN,2,MD,Prince Georges,"(V) Under construction, more than 50 percent complete",2026-12,38.904641,-76.68877
-70508-4786A,"4786A George Washington, LLC",Pivot Energy,Solar Photovoltaic,SUN,2,MD,Garrett,"(V) Under construction, more than 50 percent complete",2026-12,39.30012,-79.41319
-70509-4786B,"4786B George Washington, LLC",Pivot Energy,Solar Photovoltaic,SUN,2,MD,Garrett,"(V) Under construction, more than 50 percent complete",2026-12,39.3312,-79.41319
-70523-BA005,Marley Neck 3 - SLBAL005,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,2,MD,Anne Arundel,"(U) Under construction, less than or equal to 50 percent complete",2026-12,39.194143,-76.55178
-70524-BA006,Marley Neck 4 - SLBAL006,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.4,MD,Anne Arundel,"(U) Under construction, less than or equal to 50 percent complete",2026-11,39.193805,-76.55171
+70611-DXNLN,Dixon Lane CC,Standard Solar,Solar Photovoltaic,SUN,2,MD,Carroll,"(TS) Construction complete, but not yet in commercial operation",2026-12,39.430491,-76.99221
+70373-SDF1A,100a Swiss Dale Farm,Pivot Energy,Solar Photovoltaic,SUN,2,MD,Cecil,"(V) Under construction, more than 50 percent complete",2027-01,39.661976,-76.05111
+70508-4786A,"4786A George Washington, LLC",Pivot Energy,Solar Photovoltaic,SUN,2,MD,Garrett,"(V) Under construction, more than 50 percent complete",2027-01,39.29898,-79.41365
+70509-4786B,"4786B George Washington, LLC",Pivot Energy,Solar Photovoltaic,SUN,2,MD,Garrett,"(V) Under construction, more than 50 percent complete",2027-01,39.30012,-79.41319
+70523-BA005,Marley Neck 3 - SLBAL005,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,2,MD,Anne Arundel,"(V) Under construction, more than 50 percent complete",2027-02,39.194143,-76.55178
 70338-NCB10,"NCBP TEN, LLC",Pivot Energy,Solar Photovoltaic,SUN,1.4,MD,Prince Georges,"(V) Under construction, more than 50 percent complete",2027-01,38.867,-76.7386
+70524-BA006,Marley Neck 4 - SLBAL006,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.4,MD,Anne Arundel,"(V) Under construction, more than 50 percent complete",2027-02,39.193805,-76.55171

@@ -1,7 +1,6 @@
 queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
 69148-BESS1,Allen 2 BESS,"Duke Energy Carolinas, LLC",Batteries,MWH,167,NC,Gaston,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,35.192096,-81.01013
 68271-SWLS1,Sweetleaf Solar LLC,CleanChoice Energy,Solar Photovoltaic,SUN,93,NC,Halifax,(T) Regulatory approvals received. Not under construction,2027-12,36.220711,-77.68863
-69197-HALIF,Halifax County Solar,AES Clean Energy,Solar Photovoltaic,SUN,80,NC,Halifax,"(U) Under construction, less than or equal to 50 percent complete",2026-10,36.2537,-77.6884
 70302-22,"Gum Swamp Solar, LLC","Headwater Energy, LLC",Solar Photovoltaic,SUN,80,NC,Scotland,"(U) Under construction, less than or equal to 50 percent complete",2027-03,34.867,-79.599
 67663-SGROV,Scotch Grove Solar,Cypress Creek Renewables,Solar Photovoltaic,SUN,80,NC,Scotland,(L) Regulatory approvals pending. Not under construction,2027-09,34.84957,-79.44656
 67665-SDAVI,South Davidson,Cypress Creek Renewables,Solar Photovoltaic,SUN,80,NC,Davidson,(L) Regulatory approvals pending. Not under construction,2027-10,35.618203,-80.10797
@@ -13,29 +12,27 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68871-TIMIL,Timber Mill Solar,Cypress Creek Renewables,Solar Photovoltaic,SUN,80,NC,Jones,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.96634,-77.21299
 68812-STVML,Stevens Mill Solar,Cypress Creek Renewables,Solar Photovoltaic,SUN,80,NC,Wayne,(L) Regulatory approvals pending. Not under construction,2030-06,35.35546,-78.1192
 70023-EDGCM,Edgecombe Solar LLC,Invenergy Services LLC,Solar Photovoltaic,SUN,75,NC,Edgecombe,"(U) Under construction, less than or equal to 50 percent complete",2027-09,35.949381,-77.65926
-64167-GEN,Hornet Solar,Hornet Solar LLC,Solar Photovoltaic,SUN,73,NC,Gaston,"(TS) Construction complete, but not yet in commercial operation",2026-12,35.387,-81.029
-67195-GEN,Maple Leaf Solar,Capital Power Corporation,Solar Photovoltaic,SUN,73,NC,Johnston,(T) Regulatory approvals received. Not under construction,2027-04,35.595,-78.317
+67195-GEN,Maple Leaf Solar,Capital Power Corporation,Solar Photovoltaic,SUN,73,NC,Johnston,"(U) Under construction, less than or equal to 50 percent complete",2027-05,35.595,-78.317
 63567-WSMTR,Westminister NC,"Ecoplexus, Inc",Solar Photovoltaic,SUN,60,NC,Rutherford,(T) Regulatory approvals received. Not under construction,2028-12,35.452,-81.919
 69119-NHBA1,New Hill 1 Battery,Duke Energy Progress - (NC),Batteries,MWH,56,NC,Wake,"(U) Under construction, less than or equal to 50 percent complete",2027-09,35.659692,-78.94412
 66382-GEN1,"Healing Springs Solar, LLC",Cypress Creek Renewables,Solar Photovoltaic,SUN,55,NC,Davidson,(L) Regulatory approvals pending. Not under construction,2027-12,35.623627,-80.15972
 69194-MCBA,Maiden Creek Battery,"Duke Energy Carolinas, LLC",Batteries,MWH,50,NC,Catawba,"(U) Under construction, less than or equal to 50 percent complete",2027-07,35.613673,-81.18707
-70306-21,"Westfield Solar, LLC","Headwater Energy, LLC",Solar Photovoltaic,SUN,40,NC,Hoke,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.943,-79.242
-63806-PGR28,"West River Solar, LLC","West River Solar, LLC",Solar Photovoltaic,SUN,40,NC,Guilford,"(U) Under construction, less than or equal to 50 percent complete",2027-10,36.043671,-79.64174
+70306-21,"Westfield Solar, LLC","Headwater Energy, LLC",Solar Photovoltaic,SUN,40,NC,Hoke,"(V) Under construction, more than 50 percent complete",2026-12,34.943,-79.242
+63806-PGR28,"West River Solar, LLC","West River Solar, LLC",Solar Photovoltaic,SUN,40,NC,Guilford,"(U) Under construction, less than or equal to 50 percent complete",2027-09,36.043671,-79.64174
 69771-CCSP1,Clark Creek Solar Plant,"Duke Energy Carolinas, LLC",Solar Photovoltaic,SUN,40,NC,Lincoln,(L) Regulatory approvals pending. Not under construction,2028-02,35.532689,-81.24866
 67977-QUACR,Quaker Creek Farm Solar,"Quaker Creek Farm Solar, LLC",Solar Photovoltaic,SUN,34.9,NC,Alamance,"(U) Under construction, less than or equal to 50 percent complete",2027-01,36.156688,-79.32292
 64168-GEN,Bear Branch Solar,Bear Branch Solar LLC,Solar Photovoltaic,SUN,34.5,NC,Stokes,"(TS) Construction complete, but not yet in commercial operation",2027-01,36.340427,-80.12974
 66363-GEN1B,"Black Walnut Solar, LLC",Cypress Creek Renewables,Batteries,MWH,32,NC,Jones,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,35.050032,-77.15218
 68871-TIMIB,Timber Mill Solar,Cypress Creek Renewables,Batteries,MWH,32,NC,Jones,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.96634,-77.21299
 66385-GEN1B,"Panther Branch Solar, LLC",Cypress Creek Renewables,Batteries,MWH,32,NC,Duplin,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,35.145344,-78.15963
-60434-PV1,Baxter Creek Solar,"Duke Energy Carolinas, LLC",Solar Photovoltaic,SUN,30,NC,Davie,"(V) Under construction, more than 50 percent complete",2026-10,35.865502,-80.55309
 68043-ROBSS,Robeson Solar I,AES Clean Energy,Batteries,MWH,28,NC,Robeson,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,34.614574,-78.93468
-70303-20,"Midfield Solar, LLC","Headwater Energy, LLC",Solar Photovoltaic,SUN,25,NC,Columbus,"(U) Under construction, less than or equal to 50 percent complete",2026-12,34.394,-78.771
+70303-20,"Midfield Solar, LLC","Headwater Energy, LLC",Solar Photovoltaic,SUN,25,NC,Columbus,"(V) Under construction, more than 50 percent complete",2026-12,34.394,-78.771
 69771-CCBS1,Clark Creek Solar Plant,"Duke Energy Carolinas, LLC",Batteries,MWH,14,NC,Lincoln,(L) Regulatory approvals pending. Not under construction,2028-02,35.532689,-81.24866
 69870-BAT1,Parkwood BESS,North Carolina El Member Corp,Batteries,MWH,11.6,NC,Union,"(V) Under construction, more than 50 percent complete",2026-12,34.891701,-80.63255
-67858-DILL1,Dill Holdings LLC,Dill Holdings LLC,Solar Photovoltaic,SUN,10,NC,Iredell,"(U) Under construction, less than or equal to 50 percent complete",2027-06,35.966645,-80.71882
+67858-DILL1,Dill Holdings LLC,Dill Holdings LLC,Solar Photovoltaic,SUN,10,NC,Iredell,"(U) Under construction, less than or equal to 50 percent complete",2028-06,35.966645,-80.71882
 69357-PV1,Asheville Solar,Duke Energy Progress - (NC),Solar Photovoltaic,SUN,9.5,NC,Buncombe,"(V) Under construction, more than 50 percent complete",2026-12,35.470591,-82.54223
-70305-23,"Tanglewood Solar, LLC","Headwater Energy, LLC",Solar Photovoltaic,SUN,8.4,NC,Pasquotank,"(U) Under construction, less than or equal to 50 percent complete",2026-10,36.25,-76.3
+70305-23,"Tanglewood Solar, LLC","Headwater Energy, LLC",Solar Photovoltaic,SUN,8,NC,Pasquotank,"(V) Under construction, more than 50 percent complete",2026-11,36.25,-76.3
 69871-BAT1,Tanglewood BESS,North Carolina El Member Corp,Batteries,MWH,3.9,NC,Pasquotank,"(V) Under construction, more than 50 percent complete",2026-12,36.272111,-76.30127
-69872-BAT1,Windsor BESS,North Carolina El Member Corp,Batteries,MWH,3.9,NC,Bertie,"(V) Under construction, more than 50 percent complete",2026-12,36.025838,-76.98179
-69196-NEBOB,Nebo Energy Storage,"Duke Energy Carolinas, LLC",Batteries,MWH,2.7,NC,Burke,"(U) Under construction, less than or equal to 50 percent complete",2026-10,35.791718,-81.85104
-67857-MCDOW,McDowell Creek Solar LLC,McDowell Creek Solar LLC,Solar Photovoltaic,SUN,2,NC,Mecklenburg,"(V) Under construction, more than 50 percent complete",2026-10,35.394168,-80.94389
+69872-BAT1,Windsor BESS,North Carolina El Member Corp,Batteries,MWH,3.9,NC,Bertie,"(V) Under construction, more than 50 percent complete",2027-02,36.025838,-76.98179
+69196-NEBOB,Nebo Energy Storage,"Duke Energy Carolinas, LLC",Batteries,MWH,2.7,NC,Burke,"(U) Under construction, less than or equal to 50 percent complete",2026-11,35.791718,-81.85104
+67857-MCDOW,McDowell Creek Solar LLC,McDowell Creek Solar LLC,Solar Photovoltaic,SUN,2,NC,Mecklenburg,"(V) Under construction, more than 50 percent complete",2027-10,35.394168,-80.94389

@@ -5,7 +5,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69749-U3,Scholl Canyon,City of Glendale - (CA),Landfill Gas,LFG,3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-02,34.15638,-118.1927
 69749-U4,Scholl Canyon,City of Glendale - (CA),Landfill Gas,LFG,3,CA,Los Angeles,"(V) Under construction, more than 50 percent complete",2027-02,34.15638,-118.1927
 56895-7,Ameresco Ox Mountain,AMERESCO Ox Mountain Energy LLC,Landfill Gas,LFG,3,CA,San Mateo,(L) Regulatory approvals pending. Not under construction,2027-09,37.5,-122.4
-69385-GEN1,Hastings Generating Facility,NAPS - Hastings LLC,Landfill Gas,LFG,1.6,MI,Barry,(T) Regulatory approvals received. Not under construction,2027-04,42.67856,-85.29629
+69385-GEN1,Hastings Generating Facility,NAPS - Hastings LLC,Landfill Gas,LFG,1.6,MI,Barry,(T) Regulatory approvals received. Not under construction,2027-10,42.67856,-85.29629
 10748-FUTR1,Marina Landfill Gas,Monterey Regional Waste Mgmt,Landfill Gas,LFG,1.6,CA,Monterey,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,36.7131,-121.7686
 10748-FUTR2,Marina Landfill Gas,Monterey Regional Waste Mgmt,Landfill Gas,LFG,1.6,CA,Monterey,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,36.7131,-121.7686
 10748-FUTR3,Marina Landfill Gas,Monterey Regional Waste Mgmt,Landfill Gas,LFG,1.6,CA,Monterey,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,36.7131,-121.7686

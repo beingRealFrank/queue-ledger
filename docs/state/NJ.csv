@@ -1,12 +1,11 @@
 queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
 56964-BESS1,Bayonne Energy Center,Bayonne Energy Center LLC,Batteries,MWH,49.8,NJ,Hudson,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.652834,-74.09155
-70296-MTBAT,Milltown Onsite BESS,"Milltown Onsite Generation, LLC",Batteries,MWH,13.2,NJ,Middlesex,"(V) Under construction, more than 50 percent complete",2026-10,40.453346,-74.43502
-69516-HAMM,Hamms Landfill,NJR Clean Energy Ventures Corporation,Solar Photovoltaic,SUN,6,NJ,Sussex,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.1015,-74.6706
+69516-HAMM,Hamms Landfill,NJR Clean Energy Ventures Corporation,Solar Photovoltaic,SUN,6,NJ,Sussex,"(TS) Construction complete, but not yet in commercial operation",2026-11,41.1015,-74.6706
 70487-TABER,NJ - CS Energy - Tabernacle Sands Solar,"Tabernacle Sand Solar, LLC",Solar Photovoltaic,SUN,3,NJ,Burlington,"(V) Under construction, more than 50 percent complete",2026-12,39.810889,-74.69672
 66830-P5376,Harrah's Atlantic City - POI 1 (Meeting,"Distributed Solar Development, LLC",Solar Photovoltaic,SUN,2.3,NJ,Atlantic,"(U) Under construction, less than or equal to 50 percent complete",2026-12,39.384389,-74.42627
 69554-BELMO,BPL NJ - Belmont,Standard Solar,Solar Photovoltaic,SUN,1.8,NJ,Somerset,"(TS) Construction complete, but not yet in commercial operation",2026-10,40.530503,-74.54493
-70507-NN036,Prologis - SLNNJ036 - Community Solar,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.6,NJ,Union,"(U) Under construction, less than or equal to 50 percent complete",2026-11,40.66225,-74.1644
+70507-NN036,Prologis - SLNNJ036 - Community Solar,Prologis Logistics Services Incorporated,Solar Photovoltaic,SUN,1.6,NJ,Union,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.66225,-74.1644
 69791-NJUDC,BPL NJ - Union Distribution Center,Standard Solar,Solar Photovoltaic,SUN,1.5,NJ,Union,"(TS) Construction complete, but not yet in commercial operation",2026-10,40.6834,-74.2422
-69753-13790,50 Meister Ave,"Meister Avenue Branchburg Solar Project 2024, LLC",Solar Photovoltaic,SUN,1.5,NJ,Somerset,"(V) Under construction, more than 50 percent complete",2026-11,40.600337,-74.69818
+69753-13790,50 Meister Ave,"Meister Avenue Branchburg Solar Project 2024, LLC",Solar Photovoltaic,SUN,1.5,NJ,Somerset,"(V) Under construction, more than 50 percent complete",2026-12,40.600337,-74.69818
 70029-EWIN1,East Windsor Solar 1 LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,1.4,NJ,Mercer,(T) Regulatory approvals received. Not under construction,2028-03,40.274397,-74.50169
 69790-EZMLC,Elizabeth Metropolitan Logistics Center,Standard Solar,Solar Photovoltaic,SUN,1.2,NJ,Union,"(TS) Construction complete, but not yet in commercial operation",2026-10,40.68403,-74.20623

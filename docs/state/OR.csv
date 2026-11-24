@@ -20,9 +20,9 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 67157-PV1,Powell Solar,Invenergy Services LLC,Solar Photovoltaic,SUN,55.9,OR,Crook,(T) Regulatory approvals received. Not under construction,2027-12,44.258414,-120.8895
 69294-OTS,Oregon Trail Solar,Avangrid Power LLC,Solar Photovoltaic,SUN,41,OR,Gilliam,"(V) Under construction, more than 50 percent complete",2027-03,45.553436,-120.1861
 70225-SES,Shutler Energy Storage,Avangrid Power LLC,Batteries,MWH,41,OR,Gilliam,"(U) Under construction, less than or equal to 50 percent complete",2028-03,45.54,-120.18
-69782-CW216,Cartwright Solar II,Cartwright Solar II LLC,Solar Photovoltaic,SUN,17.6,OR,Crook,"(TS) Construction complete, but not yet in commercial operation",2026-11,44.244,-120.938
+69782-CW216,Cartwright Solar II,Cartwright Solar II LLC,Solar Photovoltaic,SUN,17.6,OR,Crook,"(TS) Construction complete, but not yet in commercial operation",2026-12,44.244,-120.938
 70516-PV1,Fry Ontario Solar Project,"Fry Foods, Inc.",Solar Photovoltaic,SUN,4.2,OR,Malheur,"(TS) Construction complete, but not yet in commercial operation",2027-03,44.0926,-117.0344
 66340-PV1,Canyonville Solar LLC (CSG),SolRiver Capital LLC,Solar Photovoltaic,SUN,2.5,OR,Douglas,(L) Regulatory approvals pending. Not under construction,2027-12,42.956886,-123.2618
 70452-OCS62,Buckaroo Solar 1,"Buckaroo Solar 1, LLC",Solar Photovoltaic,SUN,2.4,OR,Umatilla,"(V) Under construction, more than 50 percent complete",2027-05,45.660992,-118.7721
 67741-I,OIT BESS,PacifiCorp,Batteries,MWH,2,OR,Klamath,"(U) Under construction, less than or equal to 50 percent complete",2027-12,42.259366,-121.7864
-70451-OCS24,Tutuilla Solar,"Tutuilla Solar, LLC",Solar Photovoltaic,SUN,1.6,OR,Umatilla,"(V) Under construction, more than 50 percent complete",2026-11,45.63153,-119.685
+70451-OCS24,Tutuilla Solar,"Tutuilla Solar, LLC",Solar Photovoltaic,SUN,1.6,OR,Umatilla,"(V) Under construction, more than 50 percent complete",2026-12,45.63153,-119.685

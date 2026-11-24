@@ -40,8 +40,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 6085-20,R M Schahfer,Northern Indiana Pub Serv Co,Natural Gas Fired Combustion Turbine,NG,233.8,IN,Jasper,(T) Regulatory approvals received. Not under construction,2027-12,41.2164,-87.0261
 68417-1,Hallsville,Southwestern Electric Power Co,Natural Gas Fired Combustion Turbine,NG,225,TX,Harrison,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,32.4607,-94.4852
 68417-2,Hallsville,Southwestern Electric Power Co,Natural Gas Fired Combustion Turbine,NG,225,TX,Harrison,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,32.4607,-94.4852
-2951-11,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,"(TS) Construction complete, but not yet in commercial operation",2026-10,35.50866,-97.17969
-2951-12,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,"(TS) Construction complete, but not yet in commercial operation",2026-10,35.50866,-97.17969
+2951-11,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,"(TS) Construction complete, but not yet in commercial operation",2026-11,35.50866,-97.17969
+2951-12,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,"(TS) Construction complete, but not yet in commercial operation",2026-11,35.50866,-97.17969
 2951-13,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,(T) Regulatory approvals received. Not under construction,2029-02,35.50866,-97.17969
 2951-14,Horseshoe Lake,Oklahoma Gas & Electric Co,Natural Gas Fired Combustion Turbine,NG,224,OK,Oklahoma,(T) Regulatory approvals received. Not under construction,2029-02,35.50866,-97.17969
 67576-1,Castle Bluff Energy Center,Union Electric Co - (MO),Natural Gas Fired Combustion Turbine,NG,216,MO,St Louis,"(P) Planned for installation, but regulatory approvals not initiated",2027-10,38.4017,-90.3358
@@ -51,7 +51,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69537-2,Lyon County Generating Station,Northern States Power Co - Minnesota,Natural Gas Fired Combustion Turbine,NG,210,MN,Lyon,(L) Regulatory approvals pending. Not under construction,2028-12,44.226167,-95.75362
 8224-CT3,North Valmy,Sierra Pacific Power Co,Natural Gas Fired Combustion Turbine,NG,208,NV,Humboldt,"(U) Under construction, less than or equal to 50 percent complete",2028-05,40.881317,-117.1516
 8224-CT4,North Valmy,Sierra Pacific Power Co,Natural Gas Fired Combustion Turbine,NG,208,NV,Humboldt,"(U) Under construction, less than or equal to 50 percent complete",2028-05,40.881317,-117.1516
-58835-ELK4,Elk Station,"Golden Spread Electric Cooperative, Inc",Natural Gas Fired Combustion Turbine,NG,199.8,TX,Hale,"(U) Under construction, less than or equal to 50 percent complete",2027-03,33.865,-101.8433
+58835-ELK4,Elk Station,"Golden Spread Electric Cooperative, Inc",Natural Gas Fired Combustion Turbine,NG,199.8,TX,Hale,"(V) Under construction, more than 50 percent complete",2027-03,33.865,-101.8433
 70360-FNDRD,Foundry Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,108,WI,Walworth,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,42.583072,-88.72461
 70360-FNRD2,Foundry Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,108,WI,Walworth,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,42.583072,-88.72461
 70360-FNRD3,Foundry Ridge Energy Center LLC,Invenergy Services LLC,Natural Gas Fired Combustion Turbine,NG,108,WI,Walworth,"(P) Planned for installation, but regulatory approvals not initiated",2028-08,42.583072,-88.72461
@@ -64,7 +64,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 6085-19A,R M Schahfer,Northern Indiana Pub Serv Co,Natural Gas Fired Combustion Turbine,NG,71.5,IN,Jasper,(T) Regulatory approvals received. Not under construction,2027-12,41.2164,-87.0261
 6085-19B,R M Schahfer,Northern Indiana Pub Serv Co,Natural Gas Fired Combustion Turbine,NG,71.5,IN,Jasper,(T) Regulatory approvals received. Not under construction,2027-12,41.2164,-87.0261
 6085-19C,R M Schahfer,Northern Indiana Pub Serv Co,Natural Gas Fired Combustion Turbine,NG,71.5,IN,Jasper,(T) Regulatory approvals received. Not under construction,2027-12,41.2164,-87.0261
-201-4,Thomas Fitzhugh,Arkansas Electric Coop Corp,Natural Gas Fired Combustion Turbine,NG,69.3,AR,Franklin,"(TS) Construction complete, but not yet in commercial operation",2026-11,35.462382,-93.80493
+201-4,Thomas Fitzhugh,Arkansas Electric Coop Corp,Natural Gas Fired Combustion Turbine,NG,69.3,AR,Franklin,"(TS) Construction complete, but not yet in commercial operation",2026-12,35.462382,-93.80493
 3407-G1,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
 3407-G10,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
 3407-G11,Kingston,Tennessee Valley Authority,Natural Gas Fired Combustion Turbine,NG,65.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
@@ -123,14 +123,14 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 56948-COE22,Coolidge Generation Station,Salt River Project,Natural Gas Fired Combustion Turbine,NG,49.5,AZ,Pinal,"(U) Under construction, less than or equal to 50 percent complete",2027-07,32.917399,-111.5033
 56948-COE23,Coolidge Generation Station,Salt River Project,Natural Gas Fired Combustion Turbine,NG,49.5,AZ,Pinal,"(U) Under construction, less than or equal to 50 percent complete",2027-07,32.917399,-111.5033
 56948-COE24,Coolidge Generation Station,Salt River Project,Natural Gas Fired Combustion Turbine,NG,49.5,AZ,Pinal,"(U) Under construction, less than or equal to 50 percent complete",2027-07,32.917399,-111.5033
-55455-CT10,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.334562,-112.8406
-55455-CT3,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.334562,-112.8406
-55455-CT4,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.334562,-112.8406
-55455-CT5,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.334562,-112.8406
-55455-CT6,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.334562,-112.8406
-55455-CT7,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.334562,-112.8406
-55455-CT8,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.334562,-112.8406
-55455-CT9,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(U) Under construction, less than or equal to 50 percent complete",2027-10,33.334562,-112.8406
+55455-CT10,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-10,33.334562,-112.8406
+55455-CT3,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-10,33.334562,-112.8406
+55455-CT4,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-10,33.334562,-112.8406
+55455-CT5,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-10,33.334562,-112.8406
+55455-CT6,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-10,33.334562,-112.8406
+55455-CT7,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-10,33.334562,-112.8406
+55455-CT8,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-10,33.334562,-112.8406
+55455-CT9,Red Hawk,Arizona Public Service Co,Natural Gas Fired Combustion Turbine,NG,49,AZ,Maricopa,"(V) Under construction, more than 50 percent complete",2027-10,33.334562,-112.8406
 7903-MGS3,McCartney,City Utilities of Springfield - (MO),Natural Gas Fired Combustion Turbine,NG,48.9,MO,Greene,"(U) Under construction, less than or equal to 50 percent complete",2027-01,37.248431,-93.17084
 7903-MGS4,McCartney,City Utilities of Springfield - (MO),Natural Gas Fired Combustion Turbine,NG,48.9,MO,Greene,"(U) Under construction, less than or equal to 50 percent complete",2027-01,37.248431,-93.17084
 7903-MGS5,McCartney,City Utilities of Springfield - (MO),Natural Gas Fired Combustion Turbine,NG,48.9,MO,Greene,"(U) Under construction, less than or equal to 50 percent complete",2027-01,37.248431,-93.17084
@@ -175,16 +175,17 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69799-TM006,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
 69799-TM007,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combustion Turbine,NG,18.9,TX,Carson,"(P) Planned for installation, but regulatory approvals not initiated",2027-09,35.283762,-101.569
 69868-UNIT1,Fulton Energy Center,Missouri Jnt Muni.Pwr Elec. Ut. Comm.,Natural Gas Fired Combustion Turbine,NG,16.5,MO,Callaway,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,38.8676,-91.94778
-3338-3,Aberdeen CT,NorthWestern Energy - (SD),Natural Gas Fired Combustion Turbine,NG,16,SD,Brown,"(V) Under construction, more than 50 percent complete",2026-10,45.429884,-98.49396
-3338-4,Aberdeen CT,NorthWestern Energy - (SD),Natural Gas Fired Combustion Turbine,NG,16,SD,Brown,"(V) Under construction, more than 50 percent complete",2026-10,45.429884,-98.49396
+3338-3,Aberdeen CT,NorthWestern Energy - (SD),Natural Gas Fired Combustion Turbine,NG,16,SD,Brown,"(V) Under construction, more than 50 percent complete",2026-12,45.429884,-98.49396
+3338-4,Aberdeen CT,NorthWestern Energy - (SD),Natural Gas Fired Combustion Turbine,NG,16,SD,Brown,"(V) Under construction, more than 50 percent complete",2026-12,45.429884,-98.49396
 10328-GEN11,T B Simon Power Plant,Michigan State University,Natural Gas Fired Combustion Turbine,NG,15,MI,Ingham,"(U) Under construction, less than or equal to 50 percent complete",2028-01,42.7178,-84.4836
-1239-13,Riverton,Empire District Electric Co,Natural Gas Fired Combustion Turbine,NG,13.5,KS,Cherokee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.072616,-94.6987
-1239-14,Riverton,Empire District Electric Co,Natural Gas Fired Combustion Turbine,NG,13.5,KS,Cherokee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.072616,-94.6987
+1239-13,Riverton,Empire District Electric Co,Natural Gas Fired Combustion Turbine,NG,13.5,KS,Cherokee,"(TS) Construction complete, but not yet in commercial operation",2026-12,37.072616,-94.6987
+1239-14,Riverton,Empire District Electric Co,Natural Gas Fired Combustion Turbine,NG,13.5,KS,Cherokee,"(TS) Construction complete, but not yet in commercial operation",2026-12,37.072616,-94.6987
 70560-GWF-1,Grey Wolf,ET Genco LLC,Natural Gas Fired Combustion Turbine,NG,10,TX,Winkler,"(TS) Construction complete, but not yet in commercial operation",2027-03,31.769814,-103.2694
-70561-WT2-1,WT2,ET Genco LLC,Natural Gas Fired Combustion Turbine,NG,10,TX,Winkler,"(TS) Construction complete, but not yet in commercial operation",2027-05,31.83611,-103.305
+70561-WT2-1,WT2,ET Genco LLC,Natural Gas Fired Combustion Turbine,NG,10,TX,Winkler,"(TS) Construction complete, but not yet in commercial operation",2027-04,31.83611,-103.305
 54918-TM02,Ergon Refining Vicksburg,Ergon Refining Inc,Natural Gas Fired Combustion Turbine,NG,7.9,MS,Warren,"(U) Under construction, less than or equal to 50 percent complete",2027-09,32.388271,-90.90834
 54918-TM03,Ergon Refining Vicksburg,Ergon Refining Inc,Natural Gas Fired Combustion Turbine,NG,7.9,MS,Warren,"(U) Under construction, less than or equal to 50 percent complete",2027-09,32.388271,-90.90834
-67265-CTG-1,CHP Plant,Howard University,Natural Gas Fired Combustion Turbine,NG,5.7,DC,District of Columbia,"(V) Under construction, more than 50 percent complete",2026-11,38.92033,-77.021
+58897-CHPCT,Temple SEGF,Temple University,Natural Gas Fired Combustion Turbine,NG,5.8,PA,Philadelphia,"(V) Under construction, more than 50 percent complete",2027-01,39.98,-75.15056
+67265-CTG-1,CHP Plant,Howard University,Natural Gas Fired Combustion Turbine,NG,5.7,DC,District of Columbia,"(V) Under construction, more than 50 percent complete",2026-12,38.92033,-77.021
 63535-GEN02,Solar BESS Hybrid,Cobb Electric Membership Corporation,Natural Gas Fired Combustion Turbine,NG,2,GA,Cobb,"(V) Under construction, more than 50 percent complete",2027-05,33.979348,-84.55613
 63535-GEN03,Solar BESS Hybrid,Cobb Electric Membership Corporation,Natural Gas Fired Combustion Turbine,NG,2,GA,Cobb,"(V) Under construction, more than 50 percent complete",2027-05,33.979348,-84.55613
 63535-GEN04,Solar BESS Hybrid,Cobb Electric Membership Corporation,Natural Gas Fired Combustion Turbine,NG,2,GA,Cobb,"(V) Under construction, more than 50 percent complete",2027-05,33.979348,-84.55613

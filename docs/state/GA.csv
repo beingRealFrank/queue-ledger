@@ -16,12 +16,11 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68553-BACN2,SR Bacon II,"SR Bacon II, LLC",Solar Photovoltaic,SUN,115,GA,Bacon,(T) Regulatory approvals received. Not under construction,2027-12,31.511392,-82.33683
 68563-NORWD,SR Norwood,"SR Norwood, LLC",Solar Photovoltaic,SUN,107,GA,Warren,(T) Regulatory approvals received. Not under construction,2027-12,33.435993,-82.76361
 68554-BACN3,SR Bacon III,"SR Bacon III, LLC",Solar Photovoltaic,SUN,100,GA,Bacon,(T) Regulatory approvals received. Not under construction,2027-12,31.511392,-82.33683
-68253-ROCH1,SR Rochelle I,"SR Rochelle I, LLC",Solar Photovoltaic,SUN,90,GA,Wilcox,"(V) Under construction, more than 50 percent complete",2026-12,31.923234,-83.45427
+68253-ROCH1,SR Rochelle,"SR Rochelle, LLC",Solar Photovoltaic,SUN,90,GA,Wilcox,"(V) Under construction, more than 50 percent complete",2026-12,31.923234,-83.45427
 68226-BACON,SR Bacon,"SR Bacon, LLC",Solar Photovoltaic,SUN,85,GA,Bacon,"(V) Under construction, more than 50 percent complete",2026-12,31.511392,-82.33683
 70084-AC,Alligator Creek Solar,"Alligator Creek Solar, LLC",Solar Photovoltaic,SUN,80,GA,Wheeler,"(V) Under construction, more than 50 percent complete",2026-12,32.104,-82.844
 67989-PGR28,Drawhorn Solar,"Drawhorn Solar, LLC",Solar Photovoltaic,SUN,80,GA,Hancock,(L) Regulatory approvals pending. Not under construction,2027-11,33.214449,-83.04206
 69823-CABOK,Cabokenze Energy Storage,"Cabokenze Energy Storage, LLC",Batteries,MWH,76,GA,Burke,"(P) Planned for installation, but regulatory approvals not initiated",2027-11,33.037636,-82.11924
-708-5,Hammond,Georgia Power Co,Batteries,MWH,57.5,GA,Floyd,"(V) Under construction, more than 50 percent complete",2026-10,34.2528,-85.3456
 67988-PGR28,Sandersville Solar,"Sandersville Solar, LLC",Solar Photovoltaic,SUN,50,GA,Washington,(L) Regulatory approvals pending. Not under construction,2027-10,32.987105,-82.75254
 68565-ROCH2,SR Rochelle II,"SR Rochelle II, LLC",Solar Photovoltaic,SUN,50,GA,Wilcox,(T) Regulatory approvals received. Not under construction,2027-12,32.030665,-83.506
 63535-GEN02,Solar BESS Hybrid,Cobb Electric Membership Corporation,Natural Gas Fired Combustion Turbine,NG,2,GA,Cobb,"(V) Under construction, more than 50 percent complete",2027-05,33.979348,-84.55613

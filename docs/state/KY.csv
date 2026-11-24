@@ -7,13 +7,15 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 64658-AFS,"AEUG Fleming Solar, LLC","Acciona Energy USA Global, LLC",Solar Photovoltaic,SUN,188.5,KY,Fleming,"(U) Under construction, less than or equal to 50 percent complete",2028-05,38.429925,-83.77156
 69929-WC001,Weirs Creek,Weirs Creek Solar LLC,Solar Photovoltaic,SUN,150,KY,Hopkins,"(U) Under construction, less than or equal to 50 percent complete",2027-05,37.423648,-87.69048
 1355-BESS,E W Brown,Kentucky Utilities Co,Batteries,MWH,125,KY,Mercer,"(V) Under construction, more than 50 percent complete",2027-05,37.78831,-84.71257
-68293-FRON,Frontier Solar,"FRON bn, LLC",Solar Photovoltaic,SUN,120,KY,Washington,(T) Regulatory approvals received. Not under construction,2027-10,37.605063,-85.24822
+70595-SOLAR,Mercer County Solar,Kentucky Utilities Co,Solar Photovoltaic,SUN,120,KY,Mercer,"(U) Under construction, less than or equal to 50 percent complete",2026-12,37.81,-84.84
+70594-SOLAR,Marion County Solar,Kentucky Utilities Co,Solar Photovoltaic,SUN,120,KY,Marion,"(V) Under construction, more than 50 percent complete",2027-06,37.58,-85.22
+68293-FRON,Frontier Solar,"FRON bn, LLC",Solar Photovoltaic,SUN,120,KY,Washington,"(U) Under construction, less than or equal to 50 percent complete",2027-10,37.605063,-85.24822
 68897-PVSI,New Frontiers Solar,Clover Creek Solar Project LLC d/b/a New Frontiers Solar Park,Solar Photovoltaic,SUN,100,KY,Breckinridge,(L) Regulatory approvals pending. Not under construction,2027-06,37.79502,-86.5068
 64659-AMS,"AEUG Madison Solar, LLC","Acciona Energy USA Global, LLC",Solar Photovoltaic,SUN,100,KY,Madison,"(U) Under construction, less than or equal to 50 percent complete",2028-09,37.822029,-84.30052
 69742-PV3,Cooperative Solar Three-Marion,"East Kentucky Power Coop, Inc",Solar Photovoltaic,SUN,96,KY,Marion,(T) Regulatory approvals received. Not under construction,2027-08,37.605113,-85.24824
 67990-BM1,Bright Mountain Solar,Avangrid Power LLC,Solar Photovoltaic,SUN,80,KY,Perry,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,37.29003,-83.28286
 68249-METTR,SR Horus,"SR Horus, LLC",Solar Photovoltaic,SUN,79.7,KY,Simpson,"(V) Under construction, more than 50 percent complete",2027-09,36.661,-86.534
-68000-BLUMN,Blue Moon,Blue Moon Energy LLC,Solar Photovoltaic,SUN,70,KY,Harrison,"(V) Under construction, more than 50 percent complete",2026-10,38.37118,-84.2578
+68000-BLUMN,Blue Moon,Blue Moon Energy LLC,Solar Photovoltaic,SUN,70,KY,Harrison,"(TS) Construction complete, but not yet in commercial operation",2026-11,38.37118,-84.2578
 69793-HEPV1,Henderson County Solar,Stellar Renewable Power,Solar Photovoltaic,SUN,51.1,KY,Henderson,"(U) Under construction, less than or equal to 50 percent complete",2027-09,37.799412,-87.62325
 69741-PV2,Cooperative Solar Two-Fayette,"East Kentucky Power Coop, Inc",Solar Photovoltaic,SUN,40,KY,Fayette,"(U) Under construction, less than or equal to 50 percent complete",2027-11,38.035403,-84.31579
 68453-1,KYMEA Energy Center I,Kentucky Municipal Energy Agency,Natural Gas Internal Combustion Engine,NG,18.8,KY,Hopkins,"(V) Under construction, more than 50 percent complete",2027-06,37.319733,-87.55111
@@ -32,10 +34,10 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69726-L7,Liberty Station,"East Kentucky Power Coop, Inc",Natural Gas Internal Combustion Engine,NG,18.1,KY,Casey,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,37.369331,-84.95767
 69726-L8,Liberty Station,"East Kentucky Power Coop, Inc",Natural Gas Internal Combustion Engine,NG,18.1,KY,Casey,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,37.369331,-84.95767
 69726-L9,Liberty Station,"East Kentucky Power Coop, Inc",Natural Gas Internal Combustion Engine,NG,18.1,KY,Casey,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,37.369331,-84.95767
-62749-1,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
-62749-2,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
-62749-5,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
-62749-6,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
+62749-1,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
+62749-2,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
+62749-5,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
+62749-6,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
 62390-6,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
 62390-NA1,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
 62390-NA2,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.6,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
@@ -44,8 +46,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 62748-2,Evelyn Hydroelectric Project,Lock 13 Hydro Partners,Conventional Hydroelectric,WAT,0.6,KY,Lee,(T) Regulatory approvals received. Not under construction,2029-12,37.601982,-83.83297
 62748-5,Evelyn Hydroelectric Project,Lock 13 Hydro Partners,Conventional Hydroelectric,WAT,0.6,KY,Lee,(T) Regulatory approvals received. Not under construction,2029-12,37.601982,-83.83297
 62748-6,Evelyn Hydroelectric Project,Lock 13 Hydro Partners,Conventional Hydroelectric,WAT,0.6,KY,Lee,(T) Regulatory approvals received. Not under construction,2029-12,37.601982,-83.83297
-62749-3,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
-62749-4,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-10,37.552399,-83.77001
+62749-3,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
+62749-4,Heidelberg Hydroelectric Project,"Lock 14 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Lee,"(TS) Construction complete, but not yet in commercial operation",2026-11,37.552399,-83.77001
 62390-NA3,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
 62390-NA4,KY No. 11 L&D Hydroelectric Project,"Lock 11 Hydro Partners, LLC",Conventional Hydroelectric,WAT,0.2,KY,Estill,(T) Regulatory approvals received. Not under construction,2027-11,37.78401,-84.10329
 62748-3,Evelyn Hydroelectric Project,Lock 13 Hydro Partners,Conventional Hydroelectric,WAT,0.2,KY,Lee,(T) Regulatory approvals received. Not under construction,2029-12,37.601982,-83.83297

@@ -28,7 +28,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68564-PURYR,SR Puryear,"SR Puryear, LLC",Solar Photovoltaic,SUN,50,TN,Henry,"(V) Under construction, more than 50 percent complete",2027-08,36.449856,-88.30107
 65445-RBESS,Ridgely Energy Farm,"Leeward Asset Management, LLC",Batteries,MWH,50,TN,Lake,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,36.306319,-89.46202
 68229-DEMRK,SR Denmark,"SR Denmark, LLC",Solar Photovoltaic,SUN,42,TN,Madison,"(V) Under construction, more than 50 percent complete",2026-12,35.563633,-88.93254
-64255-VBESS,Vonore Battery Energy Storage System,Tennessee Valley Authority,Batteries,MWH,20,TN,Monroe,"(U) Under construction, less than or equal to 50 percent complete",2026-12,35.61543,-84.27489
+64255-VBESS,Vonore Battery Energy Storage System,Tennessee Valley Authority,Batteries,MWH,20,TN,Monroe,"(U) Under construction, less than or equal to 50 percent complete",2027-07,35.61543,-84.27489
 68255-SHELB,SR Shelby,"SR Shelby, LLC",Solar Photovoltaic,SUN,9.8,TN,Shelby,(T) Regulatory approvals received. Not under construction,2027-12,35.353292,-89.81498
 69867-SHEII,"SR Shelby II, LLC","SR Shelby II, LLC",Solar Photovoltaic,SUN,6,TN,Shelby,(T) Regulatory approvals received. Not under construction,2028-02,35.353646,-89.8109
 68110-MILAN,SR Milan,"SR Milan, LLC",Solar Photovoltaic,SUN,2.8,TN,Gibson,(T) Regulatory approvals received. Not under construction,2028-07,35.945285,-88.75989

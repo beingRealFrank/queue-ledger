@@ -27,7 +27,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 66701-BB1,Buffalo Branch Wind and Solar LLC,Buffalo Branch Wind and Solar LLC,Onshore Wind Turbine,WND,247,MO,Dade,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,37.38332,-93.92999
 62437-WT,Dodge County Wind,"Dodge County Wind, LLC",Onshore Wind Turbine,WND,228,MN,Dodge,(T) Regulatory approvals received. Not under construction,2027-12,44.005633,-92.95039
 69658-NS2,New Salem Wind II,New Salem Wind II,Onshore Wind Turbine,WND,226,ND,Morton,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,46.797929,-101.4344
-67356-6794,Throckmorton Wind,"Throckmorton Wind, LLC",Onshore Wind Turbine,WND,225.6,TX,Haskell,"(V) Under construction, more than 50 percent complete",2026-12,33.213466,-99.47612
+67356-6794,Throckmorton Wind,"Throckmorton Wind, LLC",Onshore Wind Turbine,WND,225.6,TX,Haskell,"(TS) Construction complete, but not yet in commercial operation",2026-12,33.213466,-99.47612
 66651-C2-92,Arco Wind and Solar Project,PacifiCorp,Onshore Wind Turbine,WND,206,ID,Bonneville,(T) Regulatory approvals received. Not under construction,2028-12,43.557,-112.4415
 65049-CPCW1,Pike Creek Wind,Repsol Renewables NA,Onshore Wind Turbine,WND,202.5,IL,Logan,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,40.059,-89.537
 69659-RBW,Red Butte Wind,Red Butte Wind,Onshore Wind Turbine,WND,202,ND,Morton,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,47.063928,-101.4753
@@ -40,8 +40,6 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68843-TLCP,Tupper Lake Wind,Tupper Lake,Onshore Wind Turbine,WND,200,MI,Ionia,(L) Regulatory approvals pending. Not under construction,2029-12,42.829,-85.138
 68342-HOHI,Hop Hill Solar Generation and BESS,"HOHI bn, LLC",Onshore Wind Turbine,WND,200,WA,Benton,(L) Regulatory approvals pending. Not under construction,2031-09,46.324,-119.822
 59047-GEN 1,"Gallegos Wind Farm, Phase 1",Gallegos Wind Farm LLC,Onshore Wind Turbine,WND,190,NM,Union,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,36.580281,-103.849
-68319-NIM,Nimbus Wind Farm,Nimbus Wind Farm LLC,Onshore Wind Turbine,WND,183,AR,Carroll,"(TS) Construction complete, but not yet in commercial operation",2026-10,36.27118,-93.40682
-69579-HMWT,"Honey Mesquite Wind, LLC","RWE Americas, LLC",Onshore Wind Turbine,WND,180.5,TX,Sterling,"(TS) Construction complete, but not yet in commercial operation",2026-12,32.030383,-101.1672
 62846-WWE1,Water Valley Wind Energy,"Tri Global Energy, LLC",Onshore Wind Turbine,WND,180,TX,Tom Green,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,31.611223,-100.8133
 68413-OT,Old Town Wind,Old Town Wind LLC,Onshore Wind Turbine,WND,178,IL,Marshall,"(P) Planned for installation, but regulatory approvals not initiated",2029-10,40.988976,-89.17326
 68459-5961,"Bob Creek Wind, LLC","Bob Creek Wind, LLC",Onshore Wind Turbine,WND,175,TX,Sterling,"(P) Planned for installation, but regulatory approvals not initiated",2028-04,31.868813,-101.2275
@@ -50,7 +48,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 63342-BKII,McCrae Wind Energy II,"McCrae Wind Energy II, LLC",Onshore Wind Turbine,WND,162.1,TX,Glasscock,"(TS) Construction complete, but not yet in commercial operation",2026-12,31.754037,-101.6752
 66651-37565,Arco Wind and Solar Project,PacifiCorp,Onshore Wind Turbine,WND,153,ID,Bonneville,(T) Regulatory approvals received. Not under construction,2027-12,43.557,-112.4415
 59971-ESTR1,Easter,"Enbridge Wind (Easter), LLC",Onshore Wind Turbine,WND,152,TX,Castro,"(V) Under construction, more than 50 percent complete",2027-03,34.668882,-102.3517
-67347-OF1,Osagrove Flats Wind,Avangrid Power LLC,Onshore Wind Turbine,WND,150,IL,LaSalle,"(TS) Construction complete, but not yet in commercial operation",2026-12,40.941383,-88.97152
+67347-OF1,Osagrove Flats Wind,Avangrid Power LLC,Onshore Wind Turbine,WND,150,IL,LaSalle,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.941383,-88.97152
 60272-WT1,"Cone Renewable Energy Project, LLC","Cone Renewable Energy Project, LLC",Onshore Wind Turbine,WND,150,TX,Crosby,(L) Regulatory approvals pending. Not under construction,2027-11,33.8093,-101.3424
 68766-PFGWP,Pioneer Field Wind Power,"Greenalia Wind Power Pioneer Field, LLC",Onshore Wind Turbine,WND,136.2,TX,Tom Green,"(P) Planned for installation, but regulatory approvals not initiated",2030-11,31.19494,-100.2118
 68191-HRTG,Heritage Wind,"Heritage Wind, LLC",Onshore Wind Turbine,WND,126,NY,Orleans,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,43.170976,-78.17454
@@ -59,7 +57,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 67346-Q1335,Hoffman Falls Wind 2,Liberty Renewables Incorporated,Onshore Wind Turbine,WND,103.5,NY,Madison,"(P) Planned for installation, but regulatory approvals not initiated",2029-03,42.964628,-75.75371
 62894-WT,High Bridge Wind Project,"High Bridge Wind, LLC",Onshore Wind Turbine,WND,103.2,NY,Chenango,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,42.437923,-75.48056
 68228-Q1448,Agricola Wind,Liberty Renewables Incorporated,Onshore Wind Turbine,WND,99,NY,Cayuga,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,42.755287,-76.53902
-70235-68372,Mulqueeney Wind Energy,Mulqueeney Wind Energy LLC,Onshore Wind Turbine,WND,80,CA,Alameda,"(V) Under construction, more than 50 percent complete",2026-10,37.69742,-121.5891
+70235-68372,Mulqueeney Wind Energy,Mulqueeney Wind Energy LLC,Onshore Wind Turbine,WND,80,CA,Alameda,"(V) Under construction, more than 50 percent complete",2026-11,37.69742,-121.5891
 63653-SNDHC,Sand Hill C,Viracocha Wind LLC,Onshore Wind Turbine,WND,80,CA,Alameda,(L) Regulatory approvals pending. Not under construction,2027-12,37.769695,-121.5961
 58175-JWPI,Jawbone Wind Project,Triple Oak Power LLC,Onshore Wind Turbine,WND,80,MT,Wheatland,"(U) Under construction, less than or equal to 50 percent complete",2029-12,46.508056,-109.7278
 61511-BCNE,Burt County Wind,"RWE Americas, LLC",Onshore Wind Turbine,WND,75,NE,Burt,(L) Regulatory approvals pending. Not under construction,2029-09,41.886,-96.345

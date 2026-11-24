@@ -1,6 +1,6 @@
 queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
 64669-KOV4A,Notch Peak Solar LLC,Notch Peak Solar LLC,Solar Photovoltaic,SUN,324,UT,Millard,(T) Regulatory approvals received. Not under construction,2028-09,39.520131,-112.6602
-69930-MS2,Milford Solar Phase II,"Milford Solar Phase II, LLC",Solar Photovoltaic,SUN,310,UT,Beaver,"(U) Under construction, less than or equal to 50 percent complete",2027-09,38.522442,-113.0148
+69930-MS2,Milford Solar Phase II,"Milford Solar Phase II, LLC",Solar Photovoltaic,SUN,310,UT,Beaver,"(V) Under construction, more than 50 percent complete",2027-09,38.522442,-113.0148
 66426-1EUS,Utah Solar 1,"ECG Utah Solar1, LLC",Solar Photovoltaic,SUN,300,UT,Millard,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,39.504761,-112.5077
 68371-REBU,Red Butte Solar and Storage,BrightNight Power,Solar Photovoltaic,SUN,300,UT,Iron,(L) Regulatory approvals pending. Not under construction,2029-04,37.6134,-113.644
 68371-REBU2,Red Butte Solar and Storage,BrightNight Power,Batteries,MWH,300,UT,Iron,(L) Regulatory approvals pending. Not under construction,2029-04,37.6134,-113.644
@@ -16,7 +16,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 65823-PARB,Parowan Solar,"Leeward Asset Management, LLC",Batteries,MWH,58,UT,Iron,"(P) Planned for installation, but regulatory approvals not initiated",2028-02,37.875795,-112.8885
 65823-PARS0,Parowan Solar,"Leeward Asset Management, LLC",Solar Photovoltaic,SUN,58,UT,Iron,"(P) Planned for installation, but regulatory approvals not initiated",2028-02,37.875795,-112.8885
 68068-CP1G2,Cape Generating Station,Cape HoldCo LLC,Geothermal,GEO,43,UT,Beaver,"(TS) Construction complete, but not yet in commercial operation",2027-01,38.506706,-112.9175
-68068-CP1G3,Cape Generating Station,Cape HoldCo LLC,Geothermal,GEO,43,UT,Beaver,"(V) Under construction, more than 50 percent complete",2027-01,38.506706,-112.9175
+68068-CP1G3,Cape Generating Station,Cape HoldCo LLC,Geothermal,GEO,43,UT,Beaver,"(TS) Construction complete, but not yet in commercial operation",2027-01,38.506706,-112.9175
 69668-BCIC1,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027
 69668-BCIC2,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027
 69668-BCIC3,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027

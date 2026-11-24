@@ -1,7 +1,7 @@
 queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
 67435-SRWND,Sunrise Wind,Orsted Wind Power North America LLC,Offshore Wind Turbine,WND,924,NY,Suffolk,"(U) Under construction, less than or equal to 50 percent complete",2027-10,40.977859,-71.04454
-68443-EMP01,Empire Wind 1,Empire Offshore Wind LLC,Offshore Wind Turbine,WND,810,NY,Kings,"(V) Under construction, more than 50 percent complete",2027-09,40.32,-73.42
-64163-11111,Hecate Energy Cider Solar LLC,Greenbacker Renewable Energy Corporation,Solar Photovoltaic,SUN,557,NY,Genesee,"(U) Under construction, less than or equal to 50 percent complete",2026-12,43.097336,-78.23041
+68443-EMP01,Empire Wind 1,Empire Offshore Wind LLC,Offshore Wind Turbine,WND,810,NY,Kings,"(V) Under construction, more than 50 percent complete",2027-10,40.32,-73.42
+64163-11111,Hecate Energy Cider Solar LLC,Greenbacker Renewable Energy Corporation,Solar Photovoltaic,SUN,557,NY,Genesee,"(V) Under construction, more than 50 percent complete",2026-12,43.097336,-78.23041
 62954-GEN1,Alle-Catt Wind Energy LLC,Invenergy Services LLC,Onshore Wind Turbine,WND,340,NY,Allegany,"(V) Under construction, more than 50 percent complete",2026-12,42.262038,-78.20154
 68507-EEC,Excelsior Energy Center,"Excelsior Energy Center, LLC",Solar Photovoltaic,SUN,280,NY,Genesee,"(TS) Construction complete, but not yet in commercial operation",2026-11,43.064852,-78.07681
 64911-CSRS1,South Ripley Solar,Repsol Renewables NA,Solar Photovoltaic,SUN,270,NY,Chautauqua,(L) Regulatory approvals pending. Not under construction,2027-12,42.198116,-79.75789
@@ -18,8 +18,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 66675-ALOAK,"Alfred Oaks Solar, LLC","Alfred Oaks Solar, LLC",Solar Photovoltaic,SUN,115.2,NY,Allegany,"(P) Planned for installation, but regulatory approvals not initiated",2029-12,42.21,-77.82
 67346-Q1335,Hoffman Falls Wind 2,Liberty Renewables Incorporated,Onshore Wind Turbine,WND,103.5,NY,Madison,"(P) Planned for installation, but regulatory approvals not initiated",2029-03,42.964628,-75.75371
 62894-WT,High Bridge Wind Project,"High Bridge Wind, LLC",Onshore Wind Turbine,WND,103.2,NY,Chenango,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,42.437923,-75.48056
-68473-BROOK,Brookside Solar,AES Clean Energy,Solar Photovoltaic,SUN,100,NY,Franklin,(L) Regulatory approvals pending. Not under construction,2027-09,44.932,-74.1302
 67090-FMS,Flint Mine Solar,"Flint Mine Solar, LLC",Solar Photovoltaic,SUN,100,NY,Greene,(T) Regulatory approvals received. Not under construction,2028-03,42.313611,-73.84556
+68473-BROOK,Brookside Solar,AES Clean Energy,Solar Photovoltaic,SUN,100,NY,Franklin,(L) Regulatory approvals pending. Not under construction,2028-05,44.932,-74.1302
 67325-NYRIV,Riverside Solar LLC,AES Clean Energy,Solar Photovoltaic,SUN,100,NY,St Lawrence,"(P) Planned for installation, but regulatory approvals not initiated",2029-07,44.06585,-76.1222
 67324-NYSOM,Somerset Solar LLC,AES Clean Energy,Solar Photovoltaic,SUN,100,NY,Niagara,"(P) Planned for installation, but regulatory approvals not initiated",2029-10,43.352072,-78.61036
 68228-Q1448,Agricola Wind,Liberty Renewables Incorporated,Onshore Wind Turbine,WND,99,NY,Cayuga,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,42.755287,-76.53902
@@ -38,7 +38,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 63862-Q#828,SunEast Valley Solar Project,"Altus Power America Management, LLC",Solar Photovoltaic,SUN,20,NY,Tioga,"(U) Under construction, less than or equal to 50 percent complete",2027-05,42.083795,-76.2477
 62816-Q670,SunEast Skyline Solar Project,SunEast Skyline Solar LLC,Solar Photovoltaic,SUN,20,NY,Oneida,"(P) Planned for installation, but regulatory approvals not initiated",2027-06,43.063069,-75.45195
 64037-Q#913,SunEast Manchester Solar Project,SunEast Manchester Solar LLC,Solar Photovoltaic,SUN,20,NY,Ontario,(T) Regulatory approvals received. Not under construction,2027-06,42.958318,-77.19503
-63901-Q#865,SunEast Flat Hill Solar Project,"Altus Power America Management, LLC",Solar Photovoltaic,SUN,20,NY,Herkimer,"(V) Under construction, more than 50 percent complete",2027-07,43.044363,-74.79632
+63901-Q#865,SunEast Flat Hill Solar Project,"Altus Power America Management, LLC",Solar Photovoltaic,SUN,20,NY,Herkimer,"(V) Under construction, more than 50 percent complete",2027-09,43.044363,-74.79632
 62895-Q581,SunEast Hills Solar Project,Hills Solar NY LLC,Solar Photovoltaic,SUN,20,NY,Herkimer,(T) Regulatory approvals received. Not under construction,2027-10,43.068296,-74.84923
 63863-Q#885,SunEast Grassy Knoll Solar Project,Grassy Knoll Solar NY LLC,Solar Photovoltaic,SUN,20,NY,Herkimer,(T) Regulatory approvals received. Not under construction,2027-10,43.065379,-74.84372
 62896-Q586,SunEast Watkins Road Solar Project,Watkins Road Solar NY LLC,Solar Photovoltaic,SUN,20,NY,Herkimer,(T) Regulatory approvals received. Not under construction,2027-11,43.06127,-75.05584
@@ -48,39 +48,39 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 66682-NY10,"KCE NY 10, LLC",Key Capture Energy,Batteries,MWH,20,NY,Erie,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,42.907908,-78.66011
 65934-7,Highbanks Solar,"Highbanks Solar, LLC",Solar Photovoltaic,SUN,20,NY,Livingston,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,42.737227,-77.91431
 70260-SCIPI,Scipio Solar,"Altus Power America Management, LLC",Solar Photovoltaic,SUN,18,NY,Cayuga,"(V) Under construction, more than 50 percent complete",2027-01,42.78732,-76.32378
-66785-ELVAK,Elevate Arthur Kill,"Lighthouse Arthur Kill, LLC",Batteries,MWH,15.1,NY,Richmond,"(TS) Construction complete, but not yet in commercial operation",2026-10,40.590066,-74.19836
+66785-ELVAK,Elevate Arthur Kill,"Lighthouse Arthur Kill, LLC",Batteries,MWH,15.1,NY,Richmond,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.590066,-74.19836
 57472-CTG,TBE-Montgomery LLC,TBE Montgomery LLC,Other Waste Biomass,OBG,12,NY,Orange,"(U) Under construction, less than or equal to 50 percent complete",2039-12,41.4885,-74.2262
 57472-STG,TBE-Montgomery LLC,TBE Montgomery LLC,Other Waste Biomass,OBG,9,NY,Orange,"(U) Under construction, less than or equal to 50 percent complete",2039-12,41.4885,-74.2262
 69180-11254,Cold Springs,Generate Capital,Solar Photovoltaic,SUN,5,NY,Onondaga,"(TS) Construction complete, but not yet in commercial operation",2026-11,43.137912,-76.27779
-69310-23220,SL Pembroke 2,"SL Pembroke 2, LLC",Solar Photovoltaic,SUN,5,NY,Genesee,"(V) Under construction, more than 50 percent complete",2026-11,43.028056,-78.45694
-69384-MALL2,Mallory South PV II,Mallory South PV II LLC,Solar Photovoltaic,SUN,5,NY,Oswego,"(V) Under construction, more than 50 percent complete",2026-11,43.2669,-76.137
-69756-23212,SL Dunkirk,"SL Dunkirk, LLC",Solar Photovoltaic,SUN,5,NY,Chautauqua,"(V) Under construction, more than 50 percent complete",2026-11,42.463685,-79.34316
-67609-21599,NY ELBA 7195 OAK ORCHARD RD - Genesee 1,NY CDG Genesee 1 LLC,Solar Photovoltaic,SUN,5,NY,Genesee,"(U) Under construction, less than or equal to 50 percent complete",2026-12,43.064414,-78.18456
 69205-11249,Lodi I,Generate Capital,Solar Photovoltaic,SUN,5,NY,Schuyler,"(V) Under construction, more than 50 percent complete",2026-12,42.588337,-76.84425
 69206-11250,Lodi II,Generate Capital,Solar Photovoltaic,SUN,5,NY,Schuyler,"(V) Under construction, more than 50 percent complete",2026-12,42.586527,-76.84413
 69218-11247,Vienna,Generate Capital,Solar Photovoltaic,SUN,5,NY,Oneida,"(U) Under construction, less than or equal to 50 percent complete",2026-12,43.23835,-75.69039
-69383-MALL1,Mallory South PV I,Mallory South PV I LLC,Solar Photovoltaic,SUN,5,NY,Oswego,"(V) Under construction, more than 50 percent complete",2026-12,43.2669,-76.137
+69310-23220,SL Pembroke 2,"SL Pembroke 2, LLC",Solar Photovoltaic,SUN,5,NY,Genesee,"(V) Under construction, more than 50 percent complete",2026-12,43.028056,-78.45694
+69384-MALL2,Mallory South PV II,Mallory South PV II LLC,Solar Photovoltaic,SUN,5,NY,Oswego,"(V) Under construction, more than 50 percent complete",2026-12,43.2669,-76.137
+69756-23212,SL Dunkirk,"SL Dunkirk, LLC",Solar Photovoltaic,SUN,5,NY,Chautauqua,"(V) Under construction, more than 50 percent complete",2026-12,42.463685,-79.34316
 66497-BHBA1,Bensonhurst Energy Storage 1 LLC,Convergent Energy and Power LP,Batteries,MWH,5,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-01,40.636787,-73.93435
-69372-KNOXS,Knox II PV,Knox II PV LLC,Solar Photovoltaic,SUN,5,NY,Albany,"(V) Under construction, more than 50 percent complete",2027-01,42.67591,-74.07563
+69383-MALL1,Mallory South PV I,Mallory South PV I LLC,Solar Photovoltaic,SUN,5,NY,Oswego,"(V) Under construction, more than 50 percent complete",2027-01,43.2669,-76.137
 67639-LLEAF,Leatherleaf,Dimension Energy LLC,Solar Photovoltaic,SUN,5,NY,Genesee,"(U) Under construction, less than or equal to 50 percent complete",2027-02,43.048657,-78.03491
 69181-11150,Hillview,Generate Capital,Solar Photovoltaic,SUN,5,NY,Warren,"(V) Under construction, more than 50 percent complete",2027-02,43.29864,-73.56023
+69372-KNOXS,Knox II PV,Knox II PV LLC,Solar Photovoltaic,SUN,5,NY,Albany,"(V) Under construction, more than 50 percent complete",2027-02,42.67591,-74.07563
 70002-MACED,Macedon CSG LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,NY,Wayne,"(U) Under construction, less than or equal to 50 percent complete",2027-03,43.083573,-77.26768
 70030-FABIU,Fabius CSG LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,NY,Onondaga,"(U) Under construction, less than or equal to 50 percent complete",2027-03,42.830007,-76.06217
 68863-PV1,Bloomfield Solar,"Bloomfield Solar, LLC",Solar Photovoltaic,SUN,5,NY,Saratoga,"(U) Under construction, less than or equal to 50 percent complete",2027-05,42.989691,-73.88121
 70210-PV1,Cypert - Fallsburg I,"NY Fallsburg II, LLC",Solar Photovoltaic,SUN,5,NY,Sullivan,"(U) Under construction, less than or equal to 50 percent complete",2027-06,41.783296,-74.60056
-70134-243,Westhampton - NY 0243 (Giaquinto 1),CVE US NY Westhampton 243 LLC,Solar Photovoltaic,SUN,5,NY,Suffolk,"(U) Under construction, less than or equal to 50 percent complete",2027-09,40.83636,-72.69044
 70027-CORT2,Cortland CSG 2 LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,5,NY,Cortland,"(U) Under construction, less than or equal to 50 percent complete",2027-11,42.54409,-75.99276
+67609-21599,NY ELBA 7195 OAK ORCHARD RD - Genesee 1,NY CDG Genesee 1 LLC,Solar Photovoltaic,SUN,5,NY,Genesee,"(V) Under construction, more than 50 percent complete",2027-12,43.064414,-78.18456
 68859-PV1,Endicott,"Endicott NY Solar Farm, LLC",Solar Photovoltaic,SUN,5,NY,Broome,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,42.139575,-76.09664
 68861-PV1,Tully 4,CP Tully Four LLC,Solar Photovoltaic,SUN,5,NY,Onondaga,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,42.810918,-76.12014
 68862-PV1,Emerson NY,"Emerson Solar, LLC",Solar Photovoltaic,SUN,5,NY,Columbia,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,42.275414,-73.73512
+70134-243,Westhampton - NY 0243 (Giaquinto 1),CVE US NY Westhampton 243 LLC,Solar Photovoltaic,SUN,5,NY,Suffolk,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,40.83636,-72.69044
 68864-PV1,Bridgewater 2,"Bridgewater Solar 2, LLC",Solar Photovoltaic,SUN,5,NY,Saratoga,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,42.831613,-73.67479
 68865-PV1,Bridgewater 1,"Bridgewater Solar, LLC",Solar Photovoltaic,SUN,5,NY,Saratoga,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,42.831613,-73.67479
-70010-167,Pescara 1,Pescara 1 Solar LLC,Solar Photovoltaic,SUN,4.9,NY,Orleans,"(V) Under construction, more than 50 percent complete",2026-10,43.304517,-78.2196
-70011-168,Pescara 2,Pescara 2 Solar LLC,Solar Photovoltaic,SUN,4.9,NY,Orleans,"(V) Under construction, more than 50 percent complete",2026-10,43.30713,-78.22121
-70242-215,Riverhead - CVE,CVE US NY Riverhead 215 LLC,Solar Photovoltaic,SUN,4.9,NY,Suffolk,"(V) Under construction, more than 50 percent complete",2026-10,40.94233,-72.71824
+70242-215,Riverhead - CVE,CVE US NY Riverhead 215 LLC,Solar Photovoltaic,SUN,4.9,NY,Suffolk,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.94233,-72.71824
 70491-11558,Hacadam Hill Solar,"Hacadam Hill Solar, LLC",Solar Photovoltaic,SUN,4.9,NY,Herkimer,"(V) Under construction, more than 50 percent complete",2026-11,43.015718,-75.19334
-70327-ND012,"Heron Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2026-12,40.618159,-73.93242
+70010-167,Pescara 1,Pescara 1 Solar LLC,Solar Photovoltaic,SUN,4.9,NY,Orleans,"(V) Under construction, more than 50 percent complete",2026-12,43.304517,-78.2196
+70011-168,Pescara 2,Pescara 2 Solar LLC,Solar Photovoltaic,SUN,4.9,NY,Orleans,"(V) Under construction, more than 50 percent complete",2026-12,43.30713,-78.22121
 70490-11886,Grassy Grove Solar East,"Grassy Grove Solar East, LLC",Solar Photovoltaic,SUN,4.9,NY,St Lawrence,"(V) Under construction, more than 50 percent complete",2026-12,44.612392,-75.15269
+70327-ND012,"Heron Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-01,40.618159,-73.93242
 70328-ND013,"Jamaica Community Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.637975,-73.92817
 68870-PV1,Watson 2,"NY Union II, LLC",Solar Photovoltaic,SUN,4.9,NY,Broome,"(U) Under construction, less than or equal to 50 percent complete",2027-06,42.124945,-75.99177
 64541-1,Potic Solar,FPS Potic Solar LLC,Solar Photovoltaic,SUN,4.9,NY,Greene,(L) Regulatory approvals pending. Not under construction,2027-07,42.29559,-73.9012
@@ -94,46 +94,43 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 70309-ND031,Blue Aster B Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.674137,-73.90102
 70310-ND028,Blue Aster C Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.9,NY,Kings,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.674137,-73.90102
 68869-PV1,Watson 1,"NY Union I, LLC",Solar Photovoltaic,SUN,4.8,NY,Broome,"(U) Under construction, less than or equal to 50 percent complete",2027-04,42.124945,-75.99177
-69828-MEXIC,"Mexico PV, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,4.5,NY,Oswego,"(V) Under construction, more than 50 percent complete",2026-10,43.429675,-76.16547
 70311-ND020,Eastern BlueBird Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,4.4,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-09,40.884948,-73.82901
 70315-ND021,"Northern Cardinal Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,4.4,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-09,40.884948,-73.82901
-69276-23219,SL Ashville 2,"SL Ashville 2, LLC",Solar Photovoltaic,SUN,4.3,NY,Chautauqua,"(V) Under construction, more than 50 percent complete",2026-11,42.071667,-79.41167
-69473-23211,SL Brockport,"SL Brockport, LLC",Solar Photovoltaic,SUN,4.3,NY,Monroe,"(V) Under construction, more than 50 percent complete",2026-11,43.201111,-77.89806
-70242-216,Riverhead - CVE,CVE US NY Riverhead 215 LLC,Batteries,MWH,4,NY,Suffolk,"(V) Under construction, more than 50 percent complete",2026-10,40.94233,-72.71824
-69309-23215,SL Pembroke,"SL Pembroke, LLC",Solar Photovoltaic,SUN,4,NY,Genesee,"(V) Under construction, more than 50 percent complete",2026-11,43.028056,-78.45694
-70320-ND018,Water Willow A Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.9,NY,Queens,"(U) Under construction, less than or equal to 50 percent complete",2027-04,40.708897,-73.77939
-70321-ND019,Water Willow B Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.9,NY,Queens,"(U) Under construction, less than or equal to 50 percent complete",2027-04,40.708897,-73.77939
-69275-23210,SL Ashville,"SL Ashville, LLC",Solar Photovoltaic,SUN,3.8,NY,Chautauqua,"(V) Under construction, more than 50 percent complete",2026-11,42.071667,-79.41167
+69276-23219,SL Ashville 2,"SL Ashville 2, LLC",Solar Photovoltaic,SUN,4.3,NY,Chautauqua,"(V) Under construction, more than 50 percent complete",2026-12,42.071667,-79.41167
+69473-23211,SL Brockport,"SL Brockport, LLC",Solar Photovoltaic,SUN,4.3,NY,Monroe,"(V) Under construction, more than 50 percent complete",2026-12,43.201111,-77.89806
+70242-216,Riverhead - CVE,CVE US NY Riverhead 215 LLC,Batteries,MWH,4,NY,Suffolk,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.94233,-72.71824
+69309-23215,SL Pembroke,"SL Pembroke, LLC",Solar Photovoltaic,SUN,4,NY,Genesee,"(V) Under construction, more than 50 percent complete",2026-12,43.028056,-78.45694
+70320-ND018,Water Willow A Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.9,NY,Queens,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.708897,-73.77939
+70321-ND019,Water Willow B Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.9,NY,Queens,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.708897,-73.77939
+69275-23210,SL Ashville,"SL Ashville, LLC",Solar Photovoltaic,SUN,3.8,NY,Chautauqua,"(V) Under construction, more than 50 percent complete",2026-12,42.071667,-79.41167
 70019-23221,"SL Portland Community 2, LLC","SL Portland Community 2, LLC",Solar Photovoltaic,SUN,3.8,NY,Chautauqua,"(U) Under construction, less than or equal to 50 percent complete",2027-02,42.37773,-79.45972
-70326-ND014,Coral Honeysuckle Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.7,NY,Queens,"(V) Under construction, more than 50 percent complete",2027-03,40.679023,-73.82032
-70329-ND015,"Linden Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,3.7,NY,Queens,"(V) Under construction, more than 50 percent complete",2027-03,40.679074,-73.82041
-69472-18198,NYSolar06,"NYSolar06, LLC",Solar Photovoltaic,SUN,3.5,NY,Erie,"(V) Under construction, more than 50 percent complete",2026-10,43.021667,-78.98806
+70326-ND014,Coral Honeysuckle Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.7,NY,Queens,"(TS) Construction complete, but not yet in commercial operation",2027-03,40.679023,-73.82032
+70329-ND015,"Linden Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,3.7,NY,Queens,"(TS) Construction complete, but not yet in commercial operation",2027-03,40.679074,-73.82041
 70018-23216,"SL Portland Community, LLC","SL Portland Community, LLC",Solar Photovoltaic,SUN,3.5,NY,Chautauqua,"(U) Under construction, less than or equal to 50 percent complete",2027-02,42.383832,-79.4718
 68884-PV1,Glen Mary,"NY Tioga IV, LLC",Solar Photovoltaic,SUN,3.4,NY,Tioga,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,42.128604,-76.27895
-69854-GLWAY,"TJA-NY-1806 Perth Rd Galway, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,3.3,NY,Saratoga,"(TS) Construction complete, but not yet in commercial operation",2026-11,43.017403,-74.05131
+69854-GLWAY,"TJA-NY-1806 Perth Rd Galway, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,3.3,NY,Saratoga,"(TS) Construction complete, but not yet in commercial operation",2026-12,43.017403,-74.05131
 70439-PV1,SR 415 - NY Avoca I,"NY Avoca I, LLC",Solar Photovoltaic,SUN,3.3,NY,Steuben,"(U) Under construction, less than or equal to 50 percent complete",2027-06,42.401191,-77.41787
 70317-ND029,Roseate Tern Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,3.3,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-10,40.715572,-73.88673
-69855-POMFR,"Pomfret PV, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,3,NY,Chautauqua,"(TS) Construction complete, but not yet in commercial operation",2026-11,42.447083,-79.35516
+69855-POMFR,"Pomfret PV, LLC",Dimension Energy LLC,Solar Photovoltaic,SUN,3,NY,Chautauqua,"(TS) Construction complete, but not yet in commercial operation",2026-12,42.447083,-79.35516
 2678-ENG13,Plant No 1 Freeport,Village of Freeport - (NY),Landfill Gas,LFG,3,NY,Nassau,"(U) Under construction, less than or equal to 50 percent complete",2027-01,40.6561,-73.5922
 69369-BARTE,Bartell South PV I,Bartell South PV I LLC,Solar Photovoltaic,SUN,3,NY,Onondaga,"(V) Under construction, more than 50 percent complete",2027-02,43.208874,-76.12219
 65828-1666,Chidsey Hill Road Solar,"NY Pulteney I, LLC",Solar Photovoltaic,SUN,3,NY,Steuben,"(V) Under construction, more than 50 percent complete",2027-04,42.573062,-77.16598
-69220-11253,West Genesee,Generate Capital,Solar Photovoltaic,SUN,2.9,NY,Onondaga,"(V) Under construction, more than 50 percent complete",2026-10,43.165134,-76.41876
+69220-11253,West Genesee,Generate Capital,Solar Photovoltaic,SUN,2.9,NY,Onondaga,"(V) Under construction, more than 50 percent complete",2026-11,43.165134,-76.41876
 54808-STG1,New York University Central Plant,New York University,Natural Gas Fired Combined Cycle,NG,2.9,NY,New York,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,40.7899,-73.9233
 54808-GR1,New York University Central Plant,New York University,Natural Gas Internal Combustion Engine,NG,2.6,NY,New York,"(V) Under construction, more than 50 percent complete",2026-10,40.7899,-73.9233
 69592-PSKBS,NL NY- Pulaski,Standard Solar,Batteries,MWH,2.5,NY,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.334309,-74.40401
 69592-PSKPV,NL NY- Pulaski,Standard Solar,Solar Photovoltaic,SUN,2.5,NY,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.334309,-74.40401
 70489-17405,Bakers Falls Solar,"Bakers Falls Solar, LLC",Solar Photovoltaic,SUN,2.5,NY,Saratoga,"(V) Under construction, more than 50 percent complete",2026-12,42.283387,-73.60827
 69373-LITTL,Little Falls PV,Little Falls PV LLC,Solar Photovoltaic,SUN,2.5,NY,Herkimer,"(V) Under construction, more than 50 percent complete",2027-02,42.98791,-74.86305
-69375-LYSAN,Lysander III PV,Lysander III PV LLC,Solar Photovoltaic,SUN,2.4,NY,Onondaga,"(V) Under construction, more than 50 percent complete",2026-11,43.219759,-76.38847
-70458-SAPHI,Sapphire Solar NY,AES Clean Energy,Solar Photovoltaic,SUN,2.4,NY,Jefferson,"(U) Under construction, less than or equal to 50 percent complete",2026-11,43.9543,-76.0739
+70458-SAPHI,Sapphire Solar NY,AES Clean Energy,Solar Photovoltaic,SUN,2.4,NY,Jefferson,"(U) Under construction, less than or equal to 50 percent complete",2026-12,43.9543,-76.0739
 61592-WT1,Cody Road Wind Farm,Green Power Energy LLC,Onshore Wind Turbine,WND,2.4,NY,Madison,"(U) Under construction, less than or equal to 50 percent complete",2029-07,42.967145,-75.75592
 61592-WT2,Cody Road Wind Farm,Green Power Energy LLC,Onshore Wind Turbine,WND,2.4,NY,Madison,"(U) Under construction, less than or equal to 50 percent complete",2029-07,42.967145,-75.75592
 61592-WT3,Cody Road Wind Farm,Green Power Energy LLC,Onshore Wind Turbine,WND,2.4,NY,Madison,"(U) Under construction, less than or equal to 50 percent complete",2029-07,42.967145,-75.75592
+70316-ND017,"Piping Plover Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,2.3,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.815382,-73.86015
 70319-ND016,Warbler Clean Energy LLC,"NineDot Holdings, LLC",Batteries,MWH,2.3,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-02,40.815404,-73.86023
-70316-ND017,"Piping Plover Clean Energy, LLC","NineDot Holdings, LLC",Batteries,MWH,2.3,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2027-04,40.815382,-73.86015
 68858-PV1,Cavern,"Cavern Solar, LLC",Solar Photovoltaic,SUN,2,NY,Clinton,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,44.711557,-73.54126
 68860-PV1,Tully 5,CP Tully Five LLC,Solar Photovoltaic,SUN,2,NY,Onondaga,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,42.810918,-76.12014
-68783-NY009,NY CDG 009,NY CDG 009 LLC,Solar Photovoltaic,SUN,1,NY,Suffolk,"(TS) Construction complete, but not yet in commercial operation",2026-10,40.808538,-72.95773
-64291-B4,Lincoln Medical and Mental Health Center,Lincoln Medical and Mental Health Center,Petroleum Liquids,DFO,1,NY,Bronx,"(U) Under construction, less than or equal to 50 percent complete",2026-12,40.816971,-73.92411
+68783-NY009,NY CDG 009,NY CDG 009 LLC,Solar Photovoltaic,SUN,1,NY,Suffolk,"(TS) Construction complete, but not yet in commercial operation",2026-11,40.808538,-72.95773
+64291-B4,Lincoln Medical and Mental Health Center,Lincoln Medical and Mental Health Center,Petroleum Liquids,DFO,1,NY,Bronx,"(TS) Construction complete, but not yet in commercial operation",2026-12,40.816971,-73.92411
 64758-MANB,Manorville II,"Agilitas Energy, Inc.",Batteries,MWH,0.8,NY,Suffolk,(L) Regulatory approvals pending. Not under construction,2027-12,40.834,-72.7819
 64758-MAN,Manorville II,"Agilitas Energy, Inc.",Solar Photovoltaic,SUN,0.6,NY,Suffolk,(L) Regulatory approvals pending. Not under construction,2027-12,40.834,-72.7819

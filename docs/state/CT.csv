@@ -5,7 +5,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 66879-CT1,"KCE CT 1, LLC",Key Capture Energy,Batteries,MWH,45,CT,Windham,"(P) Planned for installation, but regulatory approvals not initiated",2031-04,41.882568,-71.89481
 50736-FSS13,Pure Hedge LLC,Pure Hedge LLC,Batteries,MWH,20,CT,Windham,"(U) Under construction, less than or equal to 50 percent complete",2027-10,41.712448,-71.82225
 70437-GROTN,Groton Flanders Road Landfill,NJR Clean Energy Ventures Corporation,Solar Photovoltaic,SUN,5,CT,New London,"(U) Under construction, less than or equal to 50 percent complete",2027-07,41.35,-72.05
-65710-PTNM,Putnam Meadow Solar Station,"Putnam Meadow Solar Station, LLC",Solar Photovoltaic,SUN,4,CT,Windham,(L) Regulatory approvals pending. Not under construction,2027-04,41.902261,-71.91154
+65710-PTNM,Putnam Meadow Solar Station,"Putnam Meadow Solar Station, LLC",Solar Photovoltaic,SUN,4,CT,Windham,(L) Regulatory approvals pending. Not under construction,2027-05,41.902261,-71.91154
 70461-PLNFD,Plainfield Solar One,NJR Clean Energy Ventures Corporation,Solar Photovoltaic,SUN,4,CT,Windham,"(U) Under construction, less than or equal to 50 percent complete",2027-05,41.65,-71.95
 65146-VCP16,CT Airport Authority Solar One,"CAA CT Solar One, LLC",Solar Photovoltaic,SUN,4,CT,Hartford,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,41.933776,-72.6714
 70460-WILS1,"Willington Solar One, LLC",NJR Clean Energy Ventures Corporation,Solar Photovoltaic,SUN,2,CT,Tolland,"(U) Under construction, less than or equal to 50 percent complete",2027-05,41.92,-72.27

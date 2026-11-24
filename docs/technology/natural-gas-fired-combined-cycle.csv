@@ -10,7 +10,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 68504-SLES2,Sandow Lakes Energy Station,"SL Energy Power Plant I, LLC",Natural Gas Fired Combined Cycle,NG,645,TX,Lee,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,30.419441,-97.19124
 62022-GEN1,Lincoln Land Energy Center,Lincoln Land Energy Center LLC,Natural Gas Fired Combined Cycle,NG,638.4,IL,Sangamon,"(P) Planned for installation, but regulatory approvals not initiated",2030-06,39.5788,-89.57984
 62022-GEN2,Lincoln Land Energy Center,Lincoln Land Energy Center LLC,Natural Gas Fired Combined Cycle,NG,638.4,IL,Sangamon,"(P) Planned for installation, but regulatory approvals not initiated",2030-06,39.5788,-89.57984
-63802-G001,Shady Hills Combined Cycle Facility,"Shady Hills Energy Center, LLC",Natural Gas Fired Combined Cycle,NG,612,FL,Pasco,"(TS) Construction complete, but not yet in commercial operation",2026-11,28.366667,-82.55833
+63802-G001,Shady Hills Combined Cycle Facility,"Shady Hills Energy Center, LLC",Natural Gas Fired Combined Cycle,NG,612,FL,Pasco,"(TS) Construction complete, but not yet in commercial operation",2026-12,28.366667,-82.55833
 63911-MECN,MEC North,MEC North,Natural Gas Fired Combined Cycle,NG,500,MI,Calhoun,(T) Regulatory approvals received. Not under construction,2034-06,42.233559,-84.96234
 63912-MECS,MEC South,MEC South,Natural Gas Fired Combined Cycle,NG,500,MI,Calhoun,(L) Regulatory approvals pending. Not under construction,2034-06,42.237103,-84.95915
 69071-CT1,Bison Generation Station,Basin Electric Power Coop,Natural Gas Fired Combined Cycle,NG,496,ND,Williams,(L) Regulatory approvals pending. Not under construction,2029-02,48.327932,-103.3127
@@ -35,11 +35,8 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 3407-CTG1,Kingston,Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,454.8,TN,Roane,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,35.8992,-84.5194
 3399-CTG2,Cumberland (TN),Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,454.8,TN,Stewart,"(P) Planned for installation, but regulatory approvals not initiated",2029-01,36.3903,-87.6539
 3399-CTG1,Cumberland (TN),Tennessee Valley Authority,Natural Gas Fired Combined Cycle,NG,454.8,TN,Stewart,"(U) Under construction, less than or equal to 50 percent complete",2034-12,36.3903,-87.6539
-66621-1A,Orange County Advanced Power Station,Entergy Texas Inc.,Natural Gas Fired Combined Cycle,NG,453,TX,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,30.025251,-93.87134
-66621-1B,Orange County Advanced Power Station,Entergy Texas Inc.,Natural Gas Fired Combined Cycle,NG,453,TX,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,30.025251,-93.87134
 8059-2G1,Comanche (OK),Public Service Co of Oklahoma,Natural Gas Fired Combined Cycle,NG,408.8,OK,Comanche,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,34.5431,-98.3244
 8059-3G1,Comanche (OK),Public Service Co of Oklahoma,Natural Gas Fired Combined Cycle,NG,408.8,OK,Comanche,"(P) Planned for installation, but regulatory approvals not initiated",2029-09,34.5431,-98.3244
-66621-1C,Orange County Advanced Power Station,Entergy Texas Inc.,Natural Gas Fired Combined Cycle,NG,400,TX,Orange,"(TS) Construction complete, but not yet in commercial operation",2026-10,30.025251,-93.87134
 69595-GTGEN,Saddleback Generation Station,Copia Power,Natural Gas Fired Combined Cycle,NG,375,AZ,Maricopa,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,33.410034,-113.1694
 69595-GTGN2,Saddleback Generation Station,Copia Power,Natural Gas Fired Combined Cycle,NG,375,AZ,Maricopa,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,33.410034,-113.1694
 60206-HCCT1,Wolf Summit Energy,Wolf Summit Energy LLC,Natural Gas Fired Combined Cycle,NG,371.5,WV,Harrison,(L) Regulatory approvals pending. Not under construction,2028-12,39.287039,-80.32287
@@ -231,7 +228,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69799-FBG04,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
 69799-FBG05,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
 69799-FBG06,Project Matador Gas Plant (PMG),Fermi America,Natural Gas Fired Combined Cycle,NG,50,TX,Carson,"(U) Under construction, less than or equal to 50 percent complete",2027-12,35.283762,-101.569
-1024-8,Crawfordsville Power Plant,Crawfordsville Energy LLC,Natural Gas Fired Combined Cycle,NG,16.3,IN,Montgomery,(T) Regulatory approvals received. Not under construction,2027-03,40.048889,-86.8992
+1024-8,Crawfordsville Power Plant,Crawfordsville Energy LLC,Natural Gas Fired Combined Cycle,NG,16.3,IN,Montgomery,(T) Regulatory approvals received. Not under construction,2027-06,40.048889,-86.8992
 54224-CTG1,Franklin Heating Station,Franklin Heating Station,Natural Gas Fired Combined Cycle,NG,7.5,MN,Olmsted,"(V) Under construction, more than 50 percent complete",2027-05,44.020576,-92.4656
 58151-STG03,Central Utility Plant - Texas A&M,"Texas A&M, Utilities & Energy Services",Natural Gas Fired Combined Cycle,NG,5,TX,Brazos,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,30.617778,-96.34333
 54808-STG1,New York University Central Plant,New York University,Natural Gas Fired Combined Cycle,NG,2.9,NY,New York,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,40.7899,-73.9233

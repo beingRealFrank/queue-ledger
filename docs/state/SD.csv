@@ -1,5 +1,5 @@
 queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_cod,latitude,longitude
-69981-GRNTS,"Grant Solar, LLC",Geronimo Power,Solar Photovoltaic,SUN,99,SD,McCook,(L) Regulatory approvals pending. Not under construction,2027-10,43.550003,-97.26738
+69981-GRNTS,"Grant Solar, LLC",Geronimo Power,Solar Photovoltaic,SUN,99,SD,McCook,"(U) Under construction, less than or equal to 50 percent complete",2027-06,43.550003,-97.26738
 69102-U1,Toronto Power Plant,Western Minnesota Mun Pwr Agny,Natural Gas Fired Combustion Turbine,NG,36.3,SD,Deuel,(L) Regulatory approvals pending. Not under construction,2029-12,44.594752,-96.62219
 69102-U2,Toronto Power Plant,Western Minnesota Mun Pwr Agny,Natural Gas Fired Combustion Turbine,NG,36.3,SD,Deuel,(L) Regulatory approvals pending. Not under construction,2029-12,44.594752,-96.62219
 69102-U3,Toronto Power Plant,Western Minnesota Mun Pwr Agny,Natural Gas Fired Combustion Turbine,NG,36.3,SD,Deuel,(L) Regulatory approvals pending. Not under construction,2029-12,44.594752,-96.62219
@@ -10,6 +10,5 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 55478-IC04,Lange Generating Station,"Black Hills Power, Inc.",Natural Gas Internal Combustion Engine,NG,16.6,SD,Pennington,"(V) Under construction, more than 50 percent complete",2026-12,44.1218,-103.2641
 55478-IC05,Lange Generating Station,"Black Hills Power, Inc.",Natural Gas Internal Combustion Engine,NG,16.6,SD,Pennington,"(V) Under construction, more than 50 percent complete",2026-12,44.1218,-103.2641
 55478-IC06,Lange Generating Station,"Black Hills Power, Inc.",Natural Gas Internal Combustion Engine,NG,16.6,SD,Pennington,"(V) Under construction, more than 50 percent complete",2026-12,44.1218,-103.2641
-3338-3,Aberdeen CT,NorthWestern Energy - (SD),Natural Gas Fired Combustion Turbine,NG,16,SD,Brown,"(V) Under construction, more than 50 percent complete",2026-10,45.429884,-98.49396
-3338-4,Aberdeen CT,NorthWestern Energy - (SD),Natural Gas Fired Combustion Turbine,NG,16,SD,Brown,"(V) Under construction, more than 50 percent complete",2026-10,45.429884,-98.49396
-68277-1,Brookings Solar,Western Minnesota Mun Pwr Agny,Solar Photovoltaic,SUN,4.9,SD,Brookings,"(TS) Construction complete, but not yet in commercial operation",2026-10,44.340596,-96.72945
+3338-3,Aberdeen CT,NorthWestern Energy - (SD),Natural Gas Fired Combustion Turbine,NG,16,SD,Brown,"(V) Under construction, more than 50 percent complete",2026-12,45.429884,-98.49396
+3338-4,Aberdeen CT,NorthWestern Energy - (SD),Natural Gas Fired Combustion Turbine,NG,16,SD,Brown,"(V) Under construction, more than 50 percent complete",2026-12,45.429884,-98.49396

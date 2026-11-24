@@ -3,10 +3,10 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69795-KEAMU,Keamuku,AES Clean Energy,Solar Photovoltaic,SUN,86,HI,Hawaii,(L) Regulatory approvals pending. Not under construction,2030-05,19.8799,-155.7373
 69743-KUIHE,Kuihelani Phase 2,AES Clean Energy,Solar Photovoltaic,SUN,40,HI,Maui,(L) Regulatory approvals pending. Not under construction,2028-11,20.8026,-156.4984
 61364-HHB,Hu Honua Bioenergy Facility,"Hu Honua Bioenergy, LLC",Other Waste Biomass,OBS,36,HI,Hawaii,"(V) Under construction, more than 50 percent complete",2027-12,19.843504,-155.0871
-66066-WAIBA,AES Waiawa Phase 2 Solar,AES Distributed Energy,Batteries,MWH,30,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-10,21.43026,-157.9779
-66066-WAIPV,AES Waiawa Phase 2 Solar,AES Distributed Energy,Solar Photovoltaic,SUN,30,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-10,21.43026,-157.9779
+66066-WAIBA,AES Waiawa Phase 2 Solar,AES Distributed Energy,Batteries,MWH,30,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-12,21.43026,-157.9779
+66066-WAIPV,AES Waiawa Phase 2 Solar,AES Distributed Energy,Solar Photovoltaic,SUN,30,HI,Honolulu,"(V) Under construction, more than 50 percent complete",2026-12,21.43026,-157.9779
 58639-BESS8,KRS I Anahola Solar Hybrid,Kauai Island Utility Cooperative,Batteries,MWH,12,HI,Kauai,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,22.131667,-159.3031
-58640-BESS7,KRS II Koloa Solar,Kauai Island Utility Cooperative,Batteries,MWH,12,HI,Kauai,"(P) Planned for installation, but regulatory approvals not initiated",2027-07,21.900833,-159.45
+58640-BESS7,KRS II Koloa Solar,Kauai Island Utility Cooperative,Batteries,MWH,12,HI,Kauai,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,21.900833,-159.45
 68284-PE-1,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
 68284-PE-10,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506
 68284-PE-11,Puuloa Energy,Puuloa Energy LLC,Other Waste Biomass,OBL,9.4,HI,Honolulu,"(P) Planned for installation, but regulatory approvals not initiated",2029-04,21.347833,-157.9506

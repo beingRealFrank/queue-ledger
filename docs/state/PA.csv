@@ -17,17 +17,18 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 3122-CA1,Homer City Generating Station,"Homer City Generation, L.P.",Natural Gas Fired Combined Cycle,NG,268,PA,Indiana,"(P) Planned for installation, but regulatory approvals not initiated",2029-11,40.512825,-79.19611
 67950-MFS1,Moonlight Flats Solar Power 1,"Moonlight Flats Solar Power, LLC",Solar Photovoltaic,SUN,250,PA,Clearfield,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,41.092288,-78.17989
 68993-ENX40,MPG Solar,"MPG Solar, LLC",Solar Photovoltaic,SUN,162,PA,Centre,(T) Regulatory approvals received. Not under construction,2028-07,41.060649,-78.04193
-67870-ENX34,Clermont Solar,"Clermont Solar, LLC",Solar Photovoltaic,SUN,120,PA,McKean,"(U) Under construction, less than or equal to 50 percent complete",2026-11,41.656025,-78.56731
+67870-ENX34,Clermont Solar,"Clermont Solar, LLC",Solar Photovoltaic,SUN,120,PA,McKean,"(U) Under construction, less than or equal to 50 percent complete",2026-12,41.656025,-78.56731
+70908-HBUG1,Hoodlebug Solar,Hoodlebug Solar Energy LLC,Solar Photovoltaic,SUN,110,PA,Indiana,"(P) Planned for installation, but regulatory approvals not initiated",2028-06,40.5438,-79.1005
 68014-BRDFS,Bradford Solar PA,Vesper Energy Development LLC,Solar Photovoltaic,SUN,100.5,PA,Bradford,(L) Regulatory approvals pending. Not under construction,2027-12,41.721657,-76.53663
-70364-GEN1,Walker Solar,MN8 Energy LLC,Solar Photovoltaic,SUN,80,PA,Juniata,"(U) Under construction, less than or equal to 50 percent complete",2026-12,40.585531,-77.34537
+70364-GEN1,Walker Solar,MN8 Energy LLC,Solar Photovoltaic,SUN,80,PA,Juniata,"(U) Under construction, less than or equal to 50 percent complete",2027-03,40.585531,-77.34537
 68969-ENX39,Strinestown Solar,"Strinestown Solar, LLC",Solar Photovoltaic,SUN,79.6,PA,York,(T) Regulatory approvals received. Not under construction,2027-12,40.090105,-76.73955
 68995-ENX38,Dover Solar (PA),"Dover Solar, LLC (PA)",Solar Photovoltaic,SUN,75,PA,York,(T) Regulatory approvals received. Not under construction,2027-11,40.01169,-76.8234
 68810-MORA,Mora Solar,Cypress Creek Renewables,Solar Photovoltaic,SUN,60,PA,Carbon,"(P) Planned for installation, but regulatory approvals not initiated",2027-12,41.062982,-75.63435
 68930-ENX36,MC Solar,"MC Solar, LLC",Solar Photovoltaic,SUN,50,PA,Mercer,"(U) Under construction, less than or equal to 50 percent complete",2027-01,41.412805,-80.43245
 66850-BEAC1,Beaver Creek Solar,Urban Grid Solar,Solar Photovoltaic,SUN,34.2,PA,Franklin,(L) Regulatory approvals pending. Not under construction,2027-06,40.086625,-77.66283
-70495-WEL02,Welcome Solar II,"Welcome Solar II, LLC",Solar Photovoltaic,SUN,21,PA,Crawford,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.527468,-80.40419
-70496-WEL03,Welcome Solar III,"Welcome Solar III, LLC",Solar Photovoltaic,SUN,21,PA,Crawford,"(TS) Construction complete, but not yet in commercial operation",2026-10,41.530575,-80.39229
+70495-WEL02,Welcome Solar II,Welcome Solar II LLC,Solar Photovoltaic,SUN,21,PA,Crawford,"(TS) Construction complete, but not yet in commercial operation",2026-11,41.527468,-80.40419
 70240-PFNON,PF Onsite BESS,PF Onsite Generation LLC,Batteries,MWH,21,PA,Luzerne,(L) Regulatory approvals pending. Not under construction,2027-06,40.918616,-76.07934
+70597-ABESR,Abes Run Solar,Oriden LLC,Solar Photovoltaic,SUN,20,PA,Clearfield,"(TS) Construction complete, but not yet in commercial operation",2026-12,41.646,-71.086
 67954-BRPV1,BAI-Boyles Run-Phase I,"Boyles Run Solar I, LLC",Solar Photovoltaic,SUN,15.9,PA,Northumberland,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,40.771847,-76.78119
 67955-BRPV2,BAI-Boyles Run-Phase 2,"Boyles Run Solar II, LLC",Solar Photovoltaic,SUN,15.9,PA,Northumberland,"(P) Planned for installation, but regulatory approvals not initiated",2028-09,40.771847,-76.78119
 67879-ENX26,Stony Creek Solar,"Stony Creek Solar, LLC",Solar Photovoltaic,SUN,15,PA,Somerset,(T) Regulatory approvals received. Not under construction,2028-10,40.222386,-78.8812
@@ -46,6 +47,7 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 62385-NA2,Maxwell L&D Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,6,PA,Fayette,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,40.002401,-79.95883
 62434-NA1,Emsworth BC Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,6,PA,Allegheny,"(P) Planned for installation, but regulatory approvals not initiated",2030-11,40.50083,-80.10306
 62434-NA2,Emsworth BC Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,6,PA,Allegheny,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,40.50083,-80.10306
+58897-CHPCT,Temple SEGF,Temple University,Natural Gas Fired Combustion Turbine,NG,5.8,PA,Philadelphia,"(V) Under construction, more than 50 percent complete",2027-01,39.98,-75.15056
 59091-GEN1,Braddock Lock and Dam,"Lock+ Hydro Friends Fund XLII, LLC",Conventional Hydroelectric,WAT,5.3,PA,Allegheny,(L) Regulatory approvals pending. Not under construction,2027-03,40.388889,-79.85889
 62401-NA1,Allegheny L&D2 Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,4.5,PA,Allegheny,"(P) Planned for installation, but regulatory approvals not initiated",2030-11,40.89444,-79.91361
 62401-NA2,Allegheny L&D2 Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,4.5,PA,Allegheny,"(P) Planned for installation, but regulatory approvals not initiated",2030-12,40.89444,-79.91361
@@ -57,10 +59,9 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69999-GREEB,Greenwood Bottom Road Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Columbia,"(U) Under construction, less than or equal to 50 percent complete",2027-03,41.117527,-76.48308
 70000-GREER,Greenwood Route 254 Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Columbia,"(U) Under construction, less than or equal to 50 percent complete",2027-03,41.130477,-76.51152
 70003-TAYLR,Madison Taylor Road Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Columbia,"(U) Under construction, less than or equal to 50 percent complete",2027-03,41.112516,-76.538
-70564-SALER,Salem Route 11 Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Luzerne,(T) Regulatory approvals received. Not under construction,2027-03,41.072294,-76.2001
+70564-SALER,Salem Route 11 Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Luzerne,"(U) Under construction, less than or equal to 50 percent complete",2027-03,41.072294,-76.2001
 70005-SHOOF,Penn Shoofly Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Columbia,(T) Regulatory approvals received. Not under construction,2027-05,41.115059,-76.4738
 69994-MONTR,Montour Tower Drive Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Columbia,(T) Regulatory approvals received. Not under construction,2027-09,40.981975,-76.52315
-70170-429,Jones - PA 0429 (Rhodes South),CVE US PA Jones 429 LLC,Solar Photovoltaic,SUN,3,PA,Elk,"(U) Under construction, less than or equal to 50 percent complete",2027-10,41.56421,-78.69733
 69995-MUNCL,Muncy Creek Lime Bluff Road Solar,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Lycoming,(T) Regulatory approvals received. Not under construction,2027-11,41.22184,-76.75467
 70075-409,Bigler - PA 0409 (Flango 1),CVE US PA Bigler 409 LLC,Solar Photovoltaic,SUN,3,PA,Clearfield,"(U) Under construction, less than or equal to 50 percent complete",2027-11,40.803436,-78.42275
 70079-151,Buckingham - PA 0151 (Crea),CVE US PA BUCKINGHAM 151 LLC,Solar Photovoltaic,SUN,3,PA,Wayne,"(U) Under construction, less than or equal to 50 percent complete",2027-11,41.86605,-78.42275
@@ -79,12 +80,12 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69970-MPLRA,Maple Ridge A,ENGIE Distributed Renewables Development LLC,Solar Photovoltaic,SUN,3,PA,Franklin,"(U) Under construction, less than or equal to 50 percent complete",2028-04,39.901992,-77.578
 69971-MPLRB,Maple Ridge B,ENGIE Distributed Renewables Development LLC,Solar Photovoltaic,SUN,3,PA,Franklin,"(U) Under construction, less than or equal to 50 percent complete",2028-04,39.901992,-77.578
 70032-KEEFE,Liberty Keefer Mill Road Solar LLC,Dimension Energy LLC,Solar Photovoltaic,SUN,3,PA,Montour,(T) Regulatory approvals received. Not under construction,2028-06,41.030468,-76.68827
+70170-429,Jones - PA 0429 (Rhodes South),CVE US PA Jones 429 LLC,Solar Photovoltaic,SUN,3,PA,Elk,"(P) Planned for installation, but regulatory approvals not initiated",2028-10,41.56421,-78.69733
 70164-406,Kittanning - PA 0406 (Hoeter B),CVE US PA Kittanning 406 LLC,Solar Photovoltaic,SUN,3,PA,Armstrong,"(U) Under construction, less than or equal to 50 percent complete",2028-12,40.82161,-79.33393
 70165-407,Kittanning - PA 0407 (Hoeter C),CVE US PA Kittanning 407 LLC,Solar Photovoltaic,SUN,3,PA,Armstrong,"(U) Under construction, less than or equal to 50 percent complete",2028-12,40.82161,-79.33393
 70126-467,Roulette - PA 0467,CVE US PA Roulette 467 LLC,Solar Photovoltaic,SUN,2.6,PA,Potter,"(U) Under construction, less than or equal to 50 percent complete",2027-12,41.777,-78.1995
-69371-HALIF,Middle Road Solar Partners,Middle Road Solar Partners LLC,Solar Photovoltaic,SUN,2.5,PA,Dauphin,"(V) Under construction, more than 50 percent complete",2026-10,40.516,-76.937
-69377-NEWFR,New Freedom Solar Partners,New Freedom Solar Partners LLC,Solar Photovoltaic,SUN,2.5,PA,York,"(V) Under construction, more than 50 percent complete",2026-11,39.745,-76.696
-52149-GEN21,West Point (PA),Merck & Co Inc-West Point,Natural Gas Internal Combustion Engine,NG,2.5,PA,Montgomery,"(V) Under construction, more than 50 percent complete",2026-12,40.217963,-75.29882
+69377-NEWFR,New Freedom Solar Partners,New Freedom Solar Partners LLC,Solar Photovoltaic,SUN,2.5,PA,York,"(V) Under construction, more than 50 percent complete",2026-12,39.745,-76.696
+52149-GEN21,West Point (PA),Merck & Co Inc-West Point,Natural Gas Internal Combustion Engine,NG,2.5,PA,Montgomery,"(V) Under construction, more than 50 percent complete",2027-02,40.217963,-75.29882
 70082-404,Dayton - PA 0404 (Good East),CVE US PA Dayton 404 LLC,Solar Photovoltaic,SUN,2.5,PA,Armstrong,"(U) Under construction, less than or equal to 50 percent complete",2027-12,40.89056,-79.27027
 62384-NA1,Point Marion L&D Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,PA,Fayette,"(P) Planned for installation, but regulatory approvals not initiated",2028-11,39.726855,-79.91013
 62384-NA2,Point Marion L&D Hydroelectric Project,Rye Development,Conventional Hydroelectric,WAT,2.5,PA,Fayette,"(P) Planned for installation, but regulatory approvals not initiated",2028-12,39.726855,-79.91013

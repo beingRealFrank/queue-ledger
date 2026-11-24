@@ -48,20 +48,20 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 55478-IC05,Lange Generating Station,"Black Hills Power, Inc.",Natural Gas Internal Combustion Engine,NG,16.6,SD,Pennington,"(V) Under construction, more than 50 percent complete",2026-12,44.1218,-103.2641
 55478-IC06,Lange Generating Station,"Black Hills Power, Inc.",Natural Gas Internal Combustion Engine,NG,16.6,SD,Pennington,"(V) Under construction, more than 50 percent complete",2026-12,44.1218,-103.2641
 70261-WS01,Westside - (NM),"Saddle Butte Energy Farmington, LLC",Natural Gas Internal Combustion Engine,NG,16,NM,San Juan,"(U) Under construction, less than or equal to 50 percent complete",2027-03,36.752288,-108.3148
-52021-GEN3,ITT Cogen Facility,"ITT Energy Tech Partners, LLC",Natural Gas Internal Combustion Engine,NG,4.1,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-03,41.83442,-87.62847
-52021-GEN4,ITT Cogen Facility,"ITT Energy Tech Partners, LLC",Natural Gas Internal Combustion Engine,NG,4.1,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-03,41.83442,-87.62847
+52021-GEN3,ITT Cogen Facility,"ITT Energy Tech Partners, LLC",Natural Gas Internal Combustion Engine,NG,4.1,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-01,41.83442,-87.62847
+52021-GEN4,ITT Cogen Facility,"ITT Energy Tech Partners, LLC",Natural Gas Internal Combustion Engine,NG,4.1,IL,Cook,"(V) Under construction, more than 50 percent complete",2027-01,41.83442,-87.62847
 69271-STAG1,Staghorn Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,3.3,TX,Ward,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.457838,-103.0847
 69271-STAG2,Staghorn Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,3.3,TX,Ward,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.457838,-103.0847
 69271-STAG3,Staghorn Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,3.3,TX,Ward,"(TS) Construction complete, but not yet in commercial operation",2026-11,31.457838,-103.0847
 54808-GR1,New York University Central Plant,New York University,Natural Gas Internal Combustion Engine,NG,2.6,NY,New York,"(V) Under construction, more than 50 percent complete",2026-10,40.7899,-73.9233
-55027-1600B,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
-55027-1600C,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
-55027-1600D,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
-52149-GEN21,West Point (PA),Merck & Co Inc-West Point,Natural Gas Internal Combustion Engine,NG,2.5,PA,Montgomery,"(V) Under construction, more than 50 percent complete",2026-12,40.217963,-75.29882
-69268-COYA1,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.275177,-103.1126
-69268-COYA2,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.275177,-103.1126
-69268-COYA3,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.275177,-103.1126
-69268-COYA4,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(U) Under construction, less than or equal to 50 percent complete",2027-02,31.275177,-103.1126
+55027-1600B,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-12,41.0772,-95.87
+55027-1600C,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-12,41.0772,-95.87
+55027-1600D,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-12,41.0772,-95.87
+52149-GEN21,West Point (PA),Merck & Co Inc-West Point,Natural Gas Internal Combustion Engine,NG,2.5,PA,Montgomery,"(V) Under construction, more than 50 percent complete",2027-02,40.217963,-75.29882
+69268-COYA1,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(V) Under construction, more than 50 percent complete",2027-02,31.275177,-103.1126
+69268-COYA2,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(V) Under construction, more than 50 percent complete",2027-02,31.275177,-103.1126
+69268-COYA3,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(V) Under construction, more than 50 percent complete",2027-02,31.275177,-103.1126
+69268-COYA4,Coyanosa Gas,"RPC Merchant, LLC",Natural Gas Internal Combustion Engine,NG,2.5,TX,Pecos,"(V) Under construction, more than 50 percent complete",2027-02,31.275177,-103.1126
 69668-BCIC1,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027
 69668-BCIC2,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027
 69668-BCIC3,Brigham City Gas,Brigham City Corporation,Natural Gas Internal Combustion Engine,NG,2.5,UT,Box Elder,"(U) Under construction, less than or equal to 50 percent complete",2028-08,41.507163,-112.0027

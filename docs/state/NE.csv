@@ -23,9 +23,9 @@ queue_id,project_name,developer,technology,fuel,mw,state,county,status,proposed_
 69808-R10,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
 69808-R11,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
 69808-R12,Princeton Road Station,Nebraska Public Power District,Natural Gas Internal Combustion Engine,NG,18.1,NE,Lancaster,"(P) Planned for installation, but regulatory approvals not initiated",2029-06,40.570394,-96.78647
-55027-1600B,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
-55027-1600C,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
-55027-1600D,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-11,41.0772,-95.87
+55027-1600B,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-12,41.0772,-95.87
+55027-1600C,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-12,41.0772,-95.87
+55027-1600D,Papillion Creek Wastewater,City of Omaha - (NE),Natural Gas Internal Combustion Engine,NG,2.5,NE,Sarpy,"(V) Under construction, more than 50 percent complete",2026-12,41.0772,-95.87
 2308-6,Tecumseh,City of Tecumseh - (NE),Petroleum Liquids,DFO,2.1,NE,Johnson,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.3664,-96.19
 2308-7,Tecumseh,City of Tecumseh - (NE),Petroleum Liquids,DFO,2.1,NE,Johnson,"(U) Under construction, less than or equal to 50 percent complete",2027-08,40.3664,-96.19
 2316-6,Wisner,City of Wisner (NE),Petroleum Liquids,DFO,1.5,NE,Cuming,"(TS) Construction complete, but not yet in commercial operation",2026-12,41.988069,-96.91599
