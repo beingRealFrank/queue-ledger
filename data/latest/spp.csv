@@ -383,7 +383,7 @@ SPP,GEN-2022-098,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,200,OK,Johnst
 SPP,GEN-2022-083,generation,,,IA FULLY EXECUTED/COMMERCIAL OPERATION,CTG,Thermal,250,ND,Williams,Judson Substation 345 kV,BEPC,2022-10-21,2025-02-01,,,GenerateActiveCSV,,
 SPP,GEN-2022-075,generation,,,IA PENDING,,Solar,175,KS,Ellis,Tap on the Spearville - Post Rock 345kV line,ITCGP,2022-09-02,2027-11-19,,,GenerateActiveCSV,,
 SPP,GEN-2022-073,generation,,,IA FULLY EXECUTED/ON SUSPENSION,,Battery/Storage,300,MO,Kay,Nashua-Smithville 161kV,KCPL,2022-09-02,2029-05-01,,,GenerateActiveCSV,,
-SPP,GEN-2022-071,generation,,,IA PENDING,,Solar,90.824,OK,Pittsburg,Talawanda to Canadian River 138 kV Line Tap,AEP,2022-08-12,2028-06-01,,,GenerateActiveCSV,,
+SPP,GEN-2022-071,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,90.824,OK,Pittsburg,Talawanda to Canadian River 138 kV Line Tap,AEP,2022-08-12,2030-02-19,,,GenerateActiveCSV,,
 SPP,GEN-2022-065,generation,,,IA PENDING,,Solar,145,KS,Edwards,tap on Arthur Mullergreen-Spearville 230 kV line,SUNC,2022-07-25,2027-11-19,,,GenerateActiveCSV,,
 SPP,GEN-2022-055,generation,,,IA PENDING,,Solar,200,OK,Grady,Sunshine North to Anadarko 138 kV,WFEC,2022-06-23,2029-08-26,,,GenerateActiveCSV,,
 SPP,GEN-2022-054,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,200,KS,Bourbon,Wolf Creek - Blackberry 345 kV Tap,NEET,2022-06-23,2029-12-31,,,GenerateActiveCSV,,

@@ -1,0 +1,3 @@
+date,event,iso,queue_id,record_type,project_name,developer,status,fuel,technology,mw,state,county,poi,utility,queue_date,proposed_cod,withdrawn_date,end_use,source_sheet,latitude,longitude,field,old,new
+2026-11-25,changed,SPP,GEN-2022-071,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,90.824,OK,Pittsburg,Talawanda to Canadian River 138 kV Line Tap,AEP,2022-08-12,2030-02-19,,,GenerateActiveCSV,,,status,IA PENDING,IA FULLY EXECUTED/ON SCHEDULE
+2026-11-25,changed,SPP,GEN-2022-071,generation,,,IA FULLY EXECUTED/ON SCHEDULE,,Solar,90.824,OK,Pittsburg,Talawanda to Canadian River 138 kV Line Tap,AEP,2022-08-12,2030-02-19,,,GenerateActiveCSV,,,proposed_cod,2028-06-01,2030-02-19
