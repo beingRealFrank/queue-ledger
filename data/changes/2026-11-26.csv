@@ -1,0 +1,6 @@
+date,event,iso,queue_id,record_type,project_name,developer,status,fuel,technology,mw,state,county,poi,utility,queue_date,proposed_cod,withdrawn_date,end_use,source_sheet,latitude,longitude,field,old,new
+2026-11-26,changed,SPP,GEN-2026-SR21,generation,,,FACILITY STUDY STAGE,,Battery/Storage,148,OK,South Coffeyville,Farmland-Delaware 138kV line,AEP,2026-05-28,2029-12-31,,,GenerateActiveCSV,,,status,SPECIAL STUDY,FACILITY STUDY STAGE
+2026-11-26,changed,SPP,GEN-2026-SR18,generation,,,IA PENDING,,Battery/Storage,150,MO,Sarcoxie,La Russell 161 kV Substation,EDE,2026-03-06,2029-01-31,,,GenerateActiveCSV,,,status,FACILITY STUDY STAGE,IA PENDING
+2026-11-26,changed,SPP,GEN-2026-SR12,generation,,,IA PENDING,,Battery/Storage,100,OK,Balko,Bull Creek 115 kV substation,SPS,2026-01-18,2029-12-02,,,GenerateActiveCSV,,,status,FACILITY STUDY STAGE,IA PENDING
+2026-11-26,changed,SPP,GEN-2025-SR12,generation,,,IA PENDING,,Battery/Storage,116,OK,Red Rock,Sooner 138 kV Substation,OG&E,2025-05-31,2030-05-01,,,GenerateActiveCSV,,,status,SPECIAL STUDY,IA PENDING
+2026-11-26,changed,SPP,GEN-2025-SR11,generation,,,IA PENDING,,Battery/Storage,112,OK,Red Rock,Sooner 345 kV Substation,OG&E,2025-05-31,2030-05-01,,,GenerateActiveCSV,,,status,SPECIAL STUDY,IA PENDING
